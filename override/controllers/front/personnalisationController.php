@@ -193,79 +193,7 @@ class personnalisationController extends FrontController
 			case 9 : $police = 'Segoe Print'; break;
 			case 10: $police = 'Segoe Script'; break;
 			}
-			//175->525-531
 			
-			//228->893-899
-			//231->900-906
-			
-			//227->886-892
-			//230->907-913
-			
-			//229->914-920
-			//232->921-927
-			
-			
-			/*
-			if($id_produit == 227){
-				$id_champ1 = 886;
-				$id_champ2 = 887;
-				$id_champ3 = 888;
-				$id_champ4 = 889;
-				$id_champ5 = 890;
-				$id_champ6 = 891;
-				$id_champ7 = 892;
-			}
-			
-			if($id_produit == 228){
-				$id_champ1 = 893;
-				$id_champ2 = 894;
-				$id_champ3 = 895;
-				$id_champ4 = 896;
-				$id_champ5 = 897;
-				$id_champ6 = 898;
-				$id_champ7 = 899;
-			}
-			
-			if($id_produit == 229){
-				$id_champ1 = 921;
-				$id_champ2 = 922;
-				$id_champ3 = 923;
-				$id_champ4 = 924;
-				$id_champ5 = 925;
-				$id_champ6 = 926;
-				$id_champ7 = 927;
-			}
-			
-			if($id_produit == 230){
-				$id_champ1 = 907;
-				$id_champ2 = 908;
-				$id_champ3 = 909;
-				$id_champ4 = 910;
-				$id_champ5 = 911;
-				$id_champ6 = 912;
-				$id_champ7 = 913;
-			}
-			
-			if($id_produit == 231){
-				$id_champ1 = 900;
-				$id_champ2 = 901;
-				$id_champ3 = 902;
-				$id_champ4 = 903;
-				$id_champ5 = 904;
-				$id_champ6 = 905;
-				$id_champ7 = 906;
-			}
-			
-			if($id_produit == 232){
-				$id_champ1 = 921;
-				$id_champ2 = 922;
-				$id_champ3 = 923;
-				$id_champ4 = 924;
-				$id_champ5 = 925;
-				$id_champ6 = 926;
-				$id_champ7 = 927;
-			}
-			*/
 			
 			$sql = 'SELECT id_customization_field FROM `'._DB_PREFIX_.'customization_field` WHERE `id_product` = '.(int)($id_produit)
 			.' ORDER BY `id_product` ASC';
@@ -329,47 +257,7 @@ class personnalisationController extends FrontController
 			
 		}
 		
-		/*
-		$ids = Tools::getValue('ids');
-		$prenom_pap = Tools::getValue('prenom');
-		$date_pap = date("d-m-Y", strtotime(Tools::getValue('date')));
-		$qty_pap = Tools::getValue('qty');
 		
-		if($ids!=''){
-
-			
-			$prenom_pap = str_replace('ET_HTML','&', $prenom_pap);
-			
-			//echo $prenom_pap;exit;
-			
-			$text_personnalise = $prenom_pap . "_DATE_" .$date_pap;
-			
-			$qte = Tools::getValue("qty");
-			
-			$this->context->cart->addTextFieldToProduct(117, 141, Product::CUSTOMIZE_TEXTFIELD, $text_personnalise);
-			
-			$this->context->cart->updateQty($qte, 117, null, '');
-			
-			$ids=explode(",",$ids);
-			if($ids!='') {
-				
-				$i=0;
-				foreach($ids as $idp) {
-					$qte_idp=10;
-					$p=new Product($idp);
-					$quantite_papillon = $qte_idp * $p->minimal_quantity;
-					$this->context->cart->updateQty($quantite_papillon, $idp);
-					$i++;
-				}
-				
-			}
-			$this->context->cart->save();
-			$this->context->cookie->__set('id_cart', $this->context->cart->id);			
-			
-			exit;
-			
-
-		}*/
 		
 	}
 	
@@ -414,13 +302,11 @@ class personnalisationController extends FrontController
 	
 	public function creerVignettes($a, $b,$c ){
 		
-		//$tmp = ImageManager::resize($temp_name, '/home/hobbynice/public_html/img/as/'.$user_id.'.'.$c ,'',200 );
-		$tmp = ImageManager::resize($a, '/home/magicflyer/public_html/img/upload_fairepart/'. $b.'_fairepart.'.$c ,500);
-		/*$tmp = ImageManager::resize($a, '/home/magicflyer/public_html/img/upload_fairepart/'. $b.'_fp.'.$c ,115);
-			$tmp = ImageManager::resize($a, '/home/magicflyer/public_html/img/upload_fairepart/'. $b.'.'.$c ,80);*/
-		
-		
-		//echo '<img src="//www.magicflyer.com/img/upload_fairepart/'. $b.'_fairepart.'.$c.'" />';
+		if($a=='') return;
+		if($b=='') return;
+		if($c=='') return;
+		$chemin = '/home/magicflyer/public_html/img/upload_fairepart/'. $b.'_fairepart.'.$c
+		$tmp = ImageManager::resize($a, $chemin ,500);
 		
 		return  $b.'_fairepart.'.$c;
 		
