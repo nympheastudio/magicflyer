@@ -305,7 +305,7 @@ class personnalisationController extends FrontController
 		if($a=='') return;
 		if($b=='') return;
 		if($c=='') return;
-		$chemin = '/home/magicflyer/public_html/img/upload_fairepart/'. $b.'_fairepart.'.$c
+		$chemin = '/home/magicflyer/public_html/img/upload_fairepart/'. $b.'_fairepart.'.$c;
 		$tmp = ImageManager::resize($a, $chemin ,500);
 		
 		return  $b.'_fairepart.'.$c;

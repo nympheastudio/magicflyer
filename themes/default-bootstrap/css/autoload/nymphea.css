@@ -271,7 +271,7 @@ select {appearance: none; -moz-appearance:none; -webkit-appearance: none}
    bottom:0px;text-align: left; margin: 50px;  position: absolute; right: 0; padding: 50px;}
 .pagecent .row .titre_page.text-right {text-align: right}
    #perso_coeur .header_perso .titre_page,#perso_carte .header_perso .titre_page,
-   #perso_livret .header_perso .titre_page, #perso_papillon .header_perso .titre_page, #personnalisation .header_perso .titre_page, #perso_mignognette .header_perso .titre_page  { right: auto;left: 0; }
+   #perso_livret .header_perso .titre_page,#cartePapillon .header_perso .titre_page, #cartePapillon .header_perso .titre_page,#perso_papillon .header_perso .titre_page, #personnalisation .header_perso .titre_page, #perso_mignognette .header_perso .titre_page  { right: auto;left: 0; }
    
    .pagecent .row .titre_page h1, .pagecent .row .content_page h1,
 #perso_coeur .header_perso .titre_page h1,#perso_carte .header_perso .titre_page h1,
@@ -471,11 +471,11 @@ content: "\f057";font-family: "FontAwesome";  width: 20px; color: #59595b;vertic
   position: absolute;text-align: center;width: 100%;height: 100%;display: block;line-height: 1em;opacity: 0;margin-left: -15px;
 transition: ease-in-out all 0.5s;-webkit-transition: ease-in-out all 0.5s;-moz-transition: ease-in-out all 0.5s;background: rgba(255,255,255,0.9);}
 #perso_coeur #product_list .infos-hover:hover,#perso_carte #product_list .infos-hover:hover,#perso_livret #product_list .infos-hover:hover,#perso_papillon #product_list .infos-hover:hover, #perso_mignognette #product_list .infos-hover:hover { opacity: 1}
-#perso_coeur #product_list img,#perso_carte #product_list img,#perso_livret #product_list img,#perso_papillon #product_list img, #perso_mignognette #product_list img {
+#perso_coeur #product_list img,#perso_carte #product_list img,#perso_livret #product_list img,#perso_papillon #product_list img,#cartepapillon #product_list img, #perso_mignognette #product_list img {
   max-width: 100%; height: auto; }
 #perso_coeur #product_list .infos-hover h4,#perso_carte #product_list .infos-hover h4,#perso_livret #product_list .infos-hover h4,#perso_coeur #product_list .infos-hover h4,
 #perso_papillon #product_list .infos-hover h4, #perso_mignognette #product_list .infos-hover h4  {margin: 0;padding: 0 20px;margin-top: 43%;  transform: translateY(-50%);}
-#perso_coeur .mobile,#perso_carte .mobile, #perso_livret .mobile,#perso_papillon .mobile {display: none}
+#perso_coeur .mobile,#perso_carte .mobile, #perso_livret .mobile,#perso_papillon .mobile , #cartepapillon .mobile{display: none}
  #perso_livret #bloc_ss_bouton, #perso_coeur #bloc_ss_bouton, #perso_mignognette #bloc_ss_bouton,
 #perso_papillon #bloc_ss_bouton {margin-top: 15px !important;border-bottom: 1px solid #e9e9e9}
   

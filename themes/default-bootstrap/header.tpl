@@ -401,7 +401,7 @@ s.parentNode.insertBefore(b, s);})();
 
 
 				
-						{elseif $category->id == '72'}
+						{elseif $category->id == '72' && $page_name != 'cartepapillon'}
 						
 					<div id="slider_row" class="row">
 

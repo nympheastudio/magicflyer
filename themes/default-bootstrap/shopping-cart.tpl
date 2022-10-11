@@ -319,6 +319,9 @@
 										{elseif $type == $CUSTOMIZE_TEXTFIELD}
 											<ul class="typedText">
 												{foreach $custom_data as $textField}
+												
+												
+
 {if $textField.name == 'image_fairepart' && $textField.value != '' }
 <li>
 <a href="{$base_dir_ssl}img/upload_fairepart/{$textField.value}" target="_blank">{l s='voir image'}</a>
@@ -328,7 +331,74 @@
 												
 												
 												
-												
+{if $product.id_product == 336}	
+<!--var_dump($textField)-->
+</ul>
+
+{if $textField.id_customization_field==1194}
+<script>
+	var papillons = '{$textField.value}';
+	</script>
+{literal}	
+<div id="papillons"></div>
+	<script>
+
+let papillons_array = papillons.split(';');
+
+
+let papillons_html = '';
+
+for (let i = 0; i < papillons_array.length; i++) {
+	let d = papillons_array[i].split(':');
+	let id = d[0];
+	let qty = d[1];
+
+	console.log(id);
+
+	if(id&&qty){
+		getImageById(id, qty);
+		//papillons_html += id+'x'+qty+'<br>';
+	}
+}
+
+//document.getElementById('papillons').innerHTML = papillons_html;
+
+//get product image by id product in prestashop
+async function getImageById(idd, qty){
+
+let url = '{$base_dir_ssl}/index.php';
+
+
+if( idd && qty ) {
+let data = 'controller=cartePapillon&action=getImgId&id='+idd;
+let response = await fetch(url+'?'+data);
+let responseText = await response.text();
+
+let dataName = 'controller=cartePapillon&action=getProductName&id='+idd;
+let responseName = await fetch(url+'?'+dataName);
+let responseTextName = await responseName.text();
+
+    document.getElementById('papillons').innerHTML += '<img src="' + responseText + '" width="100" height="100" /><br>'+ responseTextName +' x'+qty+'<br>';
+}
+}
+
+
+/*
+(async() => {
+    await getImageById();
+})();*/
+
+</script>
+{/literal}
+		{else}
+
+		<p class="champs_perso_carte_papillon"></p>{$textField.name} : {$textField.value}<br></p>
+
+{/if}	
+
+<ul></ul>
+{else}
+
 <li class="champs_perso">
 		{if $textField.value == '_DATE_01-01-1970'}
 			{l s='Je ne veux pas personnaliser mes coeurs magiques'}  
@@ -390,6 +460,8 @@ $textField.value != '_DATE_01-01-1970'
 </a>
 {/if*}
 </li>
+{/if}
+
 												
 {*if $textField.name == 'image_fairepart'}
 <li>
