@@ -1,0 +1,10 @@
+2016-05-08 21:49:49 1462736989 DEBUG: URL to check 2
+2016-05-08 21:49:49 1462736989 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-08 21:49:49 1462736989 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-08 21:49:49 1462736989 DEBUG: Cart 866: Redirecting customer to Paybox (CARTE, CB).
+2016-05-08 21:50:46 1462737046 DEBUG: Call params: M=2597&R=866%20-%20Julie%20%20Destors&T=628197850&A=138356&B=0&C=Visa&D=1709&E=00000&G=D&H=475E0D9581A3D6B49AFA9BDD1DD67A8820234628&I=FRA&J=&N=&P=CARTE&Q=21%3A49%3A52&S=624131641&W=08052016&Y=FRA&K=LYtbzmA4%2BDDSVsSW0ExtTRDq0OCkssj5rMuhb9HUfPHQcNRAQ5ycIYQZvEQRaHC1V2QGaJ6iVMTdoFKmbnQvHZoIsjhtd%2F5ikKXX2rtDpedeE1Z%2Fcce0cLU9s%2BtmTyHIrH%2FvA%2F9yyw%2FWywK3AOkVjugYzz4E0qqQkdK%2F%2B2K9%2Bw0%3D
+2016-05-08 21:50:46 1462737046 DEBUG: Cart 866: Standard IPN
+2016-05-08 21:50:46 1462737046 DEBUG: Cart 866: Validating order (PS1.5+)
+2016-05-08 21:50:48 1462737048 DEBUG: Cart 866: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-08 21:50:48 1462737046 DEBUG: Cart 866: Order 184 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-08 21:50:50 1462737050 DEBUG: Cart 866: Customer is back from Paybox payment page. Payment success.

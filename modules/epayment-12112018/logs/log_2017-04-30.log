@@ -1,0 +1,13 @@
+2017-04-30 09:01:21 1493535681 DEBUG: URL to check 2
+2017-04-30 09:01:21 1493535681 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-30 09:01:21 1493535681 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-30 09:01:21 1493535681 DEBUG: Cart 12308: Redirecting customer to Paybox (CARTE, CB).
+2017-04-30 09:03:20 1493535800 DEBUG: Call params: M=2230&R=12308%20-%20Kenna%20Valles&T=709765650&A=H22845&B=0&C=Visa&D=2111&E=00000&F=A&G=O&I=MUS&J=49&N=458643&O=Y&P=3DSECURE&Q=09%3A01%3A24&S=703160242&W=30042017&Y=USA&K=1ZrsldZmrpbLgg395oxvSFhpqWOuxv8wO94lFDJCMAOLpMgVzwZ7y9thkQK4cD8uvhmJD5NoAOtYoDMVqmDbSCPV23UXxGLxb0XSWsoANBWvUmFzdtA0%2FvMU20AIivKxsDTFiIMjEzKpVfZBBNOlrDs1HuyYeGMceZ4foAg4GOU%3D
+2017-04-30 09:03:20 1493535800 DEBUG: Cart 12308: Standard IPN
+2017-04-30 09:03:20 1493535800 DEBUG: Cart 12308: Validating order
+2017-04-30 09:03:21 1493535801 DEBUG: Cart 12308: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-04-30 09:03:22 1493535802 DEBUG: Cart 12308: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-04-30 09:03:23 1493535800 DEBUG: Cart 12308: Order 992 / Le paiement a été autorisé et capturé par Paybox.
+2017-04-30 09:03:24 1493535804 DEBUG: Cart 12308: Customer is back from Paybox payment page. Payment success.
+2017-04-30 09:03:40 1493535820 DEBUG: Call params: M=2230&R=12308%20-%20Kenna%20Valles&T=709765650&A=H22845&B=0&C=Visa&D=2111&E=00000&F=A&G=O&I=MUS&J=49&N=458643&O=Y&P=3DSECURE&Q=09%3A01%3A24&S=703160242&W=30042017&Y=USA&K=1ZrsldZmrpbLgg395oxvSFhpqWOuxv8wO94lFDJCMAOLpMgVzwZ7y9thkQK4cD8uvhmJD5NoAOtYoDMVqmDbSCPV23UXxGLxb0XSWsoANBWvUmFzdtA0%2FvMU20AIivKxsDTFiIMjEzKpVfZBBNOlrDs1HuyYeGMceZ4foAg4GOU%3D
+2017-04-30 09:03:40 1493535820 DEBUG: Cart 12308: (IPN) Cart already being validated as order.

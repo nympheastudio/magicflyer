@@ -1,0 +1,33 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_f2bc44faa613f3f42d05ba51d1034ba8'] = 'Botão Product Link';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_5b631308ff1d36b187f144bab2dcb3f0'] = 'Adicionar um link personalizado para a página de outro produto';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_f4f70727dc34561dfde1a3c529b6205c'] = 'Configurações';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_cebd5bbe0ffdecc270a8a324e5a277dd'] = 'Live mode';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_ea9df7a306e2f8b5af37b67084d0c984'] = 'Utilize este no Módulo em live mode';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Ativado';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_b9f5c797ebbf55adccdd8539a65a0241'] = 'Desactivado';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_cffa70587159989d91e6ce586ea65c14'] = ' Insira um endereço de e-mail válido';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_ce8ae9da5b7cd6c3df2929543a9af92d'] = 'Email';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_dc647eb65e6711e155375218212b3964'] = 'Password';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_4ee29ca12c7d126654bd0e5275de6135'] = 'Lista';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_f7de1b71605a10ef04416effa4c6e09e'] = 'Salvar e ficar';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_2cf4fb5ef146c30f9c16f8e990a28ec5'] = 'Estilo padrão, pode editar';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_95f827af07eafa7a2129e5c314c72787'] = 'Estilo padrão, pode mudar';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_dfc94e8224bbd24aa039a3c79fbb9d4e'] = 'Pode obter uma documentação PDF para configurar este módulo';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_7d21d420457194ecdc3815ffeed92abe'] = 'Adicionar um botão NA SUA PÁGINA DO PRODUTO';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_87b7760f14fbff78d8819291f36ab9a0'] = 'Botão';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_004bf6c9a40003140292e97330236c53'] = 'Ação';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_06933067aafd48425d67bcb01bba5cb6'] = 'Atualizar';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_f2a6c498fb90ee345d997f888fce3b18'] = 'Apagar';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_79757d083ccc3b8a57a33d279670b11e'] = 'Escolha este botão';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_3262a2f4cbfaf15e70c56a4efd79a3f9'] = 'Adicione o seu link';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_cd1e56b9ec3de5c138a928128e20931a'] = 'Posição do botão';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_3d745dc360828982fc9aff50b801a590'] = ' Tipo de link';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_2e2caeb4fbae49ce048602f3a9f06d21'] = 'Adicione o nome do botão';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_b78a3223503896721cca1303f776159b'] = 'Título';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_2c3fe8d6b2d509a37b08a1f4bbd56660'] = 'Succès!';
+$_MODULE['<{buttonlinkproduct}prestashop>buttonlinkproduct_b3c6d3db56b6ef15f0106b2112cf2056'] = 'Deve adicionar HTTP ou HTTPS';

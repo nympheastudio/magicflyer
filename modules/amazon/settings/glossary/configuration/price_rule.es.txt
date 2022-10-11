@@ -1,0 +1,3 @@
+Debe configurar una regla de precio en valor o porcentaje, para uno o varios rangos de precios
+
+Documentación: http://documentation.common-services.com/amazonv4/pricing-rules/?lang=en

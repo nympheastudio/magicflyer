@@ -1,0 +1,9 @@
+Mapeo y Atributos
+
+En esta sección hará coincidir sus valores Prestashop con los atributos en Amazon.
+
+Mientras más campos rellene, mejor resaltara su producto, y tendrá mas ventas debido a que algunos de estos campos serán usados para navegación por capas en Amazon, por lo que los clientes tendrán más posibilidades de encontrar tus productos.
+
+Estos campos también sirven para informar la descripción técnica de la hoja producto:
+
+<img src = "../modules/amazon/views/img/tips/fr/attributes.jpg" />

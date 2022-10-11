@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>envoimoinscher</name>
+	<displayName><![CDATA[Boxtal (EnvoiMoinsCher)]]></displayName>
+	<version><![CDATA[3.3.8]]></version>
+	<description><![CDATA[G&eacute;rez plusieurs transporteurs en un seul module et &eacute;conomisez jusqu&#039;&agrave; 75% sur vos frais d&#039;exp&eacute;dition sans engagement de volume ni contrat.]]></description>
+	<author><![CDATA[Boxtal (EnvoiMoinsCher)]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

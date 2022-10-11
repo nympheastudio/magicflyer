@@ -1,0 +1,5 @@
+2015-10-13 11:37:20 1444729040 DEBUG: URL to check 2
+2015-10-13 11:37:20 1444729040 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-13 11:37:20 1444729040 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-10-13 11:37:20 1444729040 DEBUG: Cart 160: Redirecting customer to Paybox (CARTE, CB).
+2015-10-13 11:37:34 1444729054 DEBUG: Cart 160: Payment was canceled by user on Paybox payment page.

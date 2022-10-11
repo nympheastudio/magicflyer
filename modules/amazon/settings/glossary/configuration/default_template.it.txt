@@ -1,0 +1,5 @@
+Quando vengono configurati i template di spedizione su Seller Central, è possibile specificare il template di spedizione preimpostato per quel determinato profilo.
+
+Su tutti i prodotti corrispondenti a questo profilo, verrà applicato questo template di spedizione, tranne nel caso in cui viene specificato un valore diverso direttamente sulla scheda di estensione del prodotto. Quest'ultimo, sostituirà il template di spedizione preimpostato. 
+
+Se non viene specificato da nessuna parte, verranno utilizzate  le tue impostazioni di spedizione predefinite su Seller Central.

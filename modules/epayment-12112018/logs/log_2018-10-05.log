@@ -1,0 +1,27 @@
+2018-10-05 05:38:27 1538710707 DEBUG: URL to check 2
+2018-10-05 05:38:27 1538710707 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-05 05:38:27 1538710707 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-05 05:38:27 1538710707 DEBUG: Cart 28538: Redirecting customer to Paybox (CARTE, CB).
+2018-10-05 11:18:31 1538731111 DEBUG: URL to check 2
+2018-10-05 11:18:31 1538731111 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-05 11:18:31 1538731111 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-05 11:18:31 1538731111 DEBUG: Cart 28551: Redirecting customer to Paybox (CARTE, CB).
+2018-10-05 15:11:24 1538745084 DEBUG: URL to check 2
+2018-10-05 15:11:24 1538745084 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-05 15:11:24 1538745084 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-05 15:11:24 1538745084 DEBUG: Cart 28558: Redirecting customer to Paybox (CARTE, CB).
+2018-10-05 20:24:17 1538763857 DEBUG: URL to check 2
+2018-10-05 20:24:17 1538763857 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-05 20:24:17 1538763857 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-05 20:24:17 1538763857 DEBUG: Cart 28577: Redirecting customer to Paybox (CARTE, CB).
+2018-10-05 20:24:23 1538763863 DEBUG: Cart 28577: Payment was canceled by user on Paybox payment page.
+2018-10-05 22:22:12 1538770932 DEBUG: URL to check 2
+2018-10-05 22:22:12 1538770932 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-05 22:22:13 1538770932 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-05 22:22:13 1538770932 DEBUG: Cart 28581: Redirecting customer to Paybox (CARTE, CB).
+2018-10-05 22:22:28 1538770948 DEBUG: Call params: M=7775&R=28581%20-%20GIlly%20Dreyer&T=55472246&A=06615P&B=0&C=MasterCard&D=2001&E=00000&F=Y&G=O&I=USA&J=83&N=546638&O=Y&P=3DSECURE&Q=22%3A22%3A06&S=931990034&W=05102018&Y=USA&K=G6JV%2BCFzRTRybHY8qIsM3I6PosUMJtA%2FWX0%2FEhwvOsI5m0hQt7NaTUsMoqkxYT9h2bIELKYHDqlYU1XSe7eij3EGyIndI4hymfCylN2Z%2FkZhAZ0KGE5lETLUswtDCpB8PhoTBhwTTHAn93JNuYJDXm9IPZN8nyw0G8MHU2n6Mg0%3D
+2018-10-05 22:22:28 1538770948 DEBUG: Cart 28581: Standard IPN
+2018-10-05 22:22:28 1538770948 DEBUG: Cart 28581: Validating order
+2018-10-05 22:22:28 1538770948 DEBUG: Cart 28581: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-05 22:22:29 1538770948 DEBUG: Cart 28581: Order 3347 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-05 22:22:30 1538770950 DEBUG: Cart 28581: Customer is back from Paybox payment page. Payment success.

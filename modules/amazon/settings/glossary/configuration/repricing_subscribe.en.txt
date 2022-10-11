@@ -1,0 +1,6 @@
+Check/Subscribe to Repricing Service:
+Click this button if you want to enable Repricing for this platform.
+You can also click this button to verify that the service is functional and active.
+
+Unsubscribe:
+Click this button to stop the service.

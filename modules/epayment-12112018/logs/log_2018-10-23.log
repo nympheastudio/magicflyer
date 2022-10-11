@@ -1,0 +1,37 @@
+2018-10-23 20:36:10 1540319769 DEBUG: URL to check 2
+2018-10-23 20:36:10 1540319769 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-23 20:36:10 1540319769 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-23 20:36:10 1540319769 DEBUG: Cart 28980: Redirecting customer to Paybox (CARTE, CB).
+2018-10-23 20:38:20 1540319900 DEBUG: URL to check 2
+2018-10-23 20:38:20 1540319900 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-23 20:38:20 1540319900 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-23 20:38:20 1540319900 DEBUG: Cart 28980: Redirecting customer to Paybox (CARTE, CB).
+2018-10-23 20:38:42 1540319922 DEBUG: URL to check 2
+2018-10-23 20:38:42 1540319922 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-23 20:38:42 1540319922 DEBUG: URL to check 2
+2018-10-23 20:38:42 1540319922 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-23 20:38:42 1540319922 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-23 20:38:42 1540319922 DEBUG: Cart 28980: Redirecting customer to Paybox (CARTE, CB).
+2018-10-23 20:38:42 1540319922 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-23 20:38:42 1540319922 DEBUG: Cart 28980: Redirecting customer to Paybox (CARTE, CB).
+2018-10-23 20:50:25 1540320625 DEBUG: URL to check 2
+2018-10-23 20:50:25 1540320625 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-23 20:50:25 1540320625 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-23 20:50:25 1540320625 DEBUG: Cart 28980: Redirecting customer to Paybox (CARTE, CB).
+2018-10-23 21:05:27 1540321527 DEBUG: URL to check 2
+2018-10-23 21:05:27 1540321527 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-23 21:05:27 1540321527 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-23 21:05:27 1540321527 DEBUG: Cart 28870: Redirecting customer to Paybox (CARTE, CB).
+2018-10-23 21:06:43 1540321603 DEBUG: Call params: M=10443&R=28870%20-%20Mukaddes%20Atesalp&T=61272454&B=0&C=MasterCard&D=2206&E=00151&F=Y&G=O&I=BEL&J=--&N=554505&O=Y&P=CARTE&Q=21%3A05%3A21&S=936725517&W=23102018&Y=BEL&K=LglOcN2xNkxbxOQ8q0MouFXk9x1s8Dg1UDv8k6c8wG4vJO2SDOoFeyZ9YEIKT%2FSuB4aajCVX29uIRqSdr37lfSR92kovwCI4Tv6xAtp1s7IPQluL5x2l7uF7oDK5l6zveRUIYSXRWmMIYwn7GqHqZ4jVcdvJog38WvE1asDyUOQ%3D
+2018-10-23 21:06:43 1540321603 DEBUG: Cart 28870: (IPN) Payment was refused by Paybox (151).
+2018-10-23 21:11:47 1540321907 DEBUG: URL to check 2
+2018-10-23 21:11:47 1540321907 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-23 21:11:47 1540321907 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-23 21:11:47 1540321907 DEBUG: Cart 28870: Redirecting customer to Paybox (CARTE, CB).
+2018-10-23 21:13:27 1540322007 DEBUG: Call params: M=10443&R=28870%20-%20Mukaddes%20Atesalp&T=61272454&B=0&C=MasterCard&D=2206&E=00001&F=Y&G=O&I=BEL&J=07&N=554505&O=Y&P=CARTE&Q=21%3A05%3A21&S=936727226&W=23102018&Y=BEL&K=e7DpxyPnOV9wQkGz2E94MlolgswNaMVy4p66xKxWGaNw2vCo31NbMTYxpv7uwuwTKOHMfCAGfs00P41r7Wq%2B5GvaehUHPoqNu78KYphNtKXSdxO4HWVzgyxFS2YuDQqkRa1Mj3hmyGgUoAh1RVmvWprVxMJgtzgpzFhF2i7c1P0%3D
+2018-10-23 21:13:27 1540322007 DEBUG: Cart 28870: (IPN) Payment was refused by Paybox (1).
+2018-10-23 21:17:29 1540322249 DEBUG: URL to check 2
+2018-10-23 21:17:29 1540322249 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-23 21:17:29 1540322249 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-23 21:17:29 1540322249 DEBUG: Cart 28870: Redirecting customer to Paybox (CARTE, CB).
+2018-10-23 21:20:38 1540322438 DEBUG: Cart 28870: Customer is back from Paybox payment page. Payment refused by Paybox (30).

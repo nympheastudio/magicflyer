@@ -1,0 +1,15 @@
+2018-10-19 20:49:13 1539974953 DEBUG: URL to check 2
+2018-10-19 20:49:13 1539974953 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-19 20:49:13 1539974953 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-19 20:49:13 1539974953 DEBUG: Cart 28889: Redirecting customer to Paybox (CARTE, CB).
+2018-10-19 20:49:33 1539974973 DEBUG: Cart 28889: Payment was canceled by user on Paybox payment page.
+2018-10-19 20:52:44 1539975164 DEBUG: URL to check 2
+2018-10-19 20:52:44 1539975164 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-19 20:52:44 1539975164 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-19 20:52:44 1539975164 DEBUG: Cart 28889: Redirecting customer to Paybox (CARTE, CB).
+2018-10-19 20:55:17 1539975317 DEBUG: Call params: M=9098&R=28889%20-%20Thierry%20NAVILLOD&T=60053172&A=560556&B=0&C=MasterCard&D=1812&E=00000&F=Y&G=O&I=FRA&J=65&N=513770&O=Y&P=3DSECURE&Q=20%3A49%3A07&S=935770100&W=19102018&Y=FRA&K=l3aTFQZvivOlge%2Fpr9y6%2F9xnLXHI9YH9jo48SH7qxd5Pd%2BQd4XVx8kionhmeZrqvp64wIii5L23fr7ZwWY3oc4Kxlv7RrEMyJmxcECHqQo5VTgM8jjj3HGC5m23%2BDexPZv1QaB%2B1jIsj7Bmc7v02ogU%2FTRNW3Gd%2BnKknGwsohxM%3D
+2018-10-19 20:55:17 1539975317 DEBUG: Cart 28889: Standard IPN
+2018-10-19 20:55:17 1539975317 DEBUG: Cart 28889: Validating order
+2018-10-19 20:55:17 1539975317 DEBUG: Cart 28889: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-19 20:55:18 1539975317 DEBUG: Cart 28889: Order 3378 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-19 20:55:19 1539975319 DEBUG: Cart 28889: Customer is back from Paybox payment page. Payment success.

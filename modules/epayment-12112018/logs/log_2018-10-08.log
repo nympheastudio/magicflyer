@@ -1,0 +1,18 @@
+2018-10-08 11:56:47 1538992607 DEBUG: URL to check 2
+2018-10-08 11:56:47 1538992607 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-08 11:56:47 1538992607 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-08 11:56:47 1538992607 DEBUG: Cart 28637: Redirecting customer to Paybox (CARTE, CB).
+2018-10-08 12:02:34 1538992954 DEBUG: Call params: M=4372&R=28637%20-%20wendy%20willem&T=56265368&B=0&C=CB&D=2005&E=00040&F=N&G=N&I=FRA&J=40&N=497401&O=Y&P=3DSECURE&Q=11%3A56%3A44&S=932568580&W=08102018&K=Jng%2BXm11kczYwqsqZotyEdm%2FF9zXJmsriCGo4tDsOsIoSP8myoc%2FPnwkS5DTyj1OxRpuHv4gSmcjpu9vAx9nRVG6sYPkz306OLTLMmTW9AunPuggEHlrBnNUjuERYZ3rTvxptAvmQbJjWmYttDLnXnir%2BS5zrbqqHXOIsODq%2Ft8%3D
+2018-10-08 12:02:34 1538992954 DEBUG: Cart 28637: (IPN) Payment was refused by Paybox (40).
+2018-10-08 12:14:50 1538993690 DEBUG: Call params: M=4372&R=28637%20-%20wendy%20willem&T=56265368&B=0&C=CB&D=2005&E=00040&F=N&G=N&I=FRA&J=40&N=497401&O=Y&P=3DSECURE&Q=11%3A56%3A44&S=932573484&W=08102018&K=xfA3MGkUAbIKGdpEVYhCTRT5Vmu6CHXx0ddLDtHneFtoyPn0On2jzcUF2bZVKxg7FtsjljQlwVFfcM%2BcYouBO8Fy2GJ0AcWyLIaZ5NvEkWKyNMAffJPem9y%2BU0aC0jZ5rUBvCEXjzN%2Bu7XBg3v9RT%2FJCnPirs2UVsZ15sP7tqrs%3D
+2018-10-08 12:14:50 1538993690 DEBUG: Cart 28637: (IPN) Payment was refused by Paybox (40).
+2018-10-08 12:38:36 1538995116 DEBUG: Cart 28637: Customer is back from Paybox payment page. Payment refused by Paybox (30).
+2018-10-08 12:40:10 1538995210 DEBUG: URL to check 2
+2018-10-08 12:40:10 1538995210 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-08 12:40:10 1538995210 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-08 12:40:10 1538995210 DEBUG: Cart 28637: Redirecting customer to Paybox (CARTE, CB).
+2018-10-08 12:48:51 1538995731 DEBUG: URL to check 2
+2018-10-08 12:48:51 1538995731 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-08 12:48:51 1538995731 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-08 12:48:51 1538995731 DEBUG: Cart 28637: Redirecting customer to Paybox (CARTE, CB).
+2018-10-08 12:49:03 1538995743 DEBUG: Cart 28637: Customer is back from Paybox payment page. Payment refused by Paybox (30).

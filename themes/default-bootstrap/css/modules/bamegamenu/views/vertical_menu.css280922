@@ -1,0 +1,109 @@
+div#mega_menu_plus{
+	float:none;
+}
+.mg-contener{
+	width:200px;
+}
+#mega_menu_plus ul.mg-menu > li.customclass_search form{
+	position:relative !important;
+	right:0px !important;
+}
+#mega_menu_plus ul.mg-menu > li.mainmenu-parent >a{
+	width:100%;
+}
+.mg-menu > li{
+	width:100%;
+	position:relative;
+	clear:both;
+}
+.language_ltr#mega_menu_plus ul li div.sub{
+	/*! left:100%; */
+	top:0px;
+	position: relative;
+}
+.language_ltr#mega_menu_plus li.submenu:hover >a>span:after{
+	content: '\f347';
+}
+.mg-menu > li.submenu:hover > a:before{
+	display:none !important;
+}
+#mega_menu_plus ul li div.sub{
+	/*! box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.1) !important; */
+}
+#mega_menu_plus ul li div.sub{
+	border-width: 0 0 0 3px !important;
+}
+.language_rtl#mega_menu_plus ul li div.sub{
+	width:100%;
+}
+.language_rtl#mega_menu_plus ul li div.sub{
+	box-shadow: -5px 5px 10px 0px rgba(0, 0, 0, 0.5) !important;
+}
+
+.language_rtl#mega_menu_plus ul li div.sub{
+}
+.language_rtl#mega_menu_plus ul li div.sub{
+	border-width: 0 3px 0 0 !important;
+}
+.language_rtl p, .language_rtl li{
+	text-align:right;
+}
+.language_rtl ul.menuproduct>li{
+	float:right;
+}
+
+.language_rtl ul.treelinks li ul li:hover >a:after, .language_rtl#mega_menu_plus li.submenu:hover >a>span:after{
+	content: '\f141';
+}
+#mega_menu_plus ul li a span{
+	width:100%;
+}
+.mg-menu > li.submenu:hover a:before{
+	display:none;
+}
+.language_rtl#mega_menu_plus .fullwidth{
+	width:auto !important;
+	left:-100%;
+	
+}
+#mega_menu_plus .fullwidth{
+	width:auto;
+}
+#mega_menu_plus>ul{
+	height:auto;
+}
+.language_rtl ul.treelinks li ul li:hover >a:after{
+	content: '\f140';
+}
+body #mega_menu_plus div.sub.fullwidth .rows {
+	width:810px !important;
+	overflow:hidden;
+}
+body #mega_menu_plus div.sub.autowidth .rows{
+	width:100%;
+	/*! border-bottom: 1px solid #eee; */
+}
+#mega_menu_plus div.sub.autowidth .rows .cols{
+	display:table-cell;
+	float:none;
+	vertical-align:top;
+}
+.language_rtl#mega_menu_plus ul li div.sub .submenu-container{
+	right:100% !important;
+	
+}
+.language_rtl#mega_menu_plus ul li div.sub.fullwidth .submenu-container{
+	width:auto !important;
+}
+.language_ltr#mega_menu_plus ul li div.sub{
+	border-left: 1px solid #90aeba !important;
+}
+.language_rtl#mega_menu_plus ul li div.sub{
+	float:right;
+	margin-top:-47px;
+}
+.language_rtl#mega_menu_plus ul li div.sub .submenu-container{
+	border-width: 0 3px 0 0 !important;
+	border-style: solid;
+	border-color: #3e7cb4;
+}

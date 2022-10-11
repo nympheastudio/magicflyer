@@ -1,0 +1,319 @@
+var modalAjaxCart;
+var mc3Debug = false;
+
+function initModalAjaxCart() {
+	if (mc3Debug) console.log('initModalAjaxCart');
+	
+	modalAjaxCart = {
+		//override every button in the page in relation to the cart (with a delay)
+		overrideButtonsInThePageDelayed : function() {
+			modalAjaxCart.overrideButtonsInThePage();
+			setTimeout(function() { modalAjaxCart.overrideButtonsInThePage(); }, 300);
+		},
+		
+		//override every button in the page in relation to the cart
+		overrideButtonsInThePage : function(){
+			if (mc3Debug) console.log('overrideButtonsInThePage');
+			//for every 'add' buttons...
+			$(modalCartjQuerySelector).unbind('click').click(function(e){
+				e.preventDefault();
+				var idProduct =  $.trim($(this).attr('rel').replace('nofollow', '').replace('ajax_id_product_', ''));
+				if (typeof(idProduct) == 'undefined' || idProduct == '' || isNaN(idProduct)) {
+					var idProduct =  $(this).data('id-product');
+				}
+				var idProductAttribute =  parseInt($(this).data('id-product-attribute'));
+				if (typeof(idProductAttribute) == 'undefined' || idProductAttribute == '' || isNaN(idProductAttribute)) {
+					var idProductAttribute =  null;
+				}
+				if ($(this).attr('disabled') != 'disabled') {
+					if ($('input#quantity_wanted_'+idProduct).size() > 0 && !isNaN($('input#quantity_wanted_'+idProduct).val())) {
+						modalAjaxCart.add(idProduct, idProductAttribute, false, $(this), $('input#quantity_wanted_'+idProduct).val());
+					} else {
+						modalAjaxCart.add(idProduct, idProductAttribute, false, $(this));
+					}
+				}
+				return false;
+			});
+			//for product page 'add' button...
+			$(modalCartProductjQuerySelector).unbind('click').click(function(e){
+				e.preventDefault();
+				modalAjaxCart.add( $('#product_page_product_id').val(), $('#idCombination').val(), true, $(this), $('#quantity_wanted').val(), null);
+				return false;
+			});
+		},
+		
+		refreshCartOrder : function() {
+			if (mc3Debug) console.log('refreshCartOrder');
+			$('#order-detail-content:first').load(modalCartOrderPageLink+'?content_only=1 #order-detail-content:first', function(responseText, textStatus, XMLHttpRequest) {
+				$(document).off('click', '.cart_quantity_up').on('click', '.cart_quantity_up', function(){upQuantity($(this).attr('id').replace('cart_quantity_up_', '')); return false;});
+				$(document).off('click', '.cart_quantity_down').on('click', '.cart_quantity_down', function(){downQuantity($(this).attr('id').replace('cart_quantity_down_', '')); return false;});
+				$(document).off('click', '.cart_quantity_delete').on('click', '.cart_quantity_delete', function(){deleteProductFromSummary($(this).attr('id')); return false;});
+				$('.cart_quantity_input').typeWatch({highlight: true, wait: 600, captureLength: 0, callback: function(val) { updateQty(val, true, this.el);}});
+				$(document).off('click', '.cart_address_delivery').on('change', '.cart_address_delivery', function(){changeAddressDelivery($(this));});
+				if (typeof(cleanSelectAddressDelivery) != 'undefined')
+					cleanSelectAddressDelivery();
+			});
+		},
+		
+		// cart to fix display when using back and previous browsers buttons
+		refresh : function(){
+			if (mc3Debug) console.log('refresh');
+			//send the ajax request to the server
+			$.ajax({
+				type: 'POST',
+				headers: { "cache-control": "no-cache" },
+				url: baseUri + '?rand=' + new Date().getTime(),
+				async: true,
+				cache: false,
+				dataType : "json",
+				data: 'controller=cart&ajax=true&token=' + static_token,
+				success: function(jsonData)
+				{
+					modalAjaxCart.updateCart(jsonData, false);
+				}
+			});
+		},
+		
+		// add a product in the cart via ajax
+		add : function(idProduct, idCombination, addedFromProductPage, callerElement, quantity, whishlist){
+			if (mc3Debug) console.log('add');
+			if (addedFromProductPage && !checkCustomizations()) {
+				alert(fieldRequired);
+				return;
+			}
+			// avoid double-click
+			if (addedFromProductPage) {
+				$(modalCartProductjQuerySelector).attr('disabled', true).addClass('disabled');
+				$('.filled').removeClass('filled');
+			} else {
+				$(callerElement).attr('disabled', true);
+			}
+			if ($('#cart_block_list').hasClass('collapsed') && typeof(ajaxCart) != 'undefined') ajaxCart.expand();
+			//send the ajax request to the server
+			$.ajax({
+				type: 'POST',
+				url: baseUri + '?rand=' + new Date().getTime(),
+				async: true,
+				cache: false,
+				dataType : "json",
+				data: 'controller=cart&add=1&ajax=true&qty=' + ((quantity && quantity != null) ? quantity : '1') + '&id_product=' + idProduct + '&token=' + static_token + ( (parseInt(idCombination) && idCombination != null) ? '&ipa=' + parseInt(idCombination): '') + ($('#order-detail-content:first').size() > 0 ? '&summary=true' : ''),
+				success: function(jsonData)	{
+					if (!jsonData.errors) modalAjaxCart.showModal("product_add", idProduct, idCombination);
+					// add appliance to whishlist module
+					if (whishlist && !jsonData.errors)
+						WishlistAddProductCart(whishlist[0], idProduct, idCombination, whishlist[1]);
+					
+					modalAjaxCart.updateCart(jsonData, false);
+					
+					if (typeof(ajaxCart) != 'undefined' && !jsonData.errors) {
+						ajaxCart.updateCartInformation(jsonData, addedFromProductPage);
+					}
+					
+					if ($('#order-detail-content:first').size() > 0) {
+						if (typeof(updateCartSummary) != 'undefined')
+							updateCartSummary(jsonData.summary);
+						if (typeof(updateCustomizedDatas) != 'undefined')
+							updateCustomizedDatas(jsonData.customizedDatas);
+						if (typeof(updateHookShoppingCart) != 'undefined')
+							updateHookShoppingCart(jsonData.HOOK_SHOPPING_CART);
+						if (typeof(updateHookShoppingCartExtra) != 'undefined')
+							updateHookShoppingCartExtra(jsonData.HOOK_SHOPPING_CART_EXTRA);
+						if (typeof(getCarrierListAndUpdate) != 'undefined' && jsonData.summary.products.length > 0)
+							getCarrierListAndUpdate();
+						if (typeof(updatePaymentMethodsDisplay) != 'undefined')
+							updatePaymentMethodsDisplay();
+					}
+					// Close quick view
+					if (typeof(contentOnly) !== 'undefined' && contentOnly) {
+						parent.$.fancybox.close();
+					}
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown){
+					alert("Impossible to add the product to the cart.\n\ntextStatus: '" + textStatus + "'\nerrorThrown: '" + errorThrown + "'\nresponseText:\n" + XMLHttpRequest.responseText);
+				},
+				complete: function(jqXHR, textStatus) {
+					// reactive the button when adding has finished
+					if (addedFromProductPage)
+						$(modalCartProductjQuerySelector).removeAttr('disabled').addClass('exclusive').removeClass('disabled');
+					else
+						$(callerElement).removeAttr('disabled');
+				}
+			});
+		},
+		
+		/* Modal Type:
+		 * - product_add
+		 * - pack_add
+		 * - refresh
+		 */
+		showModal : function(type, idProduct, idCombination) {
+			if (mc3Debug) console.log('showModal');
+			var quantityAdded = parseInt($('#quantity_wanted').val());
+
+			if ($('body').attr('id') == 'order' || $('body').attr('id') == 'order-opc') modalAjaxCart.refreshCartOrder();
+			if (modalCartType == 'jgrowl') {
+				$.ajax({
+					type: 'POST',
+					url: modalCartControllerLink,
+					cache: false,
+					dataType : 'script',
+					data: 'action='+type+'&id_product='+(typeof(idProduct) != 'undefined' ? '&id_product='+idProduct : '')+(typeof(idCombination) != 'undefined' ? '&id_product_attribute='+idCombination : '')+'&'+mc3_uniqid(),
+					success: function(responseText) {}
+				});
+			} else {
+				if (modalCartControllerLink.indexOf("?", 0) != -1) {
+					var modalUrl = modalCartControllerLink + '&' + 'action='+type+(typeof(idProduct) != 'undefined' ? '&id_product='+idProduct : '')+(typeof(idCombination) != 'undefined' ? '&id_product_attribute='+idCombination : '')+'&quantity_added='+quantityAdded+'&modal=true&'+mc3_uniqid();
+				} else {
+					var modalUrl = modalCartControllerLink + '?' + 'action='+type+(typeof(idProduct) != 'undefined' ? '&id_product='+idProduct : '')+(typeof(idCombination) != 'undefined' ? '&id_product_attribute='+idCombination : '')+'&quantity_added='+quantityAdded+'&modal=true&'+mc3_uniqid();
+				}
+				$.ajax({
+					url: modalUrl,
+					cache: false,
+					success: function(responseText) {
+						// Update modal content only
+						popupInstance = (typeof(contentOnly) !== 'undefined' && contentOnly) ? window.parent.$.magnificPopup : $.magnificPopup;
+
+						if (typeof(popupInstance.instance.isOpen) != 'undefined' && popupInstance.instance.isOpen) {
+							popupInstance.instance.content.html(responseText);
+						} else {
+							popupInstance.open({
+								showCloseBtn: modalCartDisplayCloseButton,
+								items: {
+									src: responseText,
+									type: 'inline'
+								}
+							});
+						}
+						modalAjaxCart.overrideButtonsInThePageDelayed();
+					}
+				});
+			}
+		},
+		
+		// modal for advanced pack (deprecated - only do a refresh)
+		showModalPack : function(id_pack, packProductId, packCombination, packProductExclude) {
+			if (mc3Debug) console.log('showModalPack');
+			if ($('body').attr('id') == 'order' || $('body').attr('id') == 'order-opc') modalAjaxCart.refreshCartOrder();
+		},
+		
+		//remove a product from the cart via ajax
+		remove : function(idProduct, idCombination, customizationId, idAddressDelivery){
+			if (mc3Debug) console.log('remove');
+			//send the ajax request to the server
+			$.ajax({
+				type: 'POST',
+				url: baseUri + '?rand=' + new Date().getTime(),
+				async: true,
+				cache: false,
+				dataType : "json",
+				data: 'controller=cart&delete=1&id_product=' + idProduct + '&ipa=' + ((idCombination != null && parseInt(idCombination)) ? idCombination : '') + ((customizationId && customizationId != null) ? '&id_customization=' + customizationId : '') + '&id_address_delivery=' + idAddressDelivery + '&token=' + static_token + '&ajax=true',
+				success: function(jsonData)	{
+					modalAjaxCart.updateCart(jsonData, true);
+					if ($('body').attr('id') == 'order' || $('body').attr('id') == 'order-opc')
+						deleteProductFromSummary(idProduct+'_'+idCombination+'_'+customizationId+'_'+idAddressDelivery);
+				},
+				error: function() {alert('ERROR: unable to delete the product');}
+			});
+		},
+		
+		// Update product quantity from the modal
+		updateModalQty : function(action, id_product, id_product_attribute, id_address_delivery, id_customization) {
+			if (mc3Debug) console.log('updateModalQty');
+			//send the ajax request to the server
+			$.ajax({
+				type: 'POST',
+				url: baseUri,
+				async: true,
+				cache: false,
+				dataType: 'json',
+				data: 'controller=cart'
+					+'&ajax=true'
+					+'&add=true'
+					+'&getproductprice=true'
+					+'&summary=true'
+					+'&id_product='+id_product
+					+'&ipa='+id_product_attribute
+					+'&id_address_delivery='+id_address_delivery
+					+ (action == 'del' ? '&op=down' : '')
+					+ ((id_customization !== 0) ? '&id_customization='+id_customization : '')
+					+'&qty=1'
+					+'&token='+static_token,
+				success: function(jsonData) {
+					modalAjaxCart.updateCart(jsonData, true);
+				},
+				error: function() { alert('ERROR: unable to update product quantity'); }
+			});
+		},
+		
+		// Remove a product from the modal
+		removeModalProduct : function(id_product, id_product_attribute, id_customization, id_address_delivery) {
+			if (mc3Debug) console.log('removeModalProduct');
+			modalAjaxCart.remove(id_product, id_product_attribute, id_customization, id_address_delivery);
+		},
+		
+		//generally update the display of the cart
+		updateCart : function(jsonData, refreshCall) {
+			if (mc3Debug) console.log('updateCart');
+			if (typeof(refreshCall) == 'undefined') refreshCall = false;
+			modalAjaxCart.overrideButtonsInThePageDelayed();
+			//user errors display
+			if (jsonData.hasError)
+			{
+				var errors = '';
+				for(error in jsonData.errors)
+					//IE6 bug fix
+					if(error != 'indexOf')
+						errors += jsonData.errors[error] + "\n";
+				alert(errors);
+			} else {
+				if (typeof(ajaxCart) != 'undefined') ajaxCart.updateCartEverywhere(jsonData);
+				//if (typeof(ajaxCart) != 'undefined') ajaxCart.hideOldProducts(jsonData);
+				if (typeof(ajaxCart) != 'undefined') ajaxCart.displayNewProducts(jsonData);
+				if (typeof(ajaxCart) != 'undefined' && typeof(jsonData.discounts) != 'undefined') ajaxCart.refreshVouchers(jsonData);
+				if (typeof(ajaxCart) != 'undefined') ajaxCart.refresh();
+
+				if (typeof(jsonData.products) != 'undefined' && jsonData.products.length == 0) {
+					// Close all modal if it's open
+					mc3_closeModal();
+				} else {
+					if (typeof(refreshCall) != 'undefined' && refreshCall == true) modalAjaxCart.showModal("refresh");
+				}
+			}
+			modalAjaxCart.overrideButtonsInThePageDelayed();
+		},
+	}
+	//modalAjaxCart.refresh();
+	modalAjaxCart.overrideButtonsInThePageDelayed();
+
+}
+
+function mc3_uniqid(){
+	var newDate = new Date;
+	return newDate.getTime();
+}
+
+function mc3_closeModal() {
+	popupInstance = (typeof(contentOnly) !== 'undefined' && contentOnly) ? window.parent.$.magnificPopup : $.magnificPopup;
+	popupInstance.close();
+}
+
+function mc3_continueShopping(){
+	// Close all modal if it's open
+	mc3_closeModal();
+}
+
+function mc3_overrideButtonsInThePageLoop() {
+	var interval = setInterval(function() {
+		if (typeof(modalAjaxCart) != 'undefined') {
+			modalAjaxCart.overrideButtonsInThePage();
+		}
+	}, 1000);
+}
+mc3_overrideButtonsInThePageLoop();
+
+$(document).ready(function(){
+	initModalAjaxCart();
+});
+
+if (typeof(document) != 'undefined') $(document).ready(function() { if (typeof(modalAjaxCart) != 'undefined') modalAjaxCart.overrideButtonsInThePageDelayed(); });
+if (typeof(window) != 'undefined') $(window).load(function() { if (typeof(modalAjaxCart) != 'undefined') modalAjaxCart.overrideButtonsInThePageDelayed(); });

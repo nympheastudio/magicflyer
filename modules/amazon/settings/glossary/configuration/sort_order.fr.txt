@@ -1,0 +1,17 @@
+Comme vous le savez, sur Amazon enregistre lors du processus d'inscription du client le nom en entier sans différenciation du nom et prénom comme montré sur la copie d'écran ci-après :
+
+<img src = "../modules/amazon/views/img/tips/en/amazon-registration.png" />
+
+Vous savez aussi que Prestashop convient deux champs, nom et prénoms et les deux sont obligatoire, si l'un des deux n'était pas renseigné l'import de la commande serait impossible.
+
+Ainsi, il est impossible logiciellement de reconstituer le nom et le prénom d'après l'information fournie par Amazon, d'autant que la manière dont le champ est renseigné dépend des pays, de l'usage dans le pays et de la discipline générale. 
+
+Pour exemple et les flux américains il est très facile de reconstituer le nom et prénom car les gens sont disciplinés et appliquent la règle qui leur est enseigné donc de renseigner son nom en partant du prénom, tel que John F. Kennedy.
+
+Pour les autres pays c'est impossible, vous aurez donc inéluctablement une partie des champs noms et prénoms qui seront inversé.
+
+Nous sommes habitués à la réponse suivante; et bien inversez les champs alors... et bien non ! Si vous prenez un échantillon représentatif de vos commandes, vous verrez que le pourcentage de noms dans le bon ordre est concluant.
+
+Cependant, si pour le pays cible, cela ne s'avérait pas vrai, vous avez alors la possibilité ici d'inverser le nom et le prénom !
+
+Ce paramètre sera considéré lors de l'import de la commande.

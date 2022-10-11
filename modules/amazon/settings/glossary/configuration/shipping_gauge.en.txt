@@ -1,0 +1,2 @@
+Reverse Gauge/Template: Dimension to be deducted from initial parcel size.
+Dimensions (width/height/depth) are indicated in Shipping tab on the product sheet.

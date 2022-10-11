@@ -1,0 +1,913 @@
+<h1>Prestashop</h1>Version: 1.6.1.20
+Module: amazon/4.4.094
+Expert Mode: No
+Mode Dev: No
+Running Overrides: YesLive Configuration Fields: 
+Max Input Vars: 10000/10000
+Memory Limit: 256M/256M
+
+AdminAmazonProducts id: 151
+AdminAmazonOrders id: 152
+
+Check URL: https://www.magicflyer.com/modules/amazon/functions/check.php?id_lang=1&instant_token=6cc87e94a5ab83565770738ef7a0d2c0&context_key=&action=support-info&callback=jQuery1110039329131852613564_1643015567271
+
+Overrides:
+override/controllers/admin/AdminOrdersController.php
+override/classes/Cart.php
+override/controllers/front/CartController.php
+override/classes/CartRule.php
+override/controllers/front/CategoryController.php
+override/controllers/front/CmsController.php
+override/controllers/front/ContactController.php
+override/classes/Mail.php
+override/controllers/front/OrderController.php
+override/classes/order/OrderInvoice.php
+override/controllers/front/OrderOpcController.php
+override/classes/order/OrderSlip.php
+override/classes/PaymentModule.php
+override/classes/Product.php
+override/classes/shop/Shop.php
+override/classes/SpecificPrice.php
+override/controllers/front/perso_coeurController.php
+override/controllers/front/perso_livretController.php
+override/controllers/front/perso_mignognetteController.php
+override/controllers/front/perso_papillonController.php
+override/controllers/front/perso_papillonorController.php
+override/controllers/front/personnalisationController.php
+
+Catalog: 
+Categories                                                 : <b>30</b>
+Products                                                   : <b>85</b>
+Combinations                                               : <b>0</b>
+Attributes                                                 : <b>18</b>
+Features                                                   : <b>114</b>
+Specific Price                                             : <b>1074</b>
+
+Last 10 Orders: 
+
+Amazon Tables: 
+Categories                                                 : <b>28</b>
+Profiles                                                   : <b>0</b>
+Profiles Values                                            : <b>1</b>
+Profiles to Categories                                     : <b>1</b>
+Mappings                                                   : <b>3</b>
+Mappings Values                                            : <b>3</b>
+
+OrderStates: 
+id_order_state, invoice, send_email, module_name, color, unremovable, hidden, logable, delivery, shipped, paid, pdf_delivery, pdf_invoice, deleted, id_lang, name, template
+6, 0, 1, , #DC143C, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, Annul√©, order_canceled
+20, 1, 1, , #ffffff, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, B.A.T Envoy√©. En attente de validation, account
+34, 1, 0, , #DDEEFF, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, Capture manuelle du paiement, 
+3, 1, 1, , #FF8C00, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, Commande en cours de pr√©paration, preparation
+27, 0, 0, cashondelivery, #ff89e1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, Commande incompl√®te, 
+24, 0, 0, , #a1004d, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, Commande pr√©par√©e, 
+32, 1, 1, , #FF70BD, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, D√©bit √† l'exp√©dition, payment
+31, 0, 0, , #ffffff, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, D√©lai d'attente paiement √©coul√©, 
+1, 0, 1, cheque, #4169E1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, En attente de paiement par ch√®que, cheque
+11, 0, 0, , #4169E1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, En attente de paiement PayPal, 
+9, 1, 1, , #ffe84a, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, En attente de r√©approvisionnement, outofstock
+22, 0, 0, , #ffffff, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, En attente de r√®glement, 
+10, 0, 1, bankwire, #4169E1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, En attente de virement bancaire, bankwire
+13, 0, 0, , #2d81ff, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, En attente paiement Carte Bancaire, 
+33, 1, 0, , #F2BFFF, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, Encaiss√© partiellement, 
+8, 0, 1, , #8f0621, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, Erreur de paiement, payment_error
+4, 1, 1, , #8A2BE2, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, Exp√©di√©, shipped
+28, 1, 1, , #fff850, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, Lara Fabian, lara-fabian
+30, 0, 0, , #ff0418, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, LARA FABIAN chez Marion, 
+29, 0, 1, , #ff5425, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, Livraison report√©e, account
+5, 1, 0, , #108510, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, Livr√©, 
+12, 1, 1, , #32CD32, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, Paiement √† distance accept√©, payment
+2, 1, 1, , #32CD32, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, Paiement accept√©, payment
+15, 1, 0, , #BBDDEE, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, Pay√© partiellement via Paybox, 
+7, 1, 1, , #ec2e15, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, Rembours√©, refund
+
+Carriers
+id_carrier, id_reference, id_tax_rules_group, name, url, active, deleted, shipping_handling, range_behavior, is_module, is_free, shipping_external, need_range, external_module_name, shipping_method, position, max_width, max_height, max_depth, max_weight, grade, delay
+418, 132, 0, Mondial Relay, http://www.mondialrelay.fr/suivi-de-colis/?NumeroExpedition=@&CodePostal=, 1, 0, 1, 1, 1, 0, 1, 1, envoimoinscher, 1, 1, 0, 0, 0, 0.000000, 0, Livraison en relais en 3 √† 7 jours ouvr√©s
+390, 93, 0, Chronopost, http://www.chronopost.fr/expedier/inputLTNumbersNoJahia.do?lang=fr_FR&listeNumeros=@, 1, 0, 1, 1, 1, 0, 1, 1, envoimoinscher, 1, 2, 0, 0, 0, 0.000000, 0, Livraison en 1 √† 5 jours
+421, 206, 0, Colissimo  Dom-Tom / International, http://www.colissimo.fr/portail_colissimo/suivreResultat.do?parcelnumber=@, 1, 0, 0, 1, 0, 0, 0, 0, , 1, 3, 0, 0, 0, 0.000000, 0, A domicile - 4 √† 15 jours
+414, 222, 0, TNT Express, http://www.tnt.fr/public/suivi_colis/recherche/visubontransport.do?radiochoixrecherche=BT&bonTransport=@, 1, 0, 1, 1, 1, 0, 1, 1, envoimoinscher, 1, 4, 0, 0, 0, 0.000000, 0, Livraison √† domicile en 2 √† 5 jours
+394, 239, 0, Colissimo, http://www.colissimo.fr/portail_colissimo/suivreResultat.do?parcelnumber=@, 1, 0, 1, 1, 1, 0, 1, 1, envoimoinscher, 1, 5, 0, 0, 0, 0.000000, 0, Livraison √† domicile 
+417, 98, 0, Mondial Relay, http://www.mondialrelay.fr/suivi-de-colis/?NumeroExpedition=@&CodePostal=, 1, 0, 1, 1, 1, 0, 1, 1, envoimoinscher, 1, 6, 0, 0, 0, 0.000000, 0, Livraison en relais en 3 √† 8 jours
+422, 112, 0, FedEx , https://www.fedex.com/apps/fedextrack/?tracknumbers=@, 1, 0, 1, 1, 1, 0, 1, 1, envoimoinscher, 1, 7, 0, 0, 0, 0.000000, 0, Livraison √† domicile en 2 √† 6 jours
+419, 370, 0, Chronopost International, , 1, 0, 0, 1, 0, 0, 0, 0, , 1, 8, 0, 0, 0, 0.000000, 0, Livraison de 3 √† 5 jours
+
+Languages
+1: Fran√ßais (French) - fr - fr-fr - Active
+2: English (United States) - en - en-us - Active
+3: Espa√±ol AR ( Spanish) - ag - es-ar - Inactive
+4: Espa√±ol (Spanish) - es - es-es - Active
+
+Queues
+Empty
+
+Configuration: 
+AMAZON_ACTIVE                                      000 000 : 
+AMAZON_AMAZON_CARRIER                              000 000 : 
+AMAZON_API_TIMER                                   000 000 : 
+AMAZON_AUTO_CREATE                                 000 000 : 
+AMAZON_BUSINESS_CUSTOMER_GROUP                     000 000 : 0
+AMAZON_CANCELED_STATE                              000 000 : 
+AMAZON_CARRIER                                     000 000 : 
+AMAZON_CARRIER_DEFAULT                             000 000 : 
+AMAZON_CARRIER_MULTICHANNEL                        000 000 : 
+AMAZON_CHECKSTOCK_REQUEST                          000 000 : 
+AMAZON_CONDITION_MAP                               000 000 : 
+AMAZON_CONTEXT                                     000 000 : 
+AMAZON_CRON_TOKEN                                  000 000 : 
+AMAZON_CURRENCY                                    000 000 : 
+AMAZON_CURRENT_VERSION                             000 000 : 4.4.094
+AMAZON_CUSTOMER_GROUP                              000 000 : 3
+AMAZON_CUSTOMER_ID                                 000 000 : ÔŒ:
+AMAZON_CUSTOMER_THREAD                             000 000 : a:0:{}
+AMAZON_DEBUG_MODE                                  000 000 : 
+AMAZON_DELETE_PRODUCTS                             000 000 : 
+AMAZON_DESCRIPTION_FIELD                           000 000 : description
+AMAZON_EMPLOYEE                                    000 000 : 7
+AMAZON_EXCLUDED_MANUFACTURERS                      000 000 : 
+AMAZON_EXCLUDED_SUPPLIERS                          000 000 : 
+AMAZON_FBA_DECREASE_STOCK                          000 000 : 
+AMAZON_FBA_MULTICHANNEL                            000 000 : 
+AMAZON_FBA_MULTICHANNEL_AUTO                       000 000 : 
+AMAZON_FBA_MULTICHANNEL_DONE                       000 000 : 0
+AMAZON_FBA_MULTICHANNEL_SENT                       000 000 : 
+AMAZON_FBA_MULTICHANNEL_STATE                      000 000 : 
+AMAZON_FBA_NOTIFICATION                            000 000 : 3
+AMAZON_FBA_ORDER_STATE                             000 000 : 
+AMAZON_FBA_PRICE_FORMULA                           000 000 : 
+AMAZON_FBA_SENT_STATE                              000 000 : 
+AMAZON_FBA_STOCK_BEHAVIOUR                         000 000 : 1
+AMAZON_FEATURES                                    000 000 : 
+AMAZON_FIELD                                       000 000 : 
+AMAZON_FIXORDERS_REQUEST                           000 000 : 
+AMAZON_HTML_DESCRIPTIONS                           000 000 : 
+AMAZON_IMAGE_TYPE                                  000 000 : 
+AMAZON_INACTIVE_LANGUAGES                          000 000 : 
+AMAZON_INSTANT_TOKEN                               000 000 : È«<ÌÔxkñõÛ~zÁæÙÔ∂¥wg4
+AMAZON_MAIL_INVOICE                                000 000 : 
+AMAZON_MAIL_REVIEW                                 000 000 : 
+AMAZON_MAPPING                                     000 000 : 
+AMAZON_MARKETPLACE_ID                              000 000 : 
+AMAZON_MASTER                                      000 000 : 
+AMAZON_MERCHANT_ID                                 000 000 : 
+AMAZON_ORDER_STATE                                 000 000 : 
+AMAZON_OUT_OF_STOCK                                000 000 : 
+AMAZON_PREORDER                                    000 000 : 
+AMAZON_PREPARATION_STATE                           000 000 : 
+AMAZON_PRICES_ONLY                                 000 000 : 
+AMAZON_PRICE_FILTER                                000 000 : 
+AMAZON_PRICE_ROUNDING                              000 000 : 
+AMAZON_PRICE_RULE                                  000 000 : 
+AMAZON_PRODUCTS_CREATION                           000 000 : 
+AMAZON_PRODUCT_OPTION_FIELDS                       000 000 : id_product,id_lang,id_product_attribute,force,nopexport,noqexport,fba,fba_value,latency,disable,price,asin1,asin2,asin3,text,bullet_point1,bullet_point2,bullet_point3,bullet_point4,bullet_point5,shipping,shipping_type,gift_wrap,gift_message,browsenode,repricing_min,repricing_max,repricing_gap,shipping_group,alternative_title,alternative_description
+AMAZON_REGION                                      000 000 : 
+AMAZON_REPORT_ID                                   000 000 : 
+AMAZON_SAFE_ENCODING                               000 000 : 
+AMAZON_SENT_STATE                                  000 000 : 
+AMAZON_SHIPPING                                    000 000 : 
+AMAZON_SHIPPING_METHODS                            000 000 : 
+AMAZON_SHIPPING_OVERRIDES_EXP                      000 000 : 
+AMAZON_SHIPPING_OVERRIDES_STD                      000 000 : 
+AMAZON_SHIPPING_RULES                              000 000 : 
+AMAZON_SORT_ORDER                                  000 000 : 
+AMAZON_SPECIALS                                    000 000 : 
+AMAZON_SPECIALS_APPLY_RULES                        000 000 : 
+AMAZON_STOCK_ONLY                                  000 000 : 
+AMAZON_TAXES                                       000 000 : 
+AMAZON_TITLE_FORMAT                                000 000 : 
+AMAZON_UPDATE_PRODUCTS                             000 000 : 
+AMAZON_USE_ASIN                                    000 000 : 
+AMAZON_WAREHOUSE                                   000 000 : 
+PS_1_3_2_UPDATE_DATE                               000 000 : 2011-12-27 10:20:42
+PS_1_3_UPDATE_DATE                                 000 000 : 2011-12-27 10:20:42
+PS_ADDONS_THEMES_IDS                               000 000 : a:1:{i:1;s:5:"18953";}
+PS_ADMINREFRESH_NOTIFICATION                       000 000 : 1
+PS_ADVANCED_STOCK_MANAGEMENT                       000 000 : 0
+PS_ALIAS_FEATURE_ACTIVE                            000 000 : 1
+PS_ALLOWED_COUNTRIES                               000 000 : DE;AD;AO;AI;AN;SA;AR;AM;AW;AU;AT;AZ;BS;BH;BD;BB;BY;BE;BZ;BJ;BM;BT;BO;BA;BW;BV;BR;BN;BG;BF;MM;BI;KY;KH;CM;CA;CV;CF;CL;CN;CX;CY;CC;CO;KM;CG;CD;CK;KR;KP;CR;CI;HR;CU;DK;DJ;DM;EG;SV;AE;EC;ER;ES;EE;US;ET;FK;FO;FJ;FI;FR;GA;GM;GE;GS;GH;GI;GR;GD;GL;GP;GU;GT;GG;GN;GQ;GW;GY;GF;HT;HM;HN;HK;HU;MU;VG;VI;IN;ID;IR;IQ;IE;IS;IL;IT;JM;JP;JE;JO;KZ;KE;KG;KI;KW;LA;LS;LV;LB;LR;LY;LI;LT;LU;MO;MK;MG;MY;MW;MV;ML;MT;IM;MP;MA;MH;MQ;MR;YT;MX;FM;MD;MC;MN;ME;MS;MZ;NA;NR;NP;NI;NE;NG;NU;NF;NO;NC;NZ;IO;OM;UG;UZ;PK;PW;PS;PA;PG;PY;NL;PE;PH;PN;PL;PF;PR;PT;QA;DO;CZ;RE;RO;GB;RU;RW;EH;BL;KN;SM;MF;PM;VA;VC;LC;SB;WS;AS;ST;SN;RS;SC;SL;SG;SK;SI;SO;SD;LK;SE;CH;SR;SJ;SZ;SY;TJ;TW;TZ;TD;TF;TH;TL;TG;TK;TO;TT;TN;TM;TC;TR;TV;UA;UY;VU;VE;VN;WF;YE;ZM;ZW
+PS_ALLOW_ACCENTED_CHARS_URL                        000 000 : 0
+PS_ALLOW_HTML_IFRAME                               000 000 : 1
+PS_ALLOW_MOBILE_DEVICE                             000 000 : 0
+PS_API_KEY                                         000 000 : 
+PS_ATTACHMENT_MAXIMUM_SIZE                         000 000 : 10
+PS_ATTRIBUTE_ANCHOR_SEPARATOR                      000 000 : -
+PS_ATTRIBUTE_CATEGORY_DISPLAY                      000 000 : 0
+PS_AUTOUPDATE_MODULE_IDTAB                         000 000 : 144
+PS_AUTOUP_CHANGE_DEFAULT_THEME                     000 000 : 0
+PS_AUTOUP_CUSTOM_MOD_DESACT                        000 000 : 1
+PS_AUTOUP_KEEP_MAILS                               000 000 : 1
+PS_AUTOUP_MANUAL_MODE                              000 000 : 0
+PS_AUTOUP_PERFORMANCE                              000 000 : 1
+PS_AUTOUP_UPDATE_DEFAULT_THEME                     000 000 : 1
+PS_B2B_ENABLE                                      000 000 : 1
+PS_BACKUP_ALL                                      000 000 : 0
+PS_BACKUP_DROP_TABLE                               000 000 : 1
+PS_BASE_DISTANCE_UNIT                              000 000 : m
+PS_BLOCK_BESTSELLERS_DISPLAY                       000 000 : 0
+PS_BLOCK_BESTSELLERS_TO_DISPLAY                    000 000 : 10
+PS_BLOCK_CART_AJAX                                 000 000 : 0
+PS_BLOCK_CART_SHOW_CROSSSELLING                    000 000 : 1
+PS_BLOCK_CART_XSELL_LIMIT                          000 000 : 12
+PS_BLOCK_NEWPRODUCTS_DISPLAY                       000 000 : 0
+PS_BLOCK_SPECIALS_DISPLAY                          000 000 : 0
+PS_CANONICAL_REDIRECT                              000 000 : 2
+PS_CARRIER_DEFAULT                                 000 000 : 394
+PS_CARRIER_DEFAULT_ORDER                           000 000 : 0
+PS_CARRIER_DEFAULT_SORT                            000 000 : 0
+PS_CART_FOLLOWING                                  000 000 : 1
+PS_CART_REDIRECT                                   000 000 : 1
+PS_CART_RULE_FEATURE_ACTIVE                        000 000 : 1
+PS_CATALOG_MODE                                    000 000 : 0
+PS_CCCCSS_VERSION                                  000 000 : 824
+PS_CCCJS_VERSION                                   000 000 : 692
+PS_CIPHER_ALGORITHM                                000 000 : 1
+PS_COMBINATION_FEATURE_ACTIVE                      000 000 : 1
+PS_COMPARATOR_MAX_ITEM                             000 000 : 0
+PS_CONDITIONS                                      000 000 : 0
+PS_CONDITIONS_CMS_ID                               000 000 : 0
+PS_CONFIGURATION_AGREMENT                          000 000 : 0
+PS_COOKIE_CHECKIP                                  000 000 : 0
+PS_COOKIE_LIFETIME_BO                              000 000 : 480
+PS_COOKIE_LIFETIME_FO                              000 000 : 1
+PS_COUNTRY_DEFAULT                                 000 000 : 8
+PS_CREDIT_SLIP_PREFIX                              000 000 : 
+PS_CSS_THEME_CACHE                                 000 000 : 0
+PS_CSV_MAIL                                        000 000 : 
+PS_CSV_SEND_COPY                                   000 000 : 0
+PS_CURRENCY_DEFAULT                                000 000 : 1
+PS_CUSTOMER_GROUP                                  000 000 : 3
+PS_CUSTOMER_NWSL                                   000 000 : 1
+PS_CUSTOMER_OPTIN                                  000 000 : 1
+PS_CUSTOMER_SERVICE_FILE_UPLOAD                    000 000 : 0
+PS_CUSTOMER_SERVICE_SIGNATURE                      000 000 : 
+PS_CUSTOMIZATION_FEATURE_ACTIVE                    000 000 : 1
+PS_DASHBOARD_SIMULATION                            000 000 : 1
+PS_DASHBOARD_USE_PUSH                              000 000 : 0
+PS_DASHGOALS_CURRENT_YEAR                          000 000 : €M{
+PS_DEFAULT_WAREHOUSE_NEW_PRODUCT                   000 000 : 
+PS_DELIVERY_NUMBER                                 000 000 : 
+PS_DELIVERY_PREFIX                                 000 000 : #DE
+PS_DETECT_COUNTRY                                  000 000 : 1
+PS_DETECT_LANG                                     000 000 : 1
+PS_DIMENSION_UNIT                                  000 000 : cm
+PS_DISABLE_NON_NATIVE_MODULE                       000 000 : 0
+PS_DISABLE_OVERRIDES                               000 000 : 0
+PS_DISALLOW_HISTORY_REORDERING                     000 000 : 0
+PS_DISPLAY_BEST_SELLERS                            000 000 : 0
+PS_DISPLAY_DISCOUNT_PRICE                          000 000 : 0
+PS_DISPLAY_ERRORS                                  000 000 : 0
+PS_DISPLAY_JQZOOM                                  000 000 : 0
+PS_DISPLAY_QTIES                                   000 000 : 0
+PS_DISPLAY_SUPPLIERS                               000 000 : 0
+PS_DISP_UNAVAILABLE_ATTR                           000 000 : 0
+PS_DISTANCE_UNIT                                   000 000 : km
+PS_FAVICON                                         000 000 : favicon.ico
+PS_FEATURE_FEATURE_ACTIVE                          000 000 : 1
+PS_FOLLOWUP_SECURE_KEY                             000 000 : UEBM›tıp
+PS_FORCE_ASM_NEW_PRODUCT                           000 000 : 0
+PS_FORCE_FRIENDLY_PRODUCT                          000 000 : 0
+PS_GAPI30_CLIENT_ID_TMP                            000 000 : UA-65532783-1
+PS_GAPI30_REQUEST_URI_TMP                          000 000 : /admin5130/index.php?controller=AdminModules&configure=gapi&token=2ee29802f8b3b0c5da59edf2c1ea4359
+PS_GAPI_PROFILE_TMP                                000 000 : 
+PS_GAPI_VERSION                                    000 000 : 13
+PS_GEOLOCATION_BEHAVIOR                            000 000 : 1
+PS_GEOLOCATION_ENABLED                             000 000 : 0
+PS_GEOLOCATION_NA_BEHAVIOR                         000 000 : 0
+PS_GEOLOCATION_WHITELIST                           000 000 : 127
+209.185.108
+209.185.253
+209.85.238
+209.85.238.11
+209.85.238.4
+216.239.33.96
+216.239.33.97
+216.239.33.98
+216.239.33.99
+216.239.37.98
+216.239.37.99
+216.239.39.98
+216.239.39.99
+216.239.41.96
+216.239.41.97
+216.239.41.98
+216.239.41.99
+216.239.45.4
+216.239.46
+216.239.51.96
+216.239.51.97
+216.239.51.98
+216.239.51.99
+216.239.53.98
+216.239.53.99
+216.239.57.96
+91.240.109
+216.239.57.97
+216.239.57.98
+216.239.57.99
+216.239.59.98
+216.239.59.99
+216.33.229.163
+64.233.173.193
+64.233.173.194
+64.233.173.195
+64.233.173.196
+64.233.173.197
+64.233.173.198
+64.233.173.199
+64.233.173.200
+64.233.173.201
+64.233.173.202
+64.233.173.203
+64.233.173.204
+64.233.173.205
+64.233.173.206
+64.233.173.207
+64.233.173.208
+64.233.173.209
+64.233.173.210
+64.233.173.211
+64.233.173.212
+64.233.173.213
+64.233.173.214
+64.233.173.215
+64.233.173.216
+64.233.173.217
+64.233.173.218
+64.233.173.219
+64.233.173.220
+64.233.173.221
+64.233.173.222
+64.233.173.223
+64.233.173.224
+64.233.173.225
+64.233.173.226
+64.233.173.227
+64.233.173.228
+64.233.173.229
+64.233.173.230
+64.233.173.231
+64.233.173.232
+64.233.173.233
+64.233.173.234
+64.233.173.235
+64.233.173.236
+64.233.173.237
+64.233.173.238
+64.233.173.239
+64.233.173.240
+64.233.173.241
+64.233.173.242
+64.233.173.243
+64.233.173.244
+64.233.173.245
+64.233.173.246
+64.233.173.247
+64.233.173.248
+64.233.173.249
+64.233.173.250
+64.233.173.251
+64.233.173.252
+64.233.173.253
+64.233.173.254
+64.233.173.255
+64.68.80
+64.68.81
+64.68.82
+64.68.83
+64.68.84
+64.68.85
+64.68.86
+64.68.87
+64.68.88
+64.68.89
+64.68.90.1
+64.68.90.10
+64.68.90.11
+64.68.90.12
+64.68.90.129
+64.68.90.13
+64.68.90.130
+64.68.90.131
+64.68.90.132
+64.68.90.133
+64.68.90.134
+64.68.90.135
+64.68.90.136
+64.68.90.137
+64.68.90.138
+64.68.90.139
+64.68.90.14
+64.68.90.140
+64.68.90.141
+64.68.90.142
+64.68.90.143
+64.68.90.144
+64.68.90.145
+64.68.90.146
+64.68.90.147
+64.68.90.148
+64.68.90.149
+64.68.90.15
+64.68.90.150
+64.68.90.151
+64.68.90.152
+64.68.90.153
+64.68.90.154
+64.68.90.155
+64.68.90.156
+64.68.90.157
+64.68.90.158
+64.68.90.159
+64.68.90.16
+64.68.90.160
+64.68.90.161
+64.68.90.162
+64.68.90.163
+64.68.90.164
+64.68.90.165
+64.68.90.166
+64.68.90.167
+64.68.90.168
+64.68.90.169
+64.68.90.17
+64.68.90.170
+64.68.90.171
+64.68.90.172
+64.68.90.173
+64.68.90.174
+64.68.90.175
+64.68.90.176
+64.68.90.177
+64.68.90.178
+64.68.90.179
+64.68.90.18
+64.68.90.180
+64.68.90.181
+64.68.90.182
+64.68.90.183
+64.68.90.184
+64.68.90.185
+64.68.90.186
+64.68.90.187
+64.68.90.188
+64.68.90.189
+64.68.90.19
+64.68.90.190
+64.68.90.191
+64.68.90.192
+64.68.90.193
+64.68.90.194
+64.68.90.195
+64.68.90.196
+64.68.90.197
+64.68.90.198
+64.68.90.199
+64.68.90.2
+64.68.90.20
+64.68.90.200
+64.68.90.201
+64.68.90.202
+64.68.90.203
+64.68.90.204
+64.68.90.205
+64.68.90.206
+64.68.90.207
+64.68.90.208
+64.68.90.21
+64.68.90.22
+64.68.90.23
+64.68.90.24
+64.68.90.25
+64.68.90.26
+64.68.90.27
+64.68.90.28
+64.68.90.29
+64.68.90.3
+64.68.90.30
+64.68.90.31
+64.68.90.32
+64.68.90.33
+64.68.90.34
+64.68.90.35
+64.68.90.36
+64.68.90.37
+64.68.90.38
+64.68.90.39
+64.68.90.4
+64.68.90.40
+64.68.90.41
+64.68.90.42
+64.68.90.43
+64.68.90.44
+64.68.90.45
+64.68.90.46
+64.68.90.47
+64.68.90.48
+64.68.90.49
+64.68.90.5
+64.68.90.50
+64.68.90.51
+64.68.90.52
+64.68.90.53
+64.68.90.54
+64.68.90.55
+64.68.90.56
+64.68.90.57
+64.68.90.58
+64.68.90.59
+64.68.90.6
+64.68.90.60
+64.68.90.61
+64.68.90.62
+64.68.90.63
+64.68.90.64
+64.68.90.65
+64.68.90.66
+64.68.90.67
+64.68.90.68
+64.68.90.69
+64.68.90.7
+64.68.90.70
+64.68.90.71
+64.68.90.72
+64.68.90.73
+64.68.90.74
+64.68.90.75
+64.68.90.76
+64.68.90.77
+64.68.90.78
+64.68.90.79
+64.68.90.8
+64.68.90.80
+64.68.90.9
+64.68.91
+64.68.92
+66.249.64
+66.249.65
+66.249.66
+66.249.67
+66.249.68
+66.249.69
+66.249.70
+66.249.71
+66.249.72
+66.249.73
+66.249.78
+66.249.79
+72.14.199
+8.6.48
+PS_GIFT_WRAPPING                                   000 000 : 0
+PS_GIFT_WRAPPING_PRICE                             000 000 : 0
+PS_GIFT_WRAPPING_TAX_RULES_GROUP                   000 000 : 0
+PS_GRID_PRODUCT                                    000 000 : 0
+PS_GROUP_FEATURE_ACTIVE                            000 000 : 1
+PS_GUEST_CHECKOUT_ENABLED                          000 000 : 0
+PS_GUEST_GROUP                                     000 000 : 2
+PS_HIGHT_DPI                                       000 000 : 0
+PS_HOME_CATEGORY                                   000 000 : 2
+PS_HTACCESS_CACHE_CONTROL                          000 000 : 0
+PS_HTACCESS_DISABLE_MODSEC                         000 000 : 0
+PS_HTACCESS_DISABLE_MULTIVIEWS                     000 000 : 0
+PS_HTML_THEME_COMPRESSION                          000 000 : 0
+PS_IMAGE_GENERATION_METHOD                         000 000 : 0
+PS_IMAGE_QUALITY                                   000 000 : png
+PS_IMG_UPDATE_TIME                                 000 000 : 1635254360
+PS_INSTALL_VERSION                                 000 000 : 1.6.0.11
+PS_INVCE_DELIVERY_ADDR_RULES                       000 000 : {"avoid":[]}
+PS_INVCE_INVOICE_ADDR_RULES                        000 000 : {"avoid":[]}
+PS_INVOICE                                         000 000 : 1
+PS_INVOICE_FREE_TEXT                               000 000 : 
+PS_INVOICE_LEGAL_FREE_TEXT                         000 000 : 
+PS_INVOICE_MODEL                                   000 000 : invoice
+PS_INVOICE_PREFIX                                  000 000 : #IN
+PS_INVOICE_RESET                                   000 000 : 0
+PS_INVOICE_START_NUMBER                            000 000 : 
+PS_INVOICE_TAXES_BREAKDOWN                         000 000 : 0
+PS_INVOICE_USE_YEAR                                000 000 : 0
+PS_INVOICE_YEAR_POS                                000 000 : 0
+PS_JPEG_QUALITY                                    000 000 : 90
+PS_JS_DEFER                                        000 000 : 0
+PS_JS_HTML_THEME_COMPRESSION                       000 000 : 0
+PS_JS_THEME_CACHE                                  000 000 : 0
+PS_LANG_DEFAULT                                    000 000 : 1
+PS_LAST_QTIES                                      000 000 : 10
+PS_LAST_VERSION_CHECK                              000 000 : 1531385807
+PS_LAYERED_FILTER_CATEGORY_DEPTH                   000 000 : 0
+PS_LAYERED_FILTER_INDEX_CAT                        000 000 : 0
+PS_LAYERED_FILTER_INDEX_CDT                        000 000 : 0
+PS_LAYERED_FILTER_INDEX_MNF                        000 000 : 0
+PS_LAYERED_FILTER_INDEX_QTY                        000 000 : 0
+PS_LAYERED_FILTER_PRICE_ROUNDING                   000 000 : 1
+PS_LAYERED_FILTER_PRICE_USETAX                     000 000 : 1
+PS_LAYERED_FULL_TREE                               000 000 : 1
+PS_LAYERED_HIDE_0_VALUES                           000 000 : 0
+PS_LAYERED_INDEXED                                 000 000 : 1
+PS_LAYERED_SHOW_QTIES                              000 000 : 1
+PS_LEGACY_IMAGES                                   000 000 : 0
+PS_LGFREESHIPPINGZONES_DEBUG                       000 000 : 0
+PS_LGFREESHIPPINGZONES_MESSAGE                     000 000 : 1
+PS_LGFREESHIPPINGZONES_TAX                         000 000 : 1
+PS_LIMIT_UPLOAD_FILE_VALUE                         000 000 : 2
+PS_LIMIT_UPLOAD_IMAGE_VALUE                        000 000 : 2
+PS_LOCALE_COUNTRY                                  000 000 : fr
+PS_LOCALE_LANGUAGE                                 000 000 : fr
+PS_LOGGED_ON_ADDONS                                000 000 : 1
+PS_LOGO                                            000 000 : le-papillon-magique-logo-1611677055.jpg
+PS_LOGO_INVOICE                                    000 000 : le-papillon-magique-logo_invoice-1611242365.jpg
+PS_LOGO_MAIL                                       000 000 : le-papillon-magique-logo_mail-1611242365.jpg
+PS_LOGO_MOBILE                                     000 000 : le-papillon-magique-logo_mobile-1532592620.jpg
+PS_MAIL_COLOR                                      000 000 : #db3484
+PS_MAIL_METHOD                                     000 000 : 1
+PS_MAIL_SERVER                                     000 000 : smtp.
+PS_MAIL_SMTP_ENCRYPTION                            000 000 : off
+PS_MAIL_SMTP_PORT                                  000 000 : 25
+PS_MAIL_TYPE                                       000 000 : 3
+PS_MAIL_USER                                       000 000 : 
+PS_MAINTENANCE_IP                                  000 000 : 109.190.203.224,78.212.153.150
+PS_META_KEYWORDS                                   000 000 : 0
+PS_MULTISHOP_FEATURE_ACTIVE                        000 000 : 0
+PS_NAVIGATION_PIPE                                 000 000 : >
+PS_NB_DAYS_NEW_PRODUCT                             000 000 : 1
+PS_NEWSLETTER_RAND                                 000 000 : 1356221765188283627
+PS_ONBOARDING_CURRENT_STEP                         000 000 : 5
+PS_ONBOARDING_LAST_VALIDATE_STEP                   000 000 : 0
+PS_ONBOARDING_STEP_1_COMPLETED                     000 000 : 0
+PS_ONBOARDING_STEP_2_COMPLETED                     000 000 : 0
+PS_ONBOARDING_STEP_3_COMPLETED                     000 000 : 0
+PS_ONBOARDING_STEP_4_COMPLETED                     000 000 : 0
+PS_ONE_PHONE_AT_LEAST                              000 000 : 1
+PS_ORDER_OUT_OF_STOCK                              000 000 : 1
+PS_ORDER_PROCESS_TYPE                              000 000 : 1
+PS_ORDER_RETURN                                    000 000 : 1
+PS_ORDER_RETURN_NB_DAYS                            000 000 : 14
+PS_OS_BANKWIRE                                     000 000 : 10
+PS_OS_CANCELED                                     000 000 : 6
+PS_OS_CHEQUE                                       000 000 : 1
+PS_OS_COD_VALIDATION                               000 000 : 27
+PS_OS_DELIVERED                                    000 000 : 5
+PS_OS_ERROR                                        000 000 : 8
+PS_OS_OUTOFSTOCK                                   000 000 : 9
+PS_OS_OUTOFSTOCK_PAID                              000 000 : 9
+PS_OS_OUTOFSTOCK_UNPAID                            000 000 : 13
+PS_OS_PAYMENT                                      000 000 : 2
+PS_OS_PAYPAL                                       000 000 : 11
+PS_OS_PREPARATION                                  000 000 : 3
+PS_OS_REFUND                                       000 000 : 7
+PS_OS_SHIPPING                                     000 000 : 4
+PS_OS_WS_PAYMENT                                   000 000 : 12
+PS_PACK_FEATURE_ACTIVE                             000 000 : 
+PS_PACK_STOCK_TYPE                                 000 000 : 0
+PS_PAYMENT_LOGO_CMS_ID                             000 000 : 0
+PS_PDF_IMG_INVOICE                                 000 000 : 0
+PS_PDF_USE_CACHE                                   000 000 : 0
+PS_PNG_QUALITY                                     000 000 : 7
+PS_PRICE_DISPLAY_PRECISION                         000 000 : 2
+PS_PRICE_ROUND_MODE                                000 000 : 0
+PS_PRODUCTS_ORDER_BY                               000 000 : 0
+PS_PRODUCTS_ORDER_WAY                              000 000 : 0
+PS_PRODUCTS_PER_PAGE                               000 000 : 120
+PS_PRODUCT_PICTURE_HEIGHT                          000 000 : 64
+PS_PRODUCT_PICTURE_MAX_SIZE                        000 000 : 8388608
+PS_PRODUCT_PICTURE_WIDTH                           000 000 : 64
+PS_PRODUCT_SHORT_DESC_LIMIT                        000 000 : 0
+PS_PURCHASE_MINIMUM                                000 000 : 0
+PS_QTY_DISCOUNT_ON_COMBINATION                     000 000 : 0
+PS_QUICK_VIEW                                      000 000 : 1
+PS_RECYCLABLE_PACK                                 000 000 : 0
+PS_REFERRERS_CACHE_DATE                            000 000 : 2020-03-16 09:46:09
+PS_REFERRERS_CACHE_LIKE                            000 000 :  '2019-07-01 00:00:00' AND '2020-02-29 23:59:59' 
+PS_REGISTRATION_PROCESS_TYPE                       000 000 : 1
+PS_RESTRICT_DELIVERED_COUNTRIES                    000 000 : 0
+PS_REWRITING_SETTINGS                              000 000 : 1
+PS_ROOT_CATEGORY                                   000 000 : 1
+PS_ROUND_TYPE                                      000 000 : 1
+PS_ROUTE_category_rule                             000 000 : 
+PS_ROUTE_cms_category_rule                         000 000 : 
+PS_ROUTE_cms_rule                                  000 000 : 
+PS_ROUTE_layered_rule                              000 000 : 
+PS_ROUTE_manufacturer_rule                         000 000 : 
+PS_ROUTE_module                                    000 000 : module/{module}{/:controller}
+PS_ROUTE_product_rule                              000 000 : 
+PS_ROUTE_supplier_rule                             000 000 : 
+PS_SAV_IMAP_CREATE_THREADS                         000 000 : 0
+PS_SAV_IMAP_DELETE_MSG                             000 000 : 0
+PS_SAV_IMAP_OPT_NORSH                              000 000 : 0
+PS_SAV_IMAP_OPT_NOTLS                              000 000 : 0
+PS_SAV_IMAP_OPT_NOVALIDATE-CERT                    000 000 : 0
+PS_SAV_IMAP_OPT_SSL                                000 000 : 0
+PS_SAV_IMAP_OPT_TLS                                000 000 : 0
+PS_SAV_IMAP_OPT_VALIDATE-CERT                      000 000 : 0
+PS_SAV_IMAP_PORT                                   000 000 : 
+PS_SAV_IMAP_PWD                                    000 000 : 
+PS_SAV_IMAP_URL                                    000 000 : 
+PS_SAV_IMAP_USER                                   000 000 : 
+PS_SCENE_FEATURE_ACTIVE                            000 000 : 1
+PS_SC_FACEBOOK                                     000 000 : 1
+PS_SC_GOOGLE                                       000 000 : 1
+PS_SC_PINTEREST                                    000 000 : 1
+PS_SC_TWITTER                                      000 000 : 1
+PS_SEARCH_AJAX                                     000 000 : 0
+PS_SEARCH_BLACKLIST                                000 000 : 
+PS_SEARCH_INDEXATION                               000 000 : 1
+PS_SEARCH_MINWORDLEN                               000 000 : 3
+PS_SEARCH_WEIGHT_ATTRIBUTE                         000 000 : 2
+PS_SEARCH_WEIGHT_CNAME                             000 000 : 3
+PS_SEARCH_WEIGHT_DESC                              000 000 : 1
+PS_SEARCH_WEIGHT_FEATURE                           000 000 : 2
+PS_SEARCH_WEIGHT_MNAME                             000 000 : 3
+PS_SEARCH_WEIGHT_PNAME                             000 000 : 6
+PS_SEARCH_WEIGHT_REF                               000 000 : 10
+PS_SEARCH_WEIGHT_SHORTDESC                         000 000 : 1
+PS_SEARCH_WEIGHT_TAG                               000 000 : 4
+PS_SET_DISPLAY_SUBCATEGORIES                       000 000 : 1
+PS_SHIPPING_FREE_PRICE                             000 000 : 235
+PS_SHIPPING_FREE_WEIGHT                            000 000 : 0
+PS_SHIPPING_HANDLING                               000 000 : 0.5
+PS_SHIPPING_METHOD                                 000 000 : 1
+PS_SHIP_WHEN_AVAILABLE                             000 000 : 0
+PS_SHOP_ACTIVITY                                   000 000 : 0
+PS_SHOP_ADDR1                                      000 000 : 450 Route D'Avignon
+PS_SHOP_ADDR2                                      000 000 : 
+PS_SHOP_CITY                                       000 000 : Barbentane
+PS_SHOP_CODE                                       000 000 : 13570
+PS_SHOP_COUNTRY                                    000 000 : France M√©tropolitaine
+PS_SHOP_COUNTRY_ID                                 000 000 : 8
+PS_SHOP_DEFAULT                                    000 000 : 1
+PS_SHOP_DETAILS                                    000 000 : 
+PS_SHOP_DOMAIN                                     000 000 : www.magicflyer.com/
+PS_SHOP_DOMAIN_SSL                                 000 000 : www.magicflyer.com/
+PS_SHOP_ENABLE                                     000 000 : 1
+PS_SHOP_FAX                                        000 000 : 
+PS_SHOP_NAME                                       000 000 : Le Papillon Magique
+PS_SHOP_PHONE                                      000 000 : +33(0) 490 943 100
+PS_SHOW_ALL_MODULES                                000 000 : 0
+PS_SHOW_CAT_MODULES_1                              000 000 : 
+PS_SHOW_CAT_MODULES_10                             000 000 : shipping_logistics
+PS_SHOW_CAT_MODULES_3                              000 000 : 
+PS_SHOW_CAT_MODULES_4                              000 000 : rúíã≠
+PS_SHOW_CAT_MODULES_5                              000 000 : 
+PS_SHOW_CAT_MODULES_6                              000 000 : 
+PS_SHOW_CAT_MODULES_8                              000 000 : 
+PS_SHOW_ENABLED_MODULES_2                          000 000 : enabledDisabled
+PS_SHOW_ENABLED_MODULES_3                          000 000 : enabled
+PS_SHOW_ENABLED_MODULES_5                          000 000 : enabled
+PS_SHOW_ENABLED_MODULES_6                          000 000 : enabledDisabled
+PS_SHOW_ENABLED_MODULES_7                          000 000 : enabled
+PS_SHOW_ENABLED_MODULES_8                          000 000 : enabledDisabled
+PS_SHOW_INSTALLED_MODULES_2                        000 000 : ä{-jY^uI‚ûÀZñWù
+PS_SHOW_INSTALLED_MODULES_3                        000 000 : installed
+PS_SHOW_INSTALLED_MODULES_5                        000 000 : installed
+PS_SHOW_INSTALLED_MODULES_6                        000 000 : ä{-jY^uI‚ûÀZñWù
+PS_SHOW_INSTALLED_MODULES_7                        000 000 : installed
+PS_SHOW_INSTALLED_MODULES_8                        000 000 : ä{-jY^uI‚ûÀZñWù
+PS_SHOW_NEW_CUSTOMERS                              000 000 : 1
+PS_SHOW_NEW_MESSAGES                               000 000 : 1
+PS_SHOW_NEW_ORDERS                                 000 000 : 1
+PS_SHOW_TYPE_MODULES_2                             000 000 : authorModules[joommasters]
+PS_SHOW_TYPE_MODULES_3                             000 000 : allModules
+PS_SHOW_TYPE_MODULES_5                             000 000 : allModules
+PS_SHOW_TYPE_MODULES_6                             000 000 : allModules
+PS_SHOW_TYPE_MODULES_7                             000 000 : allModules
+PS_SHOW_TYPE_MODULES_8                             000 000 : authorModules[presta-module]
+PS_SMARTY_CACHE                                    000 000 : 0
+PS_SMARTY_CACHING_TYPE                             000 000 : filesystem
+PS_SMARTY_CLEAR_CACHE                              000 000 : everytime
+PS_SMARTY_CONSOLE                                  000 000 : 0
+PS_SMARTY_CONSOLE_KEY                              000 000 : SMARTY_DEBUG
+PS_SMARTY_FORCE_COMPILE                            000 000 : 2
+PS_SPECIFIC_PRICE_FEATURE_ACTIVE                   000 000 : 1
+PS_SPECIFIC_PRICE_PRIORITIES                       000 000 : id_shop;id_currency;id_country;id_group
+PS_SSL_ENABLED                                     000 000 : 1
+PS_SSL_ENABLED_EVERYWHERE                          000 000 : 1
+PS_STATSDATA_CUSTOMER_PAGESVIEWS                   000 000 : 1
+PS_STATSDATA_PAGESVIEWS                            000 000 : 1
+PS_STATSDATA_PLUGINS                               000 000 : 1
+PS_STATS_GRID_RENDER                               000 000 : Ç∏ùÜŸ•
+PS_STATS_OLD_CONNECT_AUTO_CLEAN                    000 000 : never
+PS_STATS_RENDER                                    000 000 : graphnvd3
+PS_STOCK_CUSTOMER_ORDER_REASON                     000 000 : 3
+PS_STOCK_MANAGEMENT                                000 000 : 1
+PS_STOCK_MVT_DEC_REASON_DEFAULT                    000 000 : 2
+PS_STOCK_MVT_INC_REASON_DEFAULT                    000 000 : 1
+PS_STOCK_MVT_REASON_DEFAULT                        000 000 : 3
+PS_STOCK_MVT_SUPPLY_ORDER                          000 000 : 8
+PS_STOCK_MVT_TRANSFER_FROM                         000 000 : 6
+PS_STOCK_MVT_TRANSFER_TO                           000 000 : 7
+PS_STORES_CENTER_LAT                               000 000 : 25.948969
+PS_STORES_CENTER_LONG                              000 000 : -80.226439
+PS_STORES_DISPLAY_CMS                              000 000 : 1
+PS_STORES_DISPLAY_FOOTER                           000 000 : 
+PS_STORES_DISPLAY_SITEMAP                          000 000 : 0
+PS_STORES_ICON                                     000 000 : le-papillon-magique-logo_stores-1531389084.gif
+PS_STORES_SIMPLIFIED                               000 000 : 0
+PS_TAX                                             000 000 : 1
+PS_TAX_ADDRESS_TYPE                                000 000 : id_address_invoice
+PS_TAX_DISPLAY                                     000 000 : 1
+PS_TC_ACTIVE                                       000 000 : 1
+PS_TC_FONT                                         000 000 : 
+PS_TC_FONTS                                        000 000 : a:10:{s:5:"font1";s:9:"Open Sans";s:5:"font2";s:12:"Josefin Slab";s:5:"font3";s:4:"Arvo";s:5:"font4";s:4:"Lato";s:5:"font5";s:7:"Volkorn";s:5:"font6";s:13:"Abril Fatface";s:5:"font7";s:6:"Ubuntu";s:5:"font8";s:7:"PT Sans";s:5:"font9";s:15:"Old Standard TT";s:6:"font10";s:10:"Droid Sans";}
+PS_TC_THEME                                        000 000 : 
+PS_TC_THEMES                                       000 000 : a:9:{i:0;s:6:"theme1";i:1;s:6:"theme2";i:2;s:6:"theme3";i:3;s:6:"theme4";i:4;s:6:"theme5";i:5;s:6:"theme6";i:6;s:6:"theme7";i:7;s:6:"theme8";i:8;s:6:"theme9";}
+PS_THEME_V11                                       000 000 : 0
+PS_TIMEZONE                                        000 000 : ÍË•Ôœj∏¨
+PS_TIN_ACTIVE                                      000 000 : 0
+PS_TOKEN_ENABLE                                    000 000 : 0
+PS_UNIDENTIFIED_GROUP                              000 000 : 1
+PS_UPGRADE_CHANNEL                                 000 000 : major
+PS_USE_ECOTAX                                      000 000 : 0
+PS_USE_HTMLPURIFIER                                000 000 : 0
+PS_VERSION_DB                                      000 000 : 1.6.1.20
+PS_VIRTUAL_PROD_FEATURE_ACTIVE                     000 000 : 1
+PS_VOLUME_UNIT                                     000 000 : L
+PS_WEBSERVICE                                      000 000 : 1
+PS_WEBSERVICE_CGI_HOST                             000 000 : 1
+PS_WEIGHT_UNIT                                     000 000 : kg
+AMAZON_CARRIER                                     000 000 : a:1:{i:1;a:1:{i:0;s:3:"394";}}
+AMAZON_CARRIER_MULTICHANNEL                        000 000 : b:0;
+AMAZON_CARRIER_DEFAULT                             000 000 : a:1:{i:1;a:2:{s:10:"prestashop";a:1:{i:0;s:3:"394";}s:6:"amazon";a:1:{i:0;s:8:"La Poste";}}}
+AMAZON_SHIPPING                                    000 000 : a:2:{s:18:"shipping_templates";s:1:"0";s:14:"smart_shipping";a:1:{s:6:"active";s:1:"0";}}
+AMAZON_ACTIVE                                      000 000 : a:1:{i:1;i:1;}
+AMAZON_MERCHANT_ID                                 000 000 : a:1:{i:1;s:0:"";}
+AMAZON_MARKETPLACE_ID                              000 000 : a:1:{i:1;s:14:"A13V1IB3VIYZZH";}
+AMAZON_MWS_TOKEN                                   000 000 : a:1:{i:1;s:0:"";}
+AMAZON_CURRENCY                                    000 000 : a:1:{i:1;s:3:"EUR";}
+AMAZON_REGION                                      000 000 : a:1:{i:1;s:2:"fr";}
+AMAZON_OUT_OF_STOCK                                000 000 : a:1:{i:1;s:1:"0";}
+AMAZON_PRICE_RULE                                  000 000 : a:3:{i:1;a:2:{s:4:"type";s:7:"percent";s:4:"rule";a:4:{s:4:"from";a:0:{}s:2:"to";a:0:{}s:7:"percent";a:0:{}s:5:"value";s:0:"";}}i:2;a:1:{s:4:"rule";a:3:{s:4:"from";a:1:{i:0;s:0:"";}s:2:"to";a:1:{i:0;s:0:"";}s:7:"percent";a:1:{i:0;s:0:"";}}}i:4;a:1:{s:4:"rule";a:3:{s:4:"from";a:1:{i:0;s:0:"";}s:2:"to";a:1:{i:0;s:0:"";}s:7:"percent";a:1:{i:0;s:0:"";}}}}
+AMAZON_PRICE_ROUNDING                              000 000 : a:1:{i:1;i:4;}
+AMAZON_PTC                                         000 000 : a:1:{i:1;s:0:"";}
+AMAZON_DEFAULT_TAX_RULE                            000 000 : a:1:{i:1;s:0:"";}
+AMAZON_SORT_ORDER                                  000 000 : a:1:{i:1;s:1:"1";}
+AMAZON_AMAZON_CARRIER                              000 000 : a:1:{i:1;a:1:{i:0;s:32:"2657c440608fe978d5536e460ce38bba";}}
+AMAZON_FIELD                                       000 000 : a:1:{i:1;s:5:"ean13";}
+AMAZON_USE_ASIN                                    000 000 : a:1:{i:1;s:1:"1";}
+AMAZON_ORDER_STATE                                 000 000 : a:3:{s:3:"STD";s:1:"2";s:5:"PRIME";s:1:"2";s:3:"PRE";s:1:"0";}
+AMAZON_PREPARATION_STATE                           000 000 : b:0;
+AMAZON_SENT_STATE                                  000 000 : s:1:"4";
+AMAZON_CANCELED_STATE                              000 000 : s:1:"6";
+AMAZON_MASTER                                      000 000 : s:2:"fr";
+AMAZON_FEATURES                                    000 000 : a:5:{s:6:"offers";s:1:"1";s:12:"prices_rules";s:1:"1";s:9:"messaging";s:1:"1";s:6:"orders";s:1:"1";s:14:"orders_reports";s:1:"1";}
+AMAZON_FBA_PRICE_FORMULA                           000 000 : s:0:"";
+AMAZON_SPECIALS                                    000 000 : b:0;
+AMAZON_TAXES                                       000 000 : i:1;
+AMAZON_CONDITION_MAP                               000 000 : a:11:{s:3:"New";s:3:"new";s:11:"UsedLikeNew";s:0:"";s:12:"UsedVeryGood";s:0:"";s:8:"UsedGood";s:0:"";s:14:"UsedAcceptable";s:0:"";s:18:"CollectibleLikeNew";s:0:"";s:19:"CollectibleVeryGood";s:0:"";s:15:"CollectibleGood";s:0:"";s:21:"CollectibleAcceptable";s:0:"";s:11:"Refurbished";s:0:"";s:4:"Club";s:0:"";}
+AMAZON_ACCOUNT_TYPE                                000 000 : b:0;
+AMAZON_TITLE_FORMAT                                000 000 : s:1:"1";
+AMAZON_SHIPPING_OVERRIDES_STD                      000 000 : a:1:{i:1;s:0:"";}
+AMAZON_SHIPPING_OVERRIDES_EXP                      000 000 : a:1:{i:1;s:0:"";}
+AMAZON_CRON_TOKEN                                  000 000 : a:1:{i:1;s:32:"d41d8cd98f00b204e9800998ecf8427e";}
+AMAZON_DELETE_PRODUCTS                             000 000 : b:0;
+AMAZON_STOCK_ONLY                                  000 000 : b:0;
+AMAZON_BRUTE_FORCE                                 000 000 : b:0;
+AMAZON_MAPPING                                     000 000 : a:3:{s:8:"features";a:0:{}s:10:"attributes";a:0:{}s:5:"fixed";a:0:{}}
+AMAZON_EXCLUDED_MANUFACTURERS                      000 000 : b:0;
+AMAZON_EXCLUDED_SUPPLIERS                          000 000 : b:0;
+AMAZON_PRICE_FILTER                                000 000 : a:2:{s:2:"gt";s:0:"";s:2:"lt";s:0:"";}
+AMAZON_MAIL_INVOICE                                000 000 : a:4:{s:6:"active";s:1:"0";s:11:"order_state";s:1:"0";s:8:"template";s:1:"0";s:11:"additionnal";s:1:"0";}
+AMAZON_MAIL_REVIEW                                 000 000 : a:4:{s:6:"active";s:1:"0";s:11:"order_state";s:1:"0";s:8:"template";s:1:"0";s:5:"delay";s:0:"";}
+AMAZON_CUSTOMER_THREAD                             000 000 : a:5:{s:6:"active";s:1:"0";s:8:"template";s:9:"reply_msg";s:13:"mail_provider";s:5:"gmail";s:5:"login";s:0:"";s:8:"password";s:0:"";}
+AMAZON_SHIPPING_METHODS                            000 000 : a:1:{i:1;s:0:"";}
+AMAZON_PROFILES_CATEGORIES                         000 000 : a:1:{i:0;b:0;}
+AMAZON_CATEGORIES                                  000 000 : a:28:{i:0;s:2:"42";i:1;s:2:"12";i:2;s:2:"51";i:3;s:2:"68";i:4;s:2:"56";i:5;s:2:"55";i:6;s:2:"58";i:7;s:2:"70";i:8;s:2:"57";i:9;s:2:"60";i:10;s:2:"59";i:11;s:2:"61";i:12;s:2:"62";i:13;s:2:"72";i:14;s:2:"78";i:15;s:2:"84";i:16;s:2:"85";i:17;s:2:"74";i:18;s:2:"75";i:19;s:2:"76";i:20;s:2:"77";i:21;s:2:"79";i:22;s:2:"80";i:23;s:2:"81";i:24;s:2:"82";i:25;s:2:"86";i:26;s:2:"87";i:27;s:2:"83";}
+
+Amazon Categories: 
+Array
+(
+    [0] => 42
+    [1] => 12
+    [2] => 51
+    [3] => 68
+    [4] => 56
+    [5] => 55
+    [6] => 58
+    [7] => 70
+    [8] => 57
+    [9] => 60
+    [10] => 59
+    [11] => 61
+    [12] => 62
+    [13] => 72
+    [14] => 78
+    [15] => 84
+    [16] => 85
+    [17] => 74
+    [18] => 75
+    [19] => 76
+    [20] => 77
+    [21] => 79
+    [22] => 80
+    [23] => 81
+    [24] => 82
+    [25] => 86
+    [26] => 87
+    [27] => 83
+)
+
+Amazon Profiles to Categories: 
+Array
+(
+    [0] => 
+)
+
+Amazon Profiles:
+

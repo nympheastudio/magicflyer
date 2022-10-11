@@ -1,0 +1,28 @@
+#amazon-stats-chart .chart svg {
+    height: 350px;
+    width: 100%;
+}
+
+#calendar {
+    margin-bottom: 20px;
+}
+
+#amazon_chart_toolbar dl {
+    cursor: pointer;
+    margin: 0;
+    min-height: 70px;
+    text-align: center;
+    background-color: #fff;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+
+#amazon_chart_toolbar dl.active {
+    color: white;
+}
+
+/* Hide compare date this release */
+#date-compare {
+    display: none;
+}

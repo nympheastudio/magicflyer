@@ -1,0 +1,1 @@
+Ti consente di configurare il servizio di Revisione dei prezzi integrato al modulo.

@@ -1,0 +1,1 @@
+Activer l'incitation à donner un avis par l'automatisation d'e-mails. Il sera demandé au client d'évaluer son achat.

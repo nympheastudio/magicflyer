@@ -1,0 +1,3 @@
+Selezionare lo stato dell 'ordine che darà il via al processo.
+Sono visualizzati soltanto gli status degli ordini idonei (non le e-mail, sì la fattura).
+                         

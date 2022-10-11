@@ -1,0 +1,1 @@
+Abgrenzung bei der, der Preis nicht weiter erniedrigt wird, basierend auf dem oben angegebenen Preis.

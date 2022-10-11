@@ -1,0 +1,3 @@
+Puede utilizar el clasificador para obtener los browse node IDs
+https://sellercentral.amazon.es/listing/classify
+Esta opción es requerida para Canadá, Europa y Japón.

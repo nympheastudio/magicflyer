@@ -1,0 +1,19 @@
+2017-03-28 12:18:46 1490696326 DEBUG: Checking Paybox update to version 3.0.0
+2017-03-28 12:18:46 1490696326 DEBUG:  Paybox version check answer: {"version":"3.0.4","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.4.zip","message":"Mise \u00e0 jour mineure: diverses corrections de bugs mineurs."}
+2017-03-28 12:19:32 1490696372 DEBUG: Checking Paybox update to version 3.0.0
+2017-03-28 12:19:32 1490696372 DEBUG:  Paybox version check answer: {"version":"3.0.4","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.4.zip","message":"Mise \u00e0 jour mineure: diverses corrections de bugs mineurs."}
+2017-03-28 12:20:21 1490696421 DEBUG: Checking Paybox update to version 3.0.0
+2017-03-28 12:20:21 1490696421 DEBUG:  Paybox version check answer: {"version":"3.0.4","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.4.zip","message":"Mise \u00e0 jour mineure: diverses corrections de bugs mineurs."}
+2017-03-28 16:38:48 1490711928 DEBUG: URL to check 2
+2017-03-28 16:38:48 1490711928 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-28 16:38:48 1490711928 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-28 16:38:48 1490711928 DEBUG: Cart 11379: Redirecting customer to Paybox (CARTE, CB).
+2017-03-28 16:40:44 1490712044 DEBUG: Call params: M=33375&R=11379%20-%20Julien%20Grenier&T=700918472&A=203263&B=0&C=Visa&D=1710&E=00000&F=Y&G=O&I=FRA&J=35&N=456140&O=Y&P=3DSECURE&Q=16%3A38%3A49&S=695862867&W=28032017&Y=FRA&K=uCwxlBwpZghHVVIfxp3gcsm6EqdiBV3S5%2BXa4zNsQstGIwOX7Xe4NyZRpDsokwR%2F1%2BbshpXJiz%2FaqcfjmQAcrPMq%2FDJLRsoRASs077AsH9FHKYFTlVJLFG%2BD1qvEQ8SCt%2FvBjIHciTL2YXb3LFhCT38RFmxyNzhqkEWfamSioTc%3D
+2017-03-28 16:40:44 1490712044 DEBUG: Cart 11379: Standard IPN
+2017-03-28 16:40:44 1490712044 DEBUG: Cart 11379: Validating order
+2017-03-28 16:40:44 1490712044 DEBUG: Cart 11379: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-28 16:40:45 1490712045 DEBUG: Cart 11379: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-03-28 16:40:46 1490712044 DEBUG: Cart 11379: Order 852 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-28 16:40:46 1490712046 DEBUG: Cart 11379: Customer is back from Paybox payment page. Payment success.
+2017-03-28 16:41:04 1490712064 DEBUG: Call params: M=33375&R=11379%20-%20Julien%20Grenier&T=700918472&A=203263&B=0&C=Visa&D=1710&E=00000&F=Y&G=O&I=FRA&J=35&N=456140&O=Y&P=3DSECURE&Q=16%3A38%3A49&S=695862867&W=28032017&Y=FRA&K=uCwxlBwpZghHVVIfxp3gcsm6EqdiBV3S5%2BXa4zNsQstGIwOX7Xe4NyZRpDsokwR%2F1%2BbshpXJiz%2FaqcfjmQAcrPMq%2FDJLRsoRASs077AsH9FHKYFTlVJLFG%2BD1qvEQ8SCt%2FvBjIHciTL2YXb3LFhCT38RFmxyNzhqkEWfamSioTc%3D
+2017-03-28 16:41:04 1490712064 DEBUG: Cart 11379: (IPN) Cart already being validated as order.

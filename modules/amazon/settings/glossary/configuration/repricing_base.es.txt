@@ -1,0 +1,1 @@
+Base del precio sobre el cual el piso de precio condicionado por el Limite será determinado

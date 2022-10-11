@@ -1,0 +1,1 @@
+Choisir le statut par défaut pour les nouvelles commandes entrantes

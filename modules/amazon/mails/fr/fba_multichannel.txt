@@ -1,0 +1,15 @@
+Bonjour,
+
+Une nouvelle commande FBA Multi-Channel a été enregistrée et notifiée à Amazon, voici le détail :
+
+Commande:
+{order}
+
+Client:
+{customer_address}
+
+Produits:
+{ordered_items}
+
+----
+{amazon_info}

@@ -1,0 +1,4 @@
+Verwenden Sie einen speziellen Preis für FBA-Produkte.
+Diese Formal kann ein Preis, Wert oder Rechenart sein (multiplizieren Sie, Dividieren Sie, Addition, Subtraktion, Prozentangaben)
+Verwenden Sie das Symbol @ als Referenzpreis (zum Beispiel: @ + 10 % bedeutet, Sie werden 10 % des ursprünglichen Preises hinzufügen)
+Wenn Sie nichts angeben, wird die globale Konfiguration verwendet.

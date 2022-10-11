@@ -1,0 +1,12 @@
+2015-09-07 13:03:50 1441623830 DEBUG: URL to check 2
+2015-09-07 13:03:50 1441623830 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-07 13:03:50 1441623830 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-07 13:03:50 1441623830 DEBUG: Cart 37: Redirecting customer to Paybox (CARTE, CB).
+2015-09-07 13:10:53 1441624253 DEBUG: Call params: M=9882&R=37%20-%20Noemie%20maillet&T=279606985&A=221320&B=0&C=Visa&D=1705&E=00000&G=D&H=05D7868F799F472A8023482B0549CDE84E5C5215&I=FRA&J=&N=&P=CARTE&Q=13%3A03%3A52&S=285014297&W=07092015&Y=FRA&K=dJP82y%2BaopX1zf5NqH7Q0I8QQ33jX9RUnboqrIfwxs8hinfV4qw0XvG1FMRk0ZRTDNzKGY5d2AGV4TW%2Br4yJsr0Q9l6jMCS78RY1pw9NEc3XPmWae8lxseFzLMduN5q1446GGtE4C0OOHzUVEm4MTVrueNWwCGDCnGLb23dEUj4%3D
+2015-09-07 13:10:53 1441624253 DEBUG: Cart 37: Standard IPN
+2015-09-07 13:10:53 1441624253 DEBUG: Cart 37: Validating order (PS1.5+)
+2015-09-07 13:10:58 1441624253 DEBUG: Cart 37: Order 14 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-09-07 13:10:55 1441624255 DEBUG: Cart 37: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-09-07 13:10:57 1441624257 DEBUG: Cart 37: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-09-07 13:10:58 1441624258 DEBUG: Cart 37: Customer is back from Paybox payment page. Payment success.

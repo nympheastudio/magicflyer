@@ -1,0 +1,5 @@
+Type du nom du produit, Amazon recommande de formater le titre tel que : Fabricant - Nom du Produit - Attributs
+Veuillez choisir Titre Standard, Attributs si vos noms de produits sont déjà formatés pour Amazon
+
+Titre sur Amazon :
+<img src="views/img/tips/fr/title.jpg" />

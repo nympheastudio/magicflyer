@@ -1,0 +1,18 @@
+#chronordv_container td.inactive {
+	background-color:#aaaaaa;
+}
+
+#chronordv_container td.incentive {
+	background-image:url('../img/eco.png');
+	background-repeat:no-repeat;
+	background-position:bottom;
+	background-color: #e2f0e0;
+}
+
+#chronordv_container td {
+	padding: 5px 5px 20px 15px;
+}
+
+.page-order #chronordv_container th, .page-order #chronordv_container td {
+	padding: .1rem;
+}

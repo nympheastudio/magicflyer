@@ -1,0 +1,37 @@
+2017-10-16 14:39:01 1508157539 DEBUG: URL to check 2
+2017-10-16 14:39:01 1508157539 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-16 14:39:01 1508157539 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-10-16 14:39:01 1508157539 DEBUG: Cart 18819: Redirecting customer to Paybox (CARTE, CB).
+2017-10-16 14:42:04 1508157724 DEBUG: Call params: M=8910&R=18819%20-%20Astrid%20van%20der%20Rest&T=756392721&A=652923&B=0&C=Visa&D=1801&E=00000&F=Y&G=O&I=BEL&J=76&N=445472&O=Y&P=3DSECURE&Q=14%3A39%3A02&S=742764977&W=16102017&Y=BEL&K=jx2sULoqkQenPo7c9vt2byMdbsm7HZplXRYeN7epJZQMvUnjJzTe3qS6rDNBfW5Bpez0JNhJ13Tu2tWE4o8FhDvxPBWCLVtBysaGlXo8sM84vL%2FaaU2q5WJX%2BXmY6pJ8tasroGDlyMA81L1fk3TOXiduFpo1eS%2BMQVZ359sopnk%3D
+2017-10-16 14:42:04 1508157724 DEBUG: Cart 18819: Standard IPN
+2017-10-16 14:42:04 1508157724 DEBUG: Cart 18819: Validating order
+2017-10-16 14:42:04 1508157724 DEBUG: Cart 18819: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-10-16 14:42:06 1508157726 DEBUG: Cart 18819: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-10-16 14:42:06 1508157724 DEBUG: Cart 18819: Order 1740 / Le paiement a été autorisé et capturé par Paybox.
+2017-10-16 14:42:06 1508157726 DEBUG: Call params: M=8910&R=18819%20-%20Astrid%20van%20der%20Rest&T=756392721&A=652923&B=0&C=Visa&D=1801&E=00000&F=Y&G=O&I=BEL&J=76&N=445472&O=Y&P=3DSECURE&Q=14%3A39%3A02&S=742764977&W=16102017&Y=BEL&K=jx2sULoqkQenPo7c9vt2byMdbsm7HZplXRYeN7epJZQMvUnjJzTe3qS6rDNBfW5Bpez0JNhJ13Tu2tWE4o8FhDvxPBWCLVtBysaGlXo8sM84vL%2FaaU2q5WJX%2BXmY6pJ8tasroGDlyMA81L1fk3TOXiduFpo1eS%2BMQVZ359sopnk%3D
+2017-10-16 14:42:06 1508157726 DEBUG: Cart 18819: (IPN) Cart already being validated as order.
+2017-10-16 14:42:07 1508157727 DEBUG: Cart 18819: Customer is back from Paybox payment page. Payment success.
+2017-10-16 15:22:43 1508160162 DEBUG: URL to check 2
+2017-10-16 15:22:43 1508160162 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-16 15:22:43 1508160162 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-10-16 15:22:43 1508160162 DEBUG: Cart 18778: Redirecting customer to Paybox (CARTE, CB).
+2017-10-16 15:25:25 1508160325 DEBUG: Call params: M=2205&R=18778%20-%20PIERRE%20MUSCAT&T=756404105&A=286762&B=0&C=Visa&D=1912&E=00000&F=Y&G=O&I=FRA&J=05&N=497887&O=Y&P=3DSECURE&Q=15%3A22%3A45&S=742774605&W=16102017&Y=FRA&K=eO6caBJXd5aNPaIvkIb%2BhqOfGD%2F4iJ8w9JMt7Vq6HgNTGEi3Yz4YyGf6ddOvpW4R%2BUbqmowvYhhkxOCJXXPxdLXi1i9zTk9KfoWcBSJQW8BjO9l%2FNqTnNkQNBxhekqik%2BS2lF2O%2FLS7qto7sj6sf005Nzws6Rjzjhkop77%2F%2BKP8%3D
+2017-10-16 15:25:25 1508160325 DEBUG: Cart 18778: Standard IPN
+2017-10-16 15:25:25 1508160325 DEBUG: Cart 18778: Validating order
+2017-10-16 15:25:26 1508160326 DEBUG: Cart 18778: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-10-16 15:25:27 1508160325 DEBUG: Cart 18778: Order 1741 / Le paiement a été autorisé et capturé par Paybox.
+2017-10-16 15:25:27 1508160327 DEBUG: Call params: M=2205&R=18778%20-%20PIERRE%20MUSCAT&T=756404105&A=286762&B=0&C=Visa&D=1912&E=00000&F=Y&G=O&I=FRA&J=05&N=497887&O=Y&P=3DSECURE&Q=15%3A22%3A45&S=742774605&W=16102017&Y=FRA&K=eO6caBJXd5aNPaIvkIb%2BhqOfGD%2F4iJ8w9JMt7Vq6HgNTGEi3Yz4YyGf6ddOvpW4R%2BUbqmowvYhhkxOCJXXPxdLXi1i9zTk9KfoWcBSJQW8BjO9l%2FNqTnNkQNBxhekqik%2BS2lF2O%2FLS7qto7sj6sf005Nzws6Rjzjhkop77%2F%2BKP8%3D
+2017-10-16 15:25:27 1508160327 DEBUG: Cart 18778: (IPN) Cart already being validated as order.
+2017-10-16 15:25:27 1508160327 DEBUG: Cart 18778: Customer is back from Paybox payment page. Payment success.
+2017-10-16 20:41:19 1508179278 DEBUG: URL to check 2
+2017-10-16 20:41:19 1508179278 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-16 20:41:19 1508179278 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-10-16 20:41:19 1508179278 DEBUG: Cart 18835: Redirecting customer to Paybox (CARTE, CB).
+2017-10-16 20:44:59 1508179499 DEBUG: Call params: M=8992&R=18835%20-%20Nicolas%20Morel&T=756480945&A=096655&B=0&C=MasterCard&D=1909&E=00000&F=Y&G=O&I=FRA&J=92&N=513162&O=Y&P=3DSECURE&Q=20%3A41%3A19&S=742838890&W=16102017&Y=FRA&K=dZPIz0M%2BRD25K1kDv%2BC2Ks7uyHT4d7uCqaLPKZkEMcm2xILBi%2BW2lg9dkk2nTFD6ORRvve%2BRlF5aClpC1TiGB2GwBSD%2FroPlgT1po8Th3FySFRVR2ZXIBvnQKg0WZtDeE8oYgoMcwgU%2B8vydRaGOxBr20pJ0Y%2FDqjQvzfNxopH8%3D
+2017-10-16 20:44:59 1508179499 DEBUG: Cart 18835: Standard IPN
+2017-10-16 20:44:59 1508179499 DEBUG: Cart 18835: Validating order
+2017-10-16 20:44:59 1508179499 DEBUG: Cart 18835: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-10-16 20:45:00 1508179499 DEBUG: Cart 18835: Order 1742 / Le paiement a été autorisé et capturé par Paybox.
+2017-10-16 20:45:00 1508179500 DEBUG: Cart 18835: Customer is back from Paybox payment page. Payment success.
+2017-10-16 20:45:00 1508179500 DEBUG: Call params: M=8992&R=18835%20-%20Nicolas%20Morel&T=756480945&A=096655&B=0&C=MasterCard&D=1909&E=00000&F=Y&G=O&I=FRA&J=92&N=513162&O=Y&P=3DSECURE&Q=20%3A41%3A19&S=742838890&W=16102017&Y=FRA&K=dZPIz0M%2BRD25K1kDv%2BC2Ks7uyHT4d7uCqaLPKZkEMcm2xILBi%2BW2lg9dkk2nTFD6ORRvve%2BRlF5aClpC1TiGB2GwBSD%2FroPlgT1po8Th3FySFRVR2ZXIBvnQKg0WZtDeE8oYgoMcwgU%2B8vydRaGOxBr20pJ0Y%2FDqjQvzfNxopH8%3D
+2017-10-16 20:45:00 1508179500 DEBUG: Cart 18835: (IPN) Cart already being validated as order.

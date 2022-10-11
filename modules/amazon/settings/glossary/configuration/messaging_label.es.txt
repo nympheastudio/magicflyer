@@ -1,0 +1,5 @@
+Las etiquetas las deberá crear en Gmail (Etiquetas Imap)
+
+<img src="views/img/tips/en/labels.jpg" />
+
+Nota: Las etiquetas son sensibles a letras pequeñas y letras GRANDES

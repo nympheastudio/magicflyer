@@ -1,0 +1,19 @@
+2016-09-09 15:23:15 1473427395 DEBUG: URL to check 2
+2016-09-09 15:23:15 1473427395 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-09 15:23:15 1473427395 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-09 15:23:15 1473427395 DEBUG: Cart 3142: Redirecting customer to Paybox (CARTE, CB).
+2016-09-09 15:25:24 1473427524 DEBUG: Call params: M=2297&R=3142%20-%20fanny%20martinelli&T=644035135&A=064736&B=0&C=Visa&D=1701&E=00000&F=Y&G=O&H=ABB69CAA303F31F33BB4AD10F18948B6AADB98F4&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=15%3A23%3A27&S=640184460&W=09092016&Y=FRA&K=3FDUobOn47vX35USTiht6iHViNK2081AxlvRLwjteSKyILi8Yvr9clccDxQ3pyedKwO%2BTuYOuP54PSOyrITAkW5aEZUmhDzLc6UTVZI%2FiEfnRk9FtVv285V6WvT27EiP0MpefKDFzlHuuB4KlgPQ8N%2BYbF96Rkh0JBIwcweJlyI%3D
+2016-09-09 15:25:24 1473427524 DEBUG: Cart 3142: Standard IPN
+2016-09-09 15:25:24 1473427524 DEBUG: Cart 3142: Validating order (PS1.5+)
+2016-09-09 15:25:25 1473427524 DEBUG: Cart 3142: Order 368 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-09 15:25:27 1473427527 DEBUG: Cart 3142: Customer is back from Paybox payment page. Payment success.
+2016-09-09 17:53:23 1473436403 DEBUG: URL to check 2
+2016-09-09 17:53:23 1473436403 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-09 17:53:23 1473436403 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-09 17:53:23 1473436403 DEBUG: Cart 3120: Redirecting customer to Paybox (CARTE, CB).
+2016-09-09 18:00:08 1473436808 DEBUG: Call params: M=5660&R=3120%20-%20Monica%20Pallaroni&T=644057826&A=650503&B=0&C=Visa&D=2002&E=00000&F=Y&G=O&H=27421FFB2A592268CD6EE7A39C58DE820D5F5473&I=ITA&J=&N=&O=Y&P=3DSECURE&Q=17%3A53%3A25&S=640207115&W=09092016&Y=ITA&K=cK2aT8L6XKFanXV4M%2F9Tg2qWEioYiOiDQWBM1b2CNklMooXT6PYciTwsN9k%2Ba1DN27KtSjggwJcXF1KK9UDif2sLxmP03ZCLHHc9cguAQCeoNoHJA1Z0J7tntnuKL81dDtEEl4cK9j5Gev%2BM2UzdxfefYBBLoH1XOw8y%2FiUnSSM%3D
+2016-09-09 18:00:08 1473436808 DEBUG: Cart 3120: Standard IPN
+2016-09-09 18:00:08 1473436808 DEBUG: Cart 3120: Validating order (PS1.5+)
+2016-09-09 18:00:08 1473436808 DEBUG: Cart 3120: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-09 18:00:10 1473436808 DEBUG: Cart 3120: Order 369 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-09 18:00:10 1473436810 DEBUG: Cart 3120: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,1 @@
+Si activé, ajouter les taxes aux produits et calculer les taxes pour les commandes entrantes

@@ -1,0 +1,15 @@
+2017-09-17 21:04:40 1505675080 DEBUG: URL to check 2
+2017-09-17 21:04:40 1505675080 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-17 21:04:40 1505675080 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-09-17 21:04:40 1505675080 DEBUG: Cart 17883: Redirecting customer to Paybox (CARTE, CB).
+2017-09-17 21:09:39 1505675379 DEBUG: URL to check 2
+2017-09-17 21:09:39 1505675379 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-17 21:09:39 1505675379 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-17 21:09:39 1505675379 DEBUG: Cart 17896: Redirecting customer to Paybox (CARTE, CB).
+2017-09-17 21:12:23 1505675543 DEBUG: Call params: M=3380&R=17896%20-%20Gwen%20Dourlou&T=748549526&A=693138&B=0&C=Visa&D=1811&E=00000&F=Y&G=O&I=FRA&J=74&N=469807&O=Y&P=3DSECURE&Q=21%3A09%3A40&S=736144554&W=17092017&Y=FRA&K=EfWlHzF1b9zygBSlQGlFckUMvMOw39mfInGDzp6SlYU2UVFEXXwU6axL%2B8Mqs%2F7UG48XZqP9tgtLMRMWNlsAQUGB48bbzbUtk97bCFVy2meFI3zoQ%2FsPS%2Fd%2FQuLAyHMZS%2BbqIQS8tz0BOZe4hlNo%2FRK5NhnQQNTee91udVSS8jU%3D
+2017-09-17 21:12:23 1505675543 DEBUG: Cart 17896: Standard IPN
+2017-09-17 21:12:23 1505675543 DEBUG: Cart 17896: Validating order
+2017-09-17 21:12:24 1505675544 DEBUG: Cart 17896: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-09-17 21:12:25 1505675545 DEBUG: Cart 17896: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-09-17 21:12:25 1505675543 DEBUG: Cart 17896: Order 1665 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-17 21:12:26 1505675546 DEBUG: Cart 17896: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<profile title="Header 4" profile_type="header" class_suffix="header-4">
+<row title="Topbar" class="topbar" fullwidth="0">
+<position title="Topbar left" class_suffix="topbar-left" col_lg="6" col_sm="6" col_md="6" col_xs="7">
+<block title="Search" block_type="module" module_name="jmsajaxsearch" hook_name="top" show_title="0" />
+<block title="Languages" block_type="module" module_name="blocklanguages" hook_name="top" show_title="0" />
+<block title="Curriencies" block_type="module" module_name="blockcurrencies" hook_name="top" show_title="0" />
+</position>
+<position title="Topbar right" class_suffix="topbar-right" col_lg="6" col_sm="6" col_md="6" col_xs="5">
+<block title="Cart" block_type="module" module_name="blockcart" hook_name="top" show_title="0" />
+<block title="User info" block_type="module" module_name="blockuserinfo" hook_name="top" show_title="0" />
+</position>
+</row>
+<row title="Header bar" class="header-bar" fullwidth="0">
+<position title="Logo" class_suffix="navbar-logo" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Logo" block_type="logo" module_name="" hook_name="top" show_title="0" />
+</position>
+<position title="Menu" class_suffix="topnav" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Menu" block_type="module" module_name="jmsdropmegamenu" hook_name="top" show_title="0" />
+</position>
+</row>
+</profile>
+<profile title="Home 4" profile_type="homebody" class_suffix="home-4">
+<row title="Slideshow" class="slideshow" fullwidth="1">
+<position title="Slideshow" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Slideshow" block_type="module" module_name="jmssliderlayer" hook_name="home" show_title="0" />
+</position>
+</row>
+<row title="Category 1" class="home-banner" fullwidth="1">
+<position title="Image" class_suffix="banner-image pull-left wp-lt" col_lg="6" col_sm="6" col_md="6" col_xs="12">
+<block title="Image product" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wrapper-banner-thumbnail"><img class="img-responsive" src="themes/jms_hera/img/demo/home-1.jpg" alt="" /></div>]]></htmlData>
+			</block>
+</position>
+<position title="Banner content" class_suffix="banner-info bn-ps wp-rt" col_lg="6" col_sm="6" col_md="6" col_xs="12">
+<block title="Banner content" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wrapper-banner wp-category-1">
+<div class="wrapper-banner-inner">
+<div class="wrapper-banner-content"><span class="title-thin">Check out today</span>
+<h4 class="title"><span class="color-mark">Top five</span> Trending</h4>
+<p>Sollicitudin rutrum lacinia convallis mauris mauris, sedcursus neo euismod quis. Phasellusi augue amet fermentum malesuada. Nulla tincidunt lectus diam, amet tempus auctor tristque massa volutpat, sollicitudin lacus sit amet, tincidunt metus pellentesque.</p>
+<a title="" href="?id_category=12&amp;controller=category&amp;id_lang=1">Shop now</a></div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+</row>
+<row title="Category 2" class="home-banner" fullwidth="1">
+<position title="Banner content" class_suffix="banner-info  wp-lt" col_lg="6" col_sm="6" col_md="6" col_xs="12">
+<block title="Banner content" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wrapper-banner wp-category-2">
+<div class="wrapper-banner-inner">
+<div class="wrapper-banner-content"><span class="title-regular">Summer sale</span>
+<h4 class="title-light">Discount <span class="color-mark">50%</span> Coupons</h4>
+<a title="" href="?id_category=13&amp;controller=category&amp;id_lang=1">Shop now</a></div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+<position title="Image" class_suffix="banner-image pull-right wp-rt" col_lg="6" col_sm="6" col_md="6" col_xs="12">
+<block title="Image product" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wrapper-banner-thumbnail"><img class="img-responsive" src="themes/jms_hera/img/demo/home-2.jpg" alt="" /></div>]]></htmlData>
+			</block>
+</position>
+</row>
+<row title="Category 3" class="home-banner" fullwidth="1">
+<position title="Image" class_suffix="banner-image  wp-lt" col_lg="6" col_sm="6" col_md="6" col_xs="12">
+<block title="Image product" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wrapper-banner-thumbnail"><img class="img-responsive" src="themes/jms_hera/img/demo/home-3.jpg" alt="" /></div>]]></htmlData>
+			</block>
+</position>
+<position title="Banner content" class_suffix="banner-info bn-ps wp-rt" col_lg="6" col_sm="6" col_md="6" col_xs="12">
+<block title="Banner content" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wrapper-banner wp-category-3">
+<div class="wrapper-banner-inner">
+<div class="wrapper-banner-content">
+<h4 class="title">Sale off <span class="color-mark">30%</span></h4>
+<span class="title-thin"> Price only $199.00 </span>
+<p>Sollicitudin rutrum lacinia convallis mauris mauris, sedcursus neo euismod quis. Phasellusi augue amet fermentum malesuada. Nulla tincidunt lectus diam, amet tempus auctor tristque massa volutpat, sollicitudin lacus sit amet, tincidunt metus pellentesque.</p>
+<a title="" href="?id_category=14&amp;controller=category&amp;id_lang=1">Shop now</a></div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+</row>
+<row title="Category 4" class="home-banner" fullwidth="1">
+<position title="Banner content" class_suffix="banner-info  wp-lt" col_lg="6" col_sm="6" col_md="6" col_xs="12">
+<block title="Banner content" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wrapper-banner wp-category-4">
+<div class="wrapper-banner-inner">
+<div class="wrapper-banner-content"><span class="title-thin">Real men collection</span>
+<h4 class="title-regular title-li">Best selling <span class="color-mark">Men</span></h4>
+<a title="" href="?id_category=13&amp;controller=category&amp;id_lang=1">Shop now</a></div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+<position title="Image" class_suffix="banner-image pull-right wp-rt" col_lg="6" col_sm="6" col_md="6" col_xs="12">
+<block title="Image product" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wrapper-banner-thumbnail"><img class="img-responsive" src="themes/jms_hera/img/demo/home-4.jpg" alt="" /></div>]]></htmlData>
+			</block>
+</position>
+</row>
+</profile>
+<profile title="Footer 4" profile_type="footer" class_suffix="footer-4">
+<row title="Footer navbar" class="footer-navbar" fullwidth="0">
+<position title="Contact us" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Contact us" block_type="module" module_name="blockcontactinfos" hook_name="footer" show_title="0" />
+</position>
+<position title="Account" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Account" block_type="custom_html" module_name="" hook_name="top" show_title="1">
+				<htmlData><![CDATA[<ul><li><a href="#" title="About us">About us</a></li>
+<li><a href="#" title="Order history">Order history</a></li>
+<li><a href="#" title="Advanced search">Advanced search</a></li>
+<li><a href="#" title="Personal infomation"> Personal infomation</a></li>
+<li><a href="#" title="Vouchers">Vouchers</a></li>
+</ul>]]></htmlData>
+			</block>
+</position>
+<position title="Information" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Informations" block_type="custom_html" module_name="" hook_name="top" show_title="1">
+				<htmlData><![CDATA[<ul><li><a href="#" title="Return exchage">Return exchage</a></li>
+<li><a href="#" title="Term &amp; conditions">Term &amp; conditions</a></li>
+<li><a href="#" title="Size guide">Size guide</a></li>
+<li><a href="#" title="Privacy policy">Privacy policy</a></li>
+<li><a href="#" title="Search terms">Search terms</a></li>
+</ul>]]></htmlData>
+			</block>
+</position>
+<position title="Newletters" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Subscribe" block_type="module" module_name="blocknewsletter" hook_name="footer" show_title="1" />
+<block title="Social" block_type="module" module_name="jmssocial" hook_name="top" show_title="0" />
+</position>
+</row>
+<row title="Footer bottom" class="footer-bottom" fullwidth="0">
+<position title="Coppy right" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Coppy right" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<p>© 2015 Design by <a href="#" title="Joommasters.com">Joommasters.com</a> Power by Prestashop</p>]]></htmlData>
+			</block>
+</position>
+</row>
+</profile>
+</entity_profile>

@@ -1,0 +1,1 @@
+Utilizar el código ASIN para sincronizar el producto en prioritario si es completado. Este valor sobrescribe implícitamente el campo de sincronización.

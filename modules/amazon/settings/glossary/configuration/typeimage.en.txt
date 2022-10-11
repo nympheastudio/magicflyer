@@ -1,0 +1,1 @@
+Kind of image which will be use for Amazon (Please refer to Preference > Images for more informations)

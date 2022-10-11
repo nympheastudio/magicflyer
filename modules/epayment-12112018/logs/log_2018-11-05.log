@@ -1,0 +1,8 @@
+2018-11-05 00:56:56 1541375816 DEBUG: URL to check 2
+2018-11-05 00:56:56 1541375816 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-05 00:56:57 1541375816 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-11-05 00:56:57 1541375816 DEBUG: Cart 29149: Redirecting customer to Paybox (CARTE, CB).
+2018-11-05 14:50:58 1541425858 DEBUG: URL to check 2
+2018-11-05 14:50:58 1541425858 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-05 14:50:58 1541425858 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-11-05 14:50:58 1541425858 DEBUG: Cart 29157: Redirecting customer to Paybox (CARTE, CB).

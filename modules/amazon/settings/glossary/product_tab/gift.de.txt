@@ -1,0 +1,3 @@
+Sie können den Geschenke-Service benutzen, um ein Geschenkeinpack-Service oder Geschenknachricht-Service den Kunden anzubieten Ein Geschenke-Service kann Ihre Verkaufsabschlüsse steigern, indem Sie Ihren Kunden eine bessere Shopping Erfahrung bieten.
+
+Die Geschenke-Option ermöglicht den Kunden eine Bestellung spezifisch als Geschenk aufzugeben. Sie können Optionen, wie eine Nachricht des Käufers oder eine Geschenkverpackung, hinzufügen. Wenn ein Kunde angibt, dass die Bestellung ein Geschenk ist, ist der Produktpreis voreingestellt nicht auf dem Packzettel aufgeführt. Jedoch können die Kunden wählen die Sichtbarkeit des Preises zu gewähren. Die Wahl Ihres Kunden wird auf dem Packzettel, welcher im Bestellungsmanagement-Werkzeug ist, aufgeführt.

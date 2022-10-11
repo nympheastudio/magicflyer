@@ -1,0 +1,10 @@
+2022-02-24 14:15:09 1645708508 DEBUG: URL to check 2
+2022-02-24 14:15:09 1645708508 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-02-24 14:15:09 1645708508 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-02-24 14:15:09 1645708508 DEBUG: Cart 58796: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-02-24 22:32:30 1645738350 DEBUG: URL to check 2
+2022-02-24 22:32:30 1645738350 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-02-24 22:32:30 1645738350 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-02-24 22:32:30 1645738350 DEBUG: Cart 58818: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-02-24 22:33:22 1645738402 DEBUG: Call params: M=7699&R=58818%20-%20Pierric%20ALBRUS&T=1593908960&B=0&C=CB&D=2206&E=00040&F=N&G=N&I=FRA&J=04&N=497827&O=Y&P=3DSECURE&Q=22%3A33%3A21&S=7449211&W=24022022&Y=FRA&Z=0-0&K=cbO%2FBXeDvJD1v0LPGwe82GOD01IYZrNH%2FUm8rrFESEcs8etwNYYbcWoRX%2B1VCTU3ozuUhy%2B0TX2d7a90WjrPRtmzs8ax1hA%2BBXWp1vhPtYnMdwYE5Mha55%2FdjRUBlOnriQlAC0%2Fk3nkpTItyeTKtekAxMWQOb95AKWU0syWo%2FwI%3D
+2022-02-24 22:33:22 1645738402 DEBUG: Cart 58818: (IPN) Payment was refused by Verifone e-commerce (40).

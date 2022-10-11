@@ -1,0 +1,16 @@
+2017-10-08 14:57:35 1507467454 DEBUG: URL to check 2
+2017-10-08 14:57:35 1507467454 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-08 14:57:35 1507467454 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-10-08 14:57:35 1507467454 DEBUG: Cart 18580: Redirecting customer to Paybox (CARTE, CB).
+2017-10-08 15:00:36 1507467636 DEBUG: Call params: M=2592&R=18580%20-%20Pauline%20Fevrier&T=754457728&A=122389&B=0&C=Visa&D=1812&E=00000&F=Y&G=O&I=FRA&J=82&N=497203&O=Y&P=3DSECURE&Q=14%3A57%3A35&S=741137971&W=08102017&Y=FRA&K=1yVb9ncHW0qFCEEj9nxz98KsMLBs4fCYzFVWWX5BSYhXxDPOJmfJhv1oO%2BczLvFbgzG3QzoI9jqP9s1SUBB%2F%2BEUicbAMavy3lzUizDQ0dTqLLeb%2BJq4ngbgVRgGxDD1xvyFmquJr%2FLXr6Ar%2BeMUZmD9GXgr5XPSdBl7lEkulthI%3D
+2017-10-08 15:00:36 1507467636 DEBUG: Cart 18580: Standard IPN
+2017-10-08 15:00:36 1507467636 DEBUG: Cart 18580: Validating order
+2017-10-08 15:00:36 1507467636 DEBUG: Cart 18580: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-10-08 15:00:37 1507467637 DEBUG: Cart 18580: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-10-08 15:00:38 1507467638 DEBUG: Cart 18580: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-10-08 15:00:39 1507467639 DEBUG: Cart 18580: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2017-10-08 15:00:41 1507467641 DEBUG: Cart 18580: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2017-10-08 15:00:41 1507467636 DEBUG: Cart 18580: Order 1723 / Le paiement a été autorisé et capturé par Paybox.
+2017-10-08 15:00:41 1507467641 DEBUG: Call params: M=2592&R=18580%20-%20Pauline%20Fevrier&T=754457728&A=122389&B=0&C=Visa&D=1812&E=00000&F=Y&G=O&I=FRA&J=82&N=497203&O=Y&P=3DSECURE&Q=14%3A57%3A35&S=741137971&W=08102017&Y=FRA&K=1yVb9ncHW0qFCEEj9nxz98KsMLBs4fCYzFVWWX5BSYhXxDPOJmfJhv1oO%2BczLvFbgzG3QzoI9jqP9s1SUBB%2F%2BEUicbAMavy3lzUizDQ0dTqLLeb%2BJq4ngbgVRgGxDD1xvyFmquJr%2FLXr6Ar%2BeMUZmD9GXgr5XPSdBl7lEkulthI%3D
+2017-10-08 15:00:41 1507467641 DEBUG: Cart 18580: (IPN) Cart already being validated as order.
+2017-10-08 15:00:42 1507467642 DEBUG: Cart 18580: Customer is back from Paybox payment page. Payment success.

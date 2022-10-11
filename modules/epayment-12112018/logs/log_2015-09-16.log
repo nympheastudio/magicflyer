@@ -1,0 +1,14 @@
+2015-09-16 15:18:08 1442409487 DEBUG: URL to check 2
+2015-09-16 15:18:08 1442409487 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-16 15:18:08 1442409487 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-16 15:18:08 1442409487 DEBUG: Cart 75: Redirecting customer to Paybox (CARTE, CB).
+2015-09-16 15:18:42 1442409522 DEBUG: Cart 75: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-09-16 15:18:43 1442409523 DEBUG: Cart 75: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-09-16 15:18:45 1442409525 DEBUG: Cart 75: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-09-16 15:18:45 1442409525 DEBUG: Call params: M=24282&R=75%20-%20Beydon%20Frederique&T=1164621074&A=927079&B=0&C=MasterCard&D=1801&E=00000&G=D&H=58330FCF442EA6A042E1DFA23936D974DF9A050E&I=LUX&J=&N=&P=CARTE&Q=15%3A18%3A11&S=66987980&W=16092015&Y=LUX&K=jQXrlfkV6fHzEinebJShYbf3smPd3AtZUgXrAEIfcNnYVwzmrxynZbjojn%2BenIHfdkGDIAJ4%2FdI6YLNJkjyHc4xZscDQ%2BHgMqq7hhOkasUaXg%2F8Y4Et8W75Kg%2BbgnsEKl86hbO8IUcTT1OHwviZKO2nED6nsRRvwFTQympou7t4%3D
+2015-09-16 15:18:45 1442409525 DEBUG: Cart 75: Standard IPN
+2015-09-16 15:18:45 1442409525 DEBUG: Cart 75: Validating order (PS1.5+)
+2015-09-16 15:18:46 1442409526 DEBUG: Cart 75: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2015-09-16 15:18:48 1442409528 DEBUG: Cart 75: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2015-09-16 15:18:49 1442409525 DEBUG: Cart 75: Order 23 / Le paiement a été autorisé et capturé par Paybox.
+2015-09-16 15:18:49 1442409529 DEBUG: Cart 75: Customer is back from Paybox payment page. Payment success.

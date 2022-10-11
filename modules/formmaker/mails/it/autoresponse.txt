@@ -1,0 +1,20 @@
+Salve
+Grazie per aver inviato il modulo, ti contatteremo al più presto possibile.
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Language
+{lang_name}
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 
+
+
+
+
+

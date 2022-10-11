@@ -1,0 +1,10 @@
+2016-12-12 14:06:02 1481547962 DEBUG: URL to check 2
+2016-12-12 14:06:02 1481547962 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-12-12 14:06:02 1481547962 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-12-12 14:06:02 1481547962 DEBUG: Cart 5521: Redirecting customer to Paybox (CARTE, CB).
+2016-12-12 14:07:09 1481548029 DEBUG: Call params: M=4294&R=5521%20-%20terrier%20duraisin%20julien&T=673144686&A=166188&B=0&C=Visa&D=1811&E=00000&F=Y&G=O&I=FRA&J=01&N=497892&O=Y&P=3DSECURE&Q=14%3A06%3A03&S=671992357&W=12122016&Y=FRA&K=rmKQeftTCodlc86Bgzz8oEaiG050oR%2FPzYC2fHNz4pF4dRsIthlTLC3tLZEWHn%2Fh9BwNrjvI0ycHITKgXdGDOl2U2VNAy60wETYsB6sq03Kv4FsjxOU%2B2CkYJgD%2Fuiq0hrqMZnn%2BSuHY3QnFFhM%2FT%2Bb9%2BiQJbOV1%2B9aPtXK0ZjQ%3D
+2016-12-12 14:07:09 1481548029 DEBUG: Cart 5521: Standard IPN
+2016-12-12 14:07:09 1481548029 DEBUG: Cart 5521: Validating order
+2016-12-12 14:07:09 1481548029 DEBUG: Cart 5521: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-12-12 14:07:10 1481548029 DEBUG: Cart 5521: Order 514 / Le paiement a été autorisé et capturé par Paybox.
+2016-12-12 14:07:10 1481548030 DEBUG: Cart 5521: Customer is back from Paybox payment page. Payment success.

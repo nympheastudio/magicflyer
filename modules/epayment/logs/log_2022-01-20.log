@@ -1,0 +1,31 @@
+2022-01-20 18:40:48 1642700448 DEBUG: URL to check 2
+2022-01-20 18:40:48 1642700448 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-01-20 18:40:48 1642700448 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-01-20 18:40:48 1642700448 DEBUG: Cart 57704: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-01-20 18:43:19 1642700599 DEBUG: Call params: M=18605&R=57704%20-%20Isabelle%20DEJA&T=1586253814&A=617094&B=0&C=CB&D=2409&E=00000&F=Y&G=O&I=FRA&J=34&N=497401&O=Y&P=3DSECURE&Q=18%3A43%3A17&S=438963794&W=20012022&Y=FRA&Z=0-0&K=ZHDPEe6l6j4nRgeq3cEpbRKN2I8H7RjJFi7YGCTwM711nHMyYMJETwxuyeZmt%2FXJCrCgjkucGcU1oV90t5v1xgdqIj83VvLxHe86N4BJdM%2BRZi1Yz4YdxvWZ1ST91HEO%2FE0mnbL5Mmw9xgPGpzBI78zxGacZKASi2eS0aFMFLJE%3D
+2022-01-20 18:43:19 1642700599 DEBUG: Cart 57704: Standard IPN
+2022-01-20 18:43:19 1642700599 DEBUG: Cart 57704: Validating order
+2022-01-20 18:43:19 1642700599 DEBUG: Cart 57704: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-01-20 18:43:20 1642700600 DEBUG: Cart 57704: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-01-20 18:43:21 1642700601 DEBUG: Cart 57704: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-01-20 18:43:23 1642700603 DEBUG: Cart 57704: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-01-20 18:43:23 1642700599 DEBUG: Cart 57704: Order 5667 validated, creating details
+2022-01-20 18:43:23 1642700599 DEBUG: Cart 57704: Order 5667 / Le paiement a été autorisé et capturé par Paybox.
+2022-01-20 18:43:24 1642700604 DEBUG: Cart 57704: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-01-20 19:52:35 1642704755 DEBUG: URL to check 2
+2022-01-20 19:52:35 1642704755 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-01-20 19:52:35 1642704755 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-01-20 19:52:35 1642704755 DEBUG: Cart 57723: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-01-20 19:58:56 1642705136 DEBUG: Call params: M=9162&R=57723%20-%20Loepp%20Ann-Christine&T=1586275103&B=0&C=MasterCard&D=2408&E=00040&F=N&G=N&I=DEU&J=04&N=523254&O=Y&P=CARTE&Q=19%3A58%3A55&S=438985309&W=20012022&Y=DEU&Z=0-0&K=wpik0rhQNwRWilnEqqeHrpZraaHozCOoxV0z1jVZbZhSdwQQXrdgemFqJztrRCm52DX2RI2ZWong0oX3bk10%2BMk3s%2FHHbRMqfiJDXePrPVe8oYf%2B2DmUM4pZe1D7Wf8zej6%2BhRs%2BTBPX8KyOxMM894TP38lGhho6LKlGqnpxuO4%3D
+2022-01-20 19:58:56 1642705136 DEBUG: Cart 57723: (IPN) Payment was refused by Verifone e-commerce (40).
+2022-01-20 23:12:48 1642716767 DEBUG: URL to check 2
+2022-01-20 23:12:48 1642716767 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-01-20 23:12:48 1642716767 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-01-20 23:12:48 1642716767 DEBUG: Cart 57730: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-01-20 23:14:32 1642716872 DEBUG: Call params: M=13491&R=57730%20-%20JEROME%20RATIGNET&T=1586312839&A=562641&B=0&C=CB&D=2403&E=00000&F=Y&G=O&I=FRA&J=15&N=499041&O=Y&P=3DSECURE&Q=23%3A14%3A30&S=439021699&W=20012022&Y=FRA&Z=0-0&K=vCxmEZj2JxytABehm8cMY1834qwIhE4ITMWdzi74W%2Bq1SJqZwGnsjAOH9YXKhX9ljLcNbULmD%2FiPoL5XhlquOptj2fmvfiiMeVGKL7s6bKeYsgQiF1DNlsVtZjtyOzHz7inay3p3XPgyg90SIA1s1vBiNC3kpQccqnegTDkMKQw%3D
+2022-01-20 23:14:32 1642716872 DEBUG: Cart 57730: Standard IPN
+2022-01-20 23:14:32 1642716872 DEBUG: Cart 57730: Validating order
+2022-01-20 23:14:32 1642716872 DEBUG: Cart 57730: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-01-20 23:14:34 1642716872 DEBUG: Cart 57730: Order 5668 validated, creating details
+2022-01-20 23:14:34 1642716872 DEBUG: Cart 57730: Order 5668 / Le paiement a été autorisé et capturé par Paybox.
+2022-01-20 23:14:34 1642716874 DEBUG: Cart 57730: Customer is back from Verifone e-commerce payment page. Payment success.

@@ -1,0 +1,1 @@
+Esclusione dei prodotti il cui prezzo è maggiore di questo valore.

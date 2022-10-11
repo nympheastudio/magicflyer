@@ -1,0 +1,1 @@
+Additionnal PDF file to send as attachment, which could be for example: Terms & Conditions.

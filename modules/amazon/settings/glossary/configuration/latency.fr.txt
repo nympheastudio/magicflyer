@@ -1,0 +1,2 @@
+Délai de latence en jours avant que le produit ne soit expédié (ex : temps de préparation, votre délai avant expédition).
+Ce sera le délai par défaut et pourra être remplacé par le délai indiqué sur la fiche article si présent. 

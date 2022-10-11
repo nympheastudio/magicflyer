@@ -1,0 +1,60 @@
+Commande n°;Mode de paiement;Total payé;Total produits;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Adresse de livraision;Code pays de livraison
+1800;Paybox by Verifone;24.420000;16.250000;4.920000;1792;2017-12-01 11:19:15;1;ondine;erard;22 avenue camille cavallier centre de formation;FR
+1801;Paybox by Verifone;291.060000;236.660000;7.060000;1793;2017-12-02 13:44:18;1;Christiane;Feron;31 rue du Chardonnay;FR
+1801;Paybox by Verifone;291.060000;236.660000;7.060000;1793;2017-12-02 13:44:18;1;Christiane;Feron;31 rue du Chardonnay;FR
+1801;Paybox by Verifone;291.060000;236.660000;7.060000;1793;2017-12-02 13:44:18;1;Christiane;Feron;31 rue du Chardonnay;FR
+1802;PayPal;26.640000;16.250000;7.140000;1794;2017-12-04 20:46:40;1;sylvie;drache;4 rue de lanessan ;FR
+1803;Paybox by Verifone;43.920000;32.500000;4.920000;1795;2017-12-04 21:17:55;1;corinne;plessis;11 la touche;FR
+1803;Paybox by Verifone;43.920000;32.500000;4.920000;1795;2017-12-04 21:17:55;1;corinne;plessis;11 la touche;FR
+1804;Paybox by Verifone;108.640000;84.580000;7.140000;1796;2017-12-04 21:46:07;1;Myriam;Prette;47 chemin du Tir aux Pigeons;FR
+1805;Paybox by Verifone;38.420000;27.920000;4.920000;1797;2017-12-05 00:58:35;1;Emilie;Millard;19 cours de Bilbao;FR
+1805;Paybox by Verifone;38.420000;27.920000;4.920000;1797;2017-12-05 00:58:35;1;Emilie;Millard;19 cours de Bilbao;FR
+1806;PayPal;48.930000;27.920000;15.430000;1798;2017-12-05 14:34:46;0;francesca;capodagli;via 25 aprile 9;IT
+1806;PayPal;48.930000;27.920000;15.430000;1798;2017-12-05 14:34:46;0;francesca;capodagli;via 25 aprile 9;IT
+1807;PayPal;44.680000;24.380000;15.430000;1799;2017-12-05 16:49:12;1;francesca;capodagli;via 25 aprile 9;IT
+1808;PayPal;124.430000;90.830000;15.430000;1800;2017-12-06 12:12:07;1;Danilo;Stefani;Via di Mezzo;IT
+1809;Paybox by Verifone;59.460000;37.340000;14.660000;1801;2017-12-06 13:48:41;1;Kim;Blauvelt-van Gent;JH Oortweg 21;NL
+1809;Paybox by Verifone;59.460000;37.340000;14.660000;1801;2017-12-06 13:48:41;1;Kim;Blauvelt-van Gent;JH Oortweg 21;NL
+1810;Paybox by Verifone;64.920000;50.000000;4.920000;1802;2017-12-07 09:38:51;1;valerian;laude;la revelle;FR
+1811;Paybox by Verifone;123.140000;96.670000;7.140000;1803;2017-12-07 14:44:39;1;vanessa;thevenot;la grenouillére;FR
+1812;Paybox by Verifone;35.140000;23.330000;7.140000;1804;2017-12-07 18:23:21;1;florent;kowalski;20 quai pierre scize;FR
+1813;Paybox by Verifone;63.590000;44.300000;19.290000;1805;2017-12-08 11:39:00;1;Jean-Marie;Borel;17, Pré-Jérôme ;CH
+1813;Paybox by Verifone;63.590000;44.300000;19.290000;1805;2017-12-08 11:39:00;1;Jean-Marie;Borel;17, Pré-Jérôme ;CH
+1813;Paybox by Verifone;63.590000;44.300000;19.290000;1805;2017-12-08 11:39:00;1;Jean-Marie;Borel;17, Pré-Jérôme ;CH
+1814;Paybox by Verifone;58.370000;44.540000;4.920000;1806;2017-12-09 21:59:48;1;Proulatsami;HOANG;6;FR
+1815;Paybox by Verifone;103.070000;71.040000;17.820000;1807;2017-12-10 20:51:24;1;Katharina;Schwengels;Wunderburgstrasse 95;DE
+1816;Paybox by Verifone;24.420000;16.250000;4.920000;1808;2017-12-10 21:20:34;1;Emma;Burban;26 route de savigny;FR
+1817;PayPal;18.920000;11.670000;4.920000;1809;2017-12-11 14:22:44;1;David;Masson;5 boulevard Tolstoï;FR
+1818;Paybox by Verifone;239.590000;194.990000;5.590000;1810;2017-12-11 14:25:57;1;audrey;ANtoine;13 rue de madrid;FR
+1818;Paybox by Verifone;239.590000;194.990000;5.590000;1810;2017-12-11 14:25:57;1;audrey;ANtoine;13 rue de madrid;FR
+1818;Paybox by Verifone;239.590000;194.990000;5.590000;1810;2017-12-11 14:25:57;1;audrey;ANtoine;13 rue de madrid;FR
+1819;PayPal;125.860000;97.800000;28.060000;1811;2017-12-12 00:12:05;1;Laurence;Panchaud;Route du Léman 34;CH
+1819;PayPal;125.860000;97.800000;28.060000;1811;2017-12-12 00:12:05;1;Laurence;Panchaud;Route du Léman 34;CH
+1819;PayPal;125.860000;97.800000;28.060000;1811;2017-12-12 00:12:05;1;Laurence;Panchaud;Route du Léman 34;CH
+1820;Paybox by Verifone;152.820000;112.500000;17.820000;1812;2017-12-13 12:09:32;1;Lidia;Miranda;11A, am Duerf;LU
+1821;PayPal;32.920000;23.330000;4.920000;1813;2017-12-13 14:38:34;1;jean marc;thouvenin;9 rue d'Ancy;FR
+1822;Paybox by Verifone;60.290000;43.750000;7.790000;1814;2017-12-14 13:54:43;1;Amélie;Lamandé;11 chemin des sablons;FR
+1823;Paybox by Verifone;52.920000;40.000000;4.920000;1815;2017-12-14 15:14:51;1;Dominique ;FESSY;Château de la Tourette;FR
+1824;PayPal;360.740000;287.500000;15.740000;1816;2017-12-14 17:43:52;1;Joeri;Van den Borne;Parklaan 46;BE
+1824;PayPal;360.740000;287.500000;15.740000;1816;2017-12-14 17:43:52;1;Joeri;Van den Borne;Parklaan 46;BE
+1825;Virement bancaire;181.470000;181.800000;45.040000;1820;2017-12-20 09:39:28;1;Jennifer;Longine;LOTISSEMENT SOCREDO;PF
+1825;Virement bancaire;181.470000;181.800000;45.040000;1820;2017-12-20 09:39:28;1;Jennifer;Longine;LOTISSEMENT SOCREDO;PF
+1825;Virement bancaire;181.470000;181.800000;45.040000;1820;2017-12-20 09:39:28;1;Jennifer;Longine;LOTISSEMENT SOCREDO;PF
+1825;Virement bancaire;181.470000;181.800000;45.040000;1820;2017-12-20 09:39:28;1;Jennifer;Longine;LOTISSEMENT SOCREDO;PF
+1825;Virement bancaire;181.470000;181.800000;45.040000;1820;2017-12-20 09:39:28;1;Jennifer;Longine;LOTISSEMENT SOCREDO;PF
+1825;Virement bancaire;181.470000;181.800000;45.040000;1820;2017-12-20 09:39:28;1;Jennifer;Longine;LOTISSEMENT SOCREDO;PF
+1825;Virement bancaire;181.470000;181.800000;45.040000;1820;2017-12-20 09:39:28;1;Jennifer;Longine;LOTISSEMENT SOCREDO;PF
+1825;Virement bancaire;181.470000;181.800000;45.040000;1820;2017-12-20 09:39:28;1;Jennifer;Longine;LOTISSEMENT SOCREDO;PF
+1826;PayPal;43.920000;32.500000;4.920000;1817;2017-12-18 12:25:11;0;sandrine;HALBREICH;82/84 route de la libération;FR
+1826;PayPal;43.920000;32.500000;4.920000;1817;2017-12-18 12:25:11;0;sandrine;HALBREICH;82/84 route de la libération;FR
+1827;Paybox by Verifone;46.790000;32.500000;7.790000;1818;2017-12-18 23:42:29;1;Sigolène ;Deschamps ;8 Rue Lebouteux ;FR
+1828;Paybox by Verifone;21.790000;11.670000;7.790000;1819;2017-12-19 12:10:13;1;NATALE;PATTI;16 RUE VICTOR HUGO;FR
+1829;Paybox by Verifone;83.860000;74.580000;7.790000;1821;2017-12-20 11:16:29;1;Amélie;Lamandé;11 chemin des sablons;FR
+1829;Paybox by Verifone;83.860000;74.580000;7.790000;1821;2017-12-20 11:16:29;1;Amélie;Lamandé;11 chemin des sablons;FR
+1830;Paybox by Verifone;39.430000;20.000000;15.430000;1822;2017-12-20 12:51:49;1;annalisa;gramigna;Piazza San Lorenzo in Lucina 26;IT
+1831;PayPal;18.920000;11.670000;4.920000;1823;2017-12-22 16:54:16;1;Philippe;Joannis;6 chemin de Pierrotone;FR
+1832;Paybox by Verifone;120.920000;96.670000;4.920000;1824;2017-12-28 09:41:21;1;Neslihan;Can ;83 avenue de puy besseau ;FR
+1833;Paybox by Verifone;57.420000;43.750000;4.920000;1825;2017-12-28 17:14:41;1;Vanessa;FERRON;26 place de l'église;FR
+1834;Virement bancaire;305.170000;222.350000;82.820000;0;0000-00-00 00:00:00;0;muriel;malfar;LOT 163 RUE DE LA COURBET DUMBEA SUR MER;NC
+1834;Virement bancaire;305.170000;222.350000;82.820000;0;0000-00-00 00:00:00;0;muriel;malfar;LOT 163 RUE DE LA COURBET DUMBEA SUR MER;NC
+1835;Paybox by Verifone;18.920000;11.670000;4.920000;1826;2017-12-30 19:45:59;1;Lucie;Jouenne;13 Rue du Subiet dite du U;FR

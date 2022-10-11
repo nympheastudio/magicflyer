@@ -1,0 +1,11 @@
+2016-09-27 14:35:14 1474979714 DEBUG: URL to check 2
+2016-09-27 14:35:14 1474979714 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-27 14:35:14 1474979714 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-27 14:35:14 1474979714 DEBUG: Cart 3571: Redirecting customer to Paybox (CARTE, CB).
+2016-09-27 14:38:48 1474979928 DEBUG: Call params: M=11097&R=3571%20-%20Sabrina%20Sauvage&T=655205145&A=856559&B=0&C=MasterCard&D=1902&E=00000&F=Y&G=O&I=FRA&J=66&N=513162&O=Y&P=3DSECURE&Q=14%3A35%3A15&S=655456583&W=27092016&Y=FRA&K=ZyHdRrR8M7dOA8AkErvro%2FIH93CZ%2BgtaprrAryBlFY1W2etVwLpelXQi5Y%2FUchcmVBLIWgO%2FWR6aITGw4arGCPxjm9nQyUI0np37s7sM4Z1hW4vYGJavvB8%2F0qjCzvjZrMm0mU9OMBSUdWmoZQyer5Y2PnNTOKNi9IFp1Wr4D50%3D
+2016-09-27 14:38:48 1474979928 DEBUG: Cart 3571: Standard IPN
+2016-09-27 14:38:48 1474979928 DEBUG: Cart 3571: Validating order
+2016-09-27 14:38:48 1474979928 DEBUG: Cart 3571: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-27 14:38:50 1474979930 DEBUG: Cart 3571: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-09-27 14:38:50 1474979928 DEBUG: Cart 3571: Order 397 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-27 14:38:51 1474979931 DEBUG: Cart 3571: Customer is back from Paybox payment page. Payment success.

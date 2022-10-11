@@ -1,0 +1,4 @@
+Vous pouvez configurer une règle de prix en valeur ou en pourcentage pour une ou plusieurs tranches de prix
+
+Documentation : 
+http://documentation.common-services.com/amazonv4/regles-de-prix/

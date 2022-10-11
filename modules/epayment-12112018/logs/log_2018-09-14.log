@@ -1,0 +1,17 @@
+2018-09-14 04:55:42 1536893742 DEBUG: URL to check 2
+2018-09-14 04:55:42 1536893742 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-14 04:55:42 1536893742 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-14 04:55:42 1536893742 DEBUG: Cart 27858: Redirecting customer to Paybox (CARTE, CB).
+2018-09-14 04:57:19 1536893839 DEBUG: Call params: M=11267&R=27858%20-%20Ludovic%20MARIE&T=48669168&A=236324&B=0&C=Visa&D=1904&E=00000&F=Y&G=O&I=REU&J=74&N=497040&O=Y&P=3DSECURE&Q=04%3A55%3A45&S=926476529&W=14092018&Y=FRA&K=kin%2F6EXVKEZmdJgQkmJz3EKYqn%2FPsCSnixyy2zItIcpHpPfocp95gCHtMHTyI8R7Wxm1F4JgBUpBaKWdndERFDnb53sAvozoDhH24PeGwK1LrtuvAE5HNJD2u71cLz3GU%2BdqbbG56ZqWkBvKnkBzQWauwKX%2BZicfDpbq7oDFuaA%3D
+2018-09-14 04:57:19 1536893839 DEBUG: Cart 27858: Standard IPN
+2018-09-14 04:57:19 1536893839 DEBUG: Cart 27858: Validating order
+2018-09-14 04:57:20 1536893839 DEBUG: Cart 27858: Order 3293 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-14 04:57:20 1536893840 DEBUG: Cart 27858: Customer is back from Paybox payment page. Payment success.
+2018-09-14 09:03:41 1536908621 DEBUG: URL to check 2
+2018-09-14 09:03:41 1536908621 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-14 09:03:41 1536908621 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-14 09:03:41 1536908621 DEBUG: Cart 27861: Redirecting customer to Paybox (CARTE, CB).
+2018-09-14 21:36:57 1536953817 DEBUG: URL to check 2
+2018-09-14 21:36:57 1536953817 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-14 21:36:57 1536953817 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-09-14 21:36:57 1536953817 DEBUG: Cart 27901: Redirecting customer to Paybox (CARTE, CB).

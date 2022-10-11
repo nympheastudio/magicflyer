@@ -1,0 +1,2 @@
+Ermöglicht die Erstellung von Versand-Überschreibungen pro Produkt.
+Diese Option fügt jeder Registerkarte im Marketplace eine Überschreiben-Funktion für den 

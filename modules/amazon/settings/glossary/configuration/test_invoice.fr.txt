@@ -1,0 +1,2 @@
+Mode Test: Prépare l'email et la facture et vous l'envoie par email, à l'adresse de votre boutique. 
+Ceci vous permet de tester la fonctionnalité, et de vérifier son bon fonctionnement.

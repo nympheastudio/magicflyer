@@ -1,0 +1,17 @@
+2020-10-11 18:16:36 1602432996 DEBUG: URL to check 2
+2020-10-11 18:16:36 1602432996 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-10-11 18:16:36 1602432996 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2020-10-11 18:16:36 1602432996 DEBUG: Cart 48362: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-10-11 18:20:53 1602433253 DEBUG: URL to check 2
+2020-10-11 18:20:53 1602433253 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-10-11 18:20:53 1602433253 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2020-10-11 18:20:53 1602433253 DEBUG: Cart 48362: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-10-11 18:22:25 1602433345 DEBUG: Call params: M=4112&R=48362%20-%20Emeline%20%20BRIGNON&T=957702619&A=131933&B=0&C=Visa&D=2303&E=00000&F=Y&G=O&I=FRA&J=71&N=497777&O=Y&P=CARTE&Q=18%3A20%3A52&S=217368104&W=11102020&Y=FRA&Z=0-0&K=NuBHnujhkqLD7IvGLtpLL6P%2F%2BeSNTscnRCbzjqTBEWKjYFdUV%2FbnCCLxqZ0UlApsq7kB5A5c%2F7iqFw8jCJohsZcGGepZlBKQ22%2B6iLwjK37ER%2B9h0WOo7BeqUKjyKJCEqb1S%2BjEHLLZRFnGgsBtPjef9RM%2F90aXbKsy0Wvb%2FCIY%3D
+2020-10-11 18:22:25 1602433345 DEBUG: Cart 48362: Standard IPN
+2020-10-11 18:22:25 1602433345 DEBUG: Cart 48362: Validating order
+2020-10-11 18:22:26 1602433345 DEBUG: Cart 48362: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2020-10-11 18:22:27 1602433347 DEBUG: Cart 48362: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2020-10-11 18:22:28 1602433348 DEBUG: Cart 48362: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2020-10-11 18:22:28 1602433345 DEBUG: Cart 48362: Order 5097 validated, creating details
+2020-10-11 18:22:28 1602433345 DEBUG: Cart 48362: Order 5097 / Le paiement a été autorisé et capturé par Paybox.
+2020-10-11 18:22:30 1602433350 DEBUG: Cart 48362: Customer is back from Verifone e-commerce payment page. Payment success.

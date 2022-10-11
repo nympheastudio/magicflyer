@@ -1,0 +1,2 @@
+Utilizzare un account individuale o globale (predefinito)
+L'account individuale crea un account per cliente

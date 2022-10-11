@@ -1,0 +1,14 @@
+2017-09-10 06:54:54 1505019294 DEBUG: URL to check 2
+2017-09-10 06:54:54 1505019294 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-10 06:54:54 1505019294 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-10 06:54:54 1505019294 DEBUG: Cart 17599: Redirecting customer to Paybox (CARTE, CB).
+2017-09-10 06:56:02 1505019362 DEBUG: Call params: M=4005&R=17599%20-%20Francoise%20MARBOUTIN&T=746930411&A=572252&B=0&C=Visa&D=1908&E=00000&F=Y&G=O&I=FRA&J=32&N=497402&O=Y&P=3DSECURE&Q=06%3A54%3A55&S=734522060&W=10092017&Y=FRA&K=262pPINI8GSjpMnS%2BqN%2FJVWc74hoXUOnDG%2FeImx0lX0O8200PSyIArCR6xNkLsEKST2viZtlHW1K3LkeQn8Dmb4EvQ%2BG6ya9XPPylrwJ2vipOnR%2Bcw%2FrjsP6zftW%2FIHZRMdct6hc0VDtIg8ReMUM%2FjsBcdwo%2BXfk6UuL%2FpepaI0%3D
+2017-09-10 06:56:02 1505019362 DEBUG: Cart 17599: Standard IPN
+2017-09-10 06:56:02 1505019362 DEBUG: Cart 17599: Validating order
+2017-09-10 06:56:03 1505019363 DEBUG: Cart 17599: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-09-10 06:56:04 1505019364 DEBUG: Cart 17599: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-09-10 06:56:05 1505019365 DEBUG: Cart 17599: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-09-10 06:56:06 1505019362 DEBUG: Cart 17599: Order 1645 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-10 06:56:06 1505019366 DEBUG: Call params: M=4005&R=17599%20-%20Francoise%20MARBOUTIN&T=746930411&A=572252&B=0&C=Visa&D=1908&E=00000&F=Y&G=O&I=FRA&J=32&N=497402&O=Y&P=3DSECURE&Q=06%3A54%3A55&S=734522060&W=10092017&Y=FRA&K=262pPINI8GSjpMnS%2BqN%2FJVWc74hoXUOnDG%2FeImx0lX0O8200PSyIArCR6xNkLsEKST2viZtlHW1K3LkeQn8Dmb4EvQ%2BG6ya9XPPylrwJ2vipOnR%2Bcw%2FrjsP6zftW%2FIHZRMdct6hc0VDtIg8ReMUM%2FjsBcdwo%2BXfk6UuL%2FpepaI0%3D
+2017-09-10 06:56:06 1505019366 DEBUG: Cart 17599: (IPN) Cart already being validated as order.
+2017-09-10 06:56:07 1505019367 DEBUG: Cart 17599: Customer is back from Paybox payment page. Payment success.

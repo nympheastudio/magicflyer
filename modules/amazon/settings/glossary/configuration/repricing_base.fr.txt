@@ -1,0 +1,1 @@
+Base de prix sur laquelle on déterminera le prix plancher conditionné par la Limite

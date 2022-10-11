@@ -1,0 +1,11 @@
+2016-12-31 16:39:35 1483198775 DEBUG: URL to check 2
+2016-12-31 16:39:35 1483198775 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-12-31 16:39:35 1483198775 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-12-31 16:39:35 1483198775 DEBUG: Cart 6240: Redirecting customer to Paybox (CARTE, CB).
+2016-12-31 16:41:29 1483198889 DEBUG: Call params: M=2286&R=6240%20-%20Jessica%20Nowicki&T=677624225&A=161174&B=0&C=Visa&D=1906&E=00000&F=Y&G=O&I=FRA&J=02&N=497402&O=Y&P=3DSECURE&Q=16%3A39%3A35&S=676001323&W=31122016&Y=FRA&K=jNXN%2B7PBoWdMUowlKmF18Kpr3FHLQtBgcrVnjQlGGma0UKul8h24njC5tGLgL4yeGcscURmBRo8unMao7dIVs%2Bu2qHUoqkRTxVOiZ7f2dzvT5ydIfBnam3ylt9lCQm%2Fkj7AbW4vpGgOrU18bKAZqAgdx4mReh%2F%2BGSqtOEzS%2Bkvg%3D
+2016-12-31 16:41:29 1483198889 DEBUG: Cart 6240: Standard IPN
+2016-12-31 16:41:29 1483198889 DEBUG: Cart 6240: Validating order
+2016-12-31 16:41:29 1483198889 DEBUG: Cart 6240: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-12-31 16:41:31 1483198891 DEBUG: Cart 6240: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-12-31 16:41:31 1483198889 DEBUG: Cart 6240: Order 534 / Le paiement a été autorisé et capturé par Paybox.
+2016-12-31 16:41:32 1483198892 DEBUG: Cart 6240: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,32 @@
+2022-05-30 10:19:46 1653898786 DEBUG: URL to check 2
+2022-05-30 10:19:46 1653898786 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-30 10:19:46 1653898786 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-30 10:19:46 1653898786 DEBUG: Cart 61598: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-30 11:29:25 1653902964 DEBUG: URL to check 2
+2022-05-30 11:29:25 1653902964 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-30 11:29:25 1653902964 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-30 11:29:25 1653902964 DEBUG: Cart 61719: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-30 11:30:27 1653903027 DEBUG: URL to check 2
+2022-05-30 11:30:27 1653903027 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-30 11:30:27 1653903027 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-30 11:30:27 1653903027 DEBUG: Cart 61719: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-30 11:30:29 1653903029 DEBUG: URL to check 2
+2022-05-30 11:30:29 1653903029 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-30 11:30:29 1653903029 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-30 11:30:29 1653903029 DEBUG: Cart 61719: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-30 11:30:31 1653903031 DEBUG: URL to check 2
+2022-05-30 11:30:31 1653903031 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-30 11:30:31 1653903031 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-30 11:30:31 1653903031 DEBUG: Cart 61719: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-30 13:59:28 1653911968 DEBUG: URL to check 2
+2022-05-30 13:59:28 1653911968 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-30 13:59:28 1653911968 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-30 13:59:28 1653911968 DEBUG: Cart 61724: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-30 14:00:37 1653912037 DEBUG: Call params: M=26719&R=61724%20-%20Estella%20Balbastre&T=1061012126&A=575744&B=0&C=CB&D=2404&E=00000&F=Y&G=O&I=BEL&J=68&N=497841&O=Y&P=3DSECURE&Q=14%3A00%3A35&S=915847685&W=30052022&Y=FRA&Z=0-0&K=DJXDp8vxkL2HbUeLNL7S4T7gLyiaLW75nA0M9f2k0ySi55maiMyEhmFyLsURhy7OJ5gY1zbf%2FVpt01KrRMsaMjwSjDnryZPGTpuMzNs7ccgxy829RjUVjhNTvELB4Gm7y3ejMEp%2BcE9rKTzac7Cito%2FA3%2F58FhhPPywoXrD08tQ%3D
+2022-05-30 14:00:37 1653912037 DEBUG: Cart 61724: Standard IPN
+2022-05-30 14:00:37 1653912037 DEBUG: Cart 61724: Validating order
+2022-05-30 14:00:37 1653912037 DEBUG: Cart 61724: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-05-30 14:00:38 1653912038 DEBUG: Cart 61724: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-05-30 14:00:39 1653912037 DEBUG: Cart 61724: Order 5883 validated, creating details
+2022-05-30 14:00:39 1653912037 DEBUG: Cart 61724: Order 5883 / Le paiement a été autorisé et capturé par Paybox.
+2022-05-30 14:00:40 1653912040 DEBUG: Cart 61724: Customer is back from Verifone e-commerce payment page. Payment success.

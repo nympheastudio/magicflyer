@@ -1,0 +1,204 @@
+@CHARSET "ISO-8859-1";
+* html .clearfix {
+	height:1%;
+}
+.clearfix {
+	display:inline-block;
+}
+html[xmlns] .clearfix {
+	display:block;
+}
+.clearfix:after {
+	clear:both;
+	content:".";
+	display:block;
+	height:0;
+	visibility:hidden;
+}
+#lofform fieldset{
+	margin-top:12px;	
+}
+.lof_config_wrrapper{
+	position: relative;
+}
+.lof_config_wrrapper ul,.lof_config_wrrapper li{
+	list-style:none;
+}
+.lof_config_wrrapper .lof-config-header{
+	color:#025A8D !important;
+	background:none repeat scroll 0 0 #F6F6F6;
+	height: 22px;
+	line-height: 22px;
+	border-bottom:1px; 
+}
+.lof_config_wrrapper .lof-config-header span{
+	margin: 10px;
+	font-weight: bold;
+}
+.lof_config_wrrapper ul > li i{
+	font-size:10px;
+    line-height: 10px;	
+}
+.lof_config_wrrapper ul > li.row{
+	background-color:#FFFFFF;
+	height:30px;
+	background:none;
+	line-height:30px;
+	clear:both;
+	
+}
+.lof_config_wrrapper ul li.row:hover{
+	background-color:#E8F6FE;
+}
+.lof_config_wrrapper .row1{
+	background-color:#F0F0F0;
+	height:30px;	
+	line-height:30px;
+}
+.lof_config_wrrapper label{
+	float: none;
+}
+.lof_config_wrrapper ul li ul li{
+	float: left;
+}
+.lof_config_wrrapper .lof-config-left{
+	width: 40%;
+	font-size: 12px!important;
+}
+.lof_config_wrrapper .lof-config-left LABEL{
+	margin:10px 0;
+}
+.lof_config_wrrapper .lof-config-right{
+	width: 60%;
+	font-size: 13px!important;
+}
+.lof_config_wrrapper .lof-config-right LABEL{
+	font-weight: normal;
+	margin: 0 10px;
+}
+.lof_config_wrrapper .lof-group{
+    background:#F3F3F3!important;	
+	color:#025A8D!important;
+	border-right:#CCC solid 5px;
+	border-left:#CCC solid 5px;
+	padding:0 10px!important;
+	font-weight:bold;
+}
+.lof_config_wrrapper .lof-space-title{
+    width: 100%;
+}
+.lof_config_wrrapper .colorwell {    
+     width: 6em;
+     text-align: center;
+     cursor: pointer;
+}
+.lof_config_wrrapper .colorwell-selected {
+    border: 2px solid #000;
+    font-weight: bold;
+}
+.lof_config_wrrapper #picker{
+    position: absolute;
+    bottom: -3px;
+    right: 100px;    
+}
+.lof_config_wrrapper .it-addrow-block legend{
+    border: none;
+    background: none;
+}
+.lof_config_wrrapper .it-addrow-block .add {
+    background: url("add.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    display: block;
+    height: 26px;
+    text-indent: -999cm;
+    width: 26px;
+}
+.lof_config_wrrapper .it-addrow-block .row { padding:3px 0px;display:block;clear:both; cursor:hand; cursor:pointer;background: none; }
+.lof_config_wrrapper .it-addrow-block input[type=text] {float:left; width:70%}
+.lof_config_wrrapper .it-addrow-block .row .remove { display:block; float:left; background:url(remove.png) no-repeat;width:20px; height:16px;margin-left:12px}
+.lof_config_wrrapper .it-addrow-block  .add{ background:url(add.png) no-repeat;width:26px; height:26px; display:block; text-indent:-999cm; cursor:hand; cursor:pointer}
+.lof_config_wrrapper .spantext {
+    background: none repeat scroll 0 0 #888888;
+    color: #F2F2F2;
+    display: block;
+    float: left;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 2px 11px 2px 8px;
+    line-height: 18px;
+}
+.lof_config_wrrapper .remove {
+    background: url("remove.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    float: left;
+    height: 16px;
+    margin-left: 12px;
+    width: 20px;
+}
+.lof-headding{ background:#F8F8F8; border:#CCC dotted 2px; padding:5px; font-weight:bold; color:#036 }
+
+
+.area2 {
+	position: relative;
+	height: 15px;
+	width: 180px;
+	background: #CCCCCC;
+	float:left;
+}
+ .widthpreview{
+	 	font-weight:bold;
+		color:#FFF; margin-right:4px;
+		 position:relative;
+		padding:1px 3px;
+		background:#666;
+		color:30px; float:left
+ }
+.knob2 {
+	position: absolute;
+	height: 15px;
+	width:10px;
+	background:#666;
+	cursor: pointer;
+}
+.lof-cols{
+	float:left;
+	width:48%;
+	position:relative;
+}
+
+.lof-cols label{
+    margin: 0;
+	color:#666;
+	margin-left:5px;
+	font-weight:bold;	 
+}
+ .lof-cols input, .lof-cols select{
+	width:97%; 	
+}
+.lof-filegroup{
+	background:#f2f2f2;
+	position:relative;
+}
+.lof-fsi{
+	background:#F7F7F7!important;
+	border-bottom:#CCC solid 1px
+}
+.lof-fsi legend{
+	font-size:10px;
+	padding:0 5px;
+	color:#999!important;
+	background:#E0E0E0;
+	margin:0
+}
+.lof-container {
+	padding:1px;
+	margin-top:1px;
+    background:#F7F7F7;
+    font-size: 65%;
+}
+.lof-container:hover{
+	background:#E8F6FE;
+}
+.lof-cols{
+    line-height: 20px;
+}

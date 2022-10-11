@@ -1,0 +1,26 @@
+2016-07-18 10:00:53 1468828853 DEBUG: URL to check 2
+2016-07-18 10:00:53 1468828853 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-07-18 10:00:53 1468828853 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-07-18 10:00:53 1468828853 DEBUG: Cart 1877: Redirecting customer to Paybox (CARTE, CB).
+2016-07-18 10:02:09 1468828929 DEBUG: URL to check 2
+2016-07-18 10:02:09 1468828929 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-07-18 10:02:09 1468828929 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-07-18 10:02:09 1468828929 DEBUG: Cart 1877: Redirecting customer to Paybox (CARTE, CB).
+2016-07-18 10:02:39 1468828959 DEBUG: Call params: M=4800&R=1877%20-%20Beatriz%20%20Santos&T=637403793&A=023857&B=0&C=Visa&D=2006&E=00000&G=D&H=A8C11C6E8C291F01E733CD37843E49CB47FEEC5C&I=ESP&J=&N=&P=CARTE&Q=10%3A00%3A55&S=633423003&W=18072016&Y=ESP&K=huSimRlZHYSS7QAk8zrs%2F0FmajQR4CD1eOFDMmVepue%2FwUsRhh267sCkZkqZFynEfCRJItFKAkzda8FcXqgmAL1y9OJ4lwdyKYGaq1%2B18UKbvHDeERWbwo2lDpScIuBVHAy2QNPiP7QaGjEpkuMM5flsJjfvBHRj4ScxlkX4iLI%3D
+2016-07-18 10:02:39 1468828959 DEBUG: Cart 1877: Standard IPN
+2016-07-18 10:02:39 1468828959 DEBUG: Cart 1877: Validating order (PS1.5+)
+2016-07-18 10:02:39 1468828959 DEBUG: Cart 1877: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-07-18 10:02:40 1468828960 DEBUG: Cart 1877: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-07-18 10:02:41 1468828959 DEBUG: Cart 1877: Order 281 / Le paiement a été autorisé et capturé par Paybox.
+2016-07-18 10:02:42 1468828962 DEBUG: Cart 1877: Customer is back from Paybox payment page. Payment success.
+2016-07-18 11:33:32 1468834412 DEBUG: URL to check 2
+2016-07-18 11:33:32 1468834412 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-07-18 11:33:35 1468834412 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-07-18 11:33:35 1468834412 DEBUG: Cart 1882: Redirecting customer to Paybox (CARTE, CB).
+2016-07-18 11:34:17 1468834457 DEBUG: Call params: M=17800&R=1882%20-%20Sylvie%20PECH%20GARCIA&T=637423164&A=324461&B=0&C=Visa&D=1903&E=00000&G=D&H=1D836643E6B3DDD496726F3168E0E507CE513C0D&I=FRA&J=&N=&P=CARTE&Q=11%3A33%3A37&S=633442367&W=18072016&Y=FRA&K=dtPkkgCFR8pEh9zfz2IYz19jWZtUU9AFN2e%2BwRcSHEEhglT5Rsdu%2B%2BvMvR4H77dVGupsWS5xG3p4h49Ovykzbypyx6W74mdrIEsHLPUCCJyzgaQbTdckXIfq4hXtkOLfsdFGrNYl2WkIhMAJlZebcxtGnEadQAvvIerwd9JKqTo%3D
+2016-07-18 11:34:17 1468834457 DEBUG: Cart 1882: Standard IPN
+2016-07-18 11:34:17 1468834457 DEBUG: Cart 1882: Validating order (PS1.5+)
+2016-07-18 11:34:18 1468834458 DEBUG: Cart 1882: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-07-18 11:34:19 1468834457 DEBUG: Cart 1882: Order 282 / Le paiement a été autorisé et capturé par Paybox.
+2016-07-18 11:34:19 1468834459 DEBUG: Cart 1882: Customer is back from Paybox payment page. Payment success.
+2016-07-18 11:34:21 1468834461 DEBUG: Cart 1882: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,24 @@
+2022-05-11 21:22:12 1652296932 DEBUG: URL to check 2
+2022-05-11 21:22:12 1652296932 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-11 21:22:12 1652296932 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-11 21:22:12 1652296932 DEBUG: Cart 61323: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-11 21:22:46 1652296966 DEBUG: URL to check 2
+2022-05-11 21:22:46 1652296966 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-11 21:22:46 1652296966 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-11 21:22:46 1652296966 DEBUG: Cart 61323: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-11 21:29:19 1652297359 DEBUG: Call params: M=6328&R=61323%20-%20mai%20santamaria&T=1605685305&B=0&C=MasterCard&D=2405&E=00040&F=N&G=N&I=FRA&J=80&N=513770&O=Y&P=3DSECURE&Q=21%3A29%3A18&S=20682682&W=11052022&Y=FRA&Z=0-0&K=JsTMCjueKvZ4dPPFfjGlsAzaErgq5mrh%2BwiyDMtZEfKC%2BAiLP7HetrBaqx3v17IpTsuqI696otsBi04HEsOz9wSTPa6MvLpbYJOgUeOkBxZsrc2OZcoDqyGXAV%2F4KVlPGjpTBnnpl9DUFquRMJ9KtUT5Tel81GmRwTHSPkOfwYk%3D
+2022-05-11 21:29:19 1652297359 DEBUG: Cart 61323: (IPN) Payment was refused by Verifone e-commerce (40).
+2022-05-11 21:30:56 1652297456 DEBUG: Cart 61323: Payment was canceled by user on Verifone e-commerce payment page.
+2022-05-11 21:46:41 1652298401 DEBUG: URL to check 2
+2022-05-11 21:46:41 1652298401 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-05-11 21:46:42 1652298401 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-05-11 21:46:42 1652298401 DEBUG: Cart 61324: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-05-11 21:53:44 1652298824 DEBUG: Call params: M=6328&R=61324%20-%20mai%20santamaria&T=1605689994&A=448156&B=0&C=MasterCard&D=2405&E=00000&F=Y&G=O&I=FRA&J=80&N=513770&O=Y&P=3DSECURE&Q=21%3A53%3A43&S=20688048&W=11052022&Y=FRA&Z=0-0&K=nmLEfgUeri5MvKA5K0vEvyR1F2aBU15ybuHO5EbuPipunactyOB0%2FfWOjphqhpaP574RYJwlCKv%2FjdoPPNEBDBQMiFlAPBCKezfeon2K76zHUOHLOsMnS6G%2BPhXvfrxHGniY2iuit5taRWo4H7UyewIi6kqACfoAUyz%2B0cernHo%3D
+2022-05-11 21:53:44 1652298824 DEBUG: Cart 61324: Standard IPN
+2022-05-11 21:53:44 1652298824 DEBUG: Cart 61324: Validating order
+2022-05-11 21:53:45 1652298825 DEBUG: Cart 61324: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-05-11 21:53:46 1652298826 DEBUG: Cart 61324: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-05-11 21:53:47 1652298827 DEBUG: Cart 61324: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-05-11 21:53:47 1652298824 DEBUG: Cart 61324: Order 5852 validated, creating details
+2022-05-11 21:53:47 1652298824 DEBUG: Cart 61324: Order 5852 / Le paiement a été autorisé et capturé par Paybox.
+2022-05-11 21:53:48 1652298828 DEBUG: Cart 61324: Customer is back from Verifone e-commerce payment page. Payment success.

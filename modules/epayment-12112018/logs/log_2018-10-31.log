@@ -1,0 +1,10 @@
+2018-10-31 12:29:13 1540985353 DEBUG: URL to check 2
+2018-10-31 12:29:13 1540985353 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-31 12:29:13 1540985353 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-31 12:29:13 1540985353 DEBUG: Cart 29113: Redirecting customer to Paybox (CARTE, CB).
+2018-10-31 12:30:51 1540985451 DEBUG: Call params: M=9092&R=29113%20-%20thierry%20%20scheffer&T=63580928&A=641032&B=0&C=Visa&D=1901&E=00000&F=Y&G=O&I=FRA&J=19&N=497490&O=Y&P=3DSECURE&Q=12%3A29%3A11&S=938617092&W=31102018&Y=FRA&K=EjO5qrgQXmTI7C0rC%2F6xLySvCG8xLOkR7mSoRPX9c2cvSCMWrsVQLaio8UejPjTkwrDhCx0tb1aMsVnSDubrj4%2FS9nGUtUsfEfAVrduafrIalUeZmXZF%2BpTNpGTn5ipapSCUWzTzq4qC7sp%2Bp2KpQjVCnuRWnWnDBTHYqTIL1zo%3D
+2018-10-31 12:30:51 1540985451 DEBUG: Cart 29113: Standard IPN
+2018-10-31 12:30:51 1540985451 DEBUG: Cart 29113: Validating order
+2018-10-31 12:30:51 1540985451 DEBUG: Cart 29113: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-31 12:30:52 1540985451 DEBUG: Cart 29113: Order 3387 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-31 12:30:52 1540985452 DEBUG: Cart 29113: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,18 @@
+2016-10-25 09:50:36 1477381836 DEBUG: URL to check 2
+2016-10-25 09:50:36 1477381836 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-25 09:50:37 1477381836 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-25 09:50:37 1477381836 DEBUG: Cart 4171: Redirecting customer to Paybox (CARTE, CB).
+2016-10-25 09:51:02 1477381862 DEBUG: URL to check 2
+2016-10-25 09:51:02 1477381862 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-25 09:51:02 1477381862 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-25 09:51:02 1477381862 DEBUG: Cart 4171: Redirecting customer to Paybox (CARTE, CB).
+2016-10-25 09:53:36 1477382016 DEBUG: Call params: M=1700&R=4171%20-%20Geraldine%20MUSY&T=662093294&A=351414&B=0&C=E_CARD&D=1701&E=00000&F=%20&G=O&I=FRA&J=90&N=415059&O=N&P=3DSECURE&Q=09%3A51%3A03&S=661621146&W=25102016&Y=FRA&K=2wMhsZjxrmtEwzqCyRGhjq%2FU%2FkITF7uN%2BGqlU1tfVn1Z5lPRqhhdS%2FQD%2B9kBtsC2%2Fkc7ieN5dmAzpuuaA3pCW96e2n1vn3IWRFR1h5kFYKLQtqvU%2F0tWYFhaD%2ByWfwX17%2BHwp7gyrJIf9skMzGZgIQK5JFcIXhk7esXvJ4fvYnw%3D
+2016-10-25 09:53:36 1477382016 DEBUG: Cart 4171: Standard IPN
+2016-10-25 09:53:36 1477382016 DEBUG: Cart 4171: Validating order
+2016-10-25 09:53:37 1477382017 DEBUG: Cart 4171: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-25 09:53:38 1477382016 DEBUG: Cart 4171: Order 451 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-25 09:53:38 1477382018 DEBUG: Cart 4171: Customer is back from Paybox payment page. Payment success.
+2016-10-25 14:15:35 1477397735 DEBUG: URL to check 2
+2016-10-25 14:15:35 1477397735 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-25 14:15:35 1477397735 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-25 14:15:35 1477397735 DEBUG: Cart 4175: Redirecting customer to Paybox (CARTE, CB).

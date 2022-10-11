@@ -1,0 +1,3 @@
+Die Kündigungseingabe ermöglicht Ihnen, Ausnahmen für die Versandkosten für eine gegebene SKU festzulegen.
+
+Diese Eigenschaft wird manchmal für schwere Teile, Teile mit Übergröße oder abnormaler Größe, wie Kanus oder Stossstangen, benutzt.

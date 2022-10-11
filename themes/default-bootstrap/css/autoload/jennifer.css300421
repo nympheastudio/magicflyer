@@ -1,0 +1,210 @@
+/* MAGIC FLYER
+|||||||||||||||||||||||
+COLORS 
+|||||||||||||||||||||||
+bleu : #90aeba - 144,174,186
+gris : #59595b - 89,89,91
+gris clair : #c1c1c1 - 193,193,193
+ERROR : #ef9a9a
+Ok : #a3d39c
+OR : #84754E
+Argent : #8A8D8F
+||||||||||||||||||||||| */
+
+/******** block blanc opaque *********/
+.full_size_img .titre_page {
+	text-align: center !important;
+	padding: 0 !important;
+	max-width: 100% !important;
+	background: transparent !important;
+}
+.block_blanc {
+	max-width: 70%;
+	margin: 0 auto;
+	background: rgba(255,255,255,0.8);
+	padding: 5px;
+}
+
+
+
+/******** titre ********/
+
+h2 span {
+	color: #90aeba;
+	font-weight: 300;
+}
+.titre {
+	text-align: left;
+    font-size: 34px;
+    font-weight: 100 !important;
+    margin-bottom: 25px;
+	line-height: 1.2;}
+.sous_titre {
+	text-align: left;
+	font-size: 24px !important;
+	font-weight: 100 !important;
+	line-height: 1.2;
+}
+.gauche {
+	text-align: left;
+}
+
+/********* bouton ********/
+.content_page .scroll_btn, .content_page .button {
+	margin-top: 40px !important;
+}
+
+.scroll_btn {
+	border: 1px solid #59595b;
+    padding: 5px 10px;
+    margin: 5px;
+    display: inline-block;
+    transition: ease-in-out all 0.3s;
+}
+.scroll_btn:hover {
+	background: #59595b;
+    color: #fff;
+}
+.bouton_gris {
+	background: #59595b;
+	color: white;
+}
+.bouton_gris:hover {
+	background: #90aeba !important;
+	border: 1px solid #90aeba !important;
+}
+
+/***** carte de voeux ******/
+.category-64 .content_price span.price {display: none !important}
+.category-63 .oleafoqty_fromprice, .category-63 .price {display: none !important}
+
+/**** accessoires *****/
+.category-53 .quantity_product_list p {display: none !important}
+
+.category-67 .quantity_product_list p {display: none !important}
+
+/**** page prestige ****/
+
+.cms-54 .bloc-prestige {
+	max-width: 100%;
+	position: relative;
+}
+/*
+.cms-54 .bloc-prestige img {
+	object-fit: cover;
+	margin: inherit !important;
+	width: 100%;
+	height: auto !important;
+}*/
+.cms-54 .text-prestige {
+	opacity: 0;
+	z-index: 100;
+	position: absolute;
+	background: rgba(255,255,255,0.9);
+	margin: 5%;
+	padding: 5%;
+	top: 0px;
+	transition: 0.9s;
+	overflow: hidden;
+}
+
+.cms-54 .bloc-prestige:hover .text-prestige {
+	opacity: 1;
+}
+@media (max-width: 1024px) and (min-width: 992px) {
+	.cms-54 .img-prestige img {
+		max-width: 100% !important;
+	}
+}
+@media (max-width: 1660px) and (min-width: 1200px) {
+	.cms-54 .texte1_2 {
+	height: 63%;
+	}
+	.cms-54 .texte1_3 {
+	height: 53%;
+	}
+	.cms-54 .texte2_3 {
+	height: 69%;
+	}
+}
+
+
+/******** tutoriaux *********/
+.cms-6 .largeur {width: 800px}
+
+@media (max-width: 1199px) {
+	.block_blanc {max-width: inherit;}
+	.cms-6 video {margin: 10px 0;}
+	.cms-6 iframe, .cms-6 p, .cms-6 ul, .cms-6 .largeur {width: 100%;}
+}
+
+
+
+/******** responsive *********/
+@media (max-width: 1499px) and (min-width: 1025px) {
+	.pagecent .row .content_page {
+		max-width: 40% !important;
+	}
+}
+@media (max-width: 1024px) and (min-width: 992px) {
+	.image_gauche {    max-width: 25vw;overflow: hidden;}
+	.image_small {display: block !important;	}
+	.content_page {max-width: 60% !important;}
+}
+@media (max-width: 991px) and (min-width: 769px) {
+	p {font-size: 13px !important;}
+	.titre {font-size: 16px !important;}
+}
+@media (max-width: 1280px) and (min-width: 769px) {
+	.titre {font-size: 20px; margin-bottom: 5px; margin-top: 5px;}
+	.sous_titre {font-size: 14px !important; padding-bottom: 0 !important;}
+	p {margin-bottom: 0;}
+	.content_page .scroll_btn, .content_page .button {margin-top: 5px !important;}
+
+}
+@media (max-width: 768px){
+  /*#papillon-01 .titre_page {position: inherit}
+  #papillon-01 .titre_page a {display: none}*/
+  #papillon-01 .titre_page h1, #papillon-01 .titre_page h2 {text-align: center}
+  /*#envolee_produits h3, #envolee_produits a {margin: 0 15px !important}*/
+  #lancer .titre_page {position: inherit}
+  #lancer h2 {text-align: center}
+  #perso a {margin-top: 10px}
+  #perso .titre_page {position: inherit}
+  #perso .titre_page h2 {text-align: center}
+  #evenement .titre_page {position: inherit}
+  #evenement .titre_page h2 {text-align: center}
+  #homepage-slider .homeslider-description {width: 100% !important}
+  .titre, h4 {
+	text-align: center;
+	padding: 0 20px;
+    line-height: 1;}
+.image_small {
+		display: block !important;
+		max-width: 100% !important;
+	}
+.image_mobile {display: block !important;}
+}
+.image_mobile {display: none;}
+
+/***** page envolee responsive******/
+@media (max-width: 1280px) and (min-width: 769px) {
+	#envolee_produits hr {
+		margin-top: 10px;
+		margin-bottom: 10px;}
+}
+@media (max-width: 1219px) and (min-width: 992px) {
+	#envolee_produits .titre_page {
+		max-width: 45% !important;}
+}
+@media (max-width: 991px) and (min-width: 769px) {
+	#envolee_produits .titre_page {max-width: 100%;}
+	#envolee_produits .image_envolee {display: none;}
+}
+@media (max-width: 768px) {
+	#envolee_produits hr {display: none;}
+}
+
+
+
+

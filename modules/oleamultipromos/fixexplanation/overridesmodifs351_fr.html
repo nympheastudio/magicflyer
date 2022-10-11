@@ -1,0 +1,32 @@
+<p>Il semble que ce module a été upgradé depuis une précédente version.</p>
+<p>Les versions de module antérieures à la v3.5.1 ont installé des override qui ne sont désormais plus nécessaires et peuvent être supprimés.</p>
+<p>Par FTP, ouvrez en édition le fichier /override/classes/CartRules.php :
+<ol>
+<li>Supprimez la ligne <br>
+	public $oleamultipromo_id_cart_generatingNotUsed;
+<br><br></li>
+<li>Dans la méthode __contruct(), supprimez la ligne<br>
+self::$definition['fields']['oleamultipromo_id_cart_generating'] = array('type' => self::TYPE_INT, 'validate' => 'isUnsignedId');
+<br><br></li>
+<li>Supprimer l'ensemble de la méthode __Contruct() si elle se résume alors au code suivant<br>
+	public function __construct($id = null, $id_lang = null, $id_shop = null)<br>
+	{<br>
+		return parent::__construct($id, $id_lang, $id_shop);<br>
+	}
+<br><br></li>
+<li>Dans la méthode checkValidity(), supprimer les 2 lignes :<br>
+		if ($this->is_for_oleamultipromo && isset($this->oleamultipromo_id_cart_generating) && $this->oleamultipromo_id_cart_generating <> 0 && $this->oleamultipromo_id_cart_generating <> $context->cart->id)<br>
+			return (!$display_error) ? false : Tools::displayError('This voucher is disabled');
+<br><br></li>
+<li>Supprimer l'ensemble de la méthode checkValidity() si elle se résume alors qu code suivant:<br>
+	public function checkValidityNotUsed(Context $context, $alreadyInCart = false, $display_error = true, $check_carrier = true)<br>
+	{<br>
+		if (!CartRule::isFeatureActive())<br>
+			return false;<br>
+		return parent::checkValidity($context, $alreadyInCart, $display_error, $check_carrier);<br>
+	}
+</li>
+</ol>
+</p>
+<p>Sauvegardez le fichier après ces modifications.</p>
+<p>Au final, supprimer le fichier /cache/class_index.php</p>

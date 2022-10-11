@@ -1,0 +1,33 @@
+2016-08-26 11:39:09 1472204349 DEBUG: URL to check 2
+2016-08-26 11:39:09 1472204349 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-26 11:39:12 1472204349 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-26 11:39:12 1472204349 DEBUG: Cart 2753: Redirecting customer to Paybox (CARTE, CB).
+2016-08-26 11:40:21 1472204421 DEBUG: Call params: M=8288&R=2753%20-%20Anne-Sophie%20Fauconnier&T=642046808&B=0&C=Visa&D=1901&E=00105&F=Y&G=O&H=95C2E07B301D1ED26C23C7884D6F20D0734CC822&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=11%3A39%3A12&S=638149492&W=26082016&Y=FRA&K=v%2Bvf1dAAnUrOuglIm0Ju9AK3Ok7Zb4LGXbAM3gJv8z0jnliWXS%2FMeh22hjOUSjAweHAyi7JJeWjjOl533EzLPOn3NbgdlF99ETQq7bYeXlJwzC1sjQwDamHzhaExLcLoXJ9PwCJ0KLSoPqgJXVqybQ7JZ2fIWnI8zv998STMG80%3D
+2016-08-26 11:40:21 1472204421 DEBUG: Cart 2753: (IPN) Payment was refused by Paybox (105).
+2016-08-26 11:41:29 1472204489 DEBUG: Call params: M=8288&R=2753%20-%20Anne-Sophie%20Fauconnier&T=642046808&B=0&C=Visa&D=1901&E=00105&F=Y&G=O&H=95C2E07B301D1ED26C23C7884D6F20D0734CC822&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=11%3A39%3A12&S=638149731&W=26082016&Y=FRA&K=Iw6rGNhd1q6iQDpBESA9Op8nupaGIT%2FTWXoMuGhqaAoEOCWaa5FHpMnB%2FRcZiWK%2FJQDCYENoUl25qaZp60nURGxdrVxGmzCKqgGw%2FjzC7rebIrhgCqyNV3RauN361gs4TWUFXCDjvFmYc2aKtw%2F8NRKEH0p1s9eEgQs2eMFG8q0%3D
+2016-08-26 11:41:29 1472204489 DEBUG: Cart 2753: (IPN) Payment was refused by Paybox (105).
+2016-08-26 11:48:20 1472204900 DEBUG: Call params: M=8288&R=2753%20-%20Anne-Sophie%20Fauconnier&T=642046808&B=0&C=MasterCard&D=1801&E=00159&F=%20&G=N&H=21E2CBBA1B1DF7E92C6BA84DF8DF7C575AD7DCD9&I=FRA&J=&N=&O=U&P=3DSECURE&Q=11%3A39%3A12&S=638150866&W=26082016&Y=FRA&K=CdvoKwVp%2B3sd4B0Bo5ZvU9aZZbwgt%2BrY84bTqWjKoRFM2qc5aUuTbhQYy9o0Pw4ongfRNZPvJd8TnFn2YmvmRKupjC%2FJLFb7bMqyhrBManOUkLsMoqMuUof8fi9dgh7vW8KgdF%2Fv1Dwi0F9Q3eTO1PaDK6VvaBYkGwOxyziVoCo%3D
+2016-08-26 11:48:20 1472204900 DEBUG: Cart 2753: (IPN) Payment was refused by Paybox (159).
+2016-08-26 11:48:23 1472204903 DEBUG: Cart 2753: Customer is back from Paybox payment page. Payment refused by Paybox (159).
+2016-08-26 11:48:45 1472204925 DEBUG: URL to check 2
+2016-08-26 11:48:45 1472204925 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-26 11:48:45 1472204925 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-26 11:48:45 1472204925 DEBUG: Cart 2753: Redirecting customer to Paybox (CARTE, CB).
+2016-08-26 11:48:50 1472204930 DEBUG: Cart 2753: Customer is back from Paybox payment page. Payment refused by Paybox (159).
+2016-08-26 11:49:28 1472204968 DEBUG: URL to check 2
+2016-08-26 11:49:28 1472204968 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-26 11:49:29 1472204968 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-26 11:49:29 1472204968 DEBUG: Cart 2753: Redirecting customer to Paybox (CARTE, CB).
+2016-08-26 11:50:12 1472205011 DEBUG: URL to check 2
+2016-08-26 11:50:12 1472205011 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-26 11:50:12 1472205011 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-26 11:50:12 1472205011 DEBUG: Cart 2753: Redirecting customer to Paybox (CARTE, CB).
+2016-08-26 11:50:17 1472205017 DEBUG: Cart 2753: Customer is back from Paybox payment page. Payment refused by Paybox (159).
+2016-08-26 18:22:06 1472228526 DEBUG: URL to check 2
+2016-08-26 18:22:06 1472228526 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-26 18:22:06 1472228526 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-08-26 18:22:06 1472228526 DEBUG: Cart 2740: Redirecting customer to Paybox (CARTE, CB).
+2016-08-26 18:22:58 1472228578 DEBUG: Call params: M=12580&R=2740%20-%20caroline%20viala&T=642104786&B=0&C=CB&D=1809&E=00004&H=E3875664198FE49298C6B3D1B3B36D5B1763BE78&I=FRA&J=&N=&P=CARTE&Q=18%3A22%3A07&S=638207663&W=26082016&K=CX7XCv%2BVPIyfwyPC%2B7fb9GI6mfrbj8dYx58NMlnjD8pslwdPob1NrogUEplk4PODHB0e39iuBKHz4ZbczJ7I3zzz4oq3DLWISMExbyP3idcxkqJ5nbuqrDPtuH6HY080tezfZuMwpIDUcFclCxcyxIzh%2BUCfTgnVqiD2DBwMitQ%3D
+2016-08-26 18:22:58 1472228578 DEBUG: Cart 2740: (IPN) Payment was refused by Paybox (4).
+2016-08-26 18:23:39 1472228619 DEBUG: Call params: M=12580&R=2740%20-%20caroline%20viala&T=642104786&B=0&C=MasterCard&D=1809&E=00159&F=%20&G=N&H=21E2CBBA1B1DF7E92C6BA84DF8DF7C575AD7DCD9&I=FRA&J=&N=&O=U&P=3DSECURE&Q=18%3A22%3A07&S=638207730&W=26082016&Y=FRA&K=xNeTA0xxeOkqkWGP0JFQhhtKvfFNfN2ay6AMjKjmM0K4pl3dGy%2Bp%2BdZ1uNQGmI05q6NOKFMT%2FlC1IbVayMTUFD9dk7kD5Th1d%2BYA9TND3OrLi3eNXvftCBpPdM1KOVNYFdUSDBx8wJxl3m5S0qJ645fvnQbfaDKBMv9YjLHnbbk%3D
+2016-08-26 18:23:39 1472228619 DEBUG: Cart 2740: (IPN) Payment was refused by Paybox (159).

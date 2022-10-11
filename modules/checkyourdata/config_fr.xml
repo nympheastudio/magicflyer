@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>checkyourdata</name>
+	<displayName><![CDATA[Google Analytics Ecommerce Expert Pack]]></displayName>
+	<version><![CDATA[1.3.0]]></version>
+	<description><![CDATA[Boostez votre Google Analytics avec un tracking de vos donn&eacute;es de vente 100% fiable ! Et b&eacute;n&eacute;ficiez  de  la  seule  solution  certifi&eacute;e  Google Analytics  Technology Partner [30  JOURS D&rsquo;ESSAI OFFERTS]]]></description>
+	<author><![CDATA[Check Your Data - http://www.checkyourdata.net]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sûr de vouloir désinstaller ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

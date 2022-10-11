@@ -1,0 +1,24 @@
+Goede dag,
+Hartelijk dank voor uw aanvraag. We zullen zo spoedig mogelijk contact met u op.
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Language
+{lang_name}
+
+veld
+
+waarde
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 
+
+
+
+
+

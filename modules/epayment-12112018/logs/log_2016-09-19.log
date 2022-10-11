@@ -1,0 +1,12 @@
+2016-09-19 13:23:14 1474284193 DEBUG: URL to check 2
+2016-09-19 13:23:14 1474284193 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-19 13:23:14 1474284193 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-19 13:23:14 1474284193 DEBUG: Cart 3399: Redirecting customer to Paybox (CARTE, CB).
+2016-09-19 13:26:00 1474284360 DEBUG: Call params: M=8285&R=3399%20-%20caroline%20jakubiak&T=652985718&B=0&C=MasterCard&D=2409&E=00105&F=Y&G=O&I=FRA&J=--&N=513286&O=Y&P=3DSECURE&Q=13%3A23%3A18&S=653626318&W=19092016&Y=FRA&K=axDYVBkS1JNVRsGMu2kj8pf7QscO7RaaXxyBePD92sJgwHqsWtB4qd3gL9xZdDgiLheBczekuJhCSLzxCeW7bnB5OBX9DZFYaJs7mMQeuyoyPnFqpaIFSOc8wzk0l55425le38rvIsSQfv5LqtxVljMWD2TAmPvAFvsLTokq1i0%3D
+2016-09-19 13:26:00 1474284360 DEBUG: Cart 3399: (IPN) Payment was refused by Paybox (105).
+2016-09-19 13:28:39 1474284519 DEBUG: Call params: M=8285&R=3399%20-%20caroline%20jakubiak&T=652985718&A=103565&B=0&C=MasterCard&D=1809&E=00000&F=Y&G=O&I=FRA&J=70&N=513286&O=Y&P=3DSECURE&Q=13%3A23%3A18&S=653627223&W=19092016&Y=FRA&K=0b3H1Oo0Ow%2Bpj95MSsLuBJn0T256BuzTBtSbdLUXEYcG4YEq4%2FGq4nzvNRVGCehhgrL13qHdTCynVIUSUxk8jnPzwgDn5SR7Rndg%2FmCYtiBnOITx8S5R1tA8OIelFN2Rm8G6E5MMi3WxTPB92M6HKAkixAcA2e14MXK3Aw%2BG7XY%3D
+2016-09-19 13:28:39 1474284519 DEBUG: Cart 3399: Standard IPN
+2016-09-19 13:28:39 1474284519 DEBUG: Cart 3399: Validating order
+2016-09-19 13:28:40 1474284520 DEBUG: Cart 3399: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-19 13:28:41 1474284519 DEBUG: Cart 3399: Order 388 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-19 13:28:41 1474284521 DEBUG: Cart 3399: Customer is back from Paybox payment page. Payment success.

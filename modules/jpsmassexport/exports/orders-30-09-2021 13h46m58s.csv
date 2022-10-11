@@ -1,0 +1,66 @@
+Commande n°;Mode de paiement;Total payé réel;Total produits;Total transport;Prénom;Nom;Code pays de livraison
+5545;Verifone e-commerce;89.630000;73.070000;10.880000;Coralie;Hassani;FR
+5545;Verifone e-commerce;89.630000;73.070000;10.880000;Coralie;Hassani;FR
+5546;Verifone e-commerce;42.340000;32.600000;13.000000;Lucie;Bédat;CH
+5546;Verifone e-commerce;42.340000;32.600000;13.000000;Lucie;Bédat;CH
+5547;Verifone e-commerce;119.290000;95.160000;5.260000;Charlene;Simonet;FR
+5547;Verifone e-commerce;119.290000;95.160000;5.260000;Charlene;Simonet;FR
+5548;Verifone e-commerce;45.600000;32.600000;13.000000;Catherine;Cornu;CH
+5548;Verifone e-commerce;45.600000;32.600000;13.000000;Catherine;Cornu;CH
+5549;Verifone e-commerce;28.520000;16.300000;9.020000;Stéphanie;Guimard;FR
+5550;Verifone e-commerce;107.880000;95.160000;5.260000;Nicole;CHIVA;FR
+5550;Verifone e-commerce;107.880000;95.160000;5.260000;Nicole;CHIVA;FR
+5550;Verifone e-commerce;107.880000;95.160000;5.260000;Nicole;CHIVA;FR
+5550;Verifone e-commerce;107.880000;95.160000;5.260000;Nicole;CHIVA;FR
+5551;Verifone e-commerce;62.240000;32.600000;23.240000;Martin;Bauer;DE
+5551;Verifone e-commerce;62.240000;32.600000;23.240000;Martin;Bauer;DE
+5552;Virement bancaire;0.000000;31.720000;15.000000;Thierry;STAMPFLER;PF
+5552;Virement bancaire;0.000000;31.720000;15.000000;Thierry;STAMPFLER;PF
+5553;Verifone e-commerce;47.030000;31.720000;9.020000;arthur;gohin;FR
+5553;Verifone e-commerce;47.030000;31.720000;9.020000;arthur;gohin;FR
+5554;Verifone e-commerce;80.960000;63.440000;4.940000;Andreia;Ferreira;LU
+5554;Verifone e-commerce;80.960000;63.440000;4.940000;Andreia;Ferreira;LU
+5554;Verifone e-commerce;80.960000;63.440000;4.940000;Andreia;Ferreira;LU
+5555;Verifone e-commerce;95.070000;73.070000;22.000000;Gérard;MAILLY;RE
+5555;Verifone e-commerce;95.070000;73.070000;22.000000;Gérard;MAILLY;RE
+5556;Verifone e-commerce;43.930000;28.390000;9.930000;E;CORRION;FR
+5556;Verifone e-commerce;43.930000;28.390000;9.930000;E;CORRION;FR
+5556;Verifone e-commerce;43.930000;28.390000;9.930000;E;CORRION;FR
+5557;Verifone e-commerce;97.650000;73.220000;9.930000;sophie;jovanic;FR
+5557;Verifone e-commerce;97.650000;73.220000;9.930000;sophie;jovanic;FR
+5558;Verifone e-commerce;89.630000;73.070000;10.880000;Annelise;Gillet;FR
+5558;Verifone e-commerce;89.630000;73.070000;10.880000;Annelise;Gillet;FR
+5559;Verifone e-commerce;23.300000;16.300000;4.780000;Ronan;Joufflot;FR
+5560;Verifone e-commerce;172.950000;146.140000;6.690000;Magali;Stevens;BE
+5560;Verifone e-commerce;172.950000;146.140000;6.690000;Magali;Stevens;BE
+5560;Verifone e-commerce;172.950000;146.140000;6.690000;Magali;Stevens;BE
+5560;Verifone e-commerce;172.950000;146.140000;6.690000;Magali;Stevens;BE
+5560;Verifone e-commerce;172.950000;146.140000;6.690000;Magali;Stevens;BE
+5560;Verifone e-commerce;172.950000;146.140000;6.690000;Magali;Stevens;BE
+5560;Verifone e-commerce;172.950000;146.140000;6.690000;Magali;Stevens;BE
+5561;Chèque;0.000000;73.000000;45.600000;Nicole;Donnay;BE
+5562;Verifone e-commerce;92.440000;73.000000;4.940000;Nicole;Donnay;BE
+5563;Verifone e-commerce;89.650000;73.070000;10.900000;Cordomi pellegrino;Jérome carine;FR
+5563;Verifone e-commerce;89.650000;73.070000;10.900000;Cordomi pellegrino;Jérome carine;FR
+5564;Chèque;161.300000;138.870000;11.670000;Claude;LA ROCCA JACQUET;FR
+5564;Chèque;161.300000;138.870000;11.670000;Claude;LA ROCCA JACQUET;FR
+5564;Chèque;161.300000;138.870000;11.670000;Claude;LA ROCCA JACQUET;FR
+5564;Chèque;161.300000;138.870000;11.670000;Claude;LA ROCCA JACQUET;FR
+5565;Verifone e-commerce;455.250000;398.440000;0.000000;Eliane ;Papuga;FR
+5565;Verifone e-commerce;455.250000;398.440000;0.000000;Eliane ;Papuga;FR
+5565;Verifone e-commerce;455.250000;398.440000;0.000000;Eliane ;Papuga;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5566;Verifone e-commerce;220.780000;179.590000;5.260000;SOPHIE;NEE;FR
+5567;Verifone e-commerce;42.950000;31.720000;4.940000;Pauline;Tombeur;BE
+5567;Verifone e-commerce;42.950000;31.720000;4.940000;Pauline;Tombeur;BE
+5568;Verifone e-commerce;85.300000;67.140000;4.780000;Sophie;Delawer;FR
+5568;Verifone e-commerce;85.300000;67.140000;4.780000;Sophie;Delawer;FR
+5568;Verifone e-commerce;85.300000;67.140000;4.780000;Sophie;Delawer;FR
+5569;Verifone e-commerce;24.280000;16.300000;4.780000;Sébastien;Lalanne;FR

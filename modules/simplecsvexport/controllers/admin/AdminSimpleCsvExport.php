@@ -1,0 +1,122 @@
+<?php
+
+/**
+ * ---------------------------------------------------------------------------------
+ *
+ * 1997-2013 Quadra Informatique
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Open Software License (OSL 3.0)
+ * that is available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/osl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to ecommerce@quadra-informatique.fr so we can send you a copy immediately.
+ *
+ * @author Quadra Informatique <ecommerce@quadra-informatique.fr>
+ * @copyright 1997-2013 Quadra Informatique
+ * @version Release: $Revision: 1.1 $
+ * @license http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ *
+ * ---------------------------------------------------------------------------------
+ */
+require_once _PS_MODULE_DIR_.'simplecsvexport/models/simplecsvexportclass.php';
+
+class AdminSimpleCsvExportController extends ModuleAdminController
+{
+
+	public function __construct()
+	{
+		$this->lang = false;
+		$this->_html = null;
+		$this->table = 'configuration';
+		parent::__construct();
+	}
+
+	public function setMedia()
+	{
+		parent::setMedia();
+		$this->addJqueryUI('ui.datepicker');
+	}
+
+	public function renderList()
+	{
+		$link = new Link();
+		$url = $link->getAdminLink('AdminSimpleCsvExport').'&viewconfiguration';
+		Tools::redirectAdmin($url);
+	}
+
+	public function postProcess()
+	{
+		if (Tools::isSubmit('submitsimplecsvexport'))
+		{
+			$this->_html = '<h2>'.$this->l('Simple csv export').'</h2>';
+
+			$date_from = Tools::getValue('dateFrom');
+			$date_to = Tools::getValue('dateTo');
+			$csv_mail = Tools::getValue('csvMail');
+
+			if ($date_to < $date_from)
+				$errors[] = $this->l('Invalid date');
+			elseif (( Tools::getValue('sendMail') == 1) && (!filter_var($csv_mail, FILTER_VALIDATE_EMAIL)))
+				$errors[] = $this->l('Invalid email');
+			elseif (( Tools::getValue('sendMail') == 1) && (filter_var($csv_mail, FILTER_VALIDATE_EMAIL)))
+			{
+				Configuration::updateValue('PS_CSV_SEND_COPY', 1);
+				Configuration::updateValue('PS_CSV_MAIL', $csv_mail);
+			}
+
+			if (isset($errors) && count($errors))
+				$this->context->smarty->assign('errorsCsv', $errors);
+			else
+				$this->export($date_from, $date_to, null);
+		}
+		return $this->_html.parent::postProcess();
+	}
+
+	public function ajaxProcessSendCsvByMail()
+	{
+		$id_order = Tools::getValue('id_order');
+		if ($this->export(null, null, $id_order) == true)
+			$to_return = array('found' => true);
+		else
+			$to_return = array('found' => false);
+
+		die(Tools::jsonEncode($to_return));
+	}
+
+	public function export($date_from, $date_to, $id_order)
+	{
+		$datas = CsvExport::getOrderData($date_from, $date_to, $id_order);
+		$time = date('Y-m-d_H-i-s');
+		if (!empty($datas))
+		{
+			if ($id_order == null)
+				$filename = 'export_orders_'.$time.'.csv';
+			else
+				$filename = 'export_order_id_'.$id_order.'.csv';
+
+			if ((Configuration::get('PS_CSV_SEND_COPY') == 1 ) || ($id_order != null))
+			{
+				if (CsvExport::exportByMail($datas, $filename, $date_from, $date_to, $time, $id_order, $this->context->employee->email) == true)
+				{
+					$this->context->smarty->assign('validCsv', $this->l('Order was exported with success'));
+					return true;
+				}
+				else
+				{
+					$this->context->smarty->assign('errorsCsv', $this->l('Error: please check your email configuration'));
+					return false;
+				}
+			}
+			else
+				CsvExport::exportCsv($datas, $filename);
+		}else
+		{
+			$this->context->smarty->assign('errorsCsv', $this->l('Error: No orders valid'));
+			return false;
+		}
+	}
+
+}

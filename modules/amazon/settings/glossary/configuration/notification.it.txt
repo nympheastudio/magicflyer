@@ -1,0 +1,1 @@
+Scegli a chi Amazon invierà la notifica di spedizione tramite email quando vengono effettuati ordini multicanale.

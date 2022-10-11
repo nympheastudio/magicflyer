@@ -1,0 +1,10 @@
+2016-03-03 10:16:35 1456996595 DEBUG: URL to check 2
+2016-03-03 10:16:35 1456996595 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-03 10:16:35 1456996595 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-03 10:16:35 1456996595 DEBUG: Cart 504: Redirecting customer to Paybox (CARTE, CB).
+2016-03-03 10:17:40 1456996660 DEBUG: Call params: M=1700&R=504%20-%20christelle%20FRENOIS&T=611438620&A=655523&B=0&C=MasterCard&D=1809&E=00000&G=D&H=7349EBB4EA349F993C193588905ECFF6F9AF6A8B&I=FRA&J=&N=&P=CARTE&Q=10%3A16%3A37&S=609793886&W=03032016&Y=FRA&K=W6Bg2MWo3kqJ4WpMnxY8zCRBwjCjQbZMZ8qAZe1hifUfVRitwKCdgi0IZVWw9CbPrM%2Baj07%2FBX1gG7%2FklnzFcrkduWRh%2BYg5VlaDJHLMl4uxVsQypRsKq%2Fv%2FvstS7Vse9wTjIF59H2JgAMKXhdeAEc0ItAO%2FI%2FQbNXOB1Ndtn7A%3D
+2016-03-03 10:17:40 1456996660 DEBUG: Cart 504: Standard IPN
+2016-03-03 10:17:40 1456996660 DEBUG: Cart 504: Validating order (PS1.5+)
+2016-03-03 10:17:40 1456996660 DEBUG: Cart 504: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-03 10:17:41 1456996660 DEBUG: Cart 504: Order 120 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-03 10:17:41 1456996661 DEBUG: Cart 504: Customer is back from Paybox payment page. Payment success.

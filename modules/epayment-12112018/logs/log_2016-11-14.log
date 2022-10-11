@@ -1,0 +1,11 @@
+2016-11-14 13:17:53 1479125873 DEBUG: URL to check 2
+2016-11-14 13:17:53 1479125873 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-14 13:17:53 1479125873 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-11-14 13:17:53 1479125873 DEBUG: Cart 4116: Redirecting customer to Paybox (CARTE, CB).
+2016-11-14 13:19:11 1479125951 DEBUG: Call params: M=2297&R=4116%20-%20Jessica%20Duizit&T=665991135&A=304418&B=0&C=Visa&D=1709&E=00000&F=Y&G=O&I=FRA&J=26&N=497874&O=Y&P=3DSECURE&Q=13%3A17%3A56&S=665450795&W=14112016&Y=FRA&K=eNjsCx%2B%2FAJb1k4oUOFADMsMsbidLi7lvxMQEtGfisN6zmppyaKc3s5zEFVXPIQe3Zv%2Bxt5%2FDSPynNccjzAOZ4wn%2F6%2F54jwgl727U3jjCC%2FEvTd15Sz1LhmGjR4yOel7DdEbkCs%2FhQq3r0jHYAYTfGiL5w3mPwn%2FTsmsmKAL%2B3aw%3D
+2016-11-14 13:19:11 1479125951 DEBUG: Cart 4116: Standard IPN
+2016-11-14 13:19:11 1479125951 DEBUG: Cart 4116: Validating order
+2016-11-14 13:19:11 1479125951 DEBUG: Cart 4116: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-14 13:19:12 1479125952 DEBUG: Cart 4116: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-14 13:19:13 1479125951 DEBUG: Cart 4116: Order 478 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-14 13:19:14 1479125954 DEBUG: Cart 4116: Customer is back from Paybox payment page. Payment success.

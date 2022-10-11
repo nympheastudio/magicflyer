@@ -1,0 +1,1 @@
+Esta función permite recibir desde Amazon mensajes de clientes y responder directamente desde Clientes > Pestaña de Servicio al Cliente

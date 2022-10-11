@@ -1,0 +1,26 @@
+2016-05-10 15:17:56 1462886276 DEBUG: URL to check 2
+2016-05-10 15:17:56 1462886276 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-10 15:17:57 1462886276 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-10 15:17:57 1462886276 DEBUG: Cart 944: Redirecting customer to Paybox (CARTE, CB).
+2016-05-10 15:18:44 1462886324 DEBUG: Call params: M=3100&R=944%20-%20Virginie%20CADART&T=628457051&A=186306&B=0&C=MasterCard&D=1606&E=00000&G=D&H=0FB92EE5033252BDC112D4422CA4FB611B738871&I=FRA&J=&N=&P=CARTE&Q=15%3A17%3A58&S=624394396&W=10052016&Y=FRA&K=wA9gfvrHjobabvBnuMaVcFFKElSc%2FKbqdWegEqZ4Gcf946I2W4FRCUZwhdzy4ZrBlutSqeEjwvy0CtIo%2FBQB6S1xFQHCkdF3YYrNmz11cCZ8C1EzvTx8E2rCT5nc2zZ%2BvsDNZJRBu0Q43%2BVbFe1C7tcutQgW0ZCOp9TfCkqlUKY%3D
+2016-05-10 15:18:44 1462886324 DEBUG: Cart 944: Standard IPN
+2016-05-10 15:18:44 1462886324 DEBUG: Cart 944: Validating order (PS1.5+)
+2016-05-10 15:18:44 1462886324 DEBUG: Cart 944: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-10 15:18:45 1462886325 DEBUG: Cart 944: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-10 15:18:45 1462886324 DEBUG: Cart 944: Order 186 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-10 15:18:46 1462886326 DEBUG: Cart 944: Customer is back from Paybox payment page. Payment success.
+2016-05-10 22:40:32 1462912832 DEBUG: URL to check 2
+2016-05-10 22:40:32 1462912832 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-10 22:40:32 1462912832 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-10 22:40:32 1462912832 DEBUG: Cart 924: Redirecting customer to Paybox (CARTE, CB).
+2016-05-10 22:40:59 1462912859 DEBUG: URL to check 2
+2016-05-10 22:40:59 1462912859 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-10 22:40:59 1462912859 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-10 22:40:59 1462912859 DEBUG: Cart 924: Redirecting customer to Paybox (CARTE, CB).
+2016-05-10 22:42:28 1462912948 DEBUG: Call params: M=4550&R=924%20-%20feliziani%20emanuele&T=628524394&A=T03161&B=0&C=MasterCard&D=1806&E=00000&G=D&H=CE315E83FADD84999883225895CA02AF6C86B4C5&I=ITA&J=&N=&P=CARTE&Q=22%3A40%3A34&S=624460121&W=10052016&Y=ITA&K=apxph2UmLkJnGCq%2FOIJ6JxzjHyAe%2FQT6PwMWMquLntVX49C0onXoyuv4st06MHNd%2FfikmlYAzh8an32xXCqh0Z4a5Aw1tiATf8FmcpKHynR4INhG%2FYRnptrdUjstXd%2BOcVODwLb86ld3RIyYt2l12rJTaPzJJyaSb1j6a83Od%2FA%3D
+2016-05-10 22:42:28 1462912948 DEBUG: Cart 924: Standard IPN
+2016-05-10 22:42:28 1462912948 DEBUG: Cart 924: Validating order (PS1.5+)
+2016-05-10 22:42:28 1462912948 DEBUG: Cart 924: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-10 22:42:29 1462912949 DEBUG: Cart 924: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-10 22:42:29 1462912948 DEBUG: Cart 924: Order 187 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-10 22:42:30 1462912950 DEBUG: Cart 924: Customer is back from Paybox payment page. Payment success.

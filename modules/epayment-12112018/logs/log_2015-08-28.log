@@ -1,0 +1,63 @@
+2015-08-28 11:17:31 1440753451 DEBUG: URL to check 2
+2015-08-28 11:17:31 1440753451 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:17:31 1440753451 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:17:31 1440753451 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, EUROCARD_MASTERCARD).
+2015-08-28 11:17:47 1440753466 DEBUG: URL to check 2
+2015-08-28 11:17:47 1440753466 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:17:47 1440753466 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:17:47 1440753466 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, EUROCARD_MASTERCARD).
+2015-08-28 11:18:12 1440753491 DEBUG: URL to check 2
+2015-08-28 11:18:12 1440753491 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:18:12 1440753491 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:18:12 1440753491 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, VISA).
+2015-08-28 11:18:39 1440753519 DEBUG: URL to check 2
+2015-08-28 11:18:39 1440753519 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:18:39 1440753519 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:18:39 1440753519 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, VISA).
+2015-08-28 11:19:07 1440753547 DEBUG: URL to check 2
+2015-08-28 11:19:07 1440753547 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:19:07 1440753547 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:19:07 1440753547 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:19:24 1440753564 DEBUG: URL to check 2
+2015-08-28 11:19:24 1440753564 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:19:24 1440753564 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:19:24 1440753564 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:19:35 1440753575 DEBUG: URL to check 2
+2015-08-28 11:19:35 1440753575 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:19:35 1440753575 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:19:35 1440753575 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:19:39 1440753579 DEBUG: URL to check 2
+2015-08-28 11:19:39 1440753579 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:19:39 1440753579 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:19:39 1440753579 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:19:44 1440753583 DEBUG: URL to check 2
+2015-08-28 11:19:44 1440753583 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:19:44 1440753583 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:19:44 1440753583 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:19:44 1440753584 DEBUG: URL to check 2
+2015-08-28 11:19:44 1440753584 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:19:44 1440753584 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:19:44 1440753584 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:19:50 1440753590 DEBUG: URL to check 2
+2015-08-28 11:19:50 1440753590 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:19:50 1440753590 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:19:50 1440753590 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:19:50 1440753590 DEBUG: URL to check 2
+2015-08-28 11:19:50 1440753590 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:19:50 1440753590 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:19:50 1440753590 DEBUG: Cart 19: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:20:25 1440753625 DEBUG: Call params: M=890&R=19%20-%20Stephanie%20Dobua&T=278502040&A=746572&B=0&C=MasterCard&D=1709&E=00000&G=D&H=CB049DFC07D53A889E5FD4D8DA723577C70FA035&I=FRA&J=&N=&P=CARTE&Q=11%3A18%3A17&S=283850663&W=28082015&Y=FRA&K=iWMxKyCe4mHZ3LniLG0TdGEwzgwpkWIL8iaJ1cGlb6rgGQxQp49S4BetbUFqndSGnQNzDaFB1d6o3tkoFGl2V5O5HADVmJhuWlO0%2FCB9TBkzZ5PCesmCvHhg4n6C9jkNYUMd8JpfKpmqbFMz2vgz0oenlO08WZ8SQnhA7s3yqLg%3D
+2015-08-28 11:20:25 1440753625 DEBUG: Cart 19: Standard IPN
+2015-08-28 11:20:25 1440753625 DEBUG: Cart 19: Validating order (PS1.5+)
+2015-08-28 11:20:25 1440753625 DEBUG: Cart 19: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-08-28 11:20:27 1440753627 DEBUG: Cart 19: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-08-28 11:20:27 1440753625 DEBUG: Cart 19: Order 9 / Le paiement a été autorisé et capturé par Paybox.
+2015-08-28 11:20:28 1440753628 DEBUG: Cart 19: Customer is back from Paybox payment page. Payment success.
+2015-08-28 11:26:45 1440754004 DEBUG: URL to check 2
+2015-08-28 11:26:45 1440754004 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:26:45 1440754004 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:26:45 1440754004 DEBUG: Cart 16: Redirecting customer to Paybox (CARTE, CB).
+2015-08-28 11:27:00 1440754020 DEBUG: URL to check 2
+2015-08-28 11:27:00 1440754020 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-08-28 11:27:00 1440754020 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-08-28 11:27:00 1440754020 DEBUG: Cart 20: Redirecting customer to Paybox (CARTE, CB).

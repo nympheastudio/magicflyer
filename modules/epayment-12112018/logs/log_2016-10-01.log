@@ -1,0 +1,9 @@
+2016-10-01 11:19:17 1475313557 DEBUG: URL to check 2
+2016-10-01 11:19:17 1475313557 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-01 11:19:17 1475313557 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-01 11:19:17 1475313557 DEBUG: Cart 3659: Redirecting customer to Paybox (CARTE, CB).
+2016-10-01 11:21:21 1475313681 DEBUG: Call params: M=4800&R=3659%20-%20julie%20franquine&T=656355715&A=574427&B=0&C=Visa&D=1905&E=00000&F=Y&G=O&I=FRA&J=12&N=497874&O=Y&P=3DSECURE&Q=11%3A19%3A32&S=656457035&W=01102016&Y=FRA&K=QpQSSBAXREyh2psDFjaxDtUw2V7ExPQhkAzSf4B85zQ0hJylsj%2FQorQFSDuITSAl%2B4ynrpkbRzSzpA2gRvXebZUKb8%2Fdbl8dnRwLBW%2B4%2Fik9Q3yupw%2Fx3SKoHmFKaobAt%2BZLI8mJBb0u%2F0HZJKKSPBDW77ikt4aokF6loE5jFVk%3D
+2016-10-01 11:21:21 1475313681 DEBUG: Cart 3659: Standard IPN
+2016-10-01 11:21:21 1475313681 DEBUG: Cart 3659: Validating order
+2016-10-01 11:21:23 1475313681 DEBUG: Cart 3659: Order 407 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-01 11:21:24 1475313684 DEBUG: Cart 3659: Customer is back from Paybox payment page. Payment success.

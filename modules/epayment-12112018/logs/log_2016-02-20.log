@@ -1,0 +1,14 @@
+2016-02-20 18:57:37 1455991056 DEBUG: URL to check 2
+2016-02-20 18:57:37 1455991056 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-20 18:57:37 1455991056 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-20 18:57:37 1455991056 DEBUG: Cart 437: Redirecting customer to Paybox (CARTE, CB).
+2016-02-20 19:10:42 1455991842 DEBUG: URL to check 2
+2016-02-20 19:10:42 1455991842 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-20 19:10:42 1455991842 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-20 19:10:42 1455991842 DEBUG: Cart 437: Redirecting customer to Paybox (CARTE, CB).
+2016-02-20 19:11:39 1455991899 DEBUG: Call params: M=2297&R=437%20-%20Valerie%20VERSINI&T=607772681&A=053678&B=0&C=MasterCard&D=1604&E=00000&G=D&H=EB6506FD5E15097CA5218DFDE2F3B954D57ECDFE&I=FRA&J=&N=&P=CARTE&Q=18%3A57%3A39&S=606767755&W=20022016&Y=FRA&K=NrbIG1vLRmORQQSD%2BX4nNGNnbs0moOjZS8gtvdv%2BCPfgVWZ5moqFwS9sowfIkWNsHFziD4gJj8gV%2FO%2FqFlBVt%2BNXUk3TsrjaFxefsXaa2j3Ut68hoeF4qbjIIgG6z6hM06Vlef6R4Zx47RD9wSTCf2pRupplsu9z7qxpYG1ebms%3D
+2016-02-20 19:11:39 1455991899 DEBUG: Cart 437: Standard IPN
+2016-02-20 19:11:39 1455991899 DEBUG: Cart 437: Validating order (PS1.5+)
+2016-02-20 19:11:39 1455991899 DEBUG: Cart 437: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-02-20 19:11:41 1455991899 DEBUG: Cart 437: Order 111 / Le paiement a été autorisé et capturé par Paybox.
+2016-02-20 19:11:41 1455991901 DEBUG: Cart 437: Customer is back from Paybox payment page. Payment success.

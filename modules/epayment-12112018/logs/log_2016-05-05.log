@@ -1,0 +1,21 @@
+2016-05-05 08:25:08 1462429508 DEBUG: URL to check 2
+2016-05-05 08:25:09 1462429508 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-05 08:25:09 1462429508 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-05 08:25:09 1462429508 DEBUG: Cart 901: Redirecting customer to Paybox (CARTE, CB).
+2016-05-05 08:26:16 1462429576 DEBUG: Call params: M=6250&R=901%20-%20severine%20lucchinacci&T=627789850&A=315261&B=0&C=Visa&D=1812&E=00000&G=D&H=2C74283CB0D1FAA7D14EAE2A75AFA5AE6FF0D891&I=FRA&J=&N=&P=CARTE&Q=08%3A25%3A10&S=623719617&W=05052016&Y=FRA&K=oV2nnK8tLCT1BGvgnUu21K1NuRasF3B5a6jC%2FUz%2BY44KITnVgH%2BegpnVtpNlBXJkCVP%2BCKWn4%2FsCKdGQJcRXb4V3gIszUjEua%2Bu99lIE3%2FCEAyPv5YzWxsB9YaISh52ykWV90iOu%2B%2BNyhUn2WraTQEl9VbKad7zaJr9GetYwRYg%3D
+2016-05-05 08:26:16 1462429576 DEBUG: Cart 901: Standard IPN
+2016-05-05 08:26:16 1462429576 DEBUG: Cart 901: Validating order (PS1.5+)
+2016-05-05 08:26:16 1462429576 DEBUG: Cart 901: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-05 08:26:18 1462429578 DEBUG: Cart 901: Customer is back from Paybox payment page. Payment success.
+2016-05-05 08:26:18 1462429576 DEBUG: Cart 901: Order 180 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-05 17:37:50 1462462670 DEBUG: URL to check 2
+2016-05-05 17:37:50 1462462670 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-05 17:37:50 1462462670 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-05 17:37:50 1462462670 DEBUG: Cart 905: Redirecting customer to Paybox (CARTE, CB).
+2016-05-05 17:38:37 1462462717 DEBUG: Call params: M=6341&R=905%20-%20Tiziana%20Quattrocchi&T=627847727&A=563516&B=0&C=Visa&D=1805&E=00000&G=D&H=C888DCE1A29420C8B1BD84ADE92DEA79A3BE23BD&I=BEL&J=&N=&P=CARTE&Q=17%3A37%3A51&S=623773644&W=05052016&Y=BEL&K=ZgWBLYzXZo8HrXil4MxL%2Fh9glpeBuwV3%2BS9CgziIlOT%2FzhE5wC41Fx%2BaYcF25DgWPFV%2F0djCTpUhjotjCnbtWOUWBXftCjJjVrTFVAfQ7LX%2FJw%2FTq5EOWmOt%2FG5ynBoo9OMsz8kILeN1xck1V%2BxZg1vEnJqpJSTDCAD1STmwdTQ%3D
+2016-05-05 17:38:37 1462462717 DEBUG: Cart 905: Standard IPN
+2016-05-05 17:38:37 1462462717 DEBUG: Cart 905: Validating order (PS1.5+)
+2016-05-05 17:38:37 1462462717 DEBUG: Cart 905: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-05 17:38:38 1462462718 DEBUG: Cart 905: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-05 17:38:38 1462462717 DEBUG: Cart 905: Order 181 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-05 17:38:39 1462462719 DEBUG: Cart 905: Customer is back from Paybox payment page. Payment success.

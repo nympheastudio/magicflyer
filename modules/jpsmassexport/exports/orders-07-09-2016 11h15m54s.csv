@@ -1,0 +1,63 @@
+Commande n°;Order State;Mode de paiement;Total payé;Total payé réel;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Email;Pays de livraison;Nom de la compagnie de facturation;Code pays de livraison
+297;Expédié;Paybox - Epayment;45.940000;45.940000;6.000000;336;2016-08-01 09:44:06;1;Alicia;Giacili;amo-te88@hotmail.fr;8;;FR
+298;Expédié;Paybox - Epayment;34.640000;34.640000;18.000000;337;2016-08-01 12:36:33;1;Argelia;Ciodini;argelia.ciodini@gmail.com;19;;CH
+299;Expédié;Paybox - Epayment;17.670000;17.670000;6.000000;338;2016-08-01 15:01:26;1;Ignacio;Peeters;ignacio.peeters@gmail.com;217;;AE
+300;Expédié;Paybox - Epayment;17.000000;17.000000;3.000000;339;2016-08-01 18:53:03;1;Mélanie;Hennequart;manou03_2@hotmail.fr;8;;FR
+301;Expédié;Paybox - Epayment;62.000000;62.000000;6.000000;340;2016-08-02 11:32:04;1;Pamela;KINIKI;pams@hotmail.fr;8;Hair Secret;FR
+301;Expédié;Paybox - Epayment;62.000000;62.000000;6.000000;340;2016-08-02 11:32:04;1;Pamela;KINIKI;pams@hotmail.fr;8;Hair Secret;FR
+301;Expédié;Paybox - Epayment;62.000000;62.000000;6.000000;340;2016-08-02 11:32:04;1;Pamela;KINIKI;pams@hotmail.fr;8;Hair Secret;FR
+302;Expédié;Paybox - Epayment;52.430000;52.430000;3.000000;341;2016-08-02 12:47:52;1;Christian;HERSPERGER;christianhersperger@gmail.com;8;;FR
+302;Expédié;Paybox - Epayment;52.430000;52.430000;3.000000;341;2016-08-02 12:47:52;1;Christian;HERSPERGER;christianhersperger@gmail.com;8;;FR
+302;Expédié;Paybox - Epayment;52.430000;52.430000;3.000000;341;2016-08-02 12:47:52;1;Christian;HERSPERGER;christianhersperger@gmail.com;8;;FR
+303;Expédié;Paybox - Epayment;83.350000;83.350000;3.500000;342;2016-08-02 19:14:50;1;Alexandra;Surtmann;Alexandra_Surtmann@gmx.at;2;;AT
+304;Expédié;Paybox - Epayment;17.000000;17.000000;3.000000;343;2016-08-04 18:50:14;1;cecile;Bouchet;cecilebouchet63@gmail.com;8;;FR
+307;Expédié;Paybox - Epayment;267.000000;267.000000;12.000000;346;2016-08-05 09:57:39;1;Kelly ;Voinson ;kelly.coquaz@hotmail.fr;8;;FR
+308;Expédié;Paybox - Epayment;22.970000;22.970000;6.000000;347;2016-08-05 15:28:27;1;Alicia;Giacili;amo-te88@hotmail.fr;8;;FR
+309;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;348;2016-08-06 02:56:49;1;jessica;jean-baptiste;tessa733@hotmail.com;8;;FR
+309;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;348;2016-08-06 02:56:49;1;jessica;jean-baptiste;tessa733@hotmail.com;8;;FR
+310;Expédié;Paybox - Epayment;75.200000;75.200000;6.000000;349;2016-08-06 22:58:58;1;Magali;Mansouela;magali.mansouela@orange.fr;8;;FR
+311;Expédié;Paybox - Epayment;122.800000;122.800000;3.000000;350;2016-08-08 13:16:57;1;Nadège;Guehenneux;nadegeguehenneux@yahoo.fr;8;;FR
+312;Expédié;Paybox - Epayment;77.400000;77.400000;6.000000;351;2016-08-10 11:21:00;1;Valérie;maillet;valerie.maillet1@sfr.fr;8;;FR
+313;Expédié;Paybox - Epayment;27.340000;27.340000;4.000000;352;2016-08-10 20:54:03;1;Carole;Nasrallah;popothamm@hotmail.fr;21;;US
+313;Expédié;Paybox - Epayment;27.340000;27.340000;4.000000;352;2016-08-10 20:54:03;1;Carole;Nasrallah;popothamm@hotmail.fr;21;;US
+314;Expédié;Paybox - Epayment;20.140000;20.140000;3.500000;353;2016-08-11 12:55:00;1;Rob;van der Sloot;havikje@hotmail.com;13;;NL
+315;Expédié;Paybox - Epayment;72.440000;72.440000;3.000000;354;2016-08-11 14:26:36;1;Mélanie;Hennequart;manou03_2@hotmail.fr;8;;FR
+316;Expédié;Paybox - Epayment;53.420000;53.420000;3.500000;355;2016-08-11 21:40:49;1;Alexandra;Surtmann;Alexandra_Surtmann@gmx.at;2;;AT
+317;Expédié;Paybox - Epayment;22.640000;22.640000;6.000000;356;2016-08-12 10:34:42;1;Adeline;CANQUELAIN;adelinebrice@yahoo.fr;8;;FR
+318;Expédié;Paybox - Epayment;142.100000;142.100000;3.500000;357;2016-08-12 19:15:00;1;Tayfun ;Onay;Onaytayfun@gmx.de;1;;DE
+318;Expédié;Paybox - Epayment;142.100000;142.100000;3.500000;357;2016-08-12 19:15:00;1;Tayfun ;Onay;Onaytayfun@gmx.de;1;;DE
+319;Expédié;Paybox - Epayment;74.400000;74.400000;3.000000;358;2016-08-13 10:05:12;1;Jean-Baptiste;GOARIN;jbgoarin@gmail.com;8;;FR
+320;Expédié;Paybox - Epayment;65.910000;65.910000;6.000000;359;2016-08-13 14:50:25;1;Jocelyne;DA SOLA;jocelyne.dasola@wanadoo.fr;8;;FR
+321;Expédié;Paybox - Epayment;7.000000;7.000000;3.000000;360;2016-08-14 15:45:04;1;Fanny;Sophie;sophie.fanny@hotmail.fr;8;;FR
+322;Expédié;Paybox - Epayment;17.000000;17.000000;3.000000;361;2016-08-16 07:02:54;1;Magali;Sabatier;sabmagali@yahoo.fr;8;;FR
+323;Expédié;PayPal;73.200000;73.200000;7.000000;362;2016-08-17 10:29:58;1;Stéphane;Rouèche;stroueche@gmail.com;19;;CH
+323;Expédié;PayPal;73.200000;73.200000;7.000000;362;2016-08-17 10:29:58;1;Stéphane;Rouèche;stroueche@gmail.com;19;;CH
+324;Expédié;Paybox - Epayment;20.000000;20.000000;6.000000;363;2016-08-18 00:06:11;1;loic;BOUSIGNIERE;loicbousigniere@outlook.fr;8;;FR
+327;Expédié;Paybox - Epayment;122.800000;122.800000;3.000000;364;2016-08-18 22:44:17;1;Mia;Pigeon;mia.p@dartybox.com;8;;FR
+328;Expédié;Virement bancaire;99.960000;99.960000;7.000000;367;2016-08-22 09:59:31;1;sophie;pallo;sophie.pallo@sfr.fr;8;;FR
+329;Expédié;Virement bancaire;122.800000;122.800000;3.000000;372;2016-08-23 13:51:08;1;audrey;bejard;audrey.bejard@sfr.fr;8;1983;FR
+330;Expédié;PayPal;536.000000;536.000000;0.000000;365;2016-08-19 23:47:31;1;Marta;Drougard;contact@drougartevent.com;8;drougARTevent;FR
+332;Expédié;Paybox - Epayment;122.800000;122.800000;3.000000;368;2016-08-22 10:41:34;1;Richard;David;rdvd44@gmail.com;8;;FR
+333;Expédié;Paybox - Epayment;126.260000;126.260000;7.000000;369;2016-08-22 14:10:18;1;Magali;Mansouela;magali.mansouela@orange.fr;8;;FR
+333;Expédié;Paybox - Epayment;126.260000;126.260000;7.000000;369;2016-08-22 14:10:18;1;Magali;Mansouela;magali.mansouela@orange.fr;8;;FR
+334;Expédié;Paybox - Epayment;20.930000;20.930000;3.000000;370;2016-08-22 19:16:03;1;edith;richard;edith.richard@nordnet.fr;8;;FR
+334;Expédié;Paybox - Epayment;20.930000;20.930000;3.000000;370;2016-08-22 19:16:03;1;edith;richard;edith.richard@nordnet.fr;8;;FR
+334;Expédié;Paybox - Epayment;20.930000;20.930000;3.000000;370;2016-08-22 19:16:03;1;edith;richard;edith.richard@nordnet.fr;8;;FR
+335;Expédié;Paybox - Epayment;143.560000;143.560000;3.000000;371;2016-08-23 11:16:30;1;sylvie;de moura;demourasylvie@gmail.com;8;;FR
+335;Expédié;Paybox - Epayment;143.560000;143.560000;3.000000;371;2016-08-23 11:16:30;1;sylvie;de moura;demourasylvie@gmail.com;8;;FR
+336;Expédié;Paybox - Epayment;65.500000;65.500000;6.000000;373;2016-08-23 19:55:08;1;frederic;moline;info@battants.com;8;fmo organisation;FR
+337;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;375;2016-08-24 08:37:15;1;martine ;DUMONT;aglaee58@free.fr;8;;FR
+338;Expédié;PayPal;124.800000;124.800000;4.000000;376;2016-08-24 09:29:53;1;Joeri;Van den Borne;info@jova-solutions.com;3;JOVA SOLUTIONS;BE
+339;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;377;2016-08-24 12:20:37;1;thibault;moraisin;thibault.moraisin@imelavi.fr;8;1987;FR
+340;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;378;2016-08-24 22:39:12;1;nathalie ;droz;info@hotel-restaurant-lefrance.com;8;sarl le france;FR
+341;Expédié;PayPal;17.000000;17.000000;3.000000;379;2016-08-26 00:27:52;1;Ludovic;Durban;ludeaux@club-internet.fr;8;;FR
+342;Expédié;PayPal;20.000000;20.000000;6.000000;380;2016-08-27 07:59:44;1;lenaick;theoden;lena@zeelab.net;8;;FR
+343;Expédié;Virement bancaire;125.800000;125.800000;6.000000;384;2016-08-30 10:56:38;1;caroline;viala;carolineviala@hotmail.fr;8;;FR
+344;Expédié;Virement bancaire;42.940000;42.940000;3.000000;399;2016-09-06 10:09:28;1;FABIEN;CAMBON;cambon.fabien@hotmail.fr;8;;FR
+345;Expédié;Paybox - Epayment;151.360000;151.360000;4.000000;381;2016-08-28 23:05:58;1;Ana Isabel;Mota;anaisabel_mota@hotmail.com;15;;PT
+346;Expédié;PayPal;90.000000;90.000000;6.000000;382;2016-08-29 18:58:10;1;marguerite;fortin;roymarguerite@orange.fr;8;;FR
+346;Expédié;PayPal;90.000000;90.000000;6.000000;382;2016-08-29 18:58:10;1;marguerite;fortin;roymarguerite@orange.fr;8;;FR
+347;Expédié;PayPal;56.940000;56.940000;3.000000;383;2016-08-30 09:20:14;1;Florent;Dumont;florent.elijah.dumont@gmail.com;8;;FR
+347;Expédié;PayPal;56.940000;56.940000;3.000000;383;2016-08-30 09:20:14;1;Florent;Dumont;florent.elijah.dumont@gmail.com;8;;FR
+347;Expédié;PayPal;56.940000;56.940000;3.000000;383;2016-08-30 09:20:14;1;Florent;Dumont;florent.elijah.dumont@gmail.com;8;;FR
+348;Expédié;PayPal;22.970000;22.970000;3.000000;385;2016-08-30 16:51:43;1;LÉA;LOISON;h.bba25@yahoo.fr;8;;FR

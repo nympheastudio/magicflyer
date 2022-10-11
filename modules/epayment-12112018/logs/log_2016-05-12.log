@@ -1,0 +1,20 @@
+2016-05-12 20:56:05 1463079365 DEBUG: URL to check 2
+2016-05-12 20:56:05 1463079365 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-12 20:56:06 1463079365 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-12 20:56:06 1463079365 DEBUG: Cart 955: Redirecting customer to Paybox (CARTE, CB).
+2016-05-12 20:58:05 1463079485 DEBUG: Call params: M=8285&R=955%20-%20Anne-Elisabeth%20Champon&T=628802928&A=858100&B=0&C=Visa&D=1711&E=00000&G=D&H=15AB348F4ED15996EA838FA26DA931EBAADB2440&I=FRA&J=&N=&P=CARTE&Q=20%3A56%3A14&S=624735294&W=12052016&Y=FRA&K=ijyXQroAHnqscM2AJQAZN8sUeSeVKjJ%2FtpRbydLtVvBmPJm0gobkVMXxPIYyzWFVVIRP8psD%2FaxXpwMV9lqhVI1zYIRZ8krRGBrmqSefkU7362n6QpBAHLQT0dKk7wLkGjiATbAzDJ9y5hF4INY2kIugHOJAikdH62uYo4peurY%3D
+2016-05-12 20:58:05 1463079485 DEBUG: Cart 955: Standard IPN
+2016-05-12 20:58:05 1463079485 DEBUG: Cart 955: Validating order (PS1.5+)
+2016-05-12 20:58:05 1463079485 DEBUG: Cart 955: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-12 20:58:06 1463079486 DEBUG: Cart 955: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-12 20:58:07 1463079485 DEBUG: Cart 955: Order 188 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-12 20:58:08 1463079488 DEBUG: Cart 955: Customer is back from Paybox payment page. Payment success.
+2016-05-12 22:03:49 1463083429 DEBUG: URL to check 2
+2016-05-12 22:03:49 1463083429 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-12 22:03:49 1463083429 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-12 22:03:49 1463083429 DEBUG: Cart 954: Redirecting customer to Paybox (CARTE, CB).
+2016-05-12 22:05:24 1463083524 DEBUG: Call params: M=2297&R=954%20-%20Cecile%20BASTARD&T=628811524&A=426622&B=0&C=Visa&D=1802&E=00000&G=D&H=9054A1E548B5C6F1F0663D631D711B5310D43FFC&I=FRA&J=&N=&P=CARTE&Q=22%3A03%3A51&S=624743334&W=12052016&Y=FRA&K=qhsqlCE0H8SpdiB5E4a%2FJm4dnw9aTGuNdnPK3DQH6%2Fj037pvgd9BMfSDkGcpbdXgoG3wC9Rud0mJuP%2BOXROEmMZLoiYdTFNlXcF4acbHrY6GPLvc%2BSgb3WBg2iunEucgHeuGN3zhJ34ro%2B5EfkYdZD0RcFjp0l43YMegnmEzt%2Fk%3D
+2016-05-12 22:05:24 1463083524 DEBUG: Cart 954: Standard IPN
+2016-05-12 22:05:24 1463083524 DEBUG: Cart 954: Validating order (PS1.5+)
+2016-05-12 22:05:25 1463083525 DEBUG: Cart 954: Customer is back from Paybox payment page. Payment success.
+2016-05-12 22:05:25 1463083524 DEBUG: Cart 954: Order 189 / Le paiement a été autorisé et capturé par Paybox.

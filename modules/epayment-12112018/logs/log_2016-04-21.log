@@ -1,0 +1,10 @@
+2016-04-21 11:37:34 1461231454 DEBUG: URL to check 2
+2016-04-21 11:37:34 1461231454 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-21 11:37:34 1461231454 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-21 11:37:34 1461231454 DEBUG: Cart 799: Redirecting customer to Paybox (CARTE, CB).
+2016-04-21 11:39:31 1461231571 DEBUG: Call params: M=21280&R=799%20-%20adeline%20crouard&T=625927276&A=110721&B=0&C=Visa&D=1802&E=00000&G=D&H=DE5E92072A90EB5EE260E132F0BD2A361A9EA27D&I=FRA&J=&N=&P=CARTE&Q=11%3A37%3A35&S=621844245&W=21042016&Y=FRA&K=dZNw9urWpiYSpJTfGhCaWwPRLLVk9GE2zEqYY96K1RXOhnmD%2FTV3r6SnmM25PH%2FhTh%2FHpw%2B6hZnvIXjvbEv2B4uwlplLo1Z%2BhY%2Fz%2B8C2UVv41XNQxdR2bsMdI%2BWmbhW0bEG2hhksZbPQEm%2BXEp8CGE48%2BSsOI9mcQuRpDaa9mzA%3D
+2016-04-21 11:39:31 1461231571 DEBUG: Cart 799: Standard IPN
+2016-04-21 11:39:31 1461231571 DEBUG: Cart 799: Validating order (PS1.5+)
+2016-04-21 11:39:32 1461231572 DEBUG: Cart 799: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-21 11:39:33 1461231571 DEBUG: Cart 799: Order 167 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-21 11:39:33 1461231573 DEBUG: Cart 799: Customer is back from Paybox payment page. Payment success.

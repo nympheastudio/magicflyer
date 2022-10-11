@@ -1,0 +1,3 @@
+E' possibile utilizzare il classificatore di prodotti per ottenere il tipo di oggetto:
+https://sellercentral.amazon.com/hz/inventory/classify?ref=ag_pclasshm_cont_invfile
+Questa opzione è obbligatoria solamente per gli Stati Uniti e potrebbe essere obbligatoria per l'India.

@@ -1,0 +1,1 @@
+Choose tax rule to apply for parcels shipped from abroad.

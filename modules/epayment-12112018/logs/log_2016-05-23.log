@@ -1,0 +1,11 @@
+2016-05-23 08:23:26 1463984606 DEBUG: URL to check 2
+2016-05-23 08:23:26 1463984606 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-23 08:23:26 1463984606 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-23 08:23:26 1463984606 DEBUG: Cart 967: Redirecting customer to Paybox (CARTE, CB).
+2016-05-23 08:24:57 1463984697 DEBUG: Call params: M=2597&R=967%20-%20helene%20salguero&T=629989235&A=639657&B=0&C=Visa&D=1811&E=00000&G=D&H=9149C7331A06DD74864A284A4283D97977CDFAEC&I=FRA&J=&N=&P=CARTE&Q=08%3A23%3A28&S=625920373&W=23052016&Y=FRA&K=Lf03JOt7rI2JQfiv1PbwNjGLfmj41hSewd64KCYjqzMt%2F4xre6jvAZl4GZGNRif4kLYPBAv%2FOpJLymJTeLNPkSbWEuk3e%2BmptERgeGjBu27y0D9kvNFZ8uMysQHIANYszlRFD2pDYQ%2F9EYgQmZVP85xSmMAO1ZB8U7qlGDT8JV4%3D
+2016-05-23 08:24:57 1463984697 DEBUG: Cart 967: Standard IPN
+2016-05-23 08:24:57 1463984697 DEBUG: Cart 967: Validating order (PS1.5+)
+2016-05-23 08:24:57 1463984697 DEBUG: Cart 967: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-23 08:24:59 1463984699 DEBUG: Cart 967: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-23 08:24:59 1463984697 DEBUG: Cart 967: Order 199 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-23 08:25:00 1463984700 DEBUG: Cart 967: Customer is back from Paybox payment page. Payment success.

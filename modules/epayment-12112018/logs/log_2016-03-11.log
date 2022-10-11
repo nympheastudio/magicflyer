@@ -1,0 +1,15 @@
+2016-03-11 00:19:52 1457651992 DEBUG: URL to check 2
+2016-03-11 00:19:52 1457651992 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-11 00:19:52 1457651992 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-11 00:19:52 1457651992 DEBUG: Cart 563: Redirecting customer to Paybox (CARTE, CB).
+2016-03-11 00:21:25 1457652085 DEBUG: URL to check 2
+2016-03-11 00:21:25 1457652085 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-11 00:21:25 1457652085 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-11 00:21:25 1457652085 DEBUG: Cart 563: Redirecting customer to Paybox (CARTE, CB).
+2016-03-11 00:22:21 1457652141 DEBUG: Call params: M=3290&R=563%20-%20Christian%20HERSPERGER&T=614175574&A=463227&B=0&C=Visa&D=1806&E=00000&G=D&H=023001787425626D48A6AB252599C76E1CC7941A&I=FRA&J=&N=&P=CARTE&Q=00%3A21%3A25&S=612033424&W=11032016&Y=FRA&K=kA0zlxqZ9N9NXsmhdBvhCDyAZtMWK6ncVErEcqHGXfC4M6fqqZ9Xit3dB%2BYjLVPil0vjuVTs84p%2BPnzoz2u9UpLBfk58VTTObcVbC0TA4eMZYz2zPju1ea67S1PulKWD9TkN8CSFSMsK6xXzoXBoxLZZ%2BEirhYBW%2FjeHyVXhLRM%3D
+2016-03-11 00:22:21 1457652141 DEBUG: Cart 563: Standard IPN
+2016-03-11 00:22:21 1457652141 DEBUG: Cart 563: Validating order (PS1.5+)
+2016-03-11 00:22:21 1457652141 DEBUG: Cart 563: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-11 00:22:22 1457652141 DEBUG: Cart 563: Order 128 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-11 00:22:27 1457652147 DEBUG: Cart 563: Customer is back from Paybox payment page. Payment success.
+2016-03-11 00:22:27 1457652147 DEBUG: Cart 563: Customer is back from Paybox payment page. Payment success.

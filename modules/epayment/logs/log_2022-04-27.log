@@ -1,0 +1,48 @@
+2022-04-27 11:17:29 1651051048 DEBUG: URL to check 2
+2022-04-27 11:17:29 1651051048 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-27 11:17:29 1651051048 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-04-27 11:17:29 1651051048 DEBUG: Cart 60759: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-27 11:18:19 1651051099 DEBUG: URL to check 2
+2022-04-27 11:18:19 1651051099 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-27 11:18:20 1651051099 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-04-27 11:18:20 1651051099 DEBUG: Cart 60759: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-27 11:19:59 1651051199 DEBUG: Call params: M=8100&R=60759%20-%20Deborah%20lepage&T=1055607145&A=849623&B=0&C=Visa&D=2610&E=00000&F=Y&G=O&I=BEL&J=08&N=487104&O=Y&P=CARTE&Q=11%3A19%3A57&S=910377884&W=27042022&Y=BEL&Z=0-0&K=RdO5DkD%2Bufv4uMyt8EnBXg1yj2ZD4r05HUA813VbxKYa2lzv%2FQeo9qRwhZIicksP86jpibOqPtmB4XYcuvHOg%2B2H3w5pOAlNDfvkMUlC8Rm56tJb6fkePt%2FOdmThvmmWZ0nPeqmiGXzxdKpdE8n4E0KnN7hw3%2FzKmWR94UMIdPI%3D
+2022-04-27 11:19:59 1651051199 DEBUG: Cart 60759: Standard IPN
+2022-04-27 11:19:59 1651051199 DEBUG: Cart 60759: Validating order
+2022-04-27 11:19:59 1651051199 DEBUG: Cart 60759: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-04-27 11:20:01 1651051201 DEBUG: Cart 60759: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-04-27 11:20:03 1651051203 DEBUG: Cart 60759: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-04-27 11:20:04 1651051204 DEBUG: Cart 60759: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-04-27 11:20:05 1651051205 DEBUG: Cart 60759: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-04-27 11:20:07 1651051207 DEBUG: Cart 60759: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2022-04-27 11:20:07 1651051199 DEBUG: Cart 60759: Order 5810 validated, creating details
+2022-04-27 11:20:07 1651051199 DEBUG: Cart 60759: Order 5810 / Le paiement a été autorisé et capturé par Paybox.
+2022-04-27 11:20:08 1651051208 DEBUG: Cart 60759: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-04-27 11:38:42 1651052322 DEBUG: URL to check 2
+2022-04-27 11:38:42 1651052322 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-27 11:38:42 1651052322 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-04-27 11:38:42 1651052322 DEBUG: Cart 60761: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-27 11:39:25 1651052365 DEBUG: Call params: M=14077&R=60761%20-%20Antoine%20Huitorel&T=1603138771&A=108005&B=0&C=CB&D=2305&E=00000&F=Y&G=O&I=FRA&J=88&N=497783&O=Y&P=3DSECURE&Q=11%3A39%3A23&S=17800873&W=27042022&Y=FRA&Z=0-0&K=IhpuzYSsP6S4lKlx8%2FjOuBdUamx%2BTIEE7ac4hdDQ6ThD1UmfSY1QnJzZ72X4F%2FTOUMNWU3J6PYmy2wYQP6Q3dFPZ7YLXp3K%2BxbBA2ypNwzMz7rFzy9VOJagUnrzgI0VdSC4x2uL2EL7RauuJPReg99bmD6q3fjJnY33n2noq7go%3D
+2022-04-27 11:39:25 1651052365 DEBUG: Cart 60761: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-04-27 11:39:25 1651052365 DEBUG: Cart 60761: Standard IPN
+2022-04-27 11:39:25 1651052365 DEBUG: Cart 60761: Validating order
+2022-04-27 11:39:27 1651052367 DEBUG: Cart 60761: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-04-27 11:39:28 1651052368 DEBUG: Cart 60761: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-04-27 11:39:30 1651052370 DEBUG: Cart 60761: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-04-27 11:39:32 1651052372 DEBUG: Cart 60761: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-04-27 11:39:34 1651052373 DEBUG: Cart 60761: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2022-04-27 11:39:34 1651052365 DEBUG: Cart 60761: Order 5811 validated, creating details
+2022-04-27 11:39:34 1651052365 DEBUG: Cart 60761: Order 5811 / Le paiement a été autorisé et capturé par Paybox.
+2022-04-27 11:39:36 1651052376 DEBUG: Cart 60761: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-04-27 17:54:15 1651074855 DEBUG: URL to check 2
+2022-04-27 17:54:15 1651074855 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-27 17:54:15 1651074855 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-04-27 17:54:15 1651074855 DEBUG: Cart 60684: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-27 17:55:24 1651074924 DEBUG: Call params: M=13541&R=60684%20-%20Pauline%20AUBRY&T=1603198524&A=293010&B=0&C=CB&D=2409&E=00000&F=Y&G=O&I=FRA&J=90&N=497711&O=Y&P=3DSECURE&Q=17%3A55%3A22&S=17862586&W=27042022&Y=FRA&Z=0-0&K=cxcbgKR%2Fsp4iOScRHyGGaaA5o1qNZVuhcQNZrc%2Fvbj1jptkxJ%2FpTATBnnO8fFS4lq9Hue3%2BIrafzKtGbaybwnhN%2BuADiy6TDpjuuYoXAaIuDySmYzgNGSx1iOcm0dTmzfEtiVGKUQ0jsTZsDQh%2Bnqi1AaxABL6k9I%2BNqULGqR2Q%3D
+2022-04-27 17:55:24 1651074924 DEBUG: Cart 60684: Standard IPN
+2022-04-27 17:55:24 1651074924 DEBUG: Cart 60684: Validating order
+2022-04-27 17:55:24 1651074924 DEBUG: Cart 60684: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-04-27 17:55:26 1651074926 DEBUG: Cart 60684: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-04-27 17:55:26 1651074924 DEBUG: Cart 60684: Order 5813 validated, creating details
+2022-04-27 17:55:26 1651074924 DEBUG: Cart 60684: Order 5813 / Le paiement a été autorisé et capturé par Paybox.
+2022-04-27 17:55:27 1651074927 DEBUG: Cart 60684: Customer is back from Verifone e-commerce payment page. Payment success.

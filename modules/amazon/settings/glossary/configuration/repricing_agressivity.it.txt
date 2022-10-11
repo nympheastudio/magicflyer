@@ -1,0 +1,10 @@
+Aggressività della strategia:
+
+Le vostre offerte verranno analizzate e sottoposte ad un punteggio.
+Offerte anche dai tuoi concorrenti.
+
+Il modulo confronta i punteggi e l'aggressività viene divisa in base al divario di punteggio.
+
+Quando il divario di punteggio si abbassa, il divario di prezzo viene ridotto in proporzione all'aggressività.
+
+Indica 30 se non puoi utilizzare questa configurazione.

@@ -1,0 +1,1 @@
+Cette fonctionnalité permet de recevoir les messages clients depuis Amazon et d'y répondre directement depuis l'onglet Clients > SAV.

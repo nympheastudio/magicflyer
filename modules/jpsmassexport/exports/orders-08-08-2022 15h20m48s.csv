@@ -1,0 +1,150 @@
+Commande n°;Mode de paiement;Total payé réel;Total produits;Total transport;Prénom;Nom;Code pays de livraison
+5957;PayPal;34.780000;25.050000;4.780000;CORINNE;GREMONT;FR
+5957;PayPal;34.780000;25.050000;4.780000;CORINNE;GREMONT;FR
+5958;Verifone e-commerce;237.220000;197.840000;0.000000;Bruno ;Bajard ;FR
+5958;Verifone e-commerce;237.220000;197.840000;0.000000;Bruno ;Bajard ;FR
+5958;Verifone e-commerce;237.220000;197.840000;0.000000;Bruno ;Bajard ;FR
+5959;Virement bancaire;145.530000;133.440000;14.480000;Anne-Deborah;Capayrou;FR
+5959;Virement bancaire;145.530000;133.440000;14.480000;Anne-Deborah;Capayrou;FR
+5960;Verifone e-commerce;113.770000;90.420000;5.260000;ginette;remilleux;FR
+5960;Verifone e-commerce;113.770000;90.420000;5.260000;ginette;remilleux;FR
+5961;Verifone e-commerce;174.500000;133.440000;14.480000;Vitor;coutinho;FR
+5961;Verifone e-commerce;174.500000;133.440000;14.480000;Vitor;coutinho;FR
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5962;Verifone e-commerce;311.040000;259.800000;0.000000;Vincent;Dernoncourt;BE
+5963;Verifone e-commerce;152.790000;120.840000;38.000000;Isabelle;De laere;BE
+5963;Verifone e-commerce;152.790000;120.840000;38.000000;Isabelle;De laere;BE
+5964;Verifone e-commerce;98.280000;71.820000;12.270000;Jean michel ;Coiffard;FR
+5964;Verifone e-commerce;98.280000;71.820000;12.270000;Jean michel ;Coiffard;FR
+5965;Verifone e-commerce;158.690000;133.440000;6.680000;Virginie;Couillon;FR
+5965;Verifone e-commerce;158.690000;133.440000;6.680000;Virginie;Couillon;FR
+5966;Verifone e-commerce;134.910000;113.920000;5.260000;Delphy;Colson;FR
+5966;Verifone e-commerce;134.910000;113.920000;5.260000;Delphy;Colson;FR
+5966;Verifone e-commerce;134.910000;113.920000;5.260000;Delphy;Colson;FR
+5967;Verifone e-commerce;214.700000;167.040000;14.480000;Marie Laure;QUINET;FR
+5967;Verifone e-commerce;214.700000;167.040000;14.480000;Marie Laure;QUINET;FR
+5968;Verifone e-commerce;43.780000;32.600000;4.780000;Esther;NEYRON;FR
+5968;Verifone e-commerce;43.780000;32.600000;4.780000;Esther;NEYRON;FR
+5969;Verifone e-commerce;253.440000;210.600000;0.000000;Séverine;Cardoen;BE
+5969;Verifone e-commerce;253.440000;210.600000;0.000000;Séverine;Cardoen;BE
+5970;PayPal;131.660000;108.600000;14.480000;Melissa;Gomez;FR
+5970;PayPal;131.660000;108.600000;14.480000;Melissa;Gomez;FR
+5971;Verifone e-commerce;135.960000;113.920000;13.130000;Laurence;Le bastard;FR
+5971;Verifone e-commerce;135.960000;113.920000;13.130000;Laurence;Le bastard;FR
+5971;Verifone e-commerce;135.960000;113.920000;13.130000;Laurence;Le bastard;FR
+5972;Verifone e-commerce;61.780000;47.550000;4.780000;Mélissa;Schaper;FR
+5972;Verifone e-commerce;61.780000;47.550000;4.780000;Mélissa;Schaper;FR
+5972;Verifone e-commerce;61.780000;47.550000;4.780000;Mélissa;Schaper;FR
+5973;PayPal;90.220000;71.820000;22.000000;Samantha ;Adam;RE
+5973;PayPal;90.220000;71.820000;22.000000;Samantha ;Adam;RE
+5974;Verifone e-commerce;231.500000;180.840000;14.480000;Sabine;Gasque;FR
+5974;Verifone e-commerce;231.500000;180.840000;14.480000;Sabine;Gasque;FR
+5974;Verifone e-commerce;231.500000;180.840000;14.480000;Sabine;Gasque;FR
+5975;Virement bancaire;64.780000;50.100000;4.780000;isabelle;TRICAUD;FR
+5975;Virement bancaire;64.780000;50.100000;4.780000;isabelle;TRICAUD;FR
+5976;PayPal;42.990000;31.720000;4.980000;Lidia;Miranda;LU
+5976;PayPal;42.990000;31.720000;4.980000;Lidia;Miranda;LU
+5977;PayPal;174.500000;133.440000;14.480000;marie-paule;bastide;FR
+5977;PayPal;174.500000;133.440000;14.480000;marie-paule;bastide;FR
+5978;Verifone e-commerce;80.800000;63.440000;4.780000;Julie;FRETEL;FR
+5978;Verifone e-commerce;80.800000;63.440000;4.780000;Julie;FRETEL;FR
+5978;Verifone e-commerce;80.800000;63.440000;4.780000;Julie;FRETEL;FR
+5979;Verifone e-commerce;48.150000;31.720000;10.140000;VALERIE;MARION;FR
+5979;Verifone e-commerce;48.150000;31.720000;10.140000;VALERIE;MARION;FR
+5980;Verifone e-commerce;80.800000;63.440000;4.780000;Aurelie;mistretta;FR
+5980;Verifone e-commerce;80.800000;63.440000;4.780000;Aurelie;mistretta;FR
+5981;Verifone e-commerce;114.600000;85.380000;12.270000;Danielle;Steinbach;FR
+5981;Verifone e-commerce;114.600000;85.380000;12.270000;Danielle;Steinbach;FR
+5982;PayPal;200.840000;180.840000;20.000000;Jean-François;Schulze;CH
+5982;PayPal;200.840000;180.840000;20.000000;Jean-François;Schulze;CH
+5982;PayPal;200.840000;180.840000;20.000000;Jean-François;Schulze;CH
+5983;PayPal;45.600000;32.600000;13.000000;Elisabeth;Obrist;CH
+5983;PayPal;45.600000;32.600000;13.000000;Elisabeth;Obrist;CH
+5984;Verifone e-commerce;264.260000;228.480000;16.940000;Océane;Malartre;FR
+5984;Verifone e-commerce;264.260000;228.480000;16.940000;Océane;Malartre;FR
+5984;Verifone e-commerce;264.260000;228.480000;16.940000;Océane;Malartre;FR
+5985;PayPal;38.780000;28.390000;4.780000;Virginie ;PARRA ;FR
+5985;PayPal;38.780000;28.390000;4.780000;Virginie ;PARRA ;FR
+5985;PayPal;38.780000;28.390000;4.780000;Virginie ;PARRA ;FR
+5986;Virement bancaire;114.240000;90.420000;5.730000;Julien;Andre ;BE
+5986;Virement bancaire;114.240000;90.420000;5.730000;Julien;Andre ;BE
+5987;Verifone e-commerce;336.960000;295.800000;0.000000;Marine;Lebas;FR
+5987;Verifone e-commerce;336.960000;295.800000;0.000000;Marine;Lebas;FR
+5987;Verifone e-commerce;336.960000;295.800000;0.000000;Marine;Lebas;FR
+5987;Verifone e-commerce;336.960000;295.800000;0.000000;Marine;Lebas;FR
+5988;Verifone e-commerce;63.280000;48.900000;4.780000;Christelle ;Charrier ;FR
+5988;Verifone e-commerce;63.280000;48.900000;4.780000;Christelle ;Charrier ;FR
+5988;Verifone e-commerce;63.280000;48.900000;4.780000;Christelle ;Charrier ;FR
+5989;PayPal;98.280000;71.820000;12.270000;CHARLOTTE;POUDROUX;FR
+5989;PayPal;98.280000;71.820000;12.270000;CHARLOTTE;POUDROUX;FR
+5989;PayPal;98.280000;71.820000;12.270000;CHARLOTTE;POUDROUX;FR
+5990;Verifone e-commerce;309.880000;258.480000;0.000000;Mathieu;DELOS;FR
+5990;Verifone e-commerce;309.880000;258.480000;0.000000;Mathieu;DELOS;FR
+5990;Verifone e-commerce;309.880000;258.480000;0.000000;Mathieu;DELOS;FR
+5990;Verifone e-commerce;309.880000;258.480000;0.000000;Mathieu;DELOS;FR
+5990;Verifone e-commerce;309.880000;258.480000;0.000000;Mathieu;DELOS;FR
+5991;Verifone e-commerce;196.300000;159.480000;5.260000;Marion;burfin;FR
+5991;Verifone e-commerce;196.300000;159.480000;5.260000;Marion;burfin;FR
+5991;Verifone e-commerce;196.300000;159.480000;5.260000;Marion;burfin;FR
+5991;Verifone e-commerce;196.300000;159.480000;5.260000;Marion;burfin;FR
+5991;Verifone e-commerce;196.300000;159.480000;5.260000;Marion;burfin;FR
+5991;Verifone e-commerce;196.300000;159.480000;5.260000;Marion;burfin;FR
+5991;Verifone e-commerce;196.300000;159.480000;5.260000;Marion;burfin;FR
+5991;Verifone e-commerce;196.300000;159.480000;5.260000;Marion;burfin;FR
+5992;Verifone e-commerce;150.690000;133.440000;6.680000;lydie;GALIBERT;FR
+5992;Verifone e-commerce;150.690000;133.440000;6.680000;lydie;GALIBERT;FR
+5993;Verifone e-commerce;235.430000;192.960000;15.700000;Manon;AUSTRUY-MARION;FR
+5993;Verifone e-commerce;235.430000;192.960000;15.700000;Manon;AUSTRUY-MARION;FR
+5993;Verifone e-commerce;235.430000;192.960000;15.700000;Manon;AUSTRUY-MARION;FR
+5994;Verifone e-commerce;186.500000;143.640000;14.480000;Marie-Anne;Vergès;FR
+5994;Verifone e-commerce;186.500000;143.640000;14.480000;Marie-Anne;Vergès;FR
+5994;Verifone e-commerce;186.500000;143.640000;14.480000;Marie-Anne;Vergès;FR
+5995;Verifone e-commerce;108.340000;90.420000;5.260000;Léo;Coquet;FR
+5995;Verifone e-commerce;108.340000;90.420000;5.260000;Léo;Coquet;FR
+5996;PayPal;165.780000;139.660000;6.680000;aurlié;de carvalho;FR
+5996;PayPal;165.780000;139.660000;6.680000;aurlié;de carvalho;FR
+5997;PayPal;162.060000;146.000000;11.160000;Tiphaine;EDGAR-BONNET;FR
+5998;Verifone e-commerce;169.610000;130.720000;13.130000;Léna;GARO;FR
+5998;Verifone e-commerce;169.610000;130.720000;13.130000;Léna;GARO;FR
+5998;Verifone e-commerce;169.610000;130.720000;13.130000;Léna;GARO;FR
+5999;Verifone e-commerce;140.320000;112.310000;5.260000;Estella;Balbastre;FR
+5999;Verifone e-commerce;140.320000;112.310000;5.260000;Estella;Balbastre;FR
+5999;Verifone e-commerce;140.320000;112.310000;5.260000;Estella;Balbastre;FR
+5999;Verifone e-commerce;140.320000;112.310000;5.260000;Estella;Balbastre;FR
+6000;Verifone e-commerce;406.660000;406.660000;0.000000;Anne-Marie;ANDREOLI;BE
+6000;Verifone e-commerce;406.660000;406.660000;0.000000;Anne-Marie;ANDREOLI;BE
+6000;Verifone e-commerce;406.660000;406.660000;0.000000;Anne-Marie;ANDREOLI;BE
+6000;Verifone e-commerce;406.660000;406.660000;0.000000;Anne-Marie;ANDREOLI;BE
+6001;Verifone e-commerce;111.280000;88.490000;5.260000;Typhaine;Durand;FR
+6001;Verifone e-commerce;111.280000;88.490000;5.260000;Typhaine;Durand;FR
+6001;Verifone e-commerce;111.280000;88.490000;5.260000;Typhaine;Durand;FR
+6001;Verifone e-commerce;111.280000;88.490000;5.260000;Typhaine;Durand;FR
+6002;Verifone e-commerce;169.160000;144.060000;5.260000;Chrystel;CONFOLANT;FR
+6002;Verifone e-commerce;169.160000;144.060000;5.260000;Chrystel;CONFOLANT;FR
+6002;Verifone e-commerce;169.160000;144.060000;5.260000;Chrystel;CONFOLANT;FR
+6002;Verifone e-commerce;169.160000;144.060000;5.260000;Chrystel;CONFOLANT;FR
+6003;Verifone e-commerce;170.090000;143.640000;6.680000;Damien;PIVETEAU;FR
+6003;Verifone e-commerce;170.090000;143.640000;6.680000;Damien;PIVETEAU;FR
+6003;Verifone e-commerce;170.090000;143.640000;6.680000;Damien;PIVETEAU;FR
+6004;Verifone e-commerce;98.280000;71.820000;12.270000;thierry;leclant;FR
+6004;Verifone e-commerce;98.280000;71.820000;12.270000;thierry;leclant;FR
+6005;Verifone e-commerce;60.350000;48.900000;4.780000;Nolwenn;Desruelles;FR
+6006;Verifone e-commerce;178.700000;143.640000;6.680000;Christelle;Quilichini;FR
+6006;Verifone e-commerce;178.700000;143.640000;6.680000;Christelle;Quilichini;FR
+6006;Verifone e-commerce;178.700000;143.640000;6.680000;Christelle;Quilichini;FR
+6007;PayPal;91.790000;72.720000;4.780000;Céline;Huillet;FR
+6007;PayPal;91.790000;72.720000;4.780000;Céline;Huillet;FR
+6007;PayPal;91.790000;72.720000;4.780000;Céline;Huillet;FR
+6008;Verifone e-commerce;88.300000;69.640000;4.780000;CHLOE;CHASSANG;FR
+6008;Verifone e-commerce;88.300000;69.640000;4.780000;CHLOE;CHASSANG;FR
+6008;Verifone e-commerce;88.300000;69.640000;4.780000;CHLOE;CHASSANG;FR
+6009;Verifone e-commerce;91.400000;65.970000;12.410000;Isabelle;Rastier;FR
+6009;Verifone e-commerce;91.400000;65.970000;12.410000;Isabelle;Rastier;FR

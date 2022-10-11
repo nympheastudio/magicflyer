@@ -1,0 +1,1 @@
+Modalità di arrotondamento da applicare sul prezzo di vendita MarketPlace.

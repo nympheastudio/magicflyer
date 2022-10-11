@@ -1,0 +1,32 @@
+2018-08-26 18:20:31 1535300430 DEBUG: URL to check 2
+2018-08-26 18:20:31 1535300430 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-26 18:20:31 1535300430 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-08-26 18:20:31 1535300430 DEBUG: Cart 27260: Redirecting customer to Paybox (CARTE, CB).
+2018-08-26 18:45:15 1535301915 DEBUG: URL to check 2
+2018-08-26 18:45:15 1535301915 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-26 18:45:15 1535301915 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-08-26 18:45:15 1535301915 DEBUG: Cart 27260: Redirecting customer to Paybox (CARTE, CB).
+2018-08-26 18:45:39 1535301939 DEBUG: URL to check 2
+2018-08-26 18:45:39 1535301939 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-26 18:45:39 1535301939 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-08-26 18:45:39 1535301939 DEBUG: Cart 27260: Redirecting customer to Paybox (CARTE, CB).
+2018-08-26 18:48:11 1535302091 DEBUG: URL to check 2
+2018-08-26 18:48:11 1535302091 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-26 18:48:11 1535302091 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-08-26 18:48:11 1535302091 DEBUG: Cart 27260: Redirecting customer to Paybox (CARTE, CB).
+2018-08-26 18:50:24 1535302224 DEBUG: Call params: M=17825&R=27260%20-%20Diane%20Jadin&T=41550114&A=667817&B=0&C=MasterCard&D=2312&E=00000&F=Y&G=O&I=BEL&J=14&N=552041&O=Y&P=CARTE&Q=18%3A45%3A10&S=920933509&W=26082018&Y=BEL&K=cg%2FbL4oChrtR166kSmeJBO5vkvx9j2HlZ8q5WCVnWEVXP%2BawmnV%2BykLsSaPAJ3vqxsHecdSJmvy1J9vnXB2CIQZosq1ggQdBYiyY8liYD17qhFi62kjGssKswDm2%2FVnHjM7l0g1DY70vG9wXmdJrkp4JwDhjX6oU9l7HFzNE05I%3D
+2018-08-26 18:50:24 1535302224 DEBUG: Cart 27260: Standard IPN
+2018-08-26 18:50:24 1535302224 DEBUG: Cart 27260: Validating order
+2018-08-26 18:50:24 1535302224 DEBUG: Cart 27260: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-08-26 18:50:25 1535302224 DEBUG: Cart 27260: Order 3231 / Le paiement a été autorisé et capturé par Paybox.
+2018-08-26 18:50:25 1535302225 DEBUG: Cart 27260: Customer is back from Paybox payment page. Payment success.
+2018-08-26 20:05:57 1535306757 DEBUG: URL to check 2
+2018-08-26 20:05:57 1535306757 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-26 20:05:57 1535306757 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-08-26 20:05:57 1535306757 DEBUG: Cart 27265: Redirecting customer to Paybox (CARTE, CB).
+2018-08-26 20:08:46 1535306926 DEBUG: Call params: M=4227&R=27265%20-%20Aurelie%20Rouelle&T=41575680&A=221988&B=0&C=MasterCard&D=2009&E=00000&F=Y&G=O&I=FRA&J=19&N=536107&O=Y&P=CARTE&Q=20%3A05%3A51&S=920951584&W=26082018&Y=FRA&K=RDw4HMVxUN2rsP3vbyoiBzr4t10jaajLphEbn39tPqdMsmpTHF91%2B0uW6MZz11UkkxnSoPpGynkgA3Q3s9l1H3WP9eITl1sz5VWf%2BRJFJJCfJ%2FPYIUJvRQHj8ZclepPI8qNnJb%2F%2BXhXLLdjXmrG0bUUcrNqeZP1VrmzYZisCDmg%3D
+2018-08-26 20:08:46 1535306926 DEBUG: Cart 27265: Standard IPN
+2018-08-26 20:08:46 1535306926 DEBUG: Cart 27265: Validating order
+2018-08-26 20:08:46 1535306926 DEBUG: Cart 27265: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-08-26 20:08:46 1535306926 DEBUG: Cart 27265: Order 3232 / Le paiement a été autorisé et capturé par Paybox.
+2018-08-26 20:08:47 1535306927 DEBUG: Cart 27265: Customer is back from Paybox payment page. Payment success.

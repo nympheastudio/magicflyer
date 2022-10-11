@@ -1,0 +1,10 @@
+2016-11-21 16:04:32 1479740672 DEBUG: URL to check 2
+2016-11-21 16:04:32 1479740672 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-21 16:04:32 1479740672 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-21 16:04:32 1479740672 DEBUG: Cart 4838: Redirecting customer to Paybox (CARTE, CB).
+2016-11-21 16:07:12 1479740832 DEBUG: Call params: M=1354&R=4838%20-%20mathilde%20barjini&T=667346111&A=325576&B=0&C=Visa&D=1904&E=00000&F=Y&G=O&I=FRA&J=42&N=497203&O=Y&P=3DSECURE&Q=16%3A04%3A33&S=666755341&W=21112016&Y=FRA&K=VSOQyVbDc838zQhVxAIzsroYCQcSvTBWXsivrzuYizO0VNKqybdpFIaSDQK0KV2CpZVB5CNOBbAaXqR0DcSL%2FYjECDCKy5GodJ8eGzULuXge%2FGhm8YW6ccHqoEvam1kM%2FNddbPvQe45Gha8mHSALgXoICPuw5Zv%2F5%2BMnBUsoDao%3D
+2016-11-21 16:07:12 1479740832 DEBUG: Cart 4838: Standard IPN
+2016-11-21 16:07:12 1479740832 DEBUG: Cart 4838: Validating order
+2016-11-21 16:07:12 1479740832 DEBUG: Cart 4838: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-21 16:07:13 1479740832 DEBUG: Cart 4838: Order 489 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-21 16:07:13 1479740833 DEBUG: Cart 4838: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,3 @@
+Vous pouvez utiliser le classifieur pour obtenir le type de produit:
+ https://sellercentral.amazon.com/hz/inventory/classify?ref=ag_pclasshm_cont_invfile
+Cette option est obligatoire pour les U.S.A et peut être obligatoire pour l'Inde&nbsp;

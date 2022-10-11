@@ -1,0 +1,2 @@
+File template which will be used to ask the customer review.
+You can add or edit files from the modules/amazon/mail directory.

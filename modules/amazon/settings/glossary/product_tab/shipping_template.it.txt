@@ -1,0 +1,5 @@
+Dato che hai configurato i modelli di spedizione nel Venditore Centrale, puoi specificare qui il modello di spedizione di default appartenente a questo profilo.
+
+Puoi applicare un modello, sia a un profilo, sia a un prodotto o a una combinazione dell'estensione del foglio prodotto
+
+Se non specificato da nessuna parte, quindi verranno utilizzate le tue impostazioni di spedizione di default configurate nel Venditore Centrale.

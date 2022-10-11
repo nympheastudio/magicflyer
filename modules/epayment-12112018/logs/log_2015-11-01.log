@@ -1,0 +1,13 @@
+2015-11-01 22:06:07 1446411967 DEBUG: URL to check 2
+2015-11-01 22:06:07 1446411967 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-01 22:06:07 1446411967 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-11-01 22:06:07 1446411967 DEBUG: Cart 250: Redirecting customer to Paybox (CARTE, CB).
+2015-11-01 22:08:31 1446412111 DEBUG: Call params: M=2297&R=250%20-%20laure%20stamboulian&T=286131920&A=300322&B=0&C=Visa&D=1706&E=00000&G=D&H=028DCF79F233C8BFD4499A1C6F6E829C2511B19B&I=FRA&J=&N=&P=CARTE&Q=22%3A06%3A10&S=291480356&W=01112015&Y=FRA&K=jNY5srfvjSlgVLEvxb8mt555W7oMRzfDLV9NJoxuNUFya67GFj%2BBV1w2cZJToRRRFDeQ4i4ptTzeAfAVBXbU2uGw61NHZ1%2Bt7Tn3nq6BXRq%2FEv%2FHQXw2i%2Bnc5z94Igx7G3ZimHhXiAz9M0x5ZCz58Utuje%2BhwEAVJO%2BI2hnQGvM%3D
+2015-11-01 22:08:31 1446412111 DEBUG: Cart 250: Standard IPN
+2015-11-01 22:08:31 1446412111 DEBUG: Cart 250: Validating order (PS1.5+)
+2015-11-01 22:08:37 1446412111 DEBUG: Cart 250: Order 62 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-11-01 22:08:34 1446412114 DEBUG: Cart 250: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-01 22:08:35 1446412115 DEBUG: Cart 250: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-11-01 22:08:37 1446412117 DEBUG: Cart 250: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2015-11-01 22:08:38 1446412118 DEBUG: Cart 250: Customer is back from Paybox payment page. Payment success.

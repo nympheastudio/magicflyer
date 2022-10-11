@@ -1,0 +1,9 @@
+Amazon vous oblige parfois à une liste de valeurs valides.
+
+Le mapping avec contrainte vous donne la certitude de faire correspondre votre valeur sur Prestashop avec la valeur possible sur Amazon.
+
+Cependant, comme son nom l'indique, il vous contraint à la liste de valeurs fournies.
+
+Voici un exemple de mapping avec contrainte bien renseigné :
+
+<img src="views/img/tips/fr/constrained_mapping.jpg" />

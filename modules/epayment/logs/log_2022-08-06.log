@@ -1,0 +1,8 @@
+2022-08-06 09:50:00 1659772200 DEBUG: URL to check 2
+2022-08-06 09:50:00 1659772200 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-08-06 09:50:00 1659772200 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-08-06 09:50:00 1659772200 DEBUG: Cart 64831: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-08-06 09:50:26 1659772226 DEBUG: URL to check 2
+2022-08-06 09:50:26 1659772226 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-08-06 09:50:26 1659772226 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-08-06 09:50:26 1659772226 DEBUG: Cart 64831: Redirecting customer to Verifone e-commerce (CARTE, CB).

@@ -1,0 +1,471 @@
+.pickup_intro_box {
+    background-color: #fbfbfb;
+    border: 1px solid #d6d4d4;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.pickup_intro_box_col {
+    box-sizing: border-box;
+}
+
+.pickup_intro_box_cols {
+    margin-bottom: 30px;
+}
+
+.pickup_intro_box_advice_img {
+    display: block;
+    width: 100%;
+}
+
+.pickup_red {
+    margin-left: 2px;
+    color: #be0312 !important;
+    text-decoration: none;
+}
+
+.pickup_bold {
+    font-weight: bold;
+}
+
+.pickup_intro_box_ul {
+    padding-left: 16px;
+}
+
+.pickup_intro_box_ul.no_padding {
+    padding-left: 15px;
+}
+
+.pickup_map_pudo_unavailable_div {
+    position: relative;
+    padding-left: 25%;
+}
+
+.pickup_map_pudo_unavailable_div p.red {
+    display: block;
+    position: absolute;
+    top: 40px;
+}
+
+/* general */
+
+body {
+    background-color: #EFF1F2 !important;
+}
+
+#content a.red {
+    position: relative;
+    color: #d90613;
+}
+
+#content a.red:before {
+    position: absolute;
+    content: '';
+    background: #d90613;
+    height: 2px;
+    bottom: -2px;
+    width: 0%;
+    transition: width 0.3s;
+}
+
+#content a.red:hover {
+    text-decoration: none;
+}
+
+#content a.red:hover:before {
+    width: 100%;
+}
+
+#content p {
+    font-size: 13px;
+}
+
+/* main container */
+#content {
+    background: #EFF1F2;
+}
+
+/* module container */
+.pickup_configuration_screen_content {
+    padding: 0 20px;
+}
+
+.pickup_configuration_screen_content .row {
+    background: none;
+}
+
+/* main menu */
+.pickup_configuration_screen_top_menu {
+    width: 100%;
+    /*height: 36px;*/
+    line-height: 36px;
+    padding: 0 8px 0 8px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.pickup_configuration_screen_top_menu li {
+    display: inline-block;
+    text-align: left;
+    margin-top: 2px;
+}
+
+.pickup_configuration_screen_top_menu li + li {
+    margin-left: 20px;
+}
+
+.pickup_configuration_screen_top_menu li a {
+    padding-top: 5px;
+    color: #282828;
+    font-family: 'HelveticaNeueLTStd45Light', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 12px;
+}
+
+.pickup_configuration_screen_top_menu li a:hover,
+.pickup_configuration_screen_top_menu li a:focus,
+.pickup_configuration_screen_top_menu li a.selected {
+    border-top: 2px solid #d90613;
+    color: #d90613;
+    margin-top: 0;
+    text-decoration: none;
+}
+
+input[type="text"]:focus {
+    border-color: #66afe9 !important;
+    outline: 0 !important;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6) !important;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6) !important;
+    background-color: #ffffff !important;
+}
+
+/* home */
+
+.panel.home {
+    text-align: center;
+    padding: 40px 20px !important;
+}
+
+.menu_logo_lanavette {
+    max-width: 20px;
+    height: auto;
+}
+
+.logo_lanavette {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 40px;
+}
+
+.home p {
+    max-width: 670px;
+    margin: auto;
+    margin-bottom: 8.5px;
+}
+
+.home__link-container {
+    text-align: center;
+}
+
+.home__link-block {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    margin: 40px 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 4px;
+    background-color: lightgray !important;
+    background-size: 60% !important;
+    color: #111111 !important;
+    font-family: Helvetica, Arial, sans-serif !important;
+    text-align: center;
+    text-decoration: none !important;
+    transition: color, background-color 0.3s;
+}
+
+.home__link-block:hover,
+.home__link-block:active {
+    background-color: #d90613 !important;
+    color: #ffffff !important;
+    box-shadow: gray 0px 0px 8px 1px;
+}
+
+.home__link-block h3 {
+    border: none !important;
+    margin: 10px 0 0 0 !important;
+    padding: 0 10px !important;
+    font-family: Helvetica, Arial, sans-serif !important;
+}
+
+.home__link-block p {
+    position: absolute;
+    padding: 0 20px;
+    bottom: 0;
+}
+
+.home__link-block--left {
+    background: url('../img/home_help.png') center no-repeat;
+}
+
+.home__link-block--left:hover,
+.home__link-block--left:active {
+    background-color: #272822 !important;
+    background: url('../img/home_help--hover.png') center no-repeat;
+}
+
+.home__link-block--right {
+    background-color: #d90613 !important;
+    color: #ffffff !important;
+    background: url('../img/home_config--hover.png') center no-repeat;
+}
+
+.home__link-block--right:hover,
+.home__link-block--right:active {
+    background-color: #272822 !important;
+}
+
+/* données expéditeur */
+
+#configuration_fieldset_general .panel-footer {
+    background-color: #ffffff !important;
+    height: 76px !important;
+}
+
+.pickup_configuration_screen_menu {
+    list-style-type: none;
+    float: left;
+    width: 90%;
+    margin-right: 10%;
+    margin-top: 0;
+    padding: 0;
+}
+
+.pickup_configuration_screen_menu img {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+
+.pickup_configuration_screen_menu a {
+    display: block;
+    /*background-color: rgb(235, 237, 244);*/
+    margin-bottom: 5px;
+    font-size: 18px;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 10px 0 10px;
+    font-family: 'HelveticaNeueLTStd45Light', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #282828;
+}
+
+.pickup_configuration_screen_menu a.selected {
+    font-weight: bold;
+
+    /*  border-top: 2px solid #d90613;*/
+    color: #d90613;
+    margin-top: 0;
+    text-decoration: none;
+}
+
+.pickup_configuration_screen_right_col {
+    width: 100%;
+}
+
+.pickup_configuration_sender_form_holder {
+    float: left;
+    width: 100%;
+}
+
+.pickup_configuration_content_page {
+    float: left;
+    width: 100%;
+}
+
+.pickup_hide {
+    display: none;
+}
+
+/*.pickup_configuration_screen_content .alert.alert-info {
+    padding-left: 0;
+    display: table;
+}
+
+.pickup_configuration_screen_content .alert.alert-info:before {
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    padding-right: 15px;
+} */
+
+/*/////////////////////////
+//
+//  PS 1.5 specific rules
+//  Use .pickup_configuration_screen_content class to be sure to target only
+//  la navette pickup main container inside of prestashop BO.
+//
+//////////////////////////*/
+
+/* force text inputs to occupy all available space */
+.pickup_configuration_screen_content input[type="text"] {
+    width: 100%;
+    padding: 6px 8px;
+}
+
+/* disable the * next to the inputs */
+.pickup_configuration_screen_content input[type="text"] + sup {
+    display: none;
+}
+
+.pickup_configuration_screen_content.ps_15 input[name="LNP2_OPTIONS_CORSE"] {
+    width: 250px;
+}
+
+.container-command fieldset .icon-truck {
+    display: inline-block;
+    margin-bottom: -3px;
+    margin-right: 10px;
+    content: url('../img/delivery.gif');
+}
+
+.pickup_configuration_screen_content legend {
+    line-height: 36px;
+    padding: 4px 40px 4px 4px;
+}
+
+.pickup_configuration_screen_content .form-group .optionsDescription,
+.pickup_configuration_screen_content fieldset .optionsDescription,
+.pickup_configuration_screen_content fieldset p.description, .info {
+    background: url("../../../../img/admin/icon-info.png") no-repeat scroll 0px 0px #BDE5F8;
+}
+
+.pickup_configuration_screen_content .form-group .optionsDescription {
+    border: 1px solid #00529B;
+    color: #00529B;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-bottom: 15px;
+    padding: 10px 5px 5px 40px;
+    border-radius: 3px;
+    min-height: 32px;
+}
+
+.pickup_configuration_screen_content .home__link-container h3 {
+    font-weight: normal;
+}
+
+.pickup_configuration_screen_content .home__link-container p {
+    color: inherit;
+}
+
+.pickup_configuration_screen_content .pickup_map_search_icon,
+.pickup_configuration_screen_content .pickup_map_search_icon.change {
+    top: auto !important;
+    bottom: 0;
+}
+
+.pickup_configuration_screen_content .pickup_map_search_icon.change {
+    height: 31px !important;
+}
+
+.pickup_configuration_screen_content .pickup_map_search_icon.lens {
+    right: 23px !important;
+    height: 23px !important;
+}
+
+.pickup_configuration_screen_content input[type="submit"],
+.pickup_configuration_screen_content button,
+.pickup_configuration_screen_content html input[type="button"],
+.pickup_configuration_screen_content input[type="reset"] {
+    float: right;
+    padding: 6px 25px !important;
+    background: #ffffff;
+    color: #555 !important;
+    font-size: 12px !important;
+    text-transform: uppercase;
+    box-shadow: none !important;
+}
+
+.pickup_configuration_screen_content input[type="submit"]:hover,
+.pickup_configuration_screen_content button:hover,
+.pickup_configuration_screen_content html input[type="button"]:hover,
+.pickup_configuration_screen_content input[type="reset"]:hover {
+    border-color: #008abd;
+    background-color: #00aff0;
+    color: #fff !important;
+    font-weight: normal;
+    text-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.pickup_configuration_screen_content select {
+    height: 32px;
+    min-width: 250px;
+}
+
+#content .alert.alert-success {
+    border-color: green !important;
+    color: green;
+    background: #d8f5d8 !important;
+}
+
+.pickup_configuration_screen_content form {
+    position: relative;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: solid 1px #e6e6e6;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 0, #fff 0 0 0 3px inset;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 0, #fff 0 0 0 3px inset;
+}
+
+.pickup_configuration_screen_content fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+}
+
+.pickup_configuration_screen_content fieldset img {
+    width: 30px;
+    vertical-align: middle;
+    margin-top: -5px;
+}
+
+.pickup_configuration_screen_content form legend {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 15px;
+    background: transparent;
+    border: none;
+    text-transform: uppercase;
+}
+
+/* alert message with aligned icon */
+.pickup_configuration_screen_content .alert.alert-info:before,
+.pickup_configuration_screen_content .alert.alert-warning:before,
+.pickup_configuration_screen_content .alert.alert-success:before,
+.pickup_configuration_screen_content .alert.alert-danger:before {
+    top: 50%;
+    transform: translateY(-50%);
+    height: auto;
+    width: auto;
+    font-size: 2.7em;
+}
+
+/* style form configurationScreen LNP */
+#conf_id_LNP2_OPTIONS_CORSE .input-group {
+    width: 250px;
+}
+#conf_id_LNP2_OPTIONS_CORSE .input-group .form-control {
+    width: 100%;
+}

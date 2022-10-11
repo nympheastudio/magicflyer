@@ -1,0 +1,11 @@
+Geachte {firstname} {lastname},
+
+U vindt hierbij de factuur voor uw bestelling nr. {amazon_order_id} van {amazon_order_date} via Amazon.
+
+Deze factuur is in het universele PDF-formaat; u kunt ze met een PDF-lezer op uw scherm bekijken.
+
+Bewaar deze factuur en denk aan het milieu; druk ze alleen af wanneer dat nodig is.
+
+Met vriendelijke groet,
+Klantenservice
+{shop_name}

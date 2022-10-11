@@ -1,0 +1,20 @@
+Hi,
+"{form_name}" form has just been submitted by {customer_name} 
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Report number
+{id_report}
+
+Language
+{lang_name}
+
+Form Field
+Value
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 

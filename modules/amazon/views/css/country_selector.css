@@ -1,0 +1,17 @@
+.country-selector {
+}
+
+.country-selector tr td {
+    min-width: 120px;
+    text-align: center;
+    color: darkgrey;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.country-fieldset {
+    float: left;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+

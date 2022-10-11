@@ -1,0 +1,19 @@
+2017-07-17 00:01:23 1500242483 DEBUG: Call params: M=26800&R=15229%20-%20Lisa%20Benalouache&T=732183548&A=448449&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=24&N=497040&O=Y&P=3DSECURE&Q=23%3A58%3A14&S=721808496&W=16072017&Y=FRA&K=GRkUuRV4sCcD%2F%2BoNxGD6XeEzvrqjbvNuJTbAZXl9uIgWSDDvkmsZ6uHTbQAHFFxQsz9radWZskXeqm%2FduKcLcS3JjLqqS4QswCtafl100bISQ2yqA18ZZg%2FOhhJmQ2zPMom%2Bn0%2BzJuhLkbCwSZvua7ryvI6KBsq5MP0lLHZ8Xgk%3D
+2017-07-17 00:01:23 1500242483 DEBUG: Cart 15229: Standard IPN
+2017-07-17 00:01:23 1500242483 DEBUG: Cart 15229: Validating order
+2017-07-17 00:01:24 1500242484 DEBUG: Cart 15229: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-07-17 00:01:24 1500242483 DEBUG: Cart 15229: Order 1424 / Le paiement a été autorisé et capturé par Paybox.
+2017-07-17 00:01:25 1500242485 DEBUG: Cart 15229: Customer is back from Paybox payment page. Payment success.
+2017-07-17 00:01:43 1500242503 DEBUG: Call params: M=26800&R=15229%20-%20Lisa%20Benalouache&T=732183548&A=448449&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=24&N=497040&O=Y&P=3DSECURE&Q=23%3A58%3A14&S=721808496&W=16072017&Y=FRA&K=GRkUuRV4sCcD%2F%2BoNxGD6XeEzvrqjbvNuJTbAZXl9uIgWSDDvkmsZ6uHTbQAHFFxQsz9radWZskXeqm%2FduKcLcS3JjLqqS4QswCtafl100bISQ2yqA18ZZg%2FOhhJmQ2zPMom%2Bn0%2BzJuhLkbCwSZvua7ryvI6KBsq5MP0lLHZ8Xgk%3D
+2017-07-17 00:01:43 1500242503 DEBUG: Cart 15229: (IPN) Cart already being validated as order.
+2017-07-17 14:16:57 1500293817 DEBUG: Cart 15215: Order 1422 / Order amount changed : 111.000000 => 101.100000
+2017-07-17 18:50:48 1500310248 DEBUG: URL to check 2
+2017-07-17 18:50:48 1500310248 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-17 18:50:48 1500310248 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-07-17 18:50:48 1500310248 DEBUG: Cart 15266: Redirecting customer to Paybox (CARTE, CB).
+2017-07-17 18:52:09 1500310329 DEBUG: Call params: M=4200&R=15266%20-%20Maiwenn%20Barret-Marhic&T=732475698&A=227524&B=0&C=MasterCard&D=1707&E=00000&F=Y&G=O&I=FRA&J=68&N=513267&O=Y&P=3DSECURE&Q=18%3A50%3A48&S=722072180&W=17072017&Y=FRA&K=glJnmgoRIFAHMVYk4%2B489iWKa5A24D0yXbp60xIgj5ufkX2Ui8RHezfAaumwyrP4i9Q%2Byb4HHTuftGzxlm2hg%2FaMyvfCFKyehchNEAJObH1T23SiRaq9iRoyu72TP9rKcYke2LedZaMZT7qW8ELlqTfEqhZJrxZFU%2BFkDVVNH2s%3D
+2017-07-17 18:52:09 1500310329 DEBUG: Cart 15266: Standard IPN
+2017-07-17 18:52:09 1500310329 DEBUG: Cart 15266: Validating order
+2017-07-17 18:52:09 1500310329 DEBUG: Cart 15266: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-07-17 18:52:10 1500310329 DEBUG: Cart 15266: Order 1428 / Le paiement a été autorisé et capturé par Paybox.
+2017-07-17 18:52:10 1500310330 DEBUG: Cart 15266: Customer is back from Paybox payment page. Payment success.

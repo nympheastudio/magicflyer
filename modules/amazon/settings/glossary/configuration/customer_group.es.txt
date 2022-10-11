@@ -1,0 +1,5 @@
+Grupos de Clientes
+En Prestashop, usted puede crear un grupo customizado para sus exportaciones Amazon en Clientes > Grupos
+Por esta vía, usted puede aplicar promociones específicamente a sus exportaciones Amazon
+
+Los clientes creados durante la importación de la orden también pertenecen a este grupo

@@ -1,0 +1,1 @@
+Type d\'image qui sera utilisé pour Amazon (consulter: Préférences > Images pour plus d\'informations)

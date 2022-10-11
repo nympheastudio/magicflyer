@@ -1,0 +1,1 @@
+Escludi prodotti con prezzo inferiore a questo valore.

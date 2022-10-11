@@ -1,0 +1,20 @@
+﻿Γειά σας,
+Η Φόρμα "{form_name}" Μόλις Υποβλήθηκε από τον Χρήστη {customer_name}
+
+Προέλευση Φόρμας
+{origin}
+
+Παράμετροι Σελίδας
+{page_param}
+
+Report number
+{id_report}
+
+Γλώσσα
+{lang_name}
+
+Πεδίο Φόρμας
+Πληροφορία Πεδίου
+{form_data} 
+
+{shop_name} Powered by Yan Studio™ 

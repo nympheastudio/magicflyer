@@ -1,0 +1,31 @@
+#mega_menu_plus ul li div.sub{
+}
+#mega_menu_plus ul li:hover div.sub{
+	display:block;
+}
+#mega_menu_plus ul li div.sub{
+	position:absolute;
+}
+#mega_menu_plus .fullwidth{
+	width:100%;
+	left: 0px;
+	overflow: hidden;
+}
+#mega_menu_plus .autowidth{
+	width:auto;
+}
+#mega_menu_plus a{
+	text-decoration: none;
+	position:relative;
+	visibility:visible;
+	display:block;
+}
+#mega_menu_plus  .mobi{
+	display:none;
+}
+#mega_menu_plus .menu-item-link-text:before{
+	padding-right: 2px;
+}
+body ul.mg-menu  li{
+	list-style:none;
+}

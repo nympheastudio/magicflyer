@@ -1,0 +1,5 @@
+Su Seller Central, reindizzerai l' "Email Servizio Clienti" alla tua casella di posta elettronica Gmail;
+
+<img src="views/img/tips/en/email_amazon.jpg" />
+
+Nota: non usare il menu "notifiche" in quanto non funzionerà. Funzionerà solo la configurazione nell'immagine riportata sopra.

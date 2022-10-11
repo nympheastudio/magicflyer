@@ -1,0 +1,1 @@
+Aggiungere il supporto Multi-Canal FBA al modulo

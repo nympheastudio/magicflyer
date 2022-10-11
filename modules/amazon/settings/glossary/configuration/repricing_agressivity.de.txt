@@ -1,0 +1,10 @@
+Aggressivität der Strategie:
+
+Ihre Angebote werden analysiert und sind Gegenstand eines Scorings.
+Die Angebote Ihrer Konkurrenten ebenfalls.
+
+Das Modul vergleicht die Ergebnisse und die Aggressivität wird durch den Abstand zwischen den Ergebnissen geteilt.
+
+Umso kleiner der Abstand zwischen den Ergebnissen ist, umso weniger wird der Abstand zwischen den Preisen und anteilig der Aggressivität sein.
+
+Geben Sie 30 an, wenn Sie diese Konfiguration noch nicht beherrschen.

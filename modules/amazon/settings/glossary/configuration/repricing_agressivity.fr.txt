@@ -1,0 +1,10 @@
+Agressivité de la stratégie:
+
+Vos offres sont analysées et font l'objet d'un scoring.
+Les offres de vos concurrents aussi.
+
+Le module compare les scores, l'agressivité est divisée par l'écart de score.
+
+Plus l'écart de score sera faible, plus l'écart de prix sera réduit, au prorata de l'agressivité.
+
+Indiquez 30 si vous ne maîtrisez pas encore cet configuration.

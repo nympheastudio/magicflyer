@@ -1,0 +1,2 @@
+Geben Sie den Namen des Produkts, Amazon empfiehlt den Titel als formatieren: Hersteller - Name Produkt 
+Wählen Sie Standard, Title-Attribute, wenn Ihre Produktnamen für Amazon bereits formatiert sind

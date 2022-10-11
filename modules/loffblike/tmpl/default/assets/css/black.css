@@ -1,0 +1,19 @@
+.lof-wrapper.black {
+    background: url(../images/black.png) repeat-x scroll 0 -60px transparent;
+}
+.lof-wrapper.black .lof-logo {
+    background: url(../images/black.png) no-repeat scroll 0 0 transparent;
+}
+.lof-wrapper.black .lof-fadeleft {
+    background: url(../images/black.png) no-repeat scroll 0 -120px transparent;
+}
+.lof-wrapper.black .lof-faderight {
+    background: url(../images/black.png) no-repeat scroll -85px -120px transparent;
+}
+.lof-wrapper.black .tickercontainer{
+	background:none;
+}
+.lof-wrapper.black .tickercontainer{
+	background:none;
+	border:0px solid;
+}

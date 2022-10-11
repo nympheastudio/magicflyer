@@ -1,0 +1,2 @@
+If you are eligible to the Amazon Prime program, you can configure an alternate order status for Prime Orders
+http://documentation.common-services.com/amazonv4/commandes-amazon-prime/?lang=en

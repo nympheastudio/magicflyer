@@ -1,0 +1,1 @@
+Ermöglicht Ihnen den Service für die Preisgestaltung, die im Modul integriert ist, zu konfigurieren.

@@ -1,0 +1,5 @@
+Veuillez choisir l'univers principal pour ce profil.
+Ne pas oublier d'enregistre la configuration, cliquez sur le bouton en bas à droite de la page.
+
+Pour une meilleure évolutivité, les catégories sont en anglais. Utilisez un traducteur pour une meilleure compréhension. 
+C'est volontaire ; de cette manière, vous êtes assuré d'avoir des données fraîches et des catégories actualisées en permanence.

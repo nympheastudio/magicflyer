@@ -1,0 +1,15 @@
+2017-10-28 14:48:25 1509194905 DEBUG: URL to check 2
+2017-10-28 14:48:25 1509194905 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-28 14:48:25 1509194905 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-10-28 14:48:25 1509194905 DEBUG: Cart 19279: Redirecting customer to Paybox (CARTE, CB).
+2017-10-28 14:51:25 1509195085 DEBUG: Call params: M=4613&R=19279%20-%20Isabelle%20Vaes&T=759596316&A=582005&B=0&C=MasterCard&D=2006&E=00000&F=Y&G=O&I=FRA&J=50&N=513770&O=Y&P=3DSECURE&Q=14%3A48%3A26&S=745228620&W=28102017&Y=FRA&K=1pD77nrTB7D7ao7LWwEdMQAg9Ub%2F%2FOfrh33GO%2BS%2FmEa3IOhlaDiXUjV1nOfECPLVnZyXcGyQNZR64A5aXUxwI7rZyqH5m9LxKEeKx9jvYmEOoNx9ByDw1J8JUveJbTs1jI8rDjyxI7pPRoxl%2FajwAKQ%2BaN5x2YV3ZQ0rwmxhCZA%3D
+2017-10-28 14:51:25 1509195085 DEBUG: Cart 19279: Standard IPN
+2017-10-28 14:51:25 1509195085 DEBUG: Cart 19279: Validating order
+2017-10-28 14:51:25 1509195085 DEBUG: Cart 19279: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-10-28 14:51:26 1509195086 DEBUG: Cart 19279: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-10-28 14:51:27 1509195087 DEBUG: Cart 19279: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-10-28 14:51:29 1509195089 DEBUG: Cart 19279: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2017-10-28 14:51:29 1509195085 DEBUG: Cart 19279: Order 1754 / Le paiement a été autorisé et capturé par Paybox.
+2017-10-28 14:51:29 1509195089 DEBUG: Call params: M=4613&R=19279%20-%20Isabelle%20Vaes&T=759596316&A=582005&B=0&C=MasterCard&D=2006&E=00000&F=Y&G=O&I=FRA&J=50&N=513770&O=Y&P=3DSECURE&Q=14%3A48%3A26&S=745228620&W=28102017&Y=FRA&K=1pD77nrTB7D7ao7LWwEdMQAg9Ub%2F%2FOfrh33GO%2BS%2FmEa3IOhlaDiXUjV1nOfECPLVnZyXcGyQNZR64A5aXUxwI7rZyqH5m9LxKEeKx9jvYmEOoNx9ByDw1J8JUveJbTs1jI8rDjyxI7pPRoxl%2FajwAKQ%2BaN5x2YV3ZQ0rwmxhCZA%3D
+2017-10-28 14:51:30 1509195089 DEBUG: Cart 19279: (IPN) Cart already being validated as order.
+2017-10-28 14:51:30 1509195090 DEBUG: Cart 19279: Customer is back from Paybox payment page. Payment success.

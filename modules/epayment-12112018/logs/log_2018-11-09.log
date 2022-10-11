@@ -1,0 +1,12 @@
+2018-11-09 11:45:39 1541760339 DEBUG: URL to check 2
+2018-11-09 11:45:39 1541760339 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-09 11:45:39 1541760339 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-09 11:45:39 1541760339 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-09 11:45:39 1541760339 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-09 11:45:39 1541760339 DEBUG: No valid URL found!
+2018-11-09 11:48:07 1541760486 DEBUG: URL to check 2
+2018-11-09 11:48:07 1541760486 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-09 11:48:07 1541760486 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-09 11:48:07 1541760486 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-09 11:48:07 1541760486 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-09 11:48:07 1541760486 DEBUG: No valid URL found!

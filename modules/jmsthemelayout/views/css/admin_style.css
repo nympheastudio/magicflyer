@@ -1,0 +1,195 @@
+/**
+ * @package Jms Advance Footer
+ * @version 1.0
+ * @Copyright (C) 2009 - 2015 Joommasters.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ * @Website: http://www.joommasters.com
+**/
+.navigation {
+	text-align:right;
+	margin:10px 0px;
+}
+.profile-title {
+	border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 40px;
+    margin-bottom: 20px;
+    position: relative;
+	text-transform:uppercase;
+}
+
+.profile-title .pull-right a {	
+	text-transform:capitalize;
+	
+}
+.profile-title .pull-right a.save_pos {
+	position:fixed;
+	right:0px;
+	background:#72c279;
+	width:44px;
+	height:44px;
+	top:370px;
+	text-align:center;
+	color:#FFF;
+	cursor:pointer;
+	box-shadow:0px 2px 3px #999;
+}
+#desc-product-new {
+	position:fixed;
+	right:0px;
+	top:250px;
+	background:#72c279;
+	width:44px;
+	height:44px;
+	top:320px;
+	text-align:center;
+	color:#FFF;
+	cursor:pointer;
+	box-shadow:0px 2px 3px #999;
+}
+.devices-layout #dLabel {
+	background: #72c279 none repeat scroll 0 0;
+    border-radius: 0;
+    color: #fff;
+    position: fixed;
+    right: 0;
+    top: 284px;
+	box-shadow:0px 2px 3px #999;
+}
+.bootstrap .open > .dropdown-menu {
+	border-radius:0px;
+}
+.bootstrap .dropdown-menu > li  {
+	border-top:1px solid #ebebeb;
+}
+.bootstrap .dropdown-menu > li:first-child {
+	border-top:0px;
+}
+.bootstrap .dropdown-menu > li a {
+	border-radius:0px;
+	padding:5px 10px!important;
+	border:none;
+}
+.bootstrap .dropdown-menu i {
+	margin-right:5px;
+}
+.devices-layout #dLabel .caret {
+	border-top-color:#FFF!important;
+}
+.devices-layout .dropdown-menu {
+	left:auto;
+	right:0px;
+	padding:0px;
+}
+.profile-title .pull-right i {
+	font-size:16px;
+	
+}
+#rowlist .btn {
+	padding:2px 6px;
+	text-transform:capitalize;
+	border-radius:0px;
+}
+#rowlist  .dropdown-menu {
+	border-radius:0px;
+	padding:0px;	
+}
+#rowlist {
+	background:#e9eaed;
+	padding:20px 0px;
+}	
+.adv-row {	
+	border: 2px solid #fff;
+    margin-bottom: 15px;    
+    position: relative;
+    transition: all 0.5s ease 0s;
+	box-shadow:0 1px 2px;
+}
+.adv-row.container {
+	width:1080px;
+	background:url(../img/grid_1080.jpg) repeat-y top left;
+}
+.row-title {
+	background: none repeat scroll 0 0 #fff;
+    color: #000;
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 40px;    
+    text-align: center;    
+	height:40px;	
+	margin:0px -7px;
+	border-bottom:1px solid #ccc;
+}
+.row-title > div > .btn-group-action {
+	line-height:36px;
+}
+.row-positions {
+	padding:20px 0px;
+	position:relative;
+}
+.save_pos {	
+}
+.position {	
+}
+.position-inner {		
+	padding:0px 10px 5px 10px!important;	
+	border: 1px solid #ebebeb;
+    margin-bottom: 15px;    
+    position: relative;
+    transition: all 0.5s ease 0s;
+	box-shadow:0 2px 2px;
+	height:100%;
+	background:#dedede;
+}
+.position-title {
+	background: none repeat scroll 0 0 #fff;
+    color: #000;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 34px;    
+    padding-left:10px;    
+	margin:0px -10px;
+	border-bottom:1px solid #ccc;
+}
+.position-title > .btn-group-action {
+	margin-right:10px;
+	line-height:28px;
+}
+.pos-blocks {
+	padding-top:10px;
+}
+.block {
+	background: none repeat scroll 0 0 #fff;
+    border: 1px solid #dddee1;
+    cursor: move;
+    margin: 0 0px 10px;    
+	padding:7px;
+	font-size:12px;
+	line-height:22px;
+}	
+#rowlist .ui-resizable-se {
+	right:6px;
+	bottom:15px;
+}
+.devices-layout  > .active {
+	background:#79bd3c!important;	
+}
+
+.devices-layout.btn-group-action {
+	line-height:36px;
+	margin-right:5px;
+	position:fixed;
+	top:200px;
+	right:0px;
+} 
+.note i {
+    color: #00aff0;
+    margin-right: 10px;
+}
+.note p {
+	width:50%;
+	float:left;
+}

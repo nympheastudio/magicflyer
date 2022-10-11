@@ -1,0 +1,13 @@
+2015-11-11 16:57:23 1447257443 DEBUG: URL to check 2
+2015-11-11 16:57:23 1447257443 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-11 16:57:23 1447257443 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-11-11 16:57:23 1447257443 DEBUG: Cart 272: Redirecting customer to Paybox (CARTE, CB).
+2015-11-11 16:58:01 1447257481 DEBUG: Call params: M=8288&R=272%20-%20marie%20line%20%20criquet&T=287370330&B=0&C=MasterCard&D=1706&E=00105&G=D&H=F78A32F3E4904F7B3A5CE0BEB6A7C2FAD33B3F23&I=FRA&J=&N=&P=CARTE&Q=16%3A57%3A24&S=292692508&W=11112015&Y=FRA&K=ZYwm3sJPpP39KdYeTXPCib%2Fxf79TM5IvS5JBrfLlljvzyxF2t82tjpcv0xwhhu0H5ALC930Ezs1RfAJx87aZ%2FNpHci0RLgROjjt2R2HAlFVGtaBKNr%2FEK8c0zxctc7ldsGUEBWmJ82Vytj%2BsFAPGzce%2B1%2B5q96uOaJr1Q6XmX5g%3D
+2015-11-11 16:58:01 1447257481 DEBUG: Cart 272: (IPN) Payment was refused by Paybox (105).
+2015-11-11 16:59:06 1447257546 DEBUG: Call params: M=8288&R=272%20-%20marie%20line%20%20criquet&T=287370330&A=657055&B=0&C=MasterCard&D=1606&E=00000&G=D&H=32BE7E064BD302C8D9A091644476DF0FB7B81823&I=FRA&J=&N=&P=CARTE&Q=16%3A57%3A24&S=292692649&W=11112015&Y=FRA&K=1Dnz%2BMnt04l8CH%2B3oO0S6tzuP2mqM1b7AnXmcnNHMFGxxQbaIGORdrhNy5m4WmxFQsLEFlqEn00r9L7J2C8lrN2%2F76G6a7j1%2BJW6OafPpfDLv0bn6WQC6VeBIYHAhKCv1f3Oe0dV9fAGYqhAv6WTcs%2FtcDcU0NUUmV4dh%2FKNXEY%3D
+2015-11-11 16:59:06 1447257546 DEBUG: Cart 272: Standard IPN
+2015-11-11 16:59:06 1447257546 DEBUG: Cart 272: Validating order (PS1.5+)
+2015-11-11 16:59:07 1447257547 DEBUG: Cart 272: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-11-11 16:59:09 1447257549 DEBUG: Cart 272: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-11 16:59:09 1447257546 DEBUG: Cart 272: Order 70 / Le paiement a été autorisé et capturé par Paybox.
+2015-11-11 16:59:10 1447257550 DEBUG: Cart 272: Customer is back from Paybox payment page. Payment success.

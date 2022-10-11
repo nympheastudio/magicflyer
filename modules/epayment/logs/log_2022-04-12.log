@@ -1,0 +1,18 @@
+2022-04-12 23:06:15 1649797574 DEBUG: URL to check 2
+2022-04-12 23:06:15 1649797574 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-12 23:06:15 1649797574 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-04-12 23:06:15 1649797574 DEBUG: Cart 60273: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-12 23:06:31 1649797591 DEBUG: Cart 60273: Payment was canceled by user on Verifone e-commerce payment page.
+2022-04-12 23:25:03 1649798703 DEBUG: URL to check 2
+2022-04-12 23:25:03 1649798703 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-12 23:25:03 1649798703 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-04-12 23:25:03 1649798703 DEBUG: Cart 60273: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-12 23:27:25 1649798845 DEBUG: Call params: M=3498&R=60273%20-%20Dominique%20Vandevelde&T=1053302269&A=804045&B=0&C=Visa&D=2607&E=00000&F=Y&G=O&I=BEL&J=20&N=487104&O=Y&P=3DSECURE&Q=23%3A27%3A23&S=908012103&W=12042022&Y=BEL&Z=0-0&K=nlZCBDxa6QihulWx9QWUdvgk9RbPYP09hI2Cs6TLp9yur2eRwrSd7nRfCk%2BH%2BTDxClpQd45FeJABJO3VVx6YYpKkoME76gReorA9r15dHvFNepNxEP%2BGkP1VZI5ZhQEefQieGqPn0gpHV%2FZUOwdBGX18kli5%2B8Zqck2L%2Bbo%2FLos%3D
+2022-04-12 23:27:25 1649798845 DEBUG: Cart 60273: Standard IPN
+2022-04-12 23:27:25 1649798845 DEBUG: Cart 60273: Validating order
+2022-04-12 23:27:25 1649798845 DEBUG: Cart 60273: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-04-12 23:27:27 1649798847 DEBUG: Cart 60273: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-04-12 23:27:28 1649798848 DEBUG: Cart 60273: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-04-12 23:27:28 1649798845 DEBUG: Cart 60273: Order 5780 validated, creating details
+2022-04-12 23:27:28 1649798845 DEBUG: Cart 60273: Order 5780 / Le paiement a été autorisé et capturé par Paybox.
+2022-04-12 23:27:29 1649798849 DEBUG: Cart 60273: Customer is back from Verifone e-commerce payment page. Payment success.

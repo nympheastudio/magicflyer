@@ -1,0 +1,5 @@
+As you configured shipping templates in Seller Central you can specify here the default shipping template belonging to this profile.
+
+All the products related to this profile will have this shipping template applied, except if you specify another value directly on the product sheet extension, then, this one will replace the default shipping template.
+
+If specified nowhere, then, your default shipping settings configured in Seller Central will be used.

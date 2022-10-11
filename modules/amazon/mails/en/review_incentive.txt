@@ -1,0 +1,15 @@
+Dear {firstname} {lastname},
+
+Ratings can help you to decide what to buy on Amazon Marketplace, but your own rating can also be useful for future buyers on Marketplace.
+
+This is why we would be grateful if you could kindly rate our service.
+
+You can give a rating in just a few minutes by logging into your account at {amazon_review_url}
+
+Just follow the simple instructions.
+
+We would like to thank you for your confidence, and hope to see you very soon on Amazon Marketplace.
+
+Sincerely,
+Customer Service
+{shop_name}

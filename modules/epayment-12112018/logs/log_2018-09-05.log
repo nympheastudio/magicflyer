@@ -1,0 +1,23 @@
+2018-09-05 11:03:25 1536138204 DEBUG: URL to check 2
+2018-09-05 11:03:25 1536138204 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-05 11:03:25 1536138204 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-05 11:03:25 1536138204 DEBUG: Cart 27521: Redirecting customer to Paybox (CARTE, CB).
+2018-09-05 11:31:21 1536139881 DEBUG: URL to check 2
+2018-09-05 11:31:21 1536139881 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-05 11:31:21 1536139881 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-05 11:31:21 1536139881 DEBUG: Cart 27521: Redirecting customer to Paybox (CARTE, CB).
+2018-09-05 11:34:16 1536140056 DEBUG: Call params: M=8319&R=27521%20-%20Stephanie%20Ruchet&T=45244954&A=023842&B=0&C=MasterCard&D=1811&E=00000&F=Y&G=O&I=CHE&J=94&N=510021&O=Y&P=3DSECURE&Q=11%3A31%3A18&S=923903721&W=05092018&Y=CHE&K=Vdzckhs78PTbK3OkTKcSQoT7pvO7WohWqkiarrwcMYy1gmqs1gEB5juJZuALCZOGauSIjWdIoxTDmJyj5UAHAI%2F4v%2BhcrBIahWXjpcyjutUUrGS4BZ55f0p9TcHPZHJUVFfBXkRdD0F789etj0aaPS%2BQ2NEMYYfNYl6J0biHnsg%3D
+2018-09-05 11:34:16 1536140056 DEBUG: Cart 27521: Standard IPN
+2018-09-05 11:34:16 1536140056 DEBUG: Cart 27521: Validating order
+2018-09-05 11:34:16 1536140056 DEBUG: Cart 27521: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-09-05 11:34:17 1536140056 DEBUG: Cart 27521: Order 3262 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-05 11:34:17 1536140057 DEBUG: Cart 27521: Customer is back from Paybox payment page. Payment success.
+2018-09-05 18:25:12 1536164712 DEBUG: URL to check 2
+2018-09-05 18:25:12 1536164712 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-05 18:25:12 1536164712 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-05 18:25:12 1536164712 DEBUG: Cart 27548: Redirecting customer to Paybox (CARTE, CB).
+2018-09-05 18:30:22 1536165022 DEBUG: Call params: M=13558&R=27548%20-%20Rod%20Hadean&T=45442165&A=005223&B=0&C=Visa&D=2103&E=00000&F=A&G=N&I=USA&J=22&N=445643&O=Y&P=3DSECURE&Q=18%3A25%3A08&S=924069538&W=05092018&Y=USA&K=diD7It9417W9yR27lfaP6k9WwdWdnpfmBFGohY27sUb7EVwYrNqTPNovc8kuoYPGt73g1gfvnFRGRVZ5rCoLoKq5BlZpLMoxgNUKcBIsmuv7aK%2FaWM2KiDzDlS2eAjUVCRKPQsJIyUbqTT%2FqO5VzlNnaJB03zrpCUtWhAd8BBbA%3D
+2018-09-05 18:30:22 1536165022 DEBUG: Cart 27548: Standard IPN
+2018-09-05 18:30:22 1536165022 DEBUG: Cart 27548: Validating order
+2018-09-05 18:30:22 1536165022 DEBUG: Cart 27548: Order 3263 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-05 18:30:23 1536165023 DEBUG: Cart 27548: Customer is back from Paybox payment page. Payment success.

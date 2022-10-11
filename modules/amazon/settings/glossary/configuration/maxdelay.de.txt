@@ -1,0 +1,2 @@
+Frist in Arbeitstagen zwischen dem Zeitpunkt der Bestellaufnahme und dem Versenden der 
+Nach dieser Frist wird die Bewertungs-E-Mail nicht mehr versendet.

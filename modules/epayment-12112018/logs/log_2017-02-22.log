@@ -1,0 +1,10 @@
+2017-02-22 15:51:00 1487775059 DEBUG: URL to check 2
+2017-02-22 15:51:00 1487775059 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-22 15:51:00 1487775059 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-02-22 15:51:00 1487775059 DEBUG: Cart 9785: Redirecting customer to Paybox (CARTE, CB).
+2017-02-22 15:52:30 1487775150 DEBUG: Call params: M=8825&R=9785%20-%20Clemence%20%20Leplus&T=690631854&A=574432&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=02&N=497040&O=Y&P=3DSECURE&Q=15%3A51%3A00&S=687618701&W=22022017&Y=FRA&K=cqb1mrzm1Zbc3iUS6hveDLpRw3gBS4L3%2B1o8PWT6rghJS3wJRu8ALbLkvURiAZQGQyr48ajUra3Lr5n45iYsntjip9vLBagKtLMoQrhU8YkuTUKkeMmobXaZum8BNVu7d4znzBd71RH7lxYWHkSOL9L5x1c4hdF0hBsgDyHpt1w%3D
+2017-02-22 15:52:30 1487775150 DEBUG: Cart 9785: Standard IPN
+2017-02-22 15:52:30 1487775150 DEBUG: Cart 9785: Validating order
+2017-02-22 15:52:31 1487775151 DEBUG: Cart 9785: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-02-22 15:52:32 1487775150 DEBUG: Cart 9785: Order 711 / Le paiement a été autorisé et capturé par Paybox.
+2017-02-22 15:52:32 1487775152 DEBUG: Cart 9785: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,11 @@
+2016-11-03 21:15:58 1478204158 DEBUG: URL to check 2
+2016-11-03 21:15:58 1478204158 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-03 21:15:59 1478204158 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-03 21:15:59 1478204158 DEBUG: Cart 4335: Redirecting customer to Paybox (CARTE, CB).
+2016-11-03 21:17:01 1478204221 DEBUG: Call params: M=1700&R=4335%20-%20Pauline%20Lodeon&T=663829411&A=255563&B=0&C=Visa&D=1908&E=00000&F=Y&G=O&I=FRA&J=17&N=497401&O=Y&P=3DSECURE&Q=21%3A15%3A59&S=663350812&W=03112016&Y=FRA&K=l8KiIXsQGkmKT2fmbjV%2FZCVuJ%2BULKL6WrD1z9W3z1fA8ALt%2BKaPdlDmF0pw%2FsogmSf86AU3rCYqkZn6Otf8r9LnjZRLKz55JHXcp8oeXuLybH%2B43ldY%2FhlXou8yr6mGQe7W0ezTQrNY0l4xOvBYs9FBViffCqe5p9j6huanOXms%3D
+2016-11-03 21:17:01 1478204221 DEBUG: Cart 4335: Standard IPN
+2016-11-03 21:17:01 1478204221 DEBUG: Cart 4335: Validating order
+2016-11-03 21:17:01 1478204221 DEBUG: Cart 4335: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-03 21:17:03 1478204223 DEBUG: Cart 4335: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-03 21:17:03 1478204221 DEBUG: Cart 4335: Order 461 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-03 21:17:04 1478204224 DEBUG: Cart 4335: Customer is back from Paybox payment page. Payment success.

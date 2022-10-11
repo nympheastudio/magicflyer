@@ -1,0 +1,61 @@
+2015-09-29 12:05:50 1443521150 DEBUG: URL to check 2
+2015-09-29 12:05:51 1443521150 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 12:05:52 1443521150 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 12:05:52 1443521150 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 12:50:55 1443523855 DEBUG: URL to check 2
+2015-09-29 12:50:55 1443523855 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 12:50:55 1443523855 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 12:50:55 1443523855 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 13:07:58 1443524878 DEBUG: URL to check 2
+2015-09-29 13:07:58 1443524878 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 13:07:58 1443524878 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 13:07:58 1443524878 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 14:52:06 1443531126 DEBUG: URL to check 2
+2015-09-29 14:52:07 1443531126 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 14:52:07 1443531126 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 14:52:07 1443531126 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 15:52:03 1443534722 DEBUG: URL to check 2
+2015-09-29 15:52:03 1443534722 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 15:52:03 1443534722 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 15:52:03 1443534722 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 15:52:32 1443534752 DEBUG: URL to check 2
+2015-09-29 15:52:32 1443534752 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 15:52:33 1443534752 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 15:52:33 1443534752 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 15:53:00 1443534780 DEBUG: URL to check 2
+2015-09-29 15:53:00 1443534780 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 15:53:00 1443534780 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 15:53:00 1443534780 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 16:03:37 1443535417 DEBUG: URL to check 2
+2015-09-29 16:03:37 1443535417 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 16:03:37 1443535417 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 16:03:37 1443535417 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 16:26:03 1443536762 DEBUG: URL to check 2
+2015-09-29 16:26:03 1443536762 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 16:26:03 1443536762 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 16:26:03 1443536762 DEBUG: Cart 135: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 16:42:29 1443537749 DEBUG: URL to check 2
+2015-09-29 16:42:29 1443537749 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 16:42:29 1443537749 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 16:42:29 1443537749 DEBUG: Cart 136: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 16:42:54 1443537774 DEBUG: Call params: M=2297&R=136%20-%20Lorie%20Dugardyn&T=282508372&A=383568&B=0&C=Visa&D=1803&E=00000&G=D&H=CACC9009E5F257E02957DFB8F2C5DC095252987E&I=FRA&J=&N=&P=CARTE&Q=16%3A42%3A29&S=287777725&W=29092015&Y=FRA&K=B5gZw6HVvemuu%2BM8Xu%2B8xn0BgXFHllgDrGXvkxD5tm5qqoVaBm7OPzF0zqgCwsUcbuNCZSw%2FCit2yPaDvA62lx56%2FkksewzOnuCf3c6Mi6ap%2B22fD0N8l0P1AcCtwVefxzZ8QQkXlPKZZa%2B5gMgw0d0jKl0kNguuY3y53JrhJR8%3D
+2015-09-29 16:42:54 1443537774 DEBUG: Cart 136: Standard IPN
+2015-09-29 16:42:54 1443537774 DEBUG: Cart 136: Validating order (PS1.5+)
+2015-09-29 16:42:54 1443537774 DEBUG: Cart 136: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-09-29 16:42:56 1443537776 DEBUG: Cart 136: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-09-29 16:42:57 1443537774 DEBUG: Cart 136: Order 35 / Le paiement a été autorisé et capturé par Paybox.
+2015-09-29 16:42:57 1443537777 DEBUG: Cart 136: Customer is back from Paybox payment page. Payment success.
+2015-09-29 16:44:46 1443537886 DEBUG: Cart 136: Customer is back from Paybox payment page. Payment success.
+2015-09-29 16:44:54 1443537894 DEBUG: Cart 136: Customer is back from Paybox payment page. Payment success.
+2015-09-29 16:44:55 1443537895 DEBUG: Cart 136: Customer is back from Paybox payment page. Payment success.
+2015-09-29 19:17:31 1443547051 DEBUG: URL to check 2
+2015-09-29 19:17:31 1443547051 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-29 19:17:31 1443547051 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-29 19:17:31 1443547051 DEBUG: Cart 138: Redirecting customer to Paybox (CARTE, CB).
+2015-09-29 19:19:27 1443547167 DEBUG: Call params: M=17072&R=138%20-%20Virginie%20Ruello&T=282528416&A=417163&B=0&C=Visa&D=1809&E=00000&G=D&H=87FD3A913EA0C6A822D11A3113FF55DF6CFB2A48&I=FRA&J=&N=&P=CARTE&Q=19%3A17%3A33&S=287797797&W=29092015&Y=FRA&K=vyqKm%2Fr7RDVjHujBxs7%2Be8c5u1XeGs6ysr1kfEGpP3VhTu27TEGg0Ruq4kxaCWDiBGn7b5tqQQwu0t5wLZtKEoGmSmy%2FRLQQ2RLOAUTfQ2uPPw9YeWaKhOQ54thBd6foOmaiYi8bNVLU1Bxj5p2BGzB1sVPIf%2BQpQMoypilbPd4%3D
+2015-09-29 19:19:27 1443547167 DEBUG: Cart 138: Standard IPN
+2015-09-29 19:19:27 1443547167 DEBUG: Cart 138: Validating order (PS1.5+)
+2015-09-29 19:19:30 1443547167 DEBUG: Cart 138: Order 36 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-09-29 19:19:29 1443547169 DEBUG: Cart 138: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-09-29 19:19:30 1443547170 DEBUG: Cart 138: Customer is back from Paybox payment page. Payment success.

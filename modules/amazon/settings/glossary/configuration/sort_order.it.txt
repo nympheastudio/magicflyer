@@ -1,0 +1,13 @@
+Come già saprai, durante il processo di registrazione dei clienti, Amazon salva il nome completo senza differenziare il nome dal cognome, come mostrato nello screenshot qua sotto:
+ 
+<img src = "../modules/amazon/views/img/tips/en/amazon-registration.png" />
+ 
+Saprai anche che Prestashop ha due campi differenziati per il nome e per il cognome ed entrambi sono obbligatori. 
+
+Se uno di questi non è stato inserito, sarà impossibile importare ordini.
+
+Di conseguenza, sarà anche impossibile creare un nome ed un cognome usando un algoritmo basato sulle informazioni fornite da Amazon, soprattutto considerando che il modo in cui viene riempito il campo, dipende dal paese, da come viene utilizzato in quel paese e dalle discipline generali.
+ 
+Per esempio, per i feed Americani, ricreare nomi e cognomi è molto semplice perchè le persone sono disciplinate, nel senso che seguono le regole che gli sono state insegnate, come inserire nomi completi iniziando dal nome, per esempio, John F. Kennedy. Questo non è possibile per tutti gli altri Paesi. Di conseguenza, inevitabilmente troverai una parte dei campi dedicati al nome e cognome invertita. Noi siamo abituati a questi tipi di risposte: bene...inverto quindi i campi… ma no! Se guardi gli esempi dei tuoi ordini, noterai che la percentuale dei nomi nell’ordine esatto è definitiva.
+ 
+Tuttavia, se questo non è il tuo caso, da qua puoi cambiare il nome e cognome in base al Paese di interesse! Questo parametro verrà preso in considerazione quando saranno importati degli ordini.

@@ -1,0 +1,90 @@
+#jms_ajax_search {
+    height: 40px;
+    overflow: visible;
+    position: relative;
+    width: 250px;
+    z-index: 1000;
+	margin-left:20px;
+	width:100%;
+	float:left;
+}
+#ajax_search {
+    border: 1px solid #eee;
+    border-radius: 0;
+    color: #777;
+    height: 36px;
+    margin: 1px;
+    padding: 0 10px;
+    width: 250px;
+	float:left;
+}
+#search_result {
+    left: 0;
+    position: absolute;
+    top: 40px;
+    width: 250px;
+    z-index: 1000;
+}
+#search_result .result_div {
+    background: none repeat scroll 0 0 #fff;
+    float: left;
+    position: relative;
+    width: 100%;
+}
+#search_result .result_div .results{}
+#search_result .result_div .item {
+    float: left;
+    padding: 2%;
+    width: 100%;
+}
+#search_result .result_div .item .left-img {
+    background: none repeat scroll 0 0 #eee;
+    float: left;
+    margin-right: 5%;
+    padding: 1%;
+    width: 25%;
+}
+#search_result .result_div .item .left-img img{
+	max-width:100%;
+}
+#search_result .result_div .right-info {
+    float: left;
+    width: 70%;
+}
+#search_result .result_div h3.title {
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 0 5px 0;
+    padding: 0;
+    text-transform: uppercase;
+    width: 100%;
+}
+#search_result .result_div h3.title a{}
+#search_result .result_div .price {
+    float: left;
+    font-size: 14px;
+    width: 100%;
+}
+#search_result .result_div .price .label {
+    color: #777;
+    float: left;
+    line-height: 22px;
+    margin: 0 5px 0 0;
+    padding: 0;
+}
+#search_result .result_div .price .value{}
+#search_result .result_div .desc {
+    color: #999;
+    float: left;
+    font-size: 12px;
+    line-height: 16px;
+    width: 100%;
+}
+#search_result .result_div .desc p{
+	padding:0;
+	margin:0;
+}
+#search_result .result_div .right-info.full{
+	width:100%;
+}

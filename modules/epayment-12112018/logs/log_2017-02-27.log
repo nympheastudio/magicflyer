@@ -1,0 +1,7 @@
+2017-02-27 08:57:34 1488182254 DEBUG: Checking Paybox update to version 3.0.0
+2017-02-27 08:57:35 1488182254 DEBUG:  Paybox version check answer: {"version":"3.0.4","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.4.zip","message":"Mise \u00e0 jour mineure: diverses corrections de bugs mineurs."}
+2017-02-27 23:10:10 1488233410 DEBUG: URL to check 2
+2017-02-27 23:10:10 1488233410 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-27 23:10:10 1488233410 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-27 23:10:10 1488233410 DEBUG: Cart 10048: Redirecting customer to Paybox (CARTE, CB).
+2017-02-27 23:13:04 1488233584 DEBUG: Cart 10048: Payment was canceled by user on Paybox payment page.

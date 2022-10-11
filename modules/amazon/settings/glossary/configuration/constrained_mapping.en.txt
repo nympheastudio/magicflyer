@@ -1,0 +1,8 @@
+Amazon sometimes forces you to a list of valid values.
+
+The mapping with constraint gives you confidence to match your value in Prestashop with the possible value on Amazon.
+
+However, as the name suggests, it forces you to a list of values provided.
+
+Here is an example of mapping with constraint well filled in:
+<img src="views/img/tips/fr/constrained_mapping.jpg" />

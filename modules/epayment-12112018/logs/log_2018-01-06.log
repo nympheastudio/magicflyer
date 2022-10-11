@@ -1,0 +1,38 @@
+2018-01-06 11:41:06 1515235265 DEBUG: URL to check 2
+2018-01-06 11:41:06 1515235265 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-01-06 11:41:06 1515235265 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-01-06 11:41:06 1515235265 DEBUG: Cart 20198: Redirecting customer to Paybox (CARTE, CB).
+2018-01-06 11:44:20 1515235460 DEBUG: Call params: M=2442&R=20198%20-%20Amandine%20Fraisse&T=779404478&A=133619&B=0&C=MasterCard&D=1812&E=00000&F=Y&G=O&I=FRA&J=30&N=513414&O=Y&P=3DSECURE&Q=11%3A41%3A11&S=762511377&W=06012018&Y=FRA&K=PtAyaKAJT6JaCyGOj9hpOxEoKKBv0e%2BE7R8LAxydg%2BcEF7bF93Hk%2BIosFVhf43HmGaLD5EFmPjV%2FlLWyzGatwEvA4dHI%2BbEIYViF0q%2FM6Q96F0BVbdm1is4YYOLfYDxbtBYlx0ju%2BHDMqTpqdoKtFVRJAQUlZT1DGWDymJY0UIA%3D
+2018-01-06 11:44:20 1515235460 DEBUG: Cart 20198: Standard IPN
+2018-01-06 11:44:20 1515235460 DEBUG: Cart 20198: Validating order
+2018-01-06 11:44:24 1515235460 DEBUG: Cart 20198: Order 1844 / Le paiement a été autorisé et capturé par Paybox.
+ (loop 0).
+2018-01-06 11:44:25 1515235465 DEBUG: Cart 20198: Customer is back from Paybox payment page. Payment success.
+9&B=0&C=MasterCard&D=1812&E=00000&F=Y&G=O&I=FRA&J=30&N=513414&O=Y&P=3DSECURE&Q=11%3A41%3A11&S=762511377&W=06012018&Y=FRA&K=PtAyaKAJT6JaCyGOj9hpOxEoKKBv0e%2BE7R8LAxydg%2BcEF7bF93Hk%2BIosFVhf43HmGaLD5EFmPjV%2FlLWyzGatwEvA4dHI%2BbEIYViF0q%2FM6Q96F0BVbdm1is4YYOLfYDxbtBYlx0ju%2BHDMqTpqdoKtFVRJAQUlZT1DGWDymJY0UIA%3D
+2018-01-06 11:44:24 1515235464 DEBUG: Cart 20198: (IPN) Cart already being validated as order.
+2018-01-06 14:25:58 1515245158 DEBUG: URL to check 2
+2018-01-06 14:25:58 1515245158 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-01-06 14:25:59 1515245158 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-01-06 14:25:59 1515245158 DEBUG: Cart 20185: Redirecting customer to Paybox (CARTE, CB).
+2018-01-06 14:27:03 1515245223 DEBUG: Call params: M=3012&R=20185%20-%20claire%20%20Millet&T=779457110&A=181949&B=0&C=MasterCard&D=1809&E=00000&F=Y&G=O&I=FRA&J=46&N=513162&O=Y&P=3DSECURE&Q=14%3A26%3A01&S=762548334&W=06012018&Y=FRA&K=t8TlUqXab1lZ%2FYefRU32KHleEH1SMcp%2F%2FFYsTBcsSBddZ79rDjPrLcG0RoZBkiiyg7UDB8%2Foey5Ghrfw6CJJGpH1OajBTqxr8Dw08z%2FV3yqnjZ14K9kNsQjNAgVY8weSEJifwdNB8N6Y3EW3T6S11gZIRqCfxbv45pge5w07UYA%3D
+2018-01-06 14:27:03 1515245223 DEBUG: Cart 20185: Standard IPN
+2018-01-06 14:27:03 1515245223 DEBUG: Cart 20185: Validating order
+2018-01-06 14:27:04 1515245224 DEBUG: Cart 20185: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-01-06 14:27:05 1515245225 DEBUG: Cart 20185: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2018-01-06 14:27:06 1515245223 DEBUG: Cart 20185: Order 1845 / Le paiement a été autorisé et capturé par Paybox.
+2018-01-06 14:27:06 1515245226 DEBUG: Call params: M=3012&R=20185%20-%20claire%20%20Millet&T=779457110&A=181949&B=0&C=MasterCard&D=1809&E=00000&F=Y&G=O&I=FRA&J=46&N=513162&O=Y&P=3DSECURE&Q=14%3A26%3A01&S=762548334&W=06012018&Y=FRA&K=t8TlUqXab1lZ%2FYefRU32KHleEH1SMcp%2F%2FFYsTBcsSBddZ79rDjPrLcG0RoZBkiiyg7UDB8%2Foey5Ghrfw6CJJGpH1OajBTqxr8Dw08z%2FV3yqnjZ14K9kNsQjNAgVY8weSEJifwdNB8N6Y3EW3T6S11gZIRqCfxbv45pge5w07UYA%3D
+2018-01-06 14:27:06 1515245226 DEBUG: Cart 20185: (IPN) Cart already being validated as order.
+2018-01-06 14:27:06 1515245226 DEBUG: Cart 20185: Customer is back from Paybox payment page. Payment success.
+2018-01-06 20:43:27 1515267806 DEBUG: URL to check 2
+2018-01-06 20:43:27 1515267806 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-01-06 20:43:27 1515267806 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-01-06 20:43:27 1515267806 DEBUG: Cart 20209: Redirecting customer to Paybox (CARTE, CB).
+2018-01-06 20:44:36 1515267876 DEBUG: Call params: M=10352&R=20209%20-%20Marine%20Thiroux%20de%20Gervillier&T=779554938&A=918682&B=0&C=Visa&D=2003&E=00000&F=Y&G=O&I=FRA&J=11&N=453342&O=Y&P=3DSECURE&Q=20%3A43%3A28&S=762619607&W=06012018&Y=FRA&K=e7v%2BKiGO9LwrcUWCFYIfrYzLYJ6Bj%2FYevwUzulWkGSM8yQ9GTmUlWOEVBEg9rJyg6b%2Fi%2Fw6vaIKP6jk%2BXHVCxrhwqEjXMr8Xy0QJSvrLKuTk8MMbUWcSvXJR5lMtD1sC9%2FbhBkn%2BbBMQbxkWp0H0JrnoPyIerlIXok%2FNqH3DRvs%3D
+2018-01-06 20:44:36 1515267876 DEBUG: Cart 20209: Standard IPN
+2018-01-06 20:44:36 1515267876 DEBUG: Cart 20209: Validating order
+2018-01-06 20:44:36 1515267876 DEBUG: Cart 20209: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-01-06 20:44:37 1515267877 DEBUG: Cart 20209: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2018-01-06 20:44:38 1515267876 DEBUG: Cart 20209: Order 1846 / Le paiement a été autorisé et capturé par Paybox.
+2018-01-06 20:44:38 1515267878 DEBUG: Call params: M=10352&R=20209%20-%20Marine%20Thiroux%20de%20Gervillier&T=779554938&A=918682&B=0&C=Visa&D=2003&E=00000&F=Y&G=O&I=FRA&J=11&N=453342&O=Y&P=3DSECURE&Q=20%3A43%3A28&S=762619607&W=06012018&Y=FRA&K=e7v%2BKiGO9LwrcUWCFYIfrYzLYJ6Bj%2FYevwUzulWkGSM8yQ9GTmUlWOEVBEg9rJyg6b%2Fi%2Fw6vaIKP6jk%2BXHVCxrhwqEjXMr8Xy0QJSvrLKuTk8MMbUWcSvXJR5lMtD1sC9%2FbhBkn%2BbBMQbxkWp0H0JrnoPyIerlIXok%2FNqH3DRvs%3D
+2018-01-06 20:44:38 1515267878 DEBUG: Cart 20209: (IPN) Cart already being validated as order.
+2018-01-06 20:44:38 1515267878 DEBUG: Cart 20209: Customer is back from Paybox payment page. Payment success.

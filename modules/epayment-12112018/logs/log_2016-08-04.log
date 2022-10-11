@@ -1,0 +1,11 @@
+2016-08-04 18:49:07 1470329347 DEBUG: URL to check 2
+2016-08-04 18:49:07 1470329347 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-04 18:49:07 1470329347 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-08-04 18:49:07 1470329347 DEBUG: Cart 2222: Redirecting customer to Paybox (CARTE, CB).
+2016-08-04 18:50:13 1470329413 DEBUG: Call params: M=1700&R=2222%20-%20cecile%20Bouchet&T=639657091&A=342323&B=0&C=Visa&D=1905&E=00000&G=D&H=4842F1770B039A6F239F8C4FA2AD9952E80DA2E3&I=FRA&J=&N=&P=CARTE&Q=18%3A49%3A08&S=635725057&W=04082016&Y=FRA&K=ywkeCLYwfBLFa1V1dgQw6tamPYnwgNwO6DkmClZanKrzR1ke2bD4F6mq11hyZ4KLgkrzMWqjkfHXoZ7%2B2O66hQEKhV1xIP6B8aeMUR4IYSwzZV00fPD6HvyEPji10Xg%2Flkz6VfCQn2zxENleiebYtLxaAbvi2BlxU2A0JS3seUA%3D
+2016-08-04 18:50:13 1470329413 DEBUG: Cart 2222: Standard IPN
+2016-08-04 18:50:13 1470329413 DEBUG: Cart 2222: Validating order (PS1.5+)
+2016-08-04 18:50:14 1470329414 DEBUG: Cart 2222: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-04 18:50:16 1470329416 DEBUG: Cart 2222: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-04 18:50:16 1470329413 DEBUG: Cart 2222: Order 304 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-04 18:50:17 1470329417 DEBUG: Cart 2222: Customer is back from Paybox payment page. Payment success.

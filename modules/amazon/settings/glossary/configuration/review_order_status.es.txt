@@ -1,0 +1,3 @@
+Seleccionar el estado del pedido por el que se desencadena la acción.
+Solo se muestran los estados de los pedidos disponibles (e-mail a no, factura a sí)
+                         

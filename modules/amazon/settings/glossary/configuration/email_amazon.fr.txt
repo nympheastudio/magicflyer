@@ -1,0 +1,5 @@
+Vous redirigerez les emails du service client vers ce compte Gmail dans Seller Central ;
+
+<img src="views/img/tips/fr/email_amazon.jpg" />
+
+Note: N'utilisez pas le service de notification, cela ne fonctionnerait pas, il faut que ce paramètrage soit fait ainsi, comme montré sur cette illustration ci dessus.

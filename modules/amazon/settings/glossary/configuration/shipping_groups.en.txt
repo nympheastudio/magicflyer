@@ -1,0 +1,7 @@
+This is the name you gave to your shipping templates.
+
+You will can use shipping template in the profile configuration, 
+
+and also in the product sheet extension.
+
+Here, there is nothing else to do than to fetch the list.

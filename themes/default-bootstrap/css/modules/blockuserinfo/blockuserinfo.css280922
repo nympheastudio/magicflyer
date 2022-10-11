@@ -1,0 +1,100 @@
+.header_user_info {
+	float: right;margin-right: 10px}
+	.header_user_info a {
+	  display: block;color: #59595b;
+	  cursor: pointer;
+	  line-height: 18px; }
+	  @media (max-width: 479px) {
+		.header_user_info a {
+		  font-size: 11px; } }
+	  .header_user_info a:hover, .header_user_info a.active {color: #90aeba}
+  
+  /* AJOUTS NYMPHEA
+  |||||||||||||||||||| */
+  
+  .header_user_info a.logout {display: none}
+  
+  .modal-content {
+	  box-shadow: none;
+	max-width: 300px; 
+	  display: flex;
+	  top:50% !important; 
+	  margin-top: -175px;
+	  -webkit-animation: animatebottom 1.5s ;
+	  animation:  animatebottom 1.5s ;
+  }
+  
+
+@keyframes animatebottom {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+  .eroura {
+	  display: none;
+	  color: red;
+	  margin-bottom: 20px;
+  }
+  
+  /* The Close Button */
+  .close-login .close {
+	  font-weight: normal;
+	  padding-top: 15px !important;
+  }
+  .close-login:hover,
+  .close-login:focus {
+	  color: #fff;
+	  text-decoration: none;
+	  cursor: pointer;
+  }
+  
+  .modal-body {
+	  display: flex;
+	  width: 100%;
+  }
+  
+  /*form lui meme*/
+  .form-signin-heading {
+	  color: #59595b;
+	  font-weight: 300;
+	  margin: 10px 0;
+	  text-align: center
+  }
+  
+  .login_btn {
+	  background-color: #59595b;
+	  width: 100%;
+	  height: 45px;
+	  font-size: 14px;
+	  color: white;
+	  transition: ease-in-out all 0.2s; -webkit-transition: ease-in-out all 0.2s
+  }
+  .login_btn:hover {background: #90aeba; color: #fff}
+  .input {
+	  border-radius: 0px;
+  }
+  .form-signin {
+	  width: 100%;
+	padding: 20px 20px;
+	  margin: 0 auto;
+	  background-color: #fff;
+  }
+  
+  .form-signin  .form-control {
+	  position: relative;
+	  font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+	  margin: 10px 0;
+	  /*! width: 300px; */
+	  font-weight: 400;
+  }
+  
+  .forgot-pass a, .dont-have-an-account a {
+	  color: #90aeba;
+	  text-align: center;
+	  display: block;
+	  text-decoration: underline;
+	  margin: 10px 0 0;
+	  font-size: 14px;
+  }

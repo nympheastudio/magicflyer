@@ -1,0 +1,2 @@
+Choisir le statut de la commande sur lequel sera déclenché l'action.
+Seuls les statuts de commandes éligibles sont affichés (email a non, facture a oui).

@@ -1,0 +1,10 @@
+Mappatura e Caratteristiche
+
+In questa sezione verranno abbinati i vostri valori Prestashop con le caratteristiche di Amazon.
+
+Più campi verranno completati, meglio il prodotto verrà evidenziato, e più venfite verranno concluse, perchè alcuni di questi campi verranno utilizzati per una navigazione su più livelli su amazon. In questo modo i clienti hanno maggiori possibilità di trovare i vostri prodotti.
+
+Questi campi servono anche per completare la descrizione tecnica del foglio prodotto:
+
+
+<img src = "../modules/amazon/views/img/tips/fr/attributes.jpg" />

@@ -1,0 +1,56 @@
+2018-11-12 01:04:13 1541981053 DEBUG: URL to check 2
+2018-11-12 01:04:13 1541981053 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-12 01:04:13 1541981053 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 01:04:13 1541981053 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-12 01:04:13 1541981053 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 01:04:13 1541981053 DEBUG: No valid URL found!
+2018-11-12 01:04:38 1541981077 DEBUG: URL to check 2
+2018-11-12 01:04:38 1541981077 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-12 01:04:38 1541981077 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 01:04:38 1541981077 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-12 01:04:38 1541981077 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 01:04:38 1541981077 DEBUG: No valid URL found!
+2018-11-12 06:52:02 1542001922 DEBUG: URL to check 2
+2018-11-12 06:52:02 1542001922 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-12 06:52:02 1542001922 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 06:52:02 1542001922 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-12 06:52:02 1542001922 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 06:52:02 1542001922 DEBUG: No valid URL found!
+2018-11-12 06:52:31 1542001951 DEBUG: URL to check 2
+2018-11-12 06:52:31 1542001951 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-12 06:52:31 1542001951 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 06:52:31 1542001951 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-12 06:52:31 1542001951 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 06:52:31 1542001951 DEBUG: No valid URL found!
+2018-11-12 06:52:58 1542001978 DEBUG: URL to check 2
+2018-11-12 06:52:58 1542001978 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-12 06:52:58 1542001978 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 06:52:58 1542001978 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-12 06:52:58 1542001978 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 06:52:58 1542001978 DEBUG: No valid URL found!
+2018-11-12 06:53:32 1542002012 DEBUG: URL to check 2
+2018-11-12 06:53:32 1542002012 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-12 06:53:32 1542002012 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 06:53:32 1542002012 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-12 06:53:32 1542002012 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 06:53:32 1542002012 DEBUG: No valid URL found!
+2018-11-12 10:12:42 1542013962 DEBUG: URL to check 2
+2018-11-12 10:12:42 1542013962 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-12 10:12:42 1542013962 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 10:12:42 1542013962 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-12 10:12:42 1542013962 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 10:12:42 1542013962 DEBUG: No valid URL found!
+2018-11-12 10:15:18 1542014118 DEBUG: Checking Paybox update to version 3.0.0
+2018-11-12 10:15:18 1542014118 DEBUG:  Paybox version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2.pdf"}
+2018-11-12 10:28:13 1542014893 DEBUG: Checking Paybox update to version 3.0.0
+2018-11-12 10:28:13 1542014893 DEBUG:  Paybox version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2.pdf"}
+2018-11-12 10:55:28 1542016528 DEBUG: URL to check 2
+2018-11-12 10:55:28 1542016528 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-12 10:55:28 1542016528 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 10:55:28 1542016528 DEBUG: Checking Paybox URL https://tpeweb1.paybox.com/load.html
+2018-11-12 10:55:28 1542016528 DEBUG:   Exception Exception: Invalid status returned by remote server
+2018-11-12 10:55:28 1542016528 DEBUG: No valid URL found!
+2018-11-12 10:56:27 1542016587 DEBUG: Checking Paybox update to version 3.0.0
+2018-11-12 10:56:27 1542016587 DEBUG:  Paybox version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2.pdf"}
+2018-11-12 10:57:06 1542016626 DEBUG: Checking Paybox update to version 3.0.0
+2018-11-12 10:57:06 1542016626 DEBUG:  Paybox version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2.pdf"}

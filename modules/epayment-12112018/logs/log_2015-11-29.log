@@ -1,0 +1,12 @@
+2015-11-29 14:43:50 1448804630 DEBUG: URL to check 2
+2015-11-29 14:43:50 1448804630 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-29 14:43:50 1448804630 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-11-29 14:43:50 1448804630 DEBUG: Cart 321: Redirecting customer to Paybox (CARTE, CB).
+2015-11-29 14:44:58 1448804698 DEBUG: Call params: M=6250&R=321%20-%20clemence%20clemence&T=1180060718&A=125729&B=0&C=Visa&D=1802&E=00000&G=D&H=555958F2DC9971F30570D1DAA8C25143B7B28671&I=FRA&J=&N=&P=CARTE&Q=14%3A43%3A52&S=78454777&W=29112015&Y=FRA&K=ynNL3Djtzew6R%2FDR4CQZMUtAF76lxjQL%2BJRJf8pfJO%2FCFqe02bjKWyQ7ZtV60OhFLYJP3EThhu%2Bmh2YWpagKgHzB9Mlc49h1dw4j2xyzEtMuN%2BdmfpcTusLR9b7HDd7CEc%2BqrOtwCi4MwjmFafa8aGeNLwN5BsRc2znfIJThySY%3D
+2015-11-29 14:44:58 1448804698 DEBUG: Cart 321: Standard IPN
+2015-11-29 14:44:58 1448804698 DEBUG: Cart 321: Validating order (PS1.5+)
+2015-11-29 14:45:01 1448804698 DEBUG: Cart 321: Order 90 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-11-29 14:45:00 1448804700 DEBUG: Cart 321: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-29 14:45:01 1448804701 DEBUG: Cart 321: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-11-29 14:45:02 1448804702 DEBUG: Cart 321: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>amazon</name>
+	<displayName><![CDATA[Amazon]]></displayName>
+	<version><![CDATA[4.4.094]]></version>
+	<description><![CDATA[Cette extension permet de vendre des produits et de r&eacute;cup&eacute;rer les commandes de la marketplace Amazon]]></description>
+	<author><![CDATA[Common-Services]]></author>
+	<tab><![CDATA[market_place]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

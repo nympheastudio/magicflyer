@@ -1,0 +1,1 @@
+Questa funzione consente di ricevere messaggi da clienti di Amazon e di rispondere direttamente dalla scheda Clienti>Servizio Clienti

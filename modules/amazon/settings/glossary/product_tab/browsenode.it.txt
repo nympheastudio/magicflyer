@@ -1,0 +1,4 @@
+Sovrascrivi Nodo Browse:
+
+Questo valore sostituirà l'identificativo del nodo browse che hai impostato nella configurazione del profilo di questo prodotto.
+In questo modo, potrai avere un unico nodo browse per un profilo e creare eccezioni per prodotti.

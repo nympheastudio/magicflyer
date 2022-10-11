@@ -1,0 +1,2 @@
+Méthode d'éxpédition Amazon pour l'écrasement des frais de port par défaut quand ils sont spécifiés sur la fiche produit.
+Veuillez vous référer à votre documentation Amazon pour connaître la valeur appropriée.

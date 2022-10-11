@@ -1,0 +1,10 @@
+2017-01-19 16:34:26 1484840066 DEBUG: URL to check 2
+2017-01-19 16:34:26 1484840066 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-19 16:34:26 1484840066 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-01-19 16:34:26 1484840066 DEBUG: Cart 7286: Redirecting customer to Paybox (CARTE, CB).
+2017-01-19 16:35:50 1484840150 DEBUG: Call params: M=13800&R=7286%20-%20myriam%20haution&T=682398806&A=833256&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=03&N=456111&O=Y&P=3DSECURE&Q=16%3A34%3A27&S=680207109&W=19012017&Y=FRA&K=zBPMCf3gW8nIg1lEWRxZg%2Fksg7W6v83RIax9rHF1JbYuQ3ATPbBkpR7PBsZHPwK4LiFYY9Zvls%2F0coQuu%2Fe8xzKQ%2FtNSnG03OPthNc8nsPpSjex2RFTw7zhrPu3U50wio7DHmZ%2Baa4tfoXXxFS2p05RWzbTcMAOIi5g2zl39AOs%3D
+2017-01-19 16:35:50 1484840150 DEBUG: Cart 7286: Standard IPN
+2017-01-19 16:35:50 1484840150 DEBUG: Cart 7286: Validating order
+2017-01-19 16:35:51 1484840151 DEBUG: Cart 7286: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-01-19 16:35:52 1484840150 DEBUG: Cart 7286: Order 585 / Le paiement a été autorisé et capturé par Paybox.
+2017-01-19 16:35:52 1484840152 DEBUG: Cart 7286: Customer is back from Paybox payment page. Payment success.

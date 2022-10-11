@@ -1,0 +1,16 @@
+2016-06-06 10:59:30 1465203570 DEBUG: URL to check 2
+2016-06-06 10:59:30 1465203570 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-06 10:59:30 1465203570 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-06 10:59:30 1465203570 DEBUG: Cart 1346: Redirecting customer to Paybox (CARTE, CB).
+2016-06-06 11:00:22 1465203622 DEBUG: Call params: M=46997&R=1346%20-%20isabelle%20seguy&T=631734940&A=041699&B=0&C=Visa&D=1804&E=00000&G=D&H=CDE2D1FB71CB0B4EC05C43EC3B5B848AD23B510B&I=FRA&J=&N=&P=CARTE&Q=10%3A59%3A31&S=627681519&W=06062016&Y=FRA&K=GUdBq02SfZjA9PucC1Of5CsasLQAlVBEAGz4If8DrlmxhR2gWNIB%2FQJ%2FW2%2BVxpv82Hzfk%2B269jAE1pMZnx1uQFudwKgFyca7vqjXXxcRoT4NubWhWMwSxwZNAsjcavruY5Z7A6r1t%2FLrA0lEmBqGeZxAID0lAZCpJfUii6uxG3c%3D
+2016-06-06 11:00:22 1465203622 DEBUG: Cart 1346: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-06-06 11:00:22 1465203622 DEBUG: Cart 1346: Standard IPN
+2016-06-06 11:00:22 1465203622 DEBUG: Cart 1346: Validating order (PS1.5+)
+2016-06-06 11:00:23 1465203623 DEBUG: Cart 1346: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-06-06 11:00:24 1465203624 DEBUG: Cart 1346: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-06-06 11:00:25 1465203625 DEBUG: Cart 1346: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2016-06-06 11:00:26 1465203622 DEBUG: Cart 1346: Order 217 / Le paiement a été autorisé et capturé par Paybox.
+2016-06-06 11:00:26 1465203626 DEBUG: Call params: M=46997&R=1346%20-%20isabelle%20seguy&T=631734940&A=041699&B=0&C=Visa&D=1804&E=00000&G=D&H=CDE2D1FB71CB0B4EC05C43EC3B5B848AD23B510B&I=FRA&J=&N=&P=CARTE&Q=10%3A59%3A31&S=627681519&W=06062016&Y=FRA&K=GUdBq02SfZjA9PucC1Of5CsasLQAlVBEAGz4If8DrlmxhR2gWNIB%2FQJ%2FW2%2BVxpv82Hzfk%2B269jAE1pMZnx1uQFudwKgFyca7vqjXXxcRoT4NubWhWMwSxwZNAsjcavruY5Z7A6r1t%2FLrA0lEmBqGeZxAID0lAZCpJfUii6uxG3c%3D
+2016-06-06 11:00:26 1465203626 DEBUG: Cart 1346: Standard IPN
+2016-06-06 11:00:26 1465203626 DEBUG: Cart 1346: Validating order (PS1.5+)
+2016-06-06 11:00:27 1465203627 DEBUG: Cart 1346: Customer is back from Paybox payment page. Payment success.

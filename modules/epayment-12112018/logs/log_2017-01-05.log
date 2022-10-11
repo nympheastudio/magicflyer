@@ -1,0 +1,19 @@
+2017-01-05 10:07:46 1483607266 DEBUG: URL to check 2
+2017-01-05 10:07:46 1483607266 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-05 10:07:46 1483607266 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-01-05 10:07:46 1483607266 DEBUG: Cart 6146: Redirecting customer to Paybox (CARTE, CB).
+2017-01-05 10:09:33 1483607373 DEBUG: Call params: M=2297&R=6146%20-%20sophie%20Theatre%20des%20Chimeres&T=678683997&A=124014&B=0&C=Visa&D=1804&E=00000&F=Y&G=O&I=FRA&J=51&N=497203&O=Y&P=3DSECURE&Q=10%3A07%3A58&S=676911128&W=05012017&Y=FRA&K=DxFYX1%2BYtXlYa6S%2BfsJXSIbGKXiWRRnQwuv%2BJfZuYEWS19DdHABCf%2BGhQM53Yb0ub6TTjgMdfMK7N%2Bel3kCLVi3hDJFmDxmuK8tI52JBCaNOfKqWctYdZOmIg%2FkKNfWjGFDPYY3dZSchqsoV%2Fd0qcKPRptNe6rLFvNKtVUsvCdc%3D
+2017-01-05 10:09:33 1483607373 DEBUG: Cart 6146: Standard IPN
+2017-01-05 10:09:33 1483607373 DEBUG: Cart 6146: Validating order
+2017-01-05 10:09:34 1483607373 DEBUG: Cart 6146: Order 547 / Le paiement a été autorisé et capturé par Paybox.
+2017-01-05 10:09:51 1483607391 DEBUG: Cart 6146: Customer is back from Paybox payment page. Payment success.
+2017-01-05 10:47:21 1483609641 DEBUG: URL to check 2
+2017-01-05 10:47:21 1483609641 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-05 10:47:21 1483609641 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-01-05 10:47:21 1483609641 DEBUG: Cart 6525: Redirecting customer to Paybox (CARTE, CB).
+2017-01-05 10:49:10 1483609750 DEBUG: Call params: M=9882&R=6525%20-%20remi%20rolland&T=678698543&A=566592&B=0&C=Visa&D=1701&E=00000&F=Y&G=O&I=FRA&J=39&N=497578&O=Y&P=3DSECURE&Q=10%3A47%3A22&S=676925874&W=05012017&Y=FRA&K=h4kN%2BiHago%2BD6OLQFkn4CkkpFkWbGEtFjPmSJRSh6foFwUU6nGmZnZLk77H4d01OYZi%2FfZ99pdYxio2h0YE6g3QZNJVVkwP%2BeGZBM3Hap%2FisQizmYpUJwVJy%2B81sl6gWfpvpkVx6Ha7AU%2FSB2u2aq%2BW1w6dTI%2BzIoV7LiaAhYtM%3D
+2017-01-05 10:49:10 1483609750 DEBUG: Cart 6525: Standard IPN
+2017-01-05 10:49:10 1483609750 DEBUG: Cart 6525: Validating order
+2017-01-05 10:49:10 1483609750 DEBUG: Cart 6525: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-01-05 10:49:11 1483609750 DEBUG: Cart 6525: Order 548 / Le paiement a été autorisé et capturé par Paybox.
+2017-01-05 10:49:11 1483609751 DEBUG: Cart 6525: Customer is back from Paybox payment page. Payment success.

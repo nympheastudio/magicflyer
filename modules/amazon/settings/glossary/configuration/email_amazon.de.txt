@@ -1,0 +1,5 @@
+In Seller Central werden Sie die "Kundenservice E-Mail" zu Ihrem Gmail Posteingang weiterleiten:
+
+<img src="views/img/tips/en/email_amazon.jpg" />
+
+Hinweis: Nutzen Sie bitte nicht das "Benachrichtungungs"-Menü, es wird nicht funktionieren. Nur die oben im Bild angezeigte Konfiguration wird funktionieren.

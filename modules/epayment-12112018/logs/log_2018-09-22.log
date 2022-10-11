@@ -1,0 +1,10 @@
+2018-09-22 13:38:25 1537616305 DEBUG: URL to check 2
+2018-09-22 13:38:25 1537616305 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-22 13:38:25 1537616305 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-22 13:38:25 1537616305 DEBUG: Cart 28170: Redirecting customer to Paybox (CARTE, CB).
+2018-09-22 13:39:05 1537616345 DEBUG: Call params: M=9159&R=28170%20-%20anne-marie%20layotte&T=51440968&A=315359&B=0&C=E_CARD&D=1812&E=00000&F=Y&G=O&I=FRA&J=06&N=415059&O=Y&P=3DSECURE&Q=13%3A38%3A21&S=928620960&W=22092018&Y=FRA&K=ity06C2pAk1tj2fp0yfANJRxrhbfF8RjFTiLTmgomeExalNaDHLCE6ncR0Y%2BW7lTCocbMPM283DzvtfbJRIXgv0jZlw9xPCsBz7KTY2gkntUcFWtvHwixz17qeObB%2BetmIZhjq4dq5nxlb3AA%2B1jLfToSyozbQ%2BkrS2SuJxPfoE%3D
+2018-09-22 13:39:05 1537616345 DEBUG: Cart 28170: Standard IPN
+2018-09-22 13:39:05 1537616345 DEBUG: Cart 28170: Validating order
+2018-09-22 13:39:05 1537616345 DEBUG: Cart 28170: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-09-22 13:39:05 1537616345 DEBUG: Cart 28170: Order 3314 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-22 13:39:06 1537616346 DEBUG: Cart 28170: Customer is back from Paybox payment page. Payment success.

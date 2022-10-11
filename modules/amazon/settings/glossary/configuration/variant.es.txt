@@ -1,0 +1,6 @@
+Se utiliza para crear "Variaciones" en Amazon, el equivalente a combinaciones.
+
+Un ejemplo de variante en Amazon:
+
+<img src="views/img/tips/en/variant.jpg" />
+

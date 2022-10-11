@@ -1,0 +1,2 @@
+Fichier du modèle d'e-mail qui sera utilisé pour demander l'évaluation vendeur au client.
+Vous pouvez éditer ou ajouter ces fichiers dans le répertoire modules/amazon/mail.

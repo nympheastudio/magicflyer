@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>uecookie</name>
+	<displayName><![CDATA[European Union Cookies Law]]></displayName>
+	<version><![CDATA[1.5.1]]></version>
+	<description><![CDATA[This module displays a nice information about Cookies in your shop]]></description>
+	<author><![CDATA[MyPresta.eu]]></author>
+	<tab><![CDATA[Blocks]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

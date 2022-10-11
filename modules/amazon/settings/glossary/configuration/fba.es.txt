@@ -1,0 +1,4 @@
+Aplicar una formula de precio por defecto para los productos FBA
+Fórmula a aplicar al conjunto del precio de los productos exportados (multiplicación, división, suma, resta, porcentajes…)
+Utilice el símbolo @ como precio de referencia (por ejemplo: @ + 10 % significa que quiere añadir un 10 % al precio inicial)
+Si no especifica nada, la configuración global será utilizada.

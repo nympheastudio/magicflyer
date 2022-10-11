@@ -1,0 +1,2 @@
+Ritardo in giorni prima della spedizione del prodotto (es: tempo di preparazione, ritardo prima della spedizione)
+Sarà il default delay e potrà essere superato da un altro ritardo sul foglio prodotto

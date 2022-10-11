@@ -1,0 +1,53 @@
+Commande n°;Order State;Mode de paiement;Total payé;Total payé réel;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Email;Pays de livraison;Nom de la compagnie de facturation;Code pays de livraison
+145;Expédié;Paybox - Epayment;143.290000;143.290000;3.500000;188;2016-04-01 10:14:41;1;Heidi;Willems;heiheidi@xs4all.nl;13;;NL
+145;Expédié;Paybox - Epayment;143.290000;143.290000;3.500000;188;2016-04-01 10:14:41;1;Heidi;Willems;heiheidi@xs4all.nl;13;;NL
+145;Expédié;Paybox - Epayment;143.290000;143.290000;3.500000;188;2016-04-01 10:14:41;1;Heidi;Willems;heiheidi@xs4all.nl;13;;NL
+145;Expédié;Paybox - Epayment;143.290000;143.290000;3.500000;188;2016-04-01 10:14:41;1;Heidi;Willems;heiheidi@xs4all.nl;13;;NL
+145;Expédié;Paybox - Epayment;143.290000;143.290000;3.500000;188;2016-04-01 10:14:41;1;Heidi;Willems;heiheidi@xs4all.nl;13;;NL
+145;Expédié;Paybox - Epayment;143.290000;143.290000;3.500000;188;2016-04-01 10:14:41;1;Heidi;Willems;heiheidi@xs4all.nl;13;;NL
+146;Expédié;PayPal;20.000000;20.000000;6.000000;189;2016-04-04 17:33:11;1;Chrystele;Bruel;chrystelebruel@gmail.com;8;;FR
+147;Expédié;PayPal;83.360000;83.360000;3.500000;190;2016-04-04 18:01:34;1;Victoria;Christie;toyah_c@hotmail.com;17;;GB
+148;Expédié;Paybox - Epayment;25.970000;25.970000;6.000000;191;2016-04-04 18:42:42;1;NATHALIE;LAFON;collin_nathalie@orange.fr;8;;FR
+149;Expédié;Paybox - Epayment;42.940000;42.940000;3.000000;192;2016-04-06 18:26:20;1;Laurie;MICHOU;loriot64@msn.com;8;;FR
+150;Expédié;PayPal;22.970000;22.970000;3.000000;193;2016-04-06 19:56:45;1;sophie;dussaud;sophie.dussaud@free.fr;8;;FR
+151;Expédié;Paybox - Epayment;82.880000;82.880000;3.000000;194;2016-04-07 11:45:01;1;arnaud;LEBAT;arnaud.lebat@uretek.fr;8;;FR
+151;Expédié;Paybox - Epayment;82.880000;82.880000;3.000000;194;2016-04-07 11:45:01;1;arnaud;LEBAT;arnaud.lebat@uretek.fr;8;;FR
+151;Expédié;Paybox - Epayment;82.880000;82.880000;3.000000;194;2016-04-07 11:45:01;1;arnaud;LEBAT;arnaud.lebat@uretek.fr;8;;FR
+151;Expédié;Paybox - Epayment;82.880000;82.880000;3.000000;194;2016-04-07 11:45:01;1;arnaud;LEBAT;arnaud.lebat@uretek.fr;8;;FR
+152;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;195;2016-04-08 11:20:33;1;sarah;malachane;ssssoledad_8@hotmail.fr;8;;FR
+152;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;195;2016-04-08 11:20:33;1;sarah;malachane;ssssoledad_8@hotmail.fr;8;;FR
+152;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;195;2016-04-08 11:20:33;1;sarah;malachane;ssssoledad_8@hotmail.fr;8;;FR
+153;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;196;2016-04-08 13:30:08;1;Sandrine;Poplasy;melissa.elmas@hotmail.fr;8;;FR
+154;Expédié;Paybox - Epayment;20.000000;20.000000;6.000000;197;2016-04-08 17:12:58;1;Marjorie;Muller;marjoriedorego@hotmail.fr;8;;FR
+155;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;198;2016-04-09 17:29:18;1;Nicolas;Duplot;t.b.saone@wanadoo.fr;8;Théâtre des Bords de Saône;FR
+156;Expédié;Paybox - Epayment;26.140000;26.140000;9.500000;199;2016-04-10 13:24:54;1;Jack;PRECOURT;jacques.precourt@wanadoo.fr;176;;RE
+157;Expédié;Paybox - Epayment;32.310000;32.310000;4.000000;200;2016-04-12 03:41:06;1;Johannes;Brevis;amalgamatedassociationofmorons@yahoo.com;21;;US
+157;Expédié;Paybox - Epayment;32.310000;32.310000;4.000000;200;2016-04-12 03:41:06;1;Johannes;Brevis;amalgamatedassociationofmorons@yahoo.com;21;;US
+158;Expédié;Paybox - Epayment;32.310000;32.310000;4.000000;201;2016-04-13 08:05:01;1;Johannes;Brevis;amalgamatedassociationofmorons@yahoo.com;21;;US
+158;Expédié;Paybox - Epayment;32.310000;32.310000;4.000000;201;2016-04-13 08:05:01;1;Johannes;Brevis;amalgamatedassociationofmorons@yahoo.com;21;;US
+159;Expédié;Paybox - Epayment;371.380000;371.380000;0.000000;202;2016-04-14 17:02:23;1;Eleonora;Vignando;e.vignando@gruppopleiadi.it;10;Gruppo Pleiadi;IT
+159;Expédié;Paybox - Epayment;371.380000;371.380000;0.000000;202;2016-04-14 17:02:23;1;Eleonora;Vignando;e.vignando@gruppopleiadi.it;10;Gruppo Pleiadi;IT
+159;Expédié;Paybox - Epayment;371.380000;371.380000;0.000000;202;2016-04-14 17:02:23;1;Eleonora;Vignando;e.vignando@gruppopleiadi.it;10;Gruppo Pleiadi;IT
+160;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;203;2016-04-15 23:14:52;1;Arnaud;Pierru;arnaud.pierru@yahoo.com;8;;FR
+161;Expédié;Paybox - Epayment;37.280000;37.280000;4.000000;204;2016-04-16 16:49:33;1;Deborah;McCahan;Debbiemcc@verizon.net;21;;US
+161;Expédié;Paybox - Epayment;37.280000;37.280000;4.000000;204;2016-04-16 16:49:33;1;Deborah;McCahan;Debbiemcc@verizon.net;21;;US
+162;Expédié;PayPal;20.640000;20.640000;4.000000;205;2016-04-17 21:14:03;1;Arjun ;Sidpara;arjun_sidpara@hotmail.com;4;;CA
+163;Expédié;PayPal;82.880000;82.880000;3.000000;206;2016-04-18 11:10:01;1;Nina;Stocké;ninastocke@gmail.com;8;;FR
+164;Expédié;Paybox - Epayment;17.000000;17.000000;3.000000;207;2016-04-19 10:40:49;1;Sophie;Quero;phophiefonfec@hotmail.com;8;;FR
+165;Expédié;Paybox - Epayment;20.140000;20.140000;3.500000;208;2016-04-20 12:52:14;1;Monika;Wiedemann;monika.wiedemann@bluewin.ch;19;;CH
+166;Expédié;Paybox - Epayment;135.800000;135.800000;16.000000;209;2016-04-20 17:40:30;1;Aurelie;Lambert;lambert_aurelie@hotmail.com;3;;BE
+167;Expédié;Paybox - Epayment;212.800000;212.800000;0.000000;210;2016-04-21 11:39:32;1;adeline;crouard;acrouard@gmail.com;8;;FR
+168;Expédié;Virement bancaire;124.120000;124.120000;4.000000;215;2016-04-25 16:40:56;1;Ivo;Giebe;ivo.giebe@hofmann.info;1;I.K. Hofmann GmbH;DE
+169;Expédié;Paybox - Epayment;18.140000;18.140000;4.000000;211;2016-04-23 02:10:32;1;Johannes;Brevis;amalgamatedassociationofmorons@yahoo.com;21;;US
+170;Expédié;Paybox - Epayment;70.560000;70.560000;4.000000;212;2016-04-23 03:47:51;1;Ray;Meininger;meiningers2@hotmail.com;21;;US
+170;Expédié;Paybox - Epayment;70.560000;70.560000;4.000000;212;2016-04-23 03:47:51;1;Ray;Meininger;meiningers2@hotmail.com;21;;US
+170;Expédié;Paybox - Epayment;70.560000;70.560000;4.000000;212;2016-04-23 03:47:51;1;Ray;Meininger;meiningers2@hotmail.com;21;;US
+170;Expédié;Paybox - Epayment;70.560000;70.560000;4.000000;212;2016-04-23 03:47:51;1;Ray;Meininger;meiningers2@hotmail.com;21;;US
+171;Expédié;PayPal;89.170000;89.170000;10.000000;213;2016-04-25 11:29:02;1;Marie-Josiane;Meyer;manon-melody@hotmail.com;19;;CH
+172;Expédié;PayPal;43.440000;43.440000;3.500000;214;2016-04-25 13:55:56;1;Thomas;Kempter;thomas.kempter@dv-fn.de;1;Digitale Druckvorstufe GmbH;DE
+173;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;216;2016-04-27 15:25:56;1;Magali;Gibelin;magaymard@free.fr;8;;FR
+173;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;216;2016-04-27 15:25:56;1;Magali;Gibelin;magaymard@free.fr;8;;FR
+174;Expédié;Paybox - Epayment;125.820000;125.820000;6.000000;217;2016-04-27 21:26:29;1;Amandine;Guillaumeau;lillipuss@hotmail.fr;8;;FR
+174;Expédié;Paybox - Epayment;125.820000;125.820000;6.000000;217;2016-04-27 21:26:29;1;Amandine;Guillaumeau;lillipuss@hotmail.fr;8;;FR
+175;Expédié;Paybox - Epayment;30.400000;30.400000;3.000000;218;2016-04-29 15:47:29;1;Jean-Pierre;DUBRET;jpdubret@free.fr;8;;FR
+175;Expédié;Paybox - Epayment;30.400000;30.400000;3.000000;218;2016-04-29 15:47:29;1;Jean-Pierre;DUBRET;jpdubret@free.fr;8;;FR

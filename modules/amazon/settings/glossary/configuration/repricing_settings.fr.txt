@@ -1,0 +1,4 @@
+La fonctionnalité Repricing nécessite un compte Amazon AWS.
+
+Veuillez vous rendre à cette URL pour ouvrir un compte:
+https://aws.amazon.com/fr/free/

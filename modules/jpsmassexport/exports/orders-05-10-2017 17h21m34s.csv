@@ -1,0 +1,154 @@
+Commande n°;Mode de paiement;Total payé;Total produits;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Adresse de livraision;Code pays de livraison
+1615;PayPal;25.500000;16.250000;6.000000;1615;2017-09-01 09:13:55;1;Caroline;Haas;31 rue Martin Luther King jr;FR
+1616;Paybox by Verifone;83.900000;48.900000;35.000000;1616;2017-09-01 16:07:22;1;michel ;deguire;Sandbrekkeveien 100 ;NO
+1616;Paybox by Verifone;83.900000;48.900000;35.000000;1616;2017-09-01 16:07:22;1;michel ;deguire;Sandbrekkeveien 100 ;NO
+1616;Paybox by Verifone;83.900000;48.900000;35.000000;1616;2017-09-01 16:07:22;1;michel ;deguire;Sandbrekkeveien 100 ;NO
+1617;Paybox by Verifone;269.280000;224.400000;0.000000;1617;2017-09-01 18:00:51;1;FANNY;DEVAUX;ZAC de Mercorent;FR
+1617;Paybox by Verifone;269.280000;224.400000;0.000000;1617;2017-09-01 18:00:51;1;FANNY;DEVAUX;ZAC de Mercorent;FR
+1617;Paybox by Verifone;269.280000;224.400000;0.000000;1617;2017-09-01 18:00:51;1;FANNY;DEVAUX;ZAC de Mercorent;FR
+1618;Paybox by Verifone;51.750000;40.630000;3.000000;1618;2017-09-02 08:17:42;1;Muna;Saba;8 BD victor schoelcher;FR
+1619;PayPal;101.420000;70.840000;15.000000;1619;2017-09-02 16:47:55;1;Giovanna;Romaniello;via Sorge San Giorgio 31;IT
+1620;PayPal;27.000000;17.500000;6.000000;1621;2017-09-04 11:00:58;1;laure;bizet;12 RUE PIERRE LOTI;FR
+1621;Paybox by Verifone;78.000000;65.000000;3.000000;1622;2017-09-04 11:57:36;1;Ludovic;Geimot;1 Ter Route de l'Ancienne Mairie;FR
+1621;Paybox by Verifone;78.000000;65.000000;3.000000;1622;2017-09-04 11:57:36;1;Ludovic;Geimot;1 Ter Route de l'Ancienne Mairie;FR
+1621;Paybox by Verifone;78.000000;65.000000;3.000000;1622;2017-09-04 11:57:36;1;Ludovic;Geimot;1 Ter Route de l'Ancienne Mairie;FR
+1621;Paybox by Verifone;78.000000;65.000000;3.000000;1622;2017-09-04 11:57:36;1;Ludovic;Geimot;1 Ter Route de l'Ancienne Mairie;FR
+1622;PayPal;20.000000;11.670000;6.000000;1623;2017-09-04 18:08:53;1;Battini;Véronique;Tabac U BUCCHINU centre commercial de la rocade;FR
+1623;PayPal;45.600000;32.460000;6.000000;1624;2017-09-04 18:28:04;1;Michele;Soncini;Via Pattigna snc;IT
+1623;PayPal;45.600000;32.460000;6.000000;1624;2017-09-04 18:28:04;1;Michele;Soncini;Via Pattigna snc;IT
+1624;Paybox by Verifone;19.800000;14.000000;3.000000;1625;2017-09-04 18:36:13;1;Roger;Pinto;659 avenue de la République;FR
+1625;Paybox by Verifone;90.830000;70.830000;20.000000;1626;2017-09-04 21:12:31;1;Ingrid;Crausaz;Imp. Du Chêne 7;CH
+1626;Paybox by Verifone;251.000000;209.170000;0.000000;1627;2017-09-05 16:34:32;1;Frédérique;Séjourné;A L' ESPACE CAPILLAIRE NATURE ET DOUCEUR;FR
+1626;Paybox by Verifone;251.000000;209.170000;0.000000;1627;2017-09-05 16:34:32;1;Frédérique;Séjourné;A L' ESPACE CAPILLAIRE NATURE ET DOUCEUR;FR
+1627;Chèque;45.000000;32.500000;6.000000;1666;2017-09-18 14:31:56;1;Nadia;Manai;47 rue de la vigne des créaux;FR
+1627;Chèque;45.000000;32.500000;6.000000;1666;2017-09-18 14:31:56;1;Nadia;Manai;47 rue de la vigne des créaux;FR
+1628;Paybox by Verifone;300.000000;250.000000;0.000000;1628;2017-09-05 20:25:47;1;Maxime;Besnard;12 rue Léon Jouhaux;FR
+1629;Paybox by Verifone;176.000000;141.670000;6.000000;1629;2017-09-06 09:42:10;1;Monique;BERGER;11 Rue des Boutons d'Or;FR
+1630;Paybox by Verifone;91.000000;70.830000;6.000000;1630;2017-09-06 10:49:31;1;Melinda;Deme;4 parc de la chenaie;FR
+1631;PayPal;45.000000;32.500000;6.000000;1631;2017-09-06 15:12:48;1;Yvette;Aboue;9 rue Jean valjean ;FR
+1631;PayPal;45.000000;32.500000;6.000000;1631;2017-09-06 15:12:48;1;Yvette;Aboue;9 rue Jean valjean ;FR
+1632;PayPal;54.900000;48.900000;6.000000;1632;2017-09-06 18:02:01;1;Erica;Brown;3003 N Thanksgiving Way;US
+1632;PayPal;54.900000;48.900000;6.000000;1632;2017-09-06 18:02:01;1;Erica;Brown;3003 N Thanksgiving Way;US
+1632;PayPal;54.900000;48.900000;6.000000;1632;2017-09-06 18:02:01;1;Erica;Brown;3003 N Thanksgiving Way;US
+1633;Paybox by Verifone;114.800000;97.800000;17.000000;1633;2017-09-07 14:17:16;1;Jonathan;Guillod;Route d'Eclépens 7;CH
+1633;Paybox by Verifone;114.800000;97.800000;17.000000;1633;2017-09-07 14:17:16;1;Jonathan;Guillod;Route d'Eclépens 7;CH
+1633;Paybox by Verifone;114.800000;97.800000;17.000000;1633;2017-09-07 14:17:16;1;Jonathan;Guillod;Route d'Eclépens 7;CH
+1633;Paybox by Verifone;114.800000;97.800000;17.000000;1633;2017-09-07 14:17:16;1;Jonathan;Guillod;Route d'Eclépens 7;CH
+1633;Paybox by Verifone;114.800000;97.800000;17.000000;1633;2017-09-07 14:17:16;1;Jonathan;Guillod;Route d'Eclépens 7;CH
+1633;Paybox by Verifone;114.800000;97.800000;17.000000;1633;2017-09-07 14:17:16;1;Jonathan;Guillod;Route d'Eclépens 7;CH
+1634;Virement bancaire;150.500000;141.670000;6.000000;1634;2017-09-07 15:58:35;1;martine;guichemerre;4 boulevard voltaire;FR
+1635;PayPal;45.000000;32.500000;6.000000;1635;2017-09-07 18:32:12;1;charlène;guibert;130 allée du pressoir;FR
+1635;PayPal;45.000000;32.500000;6.000000;1635;2017-09-07 18:32:12;1;charlène;guibert;130 allée du pressoir;FR
+1636;Virement bancaire;122.130000;87.130000;35.000000;0;0000-00-00 00:00:00;0;Ruby;Aseron;23 Alberto-Giacometti;CH
+1636;Virement bancaire;122.130000;87.130000;35.000000;0;0000-00-00 00:00:00;0;Ruby;Aseron;23 Alberto-Giacometti;CH
+1637;PayPal;22.500000;16.250000;3.000000;1636;2017-09-08 00:53:59;1;Nadine;Laplace;Haut Montbrun;FR
+1638;Paybox by Verifone;91.000000;70.830000;6.000000;1637;2017-09-08 12:09:14;1;Francine;Lardemer;18 rue des lilas;FR
+1639;Paybox by Verifone;300.000000;250.000000;0.000000;1638;2017-09-08 15:03:03;1;catherine; brasme;2 rue du cul de sac;FR
+1640;Paybox by Verifone;70.000000;55.830000;3.000000;1639;2017-09-08 19:37:35;1;ALICIA;PROCACCI;3 RUE LOUISE MICHEL;FR
+1640;Paybox by Verifone;70.000000;55.830000;3.000000;1639;2017-09-08 19:37:35;1;ALICIA;PROCACCI;3 RUE LOUISE MICHEL;FR
+1641;Paybox by Verifone;167.220000;161.220000;6.000000;1640;2017-09-08 20:32:49;1;Diane;Gagnon;81 Jean Macé;FR
+1641;Paybox by Verifone;167.220000;161.220000;6.000000;1640;2017-09-08 20:32:49;1;Diane;Gagnon;81 Jean Macé;FR
+1642;Paybox by Verifone;42.000000;32.500000;3.000000;1641;2017-09-09 12:00:35;1;Marine;JOYEUX;5 rue maurice genevoix;FR
+1642;Paybox by Verifone;42.000000;32.500000;3.000000;1641;2017-09-09 12:00:35;1;Marine;JOYEUX;5 rue maurice genevoix;FR
+1643;Paybox by Verifone;56.000000;44.170000;3.000000;1642;2017-09-09 16:01:34;1;Roselyne;Allain;6 rue Édouard Blanly;FR
+1643;Paybox by Verifone;56.000000;44.170000;3.000000;1642;2017-09-09 16:01:34;1;Roselyne;Allain;6 rue Édouard Blanly;FR
+1643;Paybox by Verifone;56.000000;44.170000;3.000000;1642;2017-09-09 16:01:34;1;Roselyne;Allain;6 rue Édouard Blanly;FR
+1644;Paybox by Verifone;62.280000;52.000000;3.000000;1643;2017-09-09 22:59:06;1;Francoise;MARBOUTIN;22 avenue de la division leclerc;FR
+1644;Paybox by Verifone;62.280000;52.000000;3.000000;1643;2017-09-09 22:59:06;1;Francoise;MARBOUTIN;22 avenue de la division leclerc;FR
+1645;Paybox by Verifone;40.050000;32.500000;3.000000;1644;2017-09-10 06:56:04;1;Francoise;MARBOUTIN;22 avenue de la division leclerc;FR
+1645;Paybox by Verifone;40.050000;32.500000;3.000000;1644;2017-09-10 06:56:04;1;Francoise;MARBOUTIN;22 avenue de la division leclerc;FR
+1646;Paybox by Verifone;402.000000;335.000000;0.000000;1645;2017-09-11 10:04:08;1;Youssef;Messadaa ;36 avenue Mazarin ;FR
+1647;Paybox by Verifone;23.300000;16.300000;7.000000;1646;2017-09-11 11:58:54;1;Florence;Schaffter;Seestrasse 367 ;CH
+1648;Paybox by Verifone;26.550000;17.560000;6.000000;1647;2017-09-11 12:11:14;1;Laure;Grande;3 rue Saint Mathieu;LU
+1649;PayPal;80.330000;69.750000;5.000000;1648;2017-09-11 12:37:48;1;Eliane;ADDE;20 allée des Buis;FR
+1650;Paybox by Verifone;25.700000;16.280000;6.000000;1649;2017-09-12 14:57:02;1;JOELLE;VOS;rue du Tige;BE
+1651;Paybox by Verifone;300.000000;250.000000;0.000000;1650;2017-09-12 15:19:05;1;Magali;VIE;5 allée des Bordes;FR
+1652;Paybox by Verifone;175.500000;142.080000;5.000000;1651;2017-09-12 23:51:44;1;Emilie;Buat;125 rue fouque;FR
+1652;Paybox by Verifone;175.500000;142.080000;5.000000;1651;2017-09-12 23:51:44;1;Emilie;Buat;125 rue fouque;FR
+1653;Paybox by Verifone;22.500000;16.250000;3.000000;1652;2017-09-13 15:08:01;1;guy;fornacciari;129 bis avenue de lodeve;FR
+1654;PayPal;141.000000;112.500000;6.000000;1653;2017-09-13 15:48:19;1;willy;roger;2 route du littoral;FR
+1655;Paybox by Verifone;91.000000;70.830000;6.000000;1654;2017-09-13 18:16:44;1;Sarah ;Lambert;12 rue de la grande couture ;FR
+1656;Paybox by Verifone;98.000000;77.500000;5.000000;1655;2017-09-13 18:18:14;1;Michaël;Tapon;20 impasse du Val du Cens;FR
+1657;Paybox by Verifone;141.000000;112.500000;6.000000;1656;2017-09-13 19:28:11;1;Audrey;Capdevielle;37 rue des Arcs St Cyprien;FR
+1658;Paybox by Verifone;17.000000;11.670000;3.000000;1657;2017-09-14 11:28:27;1;jessica;lesurque;8 rue edouard vaillant;FR
+1659;Paybox by Verifone;36.500000;27.920000;3.000000;1658;2017-09-14 23:09:05;1;sabrina;BUZAY;9, chemin de la chesnaie;FR
+1659;Paybox by Verifone;36.500000;27.920000;3.000000;1658;2017-09-14 23:09:05;1;sabrina;BUZAY;9, chemin de la chesnaie;FR
+1660;Paybox by Verifone;69.200000;65.200000;4.000000;1659;2017-09-15 04:07:07;1;Vanessa ;LUREL;Rue Gratien Parize;GP
+1660;Paybox by Verifone;69.200000;65.200000;4.000000;1659;2017-09-15 04:07:07;1;Vanessa ;LUREL;Rue Gratien Parize;GP
+1661;Paybox by Verifone;23.300000;16.300000;7.000000;1660;2017-09-15 09:37:57;1;Tania;Kohler;C/O Colab;CH
+1662;PayPal;25.700000;16.280000;6.000000;1661;2017-09-16 09:10:00;1;Nelleke;Eijkemans;Willibrorduslaan 71;NL
+1663;Paybox by Verifone;255.500000;206.250000;8.000000;1662;2017-09-16 17:46:09;1;maria;garozzo;15 lotissement le cros reynier;FR
+1663;Paybox by Verifone;255.500000;206.250000;8.000000;1662;2017-09-16 17:46:09;1;maria;garozzo;15 lotissement le cros reynier;FR
+1664;Paybox by Verifone;122.000000;96.670000;6.000000;1663;2017-09-16 21:34:30;1;FABIENNE;GRILLOT;15 rue des Capucines;FR
+1665;Paybox by Verifone;33.800000;25.670000;3.000000;1664;2017-09-17 21:12:24;1;Gwen;Dourlou;30 rue du bac saint maur;FR
+1666;Paybox by Verifone;91.000000;70.830000;6.000000;1665;2017-09-18 10:16:47;1;Celine;Pairoys-michaud;24 avenue Frédéric bastiat ;FR
+1667;Paybox by Verifone;25.500000;16.250000;6.000000;1667;2017-09-19 08:11:48;1;Nathalie ;Rapp;30 r de mulhouse ;FR
+1668;Paybox by Verifone;42.000000;32.500000;3.000000;1668;2017-09-19 12:37:39;1;Gilles;Poulain;58, rue de la Duchesse d'Uzès;FR
+1668;Paybox by Verifone;42.000000;32.500000;3.000000;1668;2017-09-19 12:37:39;1;Gilles;Poulain;58, rue de la Duchesse d'Uzès;FR
+1669;Paybox by Verifone;57.000000;32.500000;18.000000;1669;2017-09-20 12:03:09;1;Sunil;Bhambra;46 Mylne Close;GB
+1669;Paybox by Verifone;57.000000;32.500000;18.000000;1669;2017-09-20 12:03:09;1;Sunil;Bhambra;46 Mylne Close;GB
+1670;Paybox by Verifone;31.000000;23.330000;3.000000;1670;2017-09-20 15:50:46;1;racaud;eva;3 ALLEE DU VERGER;FR
+1671;Paybox by Verifone;56.000000;44.550000;7.000000;1671;2017-09-20 17:51:46;1;Diane;Beckius-Weber;2B, Berreggaass;LU
+1672;Paybox by Verifone;52.800000;39.000000;6.000000;1672;2017-09-20 18:33:50;1;francoise;marré;20 rue du tronquay;FR
+1672;Paybox by Verifone;52.800000;39.000000;6.000000;1672;2017-09-20 18:33:50;1;francoise;marré;20 rue du tronquay;FR
+1673;Paybox by Verifone;54.600000;32.460000;15.000000;1673;2017-09-21 10:07:09;1;VERONICA;D'ANDREA;CONTRADA SERRA DI PEPE 18/A;IT
+1674;Paybox by Verifone;31.000000;23.330000;3.000000;1674;2017-09-21 18:51:05;1;Isa;Vidal;92 rue de l abbé glatz;FR
+1675;Paybox by Verifone;300.000000;250.000000;0.000000;1675;2017-09-22 14:16:43;1;Valérie;DE BARRAU;14 Allée des Vanneaux;FR
+1676;Paybox by Verifone;300.000000;250.000000;0.000000;1676;2017-09-22 15:10:51;1;Alpa;Patel;4, rue Brocéliande;FR
+1677;Paybox by Verifone;22.500000;16.250000;3.000000;1677;2017-09-22 15:54:50;1;Isabelle;Alméras-Heyraud;3 route de la Goyonnière;FR
+1678;Paybox by Verifone;300.000000;250.000000;0.000000;1678;2017-09-22 19:37:50;1;Marie;Balmat ;43 chemin des granges ;FR
+1679;Paybox by Verifone;193.000000;155.830000;6.000000;1679;2017-09-23 11:39:43;1;helene;dubus;15 rue des erables;FR
+1679;Paybox by Verifone;193.000000;155.830000;6.000000;1679;2017-09-23 11:39:43;1;helene;dubus;15 rue des erables;FR
+1679;Paybox by Verifone;193.000000;155.830000;6.000000;1679;2017-09-23 11:39:43;1;helene;dubus;15 rue des erables;FR
+1679;Paybox by Verifone;193.000000;155.830000;6.000000;1679;2017-09-23 11:39:43;1;helene;dubus;15 rue des erables;FR
+1680;PayPal;188.580000;141.660000;20.000000;1680;2017-09-23 14:52:13;1;Christine;Solf;Hermine Bland Str 7;DE
+1681;Paybox by Verifone;22.500000;16.250000;3.000000;1681;2017-09-25 00:06:09;1;Arthur;MOGE;9A, route de Colmar;FR
+1682;Paybox by Verifone;53.900000;39.590000;6.000000;1682;2017-09-25 07:58:01;1;Véronique ;Witpas ;Rue Moranville . 62;BE
+1682;Paybox by Verifone;53.900000;39.590000;6.000000;1682;2017-09-25 07:58:01;1;Véronique ;Witpas ;Rue Moranville . 62;BE
+1683;Paybox by Verifone;84.000000;65.000000;6.000000;1683;2017-09-25 09:27:00;1;catherine;brosset;28 Allée des Noues;FR
+1683;Paybox by Verifone;84.000000;65.000000;6.000000;1683;2017-09-25 09:27:00;1;catherine;brosset;28 Allée des Noues;FR
+1684;Paybox by Verifone;194.170000;206.860000;8.000000;1684;2017-09-25 10:09:59;1;Rony;William;Chemin de Colovrex 7-9;FR
+1684;Paybox by Verifone;194.170000;206.860000;8.000000;1684;2017-09-25 10:09:59;1;Rony;William;Chemin de Colovrex 7-9;FR
+1684;Paybox by Verifone;194.170000;206.860000;8.000000;1684;2017-09-25 10:09:59;1;Rony;William;Chemin de Colovrex 7-9;FR
+1685;Paybox by Verifone;125.000000;100.000000;5.000000;1685;2017-09-25 13:21:45;1;stefany;weinum;13 rue du bain aux plantes;FR
+1685;Paybox by Verifone;125.000000;100.000000;5.000000;1685;2017-09-25 13:21:45;1;stefany;weinum;13 rue du bain aux plantes;FR
+1686;PayPal;45.000000;35.000000;3.000000;1686;2017-09-25 15:11:31;1;nathalie;Guerrero;5 chemin de la Ginestière;FR
+1687;Paybox by Verifone;42.000000;32.500000;3.000000;1687;2017-09-25 19:13:20;1;Gilles;TOSELLO;35 chemin de la Colle d'Embarque;FR
+1687;Paybox by Verifone;42.000000;32.500000;3.000000;1687;2017-09-25 19:13:20;1;Gilles;TOSELLO;35 chemin de la Colle d'Embarque;FR
+1688;Paybox by Verifone;176.750000;142.290000;6.000000;1688;2017-09-26 06:42:43;1;Marie sabine ;Fontaine;378 rue Hubert delisle ;FR
+1688;Paybox by Verifone;176.750000;142.290000;6.000000;1688;2017-09-26 06:42:43;1;Marie sabine ;Fontaine;378 rue Hubert delisle ;FR
+1689;PayPal;176.000000;141.670000;6.000000;1689;2017-09-26 10:06:11;1;Marion;COMTE;386 avenue de Châtillon;FR
+1690;Paybox by Verifone;23.300000;16.300000;7.000000;1690;2017-09-26 15:59:03;1;Xavier;Lo;Blk 353 Choa Chu Kang Ctrl, #07-307;SG
+1691;Paybox by Verifone;22.500000;16.250000;3.000000;1691;2017-09-26 21:58:18;1;Marine;Thiroux de Gervillier;94, rue Gabriel Peri, APt 51;FR
+1692;PayPal;51.750000;40.630000;3.000000;1692;2017-09-26 22:40:28;1;Stéphanie;Gallier;2 impasse de la passiguy;FR
+1693;Paybox by Verifone;170.000000;141.670000;6.000000;1693;2017-09-27 10:07:23;1;marie jo;Garcia;36C rue des ciments ;FR
+1694;Paybox by Verifone;64.500000;48.750000;6.000000;1694;2017-09-27 11:07:14;1;Jean Marc;LAMBLIN;65 Chemin de la Hayure;FR
+1694;Paybox by Verifone;64.500000;48.750000;6.000000;1694;2017-09-27 11:07:14;1;Jean Marc;LAMBLIN;65 Chemin de la Hayure;FR
+1694;Paybox by Verifone;64.500000;48.750000;6.000000;1694;2017-09-27 11:07:14;1;Jean Marc;LAMBLIN;65 Chemin de la Hayure;FR
+1695;Chèque;156.660000;141.660000;15.000000;0;0000-00-00 00:00:00;0;nathalie;deloge;RU DE LA LIBERTE;FR
+1696;Virement bancaire;241.000000;193.390000;7.000000;1703;2017-09-29 17:52:37;1;Joeri;Van den Borne;Dorp 30;BE
+1697;PayPal;154.100000;113.680000;12.000000;1695;2017-09-27 15:17:54;1;Nikola;Bucic;Sarajevska 62;HR
+1697;PayPal;154.100000;113.680000;12.000000;1695;2017-09-27 15:17:54;1;Nikola;Bucic;Sarajevska 62;HR
+1697;PayPal;154.100000;113.680000;12.000000;1695;2017-09-27 15:17:54;1;Nikola;Bucic;Sarajevska 62;HR
+1697;PayPal;154.100000;113.680000;12.000000;1695;2017-09-27 15:17:54;1;Nikola;Bucic;Sarajevska 62;HR
+1697;PayPal;154.100000;113.680000;12.000000;1695;2017-09-27 15:17:54;1;Nikola;Bucic;Sarajevska 62;HR
+1697;PayPal;154.100000;113.680000;12.000000;1695;2017-09-27 15:17:54;1;Nikola;Bucic;Sarajevska 62;HR
+1697;PayPal;154.100000;113.680000;12.000000;1695;2017-09-27 15:17:54;1;Nikola;Bucic;Sarajevska 62;HR
+1698;PayPal;80.500000;64.580000;3.000000;1696;2017-09-27 23:13:09;1;Marie-Laure;Marchant;27 avenue Chénard et Walcker;FR
+1699;Chèque;22.300000;16.300000;6.000000;0;0000-00-00 00:00:00;0;qdqsdqs;qsdqsdqdsd;dqdq sqddqsdqsdqsdq;US
+1700;PayPal;29.520000;26.000000;3.000000;1697;2017-09-28 09:45:06;1;Muna;Saba;8 BD victor schoelcher;FR
+1701;Paybox by Verifone;91.000000;70.830000;6.000000;1698;2017-09-28 11:02:01;1;Emma;Biarnes;16 rue de la muscadelle;FR
+1702;PayPal;53.500000;39.590000;6.000000;1699;2017-09-28 11:39:55;1;antoine;terrieux;13 chemin Linières;FR
+1702;PayPal;53.500000;39.590000;6.000000;1699;2017-09-28 11:39:55;1;antoine;terrieux;13 chemin Linières;FR
+1702;PayPal;53.500000;39.590000;6.000000;1699;2017-09-28 11:39:55;1;antoine;terrieux;13 chemin Linières;FR
+1703;Paybox by Verifone;176.000000;141.670000;6.000000;1700;2017-09-28 16:30:44;1;Joséphine;Diatta;24 Avenue Victor Hugo;FR
+1704;Paybox by Verifone;67.250000;51.040000;6.000000;1701;2017-09-28 19:25:02;1;Antoine;VINCENT;53 Grand'Place;FR
+1705;Paybox by Verifone;123.000000;97.500000;6.000000;1702;2017-09-28 20:26:51;1;sophie;guillou;6 rue de Mansy;FR
+1705;Paybox by Verifone;123.000000;97.500000;6.000000;1702;2017-09-28 20:26:51;1;sophie;guillou;6 rue de Mansy;FR
+1705;Paybox by Verifone;123.000000;97.500000;6.000000;1702;2017-09-28 20:26:51;1;sophie;guillou;6 rue de Mansy;FR
+1706;Paybox by Verifone;80.500000;64.580000;3.000000;1704;2017-09-29 18:15:37;1;Dominique;Lamarque;1 Le Grand Peuil;FR
+1707;Paybox by Verifone;35.250000;24.380000;6.000000;1705;2017-09-29 20:40:01;1;Filip;Le Roy;39 rue de Wautier;BE
+1708;Paybox by Verifone;176.000000;141.670000;6.000000;1706;2017-09-30 13:22:03;1;jocelyne;Corbier;50rue de la collerette;FR
+1709;PayPal;22.500000;16.250000;3.000000;1707;2017-09-30 16:05:49;1;sandrine;josse;2 rue st fiacre;FR
+1710;Paybox by Verifone;22.500000;16.250000;3.000000;1708;2017-09-30 18:12:01;1;Anne;Bouet;4 rue du Manoir;FR
+1711;Paybox by Verifone;26.400000;19.500000;3.000000;1709;2017-09-30 20:34:49;1;BOURRET;Natacha;14 RUE D'ARVILLON;FR

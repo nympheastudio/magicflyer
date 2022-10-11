@@ -1,0 +1,14 @@
+2018-10-27 21:40:59 1540669258 DEBUG: URL to check 2
+2018-10-27 21:40:59 1540669258 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-27 21:40:59 1540669258 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-27 21:40:59 1540669258 DEBUG: Cart 29079: Redirecting customer to Paybox (CARTE, CB).
+2018-10-27 21:42:01 1540669321 DEBUG: URL to check 2
+2018-10-27 21:42:01 1540669321 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-27 21:42:01 1540669321 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-27 21:42:01 1540669321 DEBUG: Cart 29079: Redirecting customer to Paybox (CARTE, CB).
+2018-10-27 21:43:25 1540669405 DEBUG: Call params: M=17359&R=29079%20-%20Conceicao%20De%20Sousa&T=62535334&A=953404&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=25&N=497401&O=Y&P=3DSECURE&Q=21%3A40%3A52&S=937754309&W=27102018&Y=FRA&K=SSlpJstZ%2FrdJMMvTngjxUMkdvQpGGEMqSnKVzqUKvunjyQ9tO0ptFqUDVmPdAoL0H6OcKMKzp9ug2G3ZNMCZL6zSVOw05IugILB0MKkWMngGkGIS%2FvbHnOYU6NlR27D%2BF07oMaefFbxLkIWwvJKwAzAave4fkRVoL%2BbC8Vcql10%3D
+2018-10-27 21:43:25 1540669405 DEBUG: Cart 29079: Standard IPN
+2018-10-27 21:43:25 1540669405 DEBUG: Cart 29079: Validating order
+2018-10-27 21:43:25 1540669405 DEBUG: Cart 29079: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-27 21:43:26 1540669405 DEBUG: Cart 29079: Order 3385 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-27 21:43:26 1540669406 DEBUG: Cart 29079: Customer is back from Paybox payment page. Payment success.

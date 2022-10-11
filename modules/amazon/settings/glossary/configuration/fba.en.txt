@@ -1,0 +1,4 @@
+Apply a specific default price formula for FBA products.
+This formula could be a price a value or math (multiply, divide, addition, subtraction, percentages)
+Use the @ symbol as price reference (eg: @ + 10 % mean you'll add 10 % to the initial price)
+If you specify nothing, the main setting will be applied.

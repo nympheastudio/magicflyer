@@ -1,0 +1,2 @@
+Délai, en jours ouvrés, entre le moment où la commande a été passée et la commande a été expédiée.
+Au delà de ce délai, le mail de demande d'évaluation ne sera pas envoyé.

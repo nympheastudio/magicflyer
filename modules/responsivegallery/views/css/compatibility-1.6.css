@@ -1,0 +1,19 @@
+.process-icon-cogs:before{
+    font-family: FontAwesome;
+    content: "\f013";
+}
+.process-icon-upload:before {
+    margin: auto;
+    margin-bottom: -12px;
+    display: table;
+    background-repeat: no-repeat;
+    content: url("../img/1.5/process-upload.png");
+}
+.nav.nav-pills.pull-right.collapse.navbar-collapse li{
+    background-color: #8BC954;
+    color: #FFFFFF;
+}
+.nav.nav-pills.pull-right.collapse.navbar-collapse li:hover{
+    background-color: #FFFFFF;
+    color: #8BC954;
+}

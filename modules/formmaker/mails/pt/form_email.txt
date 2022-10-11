@@ -1,0 +1,27 @@
+Goede dag,
+"{form_name}" forma acaba de ser apresentado por {customer_name} 
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Report number
+{id_report}
+
+Language
+{lang_name}
+
+campo
+
+valor
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 
+
+
+
+
+

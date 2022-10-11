@@ -1,0 +1,38 @@
+Commande n°;Order State;Product Quantity;Mode de paiement;Total payé;Total payé réel;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Email;Pays de livraison;Nom de la compagnie de facturation;Code pays de livraison
+38;Expédié;5;Paybox - Epayment;62.500000;62.500000;3.000000;25;2015-10-03 16:11:18;1;Nat;nadal;nadal.nathalie@orange.fr;8;;FR
+39;Expédié;1;Paybox - Epayment;22.970000;22.970000;3.000000;26;2015-10-04 22:44:22;1;séverine;lucchinacci;enireves31@live.fr;8;;FR
+40;Expédié;1;Paybox - Epayment;23.470000;23.470000;3.500000;27;2015-10-06 12:06:33;1;Dominik;Tiesler;dominik.tiesler@ravensburger.de;1;Ravensburger Spieleverlag GmbH;DE
+41;Expédié;1;PayPal;38.510000;38.510000;3.500000;28;2015-10-07 07:50:51;1;Jamela;David;jpdavid2@my.canyons.edu;21;;US
+41;Expédié;1;PayPal;38.510000;38.510000;3.500000;28;2015-10-07 07:50:51;1;Jamela;David;jpdavid2@my.canyons.edu;21;;US
+41;Expédié;1;PayPal;38.510000;38.510000;3.500000;28;2015-10-07 07:50:51;1;Jamela;David;jpdavid2@my.canyons.edu;21;;US
+42;Expédié;1;Paybox - Epayment;17.500000;17.500000;3.500000;29;2015-10-08 16:38:04;1;Trihob;Natalia;nataliatrihob@gmail.com;2;;AT
+43;Expédié;1;Paybox - Epayment;23.470000;23.470000;3.500000;30;2015-10-08 21:36:10;1;Aurélien;Vayssière;Aurelien.vayssiere@googlemail.com;1;;DE
+44;Expédié;1;Paybox - Epayment;22.970000;22.970000;3.000000;31;2015-10-09 02:33:40;1;Celine;Le gacque;Fleurbleue_1@yahoo.fr;8;;FR
+45;Expédié;1;PayPal;20.140000;20.140000;3.500000;32;2015-10-09 22:28:31;1;joseph;oswald;joe@aardvarkelec.com.au;24;;AU
+46;Expédié;1;PayPal;20.140000;20.140000;3.500000;33;2015-10-11 21:17:35;1;isabelle;BRUNNER;terrasuisse@yahoo.fr;19;;CH
+47;Expédié;1;PayPal;22.970000;22.970000;3.000000;34;2015-10-12 12:46:40;1;Christian;Perykasza;pery1@free.fr;8;;FR
+48;Expédié;5;Paybox - Epayment;83.350000;83.350000;3.500000;35;2015-10-12 20:07:06;1;Anne;Günther;guenther_a@gmx.de;1;;DE
+49;Expédié;1;PayPal;82.880000;82.880000;3.000000;36;2015-10-14 15:33:14;1;Andrée;Brégain;andree.bregain@gmail.com;8;;FR
+49;Expédié;1;PayPal;82.880000;82.880000;3.000000;36;2015-10-14 15:33:14;1;Andrée;Brégain;andree.bregain@gmail.com;8;;FR
+49;Expédié;1;PayPal;82.880000;82.880000;3.000000;36;2015-10-14 15:33:14;1;Andrée;Brégain;andree.bregain@gmail.com;8;;FR
+49;Expédié;1;PayPal;82.880000;82.880000;3.000000;36;2015-10-14 15:33:14;1;Andrée;Brégain;andree.bregain@gmail.com;8;;FR
+50;Expédié;1;PayPal;36.780000;36.780000;3.500000;37;2015-10-15 23:59:21;1;Jo;Alexander;joalexander2202@gmail.com;24;;AU
+50;Expédié;1;PayPal;36.780000;36.780000;3.500000;37;2015-10-15 23:59:21;1;Jo;Alexander;joalexander2202@gmail.com;24;;AU
+51;Expédié;10;Paybox - Epayment;112.200000;112.200000;3.000000;38;2015-10-16 11:29:33;1;Anaïs;Caux;acaux@free.fr;8;;FR
+52;Expédié;1;PayPal;53.420000;53.420000;3.500000;39;2015-10-17 08:21:43;1;Loraine;de Maudave;loraine.demaudave@yahoo.com;17;;GB
+52;Expédié;1;PayPal;53.420000;53.420000;3.500000;39;2015-10-17 08:21:43;1;Loraine;de Maudave;loraine.demaudave@yahoo.com;17;;GB
+52;Expédié;1;PayPal;53.420000;53.420000;3.500000;39;2015-10-17 08:21:43;1;Loraine;de Maudave;loraine.demaudave@yahoo.com;17;;GB
+53;Expédié;1;PayPal;25.970000;25.970000;6.000000;40;2015-10-20 00:06:38;1;Ambre;Galland;ambregalland@me.com;8;;FR
+54;Expédié;5;PayPal;70.050000;70.050000;3.500000;41;2015-10-20 18:12:59;1;Sue;Chadwick;Sue.chad@hotmail.co.uk;17;;GB
+55;Expédié;10;PayPal;123.800000;123.800000;4.000000;42;2015-10-21 18:42:03;1;Michael;Aldag;druckerei@AldagM.de;1;Michael Aldag;DE
+56;Expédié;1;PayPal;83.380000;83.380000;3.500000;43;2015-10-23 09:24:31;1;Mats;Pettersson;mats.pettersson@greenlight.se;18;Green Light Svenska AB;SE
+56;Expédié;1;PayPal;83.380000;83.380000;3.500000;43;2015-10-23 09:24:31;1;Mats;Pettersson;mats.pettersson@greenlight.se;18;Green Light Svenska AB;SE
+56;Expédié;1;PayPal;83.380000;83.380000;3.500000;43;2015-10-23 09:24:31;1;Mats;Pettersson;mats.pettersson@greenlight.se;18;Green Light Svenska AB;SE
+56;Expédié;1;PayPal;83.380000;83.380000;3.500000;43;2015-10-23 09:24:31;1;Mats;Pettersson;mats.pettersson@greenlight.se;18;Green Light Svenska AB;SE
+57;Expédié;1;PayPal;22.970000;22.970000;3.000000;44;2015-10-26 08:58:52;1;Pascal;VORACHACK;pascal.vorachack@free.fr;8;;FR
+58;Expédié;10;PayPal;66.400000;66.400000;3.000000;45;2015-10-26 09:56:15;1;soraya;ben salem;oranginette93@hotmail.fr;8;;FR
+58;Expédié;1;PayPal;66.400000;66.400000;3.000000;45;2015-10-26 09:56:15;1;soraya;ben salem;oranginette93@hotmail.fr;8;;FR
+59;Expédié;12;Paybox - Epayment;271.520000;271.520000;0.000000;46;2015-10-28 14:31:04;1;SUELEN;ALBAN;suelen@nanis.it;10;NANIS ITALIAN JEWELS srl;IT
+59;Expédié;8;Paybox - Epayment;271.520000;271.520000;0.000000;46;2015-10-28 14:31:04;1;SUELEN;ALBAN;suelen@nanis.it;10;NANIS ITALIAN JEWELS srl;IT
+60;Expédié;1;Paybox - Epayment;22.970000;22.970000;3.000000;47;2015-10-29 18:46:48;1;Elodie;BOUFFARD;elodie.bouffard@salvadortravel.com;8;SALVADOR TRAVEL;FR
+61;Expédié;5;Paybox - Epayment;63.000000;63.000000;3.500000;48;2015-10-30 13:53:12;1;Barbara;Jardon;barbarahanlet@yahoo.fr;3;;BE

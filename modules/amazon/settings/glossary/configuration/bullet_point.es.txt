@@ -1,0 +1,8 @@
+Características clave por definición cuando no están indicadas en la pestaña Amazon de la hoja producto
+
+Si sus descripciones cortas tienen menos de 2000 caracteres, puede colocar esta como la primera linea. Puede agragar caracteristicas Prestashop en las otras lineas. Nosotros recomendamos la opcion "Descripcion Corta, Caracteristicas" y marcar "Con etiquetas", esta opcion agrega el nombre de la caracteristica antes del valor. Por ejemplo: Material: Jean.
+
+Aqui se muestra como se vera en Amazon:
+
+<img src = "../modules/amazon/views/img/tips/en/bullet_point_example.jpg" />
+

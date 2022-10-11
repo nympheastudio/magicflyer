@@ -1,0 +1,4 @@
+2021-11-27 19:15:56 1638036956 DEBUG: URL to check 2
+2021-11-27 19:15:56 1638036956 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-11-27 19:15:56 1638036956 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-11-27 19:15:56 1638036956 DEBUG: Cart 56901: Redirecting customer to Verifone e-commerce (CARTE, CB).

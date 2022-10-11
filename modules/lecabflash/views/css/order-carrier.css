@@ -1,0 +1,258 @@
+/*
+* 2009-2016 202 ecommerce
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Open Software License (OSL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/osl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+*  @author    202 ecommerce <support@202-ecommerce.com>
+*  @copyright 2009-2016 202 ecommerce SARL
+*  @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+*/
+
+/* LeCabFlash CARRIER
+   ========================================================================== */
+
+
+#lecabflashCarrierInfo {
+	display: none;
+	padding-right: 10px;
+}
+
+#lecabflashCarrierInfo .mt5 { margin-top: 5px; }
+#lecabflashCarrierInfo .mb5 { margin-bottom: 5px; }
+#lecabflashCarrierInfo .mt15 { margin-top: 15px; }
+#lecabflashCarrierInfo .mb15 { margin-bottom: 15px; }
+
+#lecabflash_switch {
+	font-size: 0;
+	line-height: 0;
+}
+
+#lecabflash_switch button {
+	display: inline-block;
+	position: relative;
+	margin: 0;
+	padding: 5px 15px 5px 30px;
+
+	font-size: 12px;
+	line-height: 22px;
+	letter-spacing: 0.5px;
+
+	background: #E0E0DF;
+	color: #58585B;
+	border-radius: 5px;
+	border: solid 1px #A7A9AB;
+
+	transition: all 0.2s linear;
+}
+
+#lecabflash_switch button.active {
+	background: #22B07F;
+	color: #FFFFFF;
+	border: solid 1px #1C7C57;
+
+	z-index: 2;
+}
+
+#lecabflash_switch button:hover {
+	background: #757575;
+	color: #FFFFFF;
+	border: solid 1px #757575;
+}
+
+#lecabflash_switch button.active:hover {
+	background: #1C7C57;
+}
+
+#lecabflash_switch button.active:focus {
+	outline: 0;
+}
+
+#lecabflash_switch button:before {
+	content: '';
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 50%;
+	margin-top: -6px;
+	height: 12px;
+	width: 12px;
+
+	border: solid 2px #A7A9AB;
+	background: #A7A9AB;
+	border-radius: 6px;
+}
+
+#lecabflash_switch button.active:before {
+	background: #E0E0DF;
+	border: solid 2px #1C7C57;
+}
+
+
+#lecabflash_switch_express {
+	border-top-right-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+}
+
+#lecabflash_switch_rdv {
+	margin-left: -1px !important;
+	border-top-left-radius: 0 !important;
+	border-bottom-left-radius: 0 !important;
+}
+
+.lecabflash_green_btn {
+	padding: 5px 15px;
+
+	font-size: 12px;
+	line-height: 22px;
+	letter-spacing: 0.5px;
+
+	background: #22B07F;
+	color: #FFFFFF;
+	border-radius: 5px;
+	border: solid 1px #1C7C57;
+
+	transition: all 0.2s linear;
+}
+
+.lecabflash_ital {
+	font-style: italic;
+	font-size: 12px;
+	margin-left: 5px;
+}
+
+#lecabflashCarrierInfo {
+	margin-top: 5px;
+	padding-top: 5px;
+	border-top: 1px solid #d6d4d4;
+}
+
+#lecabflash_express_pickuptime {
+	margin-top: 10px;
+	padding: 10px;
+
+	color: #282b30;
+	background: #f3c110;
+
+	font-weight: 500;
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px; overflow: hidden;
+}
+
+#lecabflash_rdv_propal {
+	display: none;
+	margin-top: 10px;
+	padding: 10px;
+
+	color: #282b30;
+	background: #f3c110;
+
+	font-weight: 500;
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px; overflow: hidden;
+}
+
+#lecabflash_rdv_error {
+	display: none;
+	margin-top: 10px;
+	padding: 10px;
+
+	color: #540d08;
+	background: #ee5349;
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+#lecabflash_adr_error {
+	padding: 10px;
+
+	color: #282b30;
+	background: #f3c110;
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+#lecabflash_pickup_address_info {
+	height: 65px;
+	padding: 10px;
+	resize: none;
+	overflow: hidden;
+	word-wrap: break-word;
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #d6d4d4;
+	overflow: hidden;
+}
+
+#list_new_address {
+	background: #FFFFFF;
+	border-radius: 3px;
+	border: 1px solid #f3c110;
+	display: inline-block;
+
+	cursor: pointer;
+}
+
+#list_new_address li {
+	padding: 0 8px;
+	height: 28px;
+	line-height: 28px;
+	border-left: solid 2px transparent;
+}
+
+#list_new_address li:hover {
+	background: #e1e3e6;
+	color: #000000;
+	border-left: solid 2px #f3c110;
+}
+
+
+/* MODAL - time inputs
+   ========================================================================== */
+
+#lecabflash_modal input {
+    color: #333333;
+}
+
+#lecabflash_modal .bootstrap-datetimepicker-widget table td.day.disabled,
+#lecabflash_modal .bootstrap-datetimepicker-widget table td span.disabled,
+#lecabflash_modal .hour.disabled {
+    background: #bfbfbf;
+    border-radius: 0;
+}
+
+#lecabflash_modal .bootstrap-datetimepicker-widget table th.next,
+#lecabflash_modal .bootstrap-datetimepicker-widget table th.prev,
+#lecabflash_modal .bootstrap-datetimepicker-widget a[data-action] span {
+    background: #337ab7;
+    color: #ffffff;
+}
+
+#lecabflash_modal .modal-body > div {
+	margin-top: 20px;
+}
+
+#lecabflash_modal .form-group > div {
+	display: inline-block;
+	max-width: 200px;
+	margin-bottom: 5px;
+}

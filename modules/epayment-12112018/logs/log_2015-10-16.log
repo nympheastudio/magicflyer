@@ -1,0 +1,12 @@
+2015-10-16 11:29:01 1444987741 DEBUG: URL to check 2
+2015-10-16 11:29:01 1444987741 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-16 11:29:02 1444987741 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-10-16 11:29:02 1444987741 DEBUG: Cart 200: Redirecting customer to Paybox (CARTE, CB).
+2015-10-16 11:29:30 1444987770 DEBUG: Call params: M=11220&R=200%20-%20Anais%20Caux&T=284390757&A=674372&B=0&C=MasterCard&D=1704&E=00000&G=D&H=DD44CB7C028E9E93540D67BCAFE6C3B6AE27B09B&I=FRA&J=&N=&P=CARTE&Q=11%3A29%3A03&S=289717634&W=16102015&Y=FRA&K=sX0d8et906cQtnHKfiYSZH0zUYw5hr8k7bwbFXnbFR1wtrSySxOKqvVvMVUGYJ3Q8v5InYoNGVoF94pmUaXynlirEhq3zL1rzxeemXU0z0K2jaV3pGjTiJLcJD%2FN%2BKcs3y1Ymhz73uYULxD9X6avEsW6pnT91sRjpG0x%2BPU9WRU%3D
+2015-10-16 11:29:30 1444987770 DEBUG: Cart 200: Standard IPN
+2015-10-16 11:29:30 1444987770 DEBUG: Cart 200: Validating order (PS1.5+)
+2015-10-16 11:29:34 1444987770 DEBUG: Cart 200: Order 51 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-10-16 11:29:32 1444987772 DEBUG: Cart 200: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-10-16 11:29:33 1444987773 DEBUG: Cart 200: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-10-16 11:29:35 1444987775 DEBUG: Cart 200: Customer is back from Paybox payment page. Payment success.

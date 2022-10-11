@@ -1,0 +1,53 @@
+2018-10-07 14:07:12 1538914032 DEBUG: URL to check 2
+2018-10-07 14:07:12 1538914032 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-07 14:07:13 1538914032 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-07 14:07:13 1538914032 DEBUG: Cart 28531: Redirecting customer to Paybox (CARTE, CB).
+2018-10-07 14:09:24 1538914164 DEBUG: Call params: M=16033&R=28531%20-%20Rachel%20Licata&T=55949411&B=0&C=CB&D=2204&E=00001&I=BEL&J=93&N=544056&P=3DSECURE&Q=14%3A07%3A09&S=932334376&W=07102018&K=utwIe9m1PILn4WkMWsr5b%2FlxsxLzDgmAaABCnXkfQrb51Szg8YKN6BXsQecPiqfqsxSPXWSpNlZ59WnT7VrJuqwLNXU61rxPmIJQCNeKr%2BhxTj%2FBx4p9fNJWZpqcQvNK4kH%2BO5kbtMAM48WYD8j6bvv3Iqc2cd1uRmscH5JeSB4%3D
+2018-10-07 14:09:24 1538914164 DEBUG: Cart 28531: (IPN) Payment was refused by Paybox (1).
+2018-10-07 18:51:11 1538931071 DEBUG: URL to check 2
+2018-10-07 18:51:11 1538931071 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-07 18:51:11 1538931071 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-07 18:51:11 1538931071 DEBUG: Cart 28538: Redirecting customer to Paybox (CARTE, CB).
+2018-10-07 18:53:43 1538931223 DEBUG: URL to check 2
+2018-10-07 18:53:43 1538931223 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-07 18:53:43 1538931223 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-07 18:53:43 1538931223 DEBUG: Cart 28538: Redirecting customer to Paybox (CARTE, CB).
+2018-10-07 19:09:56 1538932195 DEBUG: URL to check 2
+2018-10-07 19:09:56 1538932195 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-07 19:09:56 1538932195 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-07 19:09:56 1538932195 DEBUG: Cart 28538: Redirecting customer to Paybox (CARTE, CB).
+2018-10-07 19:11:47 1538932307 DEBUG: Cart 28538: Customer is back from Paybox payment page. Payment refused by Paybox (30).
+2018-10-07 19:20:24 1538932824 DEBUG: URL to check 2
+2018-10-07 19:20:24 1538932824 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-07 19:20:24 1538932824 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-07 19:20:24 1538932824 DEBUG: Cart 28538: Redirecting customer to Paybox (CARTE, CB).
+2018-10-07 19:31:34 1538933494 DEBUG: URL to check 2
+2018-10-07 19:31:34 1538933494 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-07 19:31:34 1538933494 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-07 19:31:34 1538933494 DEBUG: Cart 28538: Redirecting customer to Paybox (CARTE, CB).
+2018-10-07 19:33:39 1538933619 DEBUG: Call params: M=8170&R=28538%20-%20Mylena%20TETUAVEROA&T=56057347&A=384607&B=0&C=Visa&D=1902&E=00000&F=Y&G=O&I=PYF&J=48&N=497471&O=Y&P=3DSECURE&Q=19%3A31%3A41&S=932414944&W=07102018&Y=FRA&K=d%2FzHwYMjZh7KeA7R0Y1mmUi%2Bb5Mz61LA2KH2zBT0slvbE%2BcechW%2BPBJF%2Fh7lwq1AfDX5wj34%2B6Ll%2Bp1%2B0zo5OemleGHwoJu8JPSLhVW2oYopI%2FbNhAEJUOoeiWWAqdB7u690kBUNuRaoFBTJnLo6w6fZ8Nm9J7OmqJa%2FKFv6tXs%3D
+2018-10-07 19:33:39 1538933619 DEBUG: Cart 28538: Standard IPN
+2018-10-07 19:33:39 1538933619 DEBUG: Cart 28538: Validating order
+2018-10-07 19:33:42 1538933619 DEBUG: Cart 28538: Order 3348 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-07 19:34:05 1538933645 DEBUG: Cart 28538: Customer is back from Paybox payment page. Payment success.
+2018-10-07 21:49:48 1538941788 DEBUG: URL to check 2
+2018-10-07 21:49:48 1538941788 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-07 21:49:48 1538941788 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-07 21:49:48 1538941788 DEBUG: Cart 28624: Redirecting customer to Paybox (CARTE, CB).
+2018-10-07 21:51:23 1538941883 DEBUG: Call params: M=12093&R=28624%20-%20Aurelie%20Rouault&T=56099902&A=510375&B=0&C=MasterCard&D=2005&E=00000&F=Y&G=O&I=FRA&J=17&N=529097&O=Y&P=3DSECURE&Q=21%3A49%3A41&S=932448670&W=07102018&Y=FRA&K=leCOjzfmL3tCuUatg6t%2FKUWAhfHcOAxdysuLn25sYcjFVNWRx1heAWEyWHcsf7gvRavDE2cns4aVuxPWujBxZyPqiVGXhMJbSYe3%2F05vTohLmn1r4xFpGMXR72jWoSqW0Yc0JiE5UrZbqJ5UNuqCycFhwiZOeB%2BKjdqg2xzx51k%3D
+2018-10-07 21:51:23 1538941883 DEBUG: Cart 28624: Standard IPN
+2018-10-07 21:51:23 1538941883 DEBUG: Cart 28624: Validating order
+2018-10-07 21:51:23 1538941883 DEBUG: Cart 28624: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-07 21:51:24 1538941884 DEBUG: Cart 28624: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2018-10-07 21:51:25 1538941883 DEBUG: Cart 28624: Order 3349 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-07 21:51:26 1538941886 DEBUG: Cart 28624: Customer is back from Paybox payment page. Payment success.
+2018-10-07 23:32:58 1538947977 DEBUG: URL to check 2
+2018-10-07 23:32:58 1538947977 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-07 23:32:58 1538947977 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-07 23:32:58 1538947977 DEBUG: Cart 28627: Redirecting customer to Paybox (CARTE, CB).
+2018-10-07 23:33:50 1538948030 DEBUG: Call params: M=16000&R=28627%20-%20nawale%20Boungzate&T=56122150&A=932303&B=0&C=Visa&D=1903&E=00000&F=Y&G=O&I=FRA&J=99&N=497993&O=Y&P=3DSECURE&Q=23%3A32%3A49&S=932465721&W=07102018&Y=FRA&K=AD6ZLWD1xXluUulYiGAi1TkwHKNzNE6RIXlVFypE0T4YYouvIdYOtGL0RATENhyA9jWmfEJr8neP%2BGtzYLHYADcezzvkUb1IdcHC5j878Wd%2BYZ8%2Fg6Tpd%2BR5Uj6O2hf9I6cM1z6rSMVaP9X6MJS5KwUm1HXveIU2NFr0hBtTFnI%3D
+2018-10-07 23:33:50 1538948030 DEBUG: Cart 28627: Standard IPN
+2018-10-07 23:33:50 1538948030 DEBUG: Cart 28627: Validating order
+2018-10-07 23:33:50 1538948030 DEBUG: Cart 28627: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-07 23:33:51 1538948030 DEBUG: Cart 28627: Order 3351 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-07 23:33:52 1538948032 DEBUG: Cart 28627: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,13 @@
+2018-10-16 05:27:57 1539660477 DEBUG: URL to check 2
+2018-10-16 05:27:57 1539660477 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-16 05:27:57 1539660477 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-16 05:27:57 1539660477 DEBUG: Cart 28818: Redirecting customer to Paybox (CARTE, CB).
+2018-10-16 05:31:33 1539660693 DEBUG: Call params: M=3230&R=28818%20-%20Alice%20Duverger&T=58828967&A=372166&B=0&C=MasterCard&D=2004&E=00000&F=Y&G=O&I=FRA&J=56&N=513770&O=Y&P=CARTE&Q=05%3A27%3A58&S=934742379&W=16102018&Y=FRA&K=AGrufiCHT%2BUvqCf4SnuK0QENu8bwjQmMeUIXm3A%2Bejfs9bTxwEuzGV11dezNkTZP6zRbLz%2FRsn%2F%2BR0gEfXkg4oq%2Ftf650%2FgGq%2F%2F8Ln7ukCtb3zfpyXQmAPI%2F9ZmKF530RKdpbYivNihNUO6vgkrZUHeY%2FKJfs1ItbQLaJIBe2zE%3D
+2018-10-16 05:31:33 1539660693 DEBUG: Cart 28818: Standard IPN
+2018-10-16 05:31:33 1539660693 DEBUG: Cart 28818: Validating order
+2018-10-16 05:31:33 1539660693 DEBUG: Cart 28818: Order 3372 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-16 05:31:34 1539660694 DEBUG: Cart 28818: Customer is back from Paybox payment page. Payment success.
+2018-10-16 20:57:20 1539716240 DEBUG: URL to check 2
+2018-10-16 20:57:20 1539716240 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-16 20:57:20 1539716240 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-16 20:57:20 1539716240 DEBUG: Cart 28866: Redirecting customer to Paybox (CARTE, CB).

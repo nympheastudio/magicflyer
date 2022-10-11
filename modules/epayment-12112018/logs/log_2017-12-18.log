@@ -1,0 +1,17 @@
+2017-12-18 14:30:07 1513603806 DEBUG: URL to check 2
+2017-12-18 14:30:07 1513603806 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-12-18 14:30:07 1513603806 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-12-18 14:30:07 1513603806 DEBUG: Cart 19964: Redirecting customer to Paybox (CARTE, CB).
+2017-12-18 23:41:22 1513636882 DEBUG: URL to check 2
+2017-12-18 23:41:22 1513636882 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-12-18 23:41:22 1513636882 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-12-18 23:41:22 1513636882 DEBUG: Cart 19972: Redirecting customer to Paybox (CARTE, CB).
+2017-12-18 23:42:27 1513636947 DEBUG: Call params: M=4679&R=19972%20-%20Sigolene%20%20Deschamps&T=775474768&A=070451&B=0&C=Visa&D=1804&E=00000&F=Y&G=O&I=FRA&J=17&N=497582&O=Y&P=3DSECURE&Q=23%3A41%3A23&S=759075581&W=18122017&Y=FRA&K=kCkf5ncN7D%2FPIdNh%2Fs0e%2BilAxjUa9MrHgfPZFGEUTT75srGf2%2FDF81kfgH%2B%2BO50B3Rxgdbvn6EpV1XYgEbH7xPmsa9xDto7vHZR4e3Y%2FBEdjMMiRD6YloDcayjc2CZJRweYapUf%2F%2BrcmpZWtxQcaUxrXEYyT6YhSBoocjzXbBiY%3D
+2017-12-18 23:42:27 1513636947 DEBUG: Cart 19972: Standard IPN
+2017-12-18 23:42:27 1513636947 DEBUG: Cart 19972: Validating order
+2017-12-18 23:42:27 1513636947 DEBUG: Cart 19972: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-12-18 23:42:29 1513636949 DEBUG: Cart 19972: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-12-18 23:42:29 1513636947 DEBUG: Cart 19972: Order 1827 / Le paiement a été autorisé et capturé par Paybox.
+2017-12-18 23:42:29 1513636949 DEBUG: Call params: M=4679&R=19972%20-%20Sigolene%20%20Deschamps&T=775474768&A=070451&B=0&C=Visa&D=1804&E=00000&F=Y&G=O&I=FRA&J=17&N=497582&O=Y&P=3DSECURE&Q=23%3A41%3A23&S=759075581&W=18122017&Y=FRA&K=kCkf5ncN7D%2FPIdNh%2Fs0e%2BilAxjUa9MrHgfPZFGEUTT75srGf2%2FDF81kfgH%2B%2BO50B3Rxgdbvn6EpV1XYgEbH7xPmsa9xDto7vHZR4e3Y%2FBEdjMMiRD6YloDcayjc2CZJRweYapUf%2F%2BrcmpZWtxQcaUxrXEYyT6YhSBoocjzXbBiY%3D
+2017-12-18 23:42:29 1513636949 DEBUG: Cart 19972: (IPN) Cart already being validated as order.
+2017-12-18 23:42:30 1513636950 DEBUG: Cart 19972: Customer is back from Paybox payment page. Payment success.

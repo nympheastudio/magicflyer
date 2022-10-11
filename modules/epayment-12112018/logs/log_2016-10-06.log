@@ -1,0 +1,32 @@
+2016-10-06 13:06:27 1475751987 DEBUG: URL to check 2
+2016-10-06 13:06:27 1475751987 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-06 13:06:27 1475751987 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-06 13:06:27 1475751987 DEBUG: Cart 3365: Redirecting customer to Paybox (CARTE, CB).
+2016-10-06 13:07:58 1475752078 DEBUG: Call params: M=2297&R=3365%20-%20Isabelle%20Bruneau&T=657873571&A=589151&B=0&C=MasterCard&D=1809&E=00000&F=Y&G=O&I=FRA&J=50&N=513141&O=Y&P=3DSECURE&Q=13%3A06%3A27&S=657779355&W=06102016&Y=FRA&K=bRVIzL2TwRJA3%2FXInELU5A7IGbmK%2FHaW%2B%2FzQ0xo87kewpySvDJTsQouLeI1kyZOh4HmjlMJF9hipidwtKFwU9uQIarWhDH34hGjmKz4eWSwdHjmvXGfRTo9NTl3%2B9Um4vcgoXDZ0PwGnqAgUwQByAIaNTzp5QQwGbEFfFU0EG6E%3D
+2016-10-06 13:07:58 1475752078 DEBUG: Cart 3365: Standard IPN
+2016-10-06 13:07:58 1475752078 DEBUG: Cart 3365: Validating order
+2016-10-06 13:07:59 1475752079 DEBUG: Cart 3365: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-06 13:08:00 1475752078 DEBUG: Cart 3365: Order 419 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-06 13:08:00 1475752080 DEBUG: Cart 3365: Customer is back from Paybox payment page. Payment success.
+2016-10-06 17:33:22 1475768002 DEBUG: URL to check 2
+2016-10-06 17:33:22 1475768002 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-06 17:33:22 1475768002 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-06 17:33:22 1475768002 DEBUG: Cart 3747: Redirecting customer to Paybox (CARTE, CB).
+2016-10-06 17:38:00 1475768280 DEBUG: Call params: M=13874&R=3747%20-%20Laetitia%20Landes&T=657943556&A=331620&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=65&N=497315&O=Y&P=3DSECURE&Q=17%3A33%3A24&S=657839495&W=06102016&Y=FRA&K=J%2BjiM7tSsfQ4V1%2FtPKLdGPXnDi%2Bojxpx8DgRQ2glvKhmRgQUQJTCfDnQ4Z5GHzgoBkgNYBMtpdr08SYyAs%2FfKuDIyGiH9UTFGgxgduC7%2FJ6gNcP1YuSt1Imgv4fh4BRfFUC1mpEevsaOtHNqIa8h2tR22orzaUv1gVgT1vBQE0U%3D
+2016-10-06 17:38:00 1475768280 DEBUG: Cart 3747: Standard IPN
+2016-10-06 17:38:00 1475768280 DEBUG: Cart 3747: Validating order
+2016-10-06 17:38:01 1475768281 DEBUG: Cart 3747: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-06 17:38:02 1475768280 DEBUG: Cart 3747: Order 421 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-06 17:38:02 1475768282 DEBUG: Cart 3747: Customer is back from Paybox payment page. Payment success.
+2016-10-06 19:33:51 1475775231 DEBUG: URL to check 2
+2016-10-06 19:33:51 1475775231 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-06 19:33:51 1475775231 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-06 19:33:51 1475775231 DEBUG: Cart 3748: Redirecting customer to Paybox (CARTE, CB).
+2016-10-06 19:34:39 1475775279 DEBUG: Call params: M=31698&R=3748%20-%20Nancy%20Lambrix&T=657975964&B=0&C=Visa&D=1908&E=00105&F=A&G=N&I=USA&J=--&N=443603&O=Y&P=3DSECURE&Q=19%3A33%3A53&S=657866957&W=06102016&Y=USA&K=cnXwJCJKlHrisOqS4SFAcO3g%2FlsO8uScVm5BmIxdUy2PhY1Wdep18sVymTwqs178u%2BtLjzjDFqKfvSlmq7xbdObjP%2FCx0ZfNlJNjKcJoJxsgjtD7nuHbTvApbimPadUHf9G%2BSljQWFq4aJUTyu9RqlJOgnCPhhoUt1X6gl7eFEs%3D
+2016-10-06 19:34:39 1475775279 DEBUG: Cart 3748: (IPN) Payment was refused by Paybox (105).
+2016-10-06 19:35:38 1475775338 DEBUG: Call params: M=31698&R=3748%20-%20Nancy%20Lambrix&T=657975964&A=006606&B=0&C=Visa&D=1908&E=00000&F=A&G=N&I=USA&J=09&N=443603&O=Y&P=3DSECURE&Q=19%3A33%3A53&S=657867158&W=06102016&Y=USA&K=18AusqkAie%2Bs1mAE5rYOE7X9wI0E8xj%2BUmVzJHEw21UKFtKNIx60jqbW3HxvEHpkBhRSXe0xYQKIPOQUHCH%2F%2B7JRmnfZq5f0ipreBn7E1N568hd8JL8axBzHglWMm9i0uT4lERNqEA%2FZ1wFjdIpvG4DWkaSH9PBzjgDyURD0IXc%3D
+2016-10-06 19:35:38 1475775338 DEBUG: Cart 3748: Standard IPN
+2016-10-06 19:35:38 1475775338 DEBUG: Cart 3748: Validating order
+2016-10-06 19:35:39 1475775339 DEBUG: Cart 3748: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-06 19:35:40 1475775338 DEBUG: Cart 3748: Order 422 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-06 19:35:40 1475775340 DEBUG: Cart 3748: Customer is back from Paybox payment page. Payment success.

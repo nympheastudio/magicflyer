@@ -1,0 +1,330 @@
+/*
+* 2009-2016 202 ecommerce
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Open Software License (OSL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/osl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+*  @author    202 ecommerce <support@202-ecommerce.com>
+*  @copyright 2009-2016 202 ecommerce SARL
+*  @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+*/
+
+/* LeCabFlash BO
+   ========================================================================== */
+
+.lecab__main-container {
+	position: relative;
+	padding-bottom: 350px;
+}
+
+.lecab__left-col {
+	position: relative;
+	width: 200px;
+
+	z-index: 1;
+}
+
+.lecab__right-col {
+	padding-left: 210px;
+	position: absolute;
+	width: 100%;
+	max-width: 1300px;
+	top: 0;
+	left: 0;
+}
+
+#content.bootstrap .panel {
+	margin-bottom: 80px;
+}
+
+/* left col */
+/* logo */
+.lecab__logo img {
+	display: block;
+	max-width: 100%;$
+	height: auto;
+	margin-bottom: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+/* menu */
+ul.lecab__nav {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	background: #1e6c60;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.lecab__nav li {
+	display: block;
+}
+
+.lecab__nav li a {
+	display: block;
+	padding: 10px 10px 10px 45px;
+	color: #ffffff;
+	line-height: 25px;
+}
+
+.lecab__nav li a:hover,
+.lecab__nav li a:focus,
+.lecab__nav li a:active,
+.lecab__nav li a.active {
+	color: #ffffff;
+	text-decoration: none;
+	background: #144840;
+}
+
+.lecab__nav li a i {
+	/*margin-right: 10px;*/
+	position: absolute;
+	margin-top: 5px;
+	margin-left: -27px;
+}
+
+/* about panel */
+.lecab__about {
+	display: block;
+	margin-top: 10px;
+	padding: 10px;
+	color: #282b30;
+	background: #f3c110;
+	font-weight: 500;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+/* configuration tabs */
+.textarea-y3 {
+	min-height: 65px;
+}
+
+.lecab__hours-table {
+	width: 610px;
+	background: yellow;
+}
+
+.lecab__hours-table td.day{
+	padding-left: 10px;
+	vertical-align: middle;
+}
+
+.lecab__hours-table td.day .checkbox {
+	min-height: auto;
+}
+
+.lecab__hours-table input[type='number'],
+.lecab__hours-table input[type='text'] {
+  width: 47px;
+  padding-right: 7px;
+  padding-left: 5px !important;
+  margin: 0 5px;
+  display: inline;
+  height: 31px;
+  padding: 6px 8px;
+  font-size: 12px;
+  line-height: 1.42857;
+  color: #555;
+  background-color: #F5F8F9;
+  background-image: none;
+  border: 1px solid #C7D6DB;
+  border-radius: 3px;
+  -webkit-transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+  -o-transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+  transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+
+.lecab__hours-table tr.table-heading th {
+	padding-bottom: 10px;
+}
+
+.lecab__hours-table tr.table-heading {
+	background: none;
+}
+
+.lecab__hours-table tr {
+	background: hsla(219,9%,89%,1);
+	color: gray;
+}
+
+.lecab__hours-table tr.active {
+	background: none;
+	color: #000000;
+}
+
+.lecab__hours-table th {
+	text-align: center;
+}
+
+.hours-col {
+	text-align: center;
+	padding: 2px 0;
+}
+
+.panel .panel-footer.wizzard {
+	background-color: #1e6c60;
+	margin-top: 30px;
+	padding: 0;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	overflow: hidden;
+}
+
+.wizzard_btn {
+	height: 100%;
+	padding: 0 20px;
+	color: #f3c110;
+	background: #1e6c60;
+	border: none;
+	outline: none;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.wizzard_btn:hover,
+.wizzard_btn:focus {
+	color: #1e6c60;
+	background: #f3c110;
+}
+
+.wizzard_btn:active {
+	background: #282b30;
+	color: #ffffff;
+}
+
+.wizzard_btn_prev {
+	float: left;
+}
+
+.wizzard_btn_prev i {
+	margin-right: 10px;
+}
+
+.wizzard_btn_next {
+	float: right;
+}
+
+.wizzard_btn_end {
+	float: right;
+	color: #1e6c60;
+	background: #f3c110;
+}
+
+.wizzard_btn_end:hover,
+.wizzard_btn_end:focus {
+	color: #f3c110;
+	background: #144840;
+}
+
+.wizzard_btn_next i,
+.wizzard_btn_end i {
+	margin-left: 10px;
+}
+
+
+.wizzard_btn.disabled {
+	cursor: not-allowed;
+}
+
+.tab-pane .alert.alert-info {
+	padding-left: 15px;
+	border-color: #363a41;
+	background-color: hsla(219,9%,89%,1);
+	color: #363a41;
+}
+
+.tab-pane .alert.alert-info:before, .tab-pane .alert.alert-warning:before {
+	display: none;
+	content:"";
+}
+
+.tab-pane .alert.alert-info.exemple {
+	margin-top: 30px;
+	padding-left: 15px;
+	border-color: #1e6c60;
+	background-color: hsl(171, 20%, 79%);
+	color: #144840;
+}
+
+.tab-pane .alert.alert-info.exemple img {
+  display: block;
+  width: 500px;
+  height: auto;
+}
+
+.tab-pane .alert.alert-info.exemple ul {
+	margin: 10px 0 0 0;
+	padding: 0;
+	list-style: none;
+}
+
+.tab-pane .alert.alert-warning.exemple {
+	margin-top: 30px;
+	padding-left: 15px;
+	color: #F39B10;
+	border-color: #F39B10;
+	background-color: hsl(47.5, 89.3%, 85.8%);
+}
+
+/* success modal */
+#wizzard_success img {
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+/* autocomplete */
+#lecabflash_pickup_address {
+	position: relative;
+	z-index: 2;
+}
+
+#list_address {
+	margin-top: -1px;
+	padding: 0;
+	list-style: none;
+
+	border-radius: 3px;
+	border: solid 1px #C7D6DB;
+}
+
+#list_address li {
+	height: 28px;
+	line-height: 28px;
+	padding: 0 8px;
+
+	cursor: pointer;
+	border-left: solid 2px transparent;
+}
+
+#list_address li:hover,
+#list_address li.selected {
+	background: #e1e3e6;
+	color: #000000;
+	border-left: solid 2px #1e6c60;
+}
+
+
+
+
+

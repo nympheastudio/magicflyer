@@ -1,0 +1,3 @@
+Sie können den Geschenkeservice nutzen, um einen Einpackservice und Nachrichtenservice für Geschenke für den Kunden anzubieten. Geschenkeservices können Ihnen behilflich sein, um Ihre Verkauf-Conversion-Rate zu erhöhen, indem Sie den Kunden eine bessere Shopping-Erfahrung ermöglichen.
+
+Die Geschenkoption ermöglicht Kunden, eine Bestellung als Geschenk zu spezifizieren. Sie können ebenfalls Optionen, wie Nachricht des Käufers und Geschenkverpackung hinzufügen. Voreingestellt gilt, dass wenn ein Käufer eine Bestellung als Geschenk angibt, wird der Produktpreis nicht auf dem Packzettel angezeigt. Kunden können wählen, diesen sichtbar zu lassen. Die Auswahl Ihres Kunden wird auf dem Packzettel, der im Werkzeug für Bestellungsverwaltung erhältlich ist, angezeigt.

@@ -1,0 +1,10 @@
+Agresividad de estrategia:
+
+Sus órdenes son analizadas y sujetas a evaluación
+También lo serán las ofertas de sus competidores.
+
+El modulo compra puntajes, la agresividad es dividida por la diferencia de puntajes
+
+Mientras menor sea la diferencia de puntajes, se reducirá la diferencia de precios en función de la agresividad
+
+Especificar 30 si usted no domina esta configuración.

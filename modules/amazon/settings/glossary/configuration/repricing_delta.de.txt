@@ -1,0 +1,4 @@
+Links die maximale Prozentzahl bei Rückgang
+Rechts die maximale Prozentzahl bei Steigerung
+
+Der genutzte Basispreis ist der reguläre Preis des Moduls, das heißt der Preis, den das Modul normalerweise an Amazon weiteresendet.

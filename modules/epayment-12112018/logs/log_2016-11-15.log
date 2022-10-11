@@ -1,0 +1,13 @@
+2016-11-15 16:21:46 1479223306 DEBUG: URL to check 2
+2016-11-15 16:21:46 1479223306 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-15 16:21:46 1479223306 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-15 16:21:46 1479223306 DEBUG: Cart 4410: Redirecting customer to Paybox (CARTE, CB).
+2016-11-15 16:24:47 1479223487 DEBUG: Call params: M=13076&R=4410%20-%20morgane%20drufin&T=666285099&A=802678&B=0&C=MasterCard&D=1809&E=00000&F=Y&G=O&I=FRA&J=77&N=513283&O=Y&P=3DSECURE&Q=16%3A21%3A46&S=665717251&W=15112016&Y=FRA&K=wPW7mng53rw1Tvm2U2kHZ2LRK%2Bjdi4udKgxpQewyLcyPUsnx7J8B33yEOWD3CbPdcdXcAWUkD9C4jyWgxqeGSxcbL0ZXKE9OMEvVKUugLkSBzic7yK3%2FEzxLRE3tfxgclHUSXl%2FfWFYcMJUXQcTg%2FFqIIWyOUiGH1Li2JrzuDrM%3D
+2016-11-15 16:24:47 1479223487 DEBUG: Cart 4410: Standard IPN
+2016-11-15 16:24:47 1479223487 DEBUG: Cart 4410: Validating order
+2016-11-15 16:24:47 1479223487 DEBUG: Cart 4410: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-15 16:24:49 1479223489 DEBUG: Cart 4410: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-15 16:24:49 1479223487 DEBUG: Cart 4410: Order 479 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-15 16:24:50 1479223490 DEBUG: Cart 4410: Customer is back from Paybox payment page. Payment success.
+2016-11-15 16:25:07 1479223507 DEBUG: Call params: M=13076&R=4410%20-%20morgane%20drufin&T=666285099&A=802678&B=0&C=MasterCard&D=1809&E=00000&F=Y&G=O&I=FRA&J=77&N=513283&O=Y&P=3DSECURE&Q=16%3A21%3A46&S=665717251&W=15112016&Y=FRA&K=wPW7mng53rw1Tvm2U2kHZ2LRK%2Bjdi4udKgxpQewyLcyPUsnx7J8B33yEOWD3CbPdcdXcAWUkD9C4jyWgxqeGSxcbL0ZXKE9OMEvVKUugLkSBzic7yK3%2FEzxLRE3tfxgclHUSXl%2FfWFYcMJUXQcTg%2FFqIIWyOUiGH1Li2JrzuDrM%3D
+2016-11-15 16:25:07 1479223507 DEBUG: Cart 4410: (IPN) Cart already being validated as order.

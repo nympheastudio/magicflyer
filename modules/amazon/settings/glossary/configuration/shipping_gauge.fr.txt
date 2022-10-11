@@ -1,0 +1,2 @@
+Gabarit inverse: dimension à déduire de la taille du colis.
+La taille initiale du colis (H/L/l) est indiquée dans l'onglet Livraison de la fiche produit.

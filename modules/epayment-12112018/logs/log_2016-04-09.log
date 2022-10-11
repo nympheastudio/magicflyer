@@ -1,0 +1,11 @@
+2016-04-09 17:27:33 1460215652 DEBUG: URL to check 2
+2016-04-09 17:27:33 1460215652 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-09 17:27:33 1460215652 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-09 17:27:33 1460215652 DEBUG: Cart 736: Redirecting customer to Paybox (CARTE, CB).
+2016-04-09 17:29:16 1460215756 DEBUG: Call params: M=2297&R=736%20-%20Nicolas%20Duplot&T=623681165&A=183864&B=0&C=Visa&D=1802&E=00000&G=D&H=F0F8456D6A34137AC4A35B4AAA40C0FFF06E1471&I=FRA&J=&N=&P=CARTE&Q=17%3A27%3A35&S=619813397&W=09042016&Y=FRA&K=uvmgZmOWJlPRPvZECYjieGS17ByAKOpDv1a9oMFoLVATQqxc8Smfj11%2BGk2OD3UjfriZ7Qe%2BeQOy3qlVXjaz50fhdQNbRrzvMBX0VbB3mj6E%2BPwMVRh0%2BGUKUIzLENXthAPDxesWyR%2BBM8KR6VBjjFjRUGx2PwZOmRwG8ar77VI%3D
+2016-04-09 17:29:16 1460215756 DEBUG: Cart 736: Standard IPN
+2016-04-09 17:29:16 1460215756 DEBUG: Cart 736: Validating order (PS1.5+)
+2016-04-09 17:29:17 1460215757 DEBUG: Cart 736: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-09 17:29:18 1460215758 DEBUG: Cart 736: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-04-09 17:29:19 1460215756 DEBUG: Cart 736: Order 155 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-09 17:29:20 1460215760 DEBUG: Cart 736: Customer is back from Paybox payment page. Payment success.

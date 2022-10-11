@@ -1,0 +1,5 @@
+Como usted configuro las planillas de envio en Central de Vendedor, usted puede especificar aqui la planilla de envio por defecto perteneciente a este perfil.
+
+Todos los productos relacionados a este perfil tendran la planilla de envio aplicada, a menos que usted especifique otro valor directamente en la hoja de extension de producto, entonces, esta reemplazara la planilla de envio por defecto.
+
+Sino se especifica en ningun lugar, entonces, se utilizara su configuracion de envio por definicion configurada en Central de Vendedor

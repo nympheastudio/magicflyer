@@ -1,0 +1,1 @@
+Cuando un pedido disponible FBA sea creado, enviarlo automáticamente por Amazon FBA Multi-Canal.

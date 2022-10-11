@@ -1,0 +1,162 @@
+#chronoconfig_left {
+	float:left;
+	position:relative;
+	width:30%;
+}
+
+#chronoconfig_main {
+	float:left;
+	position:relative;
+	width:70%;
+}
+
+#chronoconfig_left a {
+	position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #00aff0;
+}
+
+#chronoconfig_left a:hover {
+	background-color: #eee;
+}
+
+#chronoconfig h1, #chronoconfig h2 {
+    font-family: "Ubuntu Condensed",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.1;
+    color: inherit;
+}
+
+#chronoconfig .alert-success {
+    position: relative;
+    border: none;
+    padding-left: 50px;
+    border-left: solid 3px #90cb5c !important;
+    background-color: #dff0d8 !important;
+    border-color: #d6e9c6 !important;
+    color: #3c763d !important;
+}
+
+#chronoconfig .panel-heading {
+    font-family: "Ubuntu Condensed",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #555;
+    height: 32px;
+    border: none;
+    font-size: 1.2em;
+    line-height: 2.2em;
+    height: 2.2em;
+    text-transform: uppercase;
+    border-bottom: solid 1px #eee;
+    padding: 0 0 0 5px;
+    margin: -20px -16px 15px -16px;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+}
+
+#chronoconfig .panel {
+    position: relative;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: solid 1px #e6e6e6;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: rgba(0,0,0,0.1) 0 2px 0,#fff 0 0 0 3px inset;
+    box-shadow: rgba(0,0,0,0.1) 0 2px 0,#fff 0 0 0 3px inset;
+}
+
+
+#chronoconfig label.control-label {
+    text-align: right;
+    margin-bottom: 0;
+    padding-top: 5px;
+    font-size: 13px;
+    font-weight: normal;
+    color: #666;
+    width: 100%;
+    text-align:left;
+}
+
+
+#chronoconfig input[type=text], #chronoconfig select  {
+	display: block;
+    width: 80%;
+    height: 27px;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -o-transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+
+#chronoconfig button.btn  {
+	box-shadow: #e6e6e6 0 -2px 0 inset;
+    color: #555;
+    background-color: #fff;
+    border-color: #ccc;
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid #eee;
+    white-space: nowrap;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    border-radius: 3px;
+    -webkit-user-select: none;
+    padding:8px;
+    color: #00aff0;
+
+}
+
+#chronoconfig button.btn:hover {
+	background-color: #eee;	
+}
+
+#chronoconfig .form-group {
+	line-height:17.1428px;
+	margin-bottom:15px;
+	margin-left:-5px;
+	margin-right:-5px;
+}
+
+#chronoconfig .input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+}
+
+#chronoconfig .input-group-addon {
+    padding: 4px 8px;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+#chronoconfig .input-group > * {
+    display: table-cell;
+}

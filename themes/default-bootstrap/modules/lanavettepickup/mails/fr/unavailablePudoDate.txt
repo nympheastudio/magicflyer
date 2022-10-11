@@ -1,0 +1,9 @@
+Bonjour {name},
+
+Nous sommes désolés, votre relais Pickup
+{pudo_name} {pudo_address} {pudo_zipCode} {pudo_city}
+est indisponible du {date_start} au {date_end}.
+
+Nous vous invitons à choisir un autre relais depuis votre backoffice Prestashop, dans l’onglet Configuration / Général du module la Navette Pickup.
+
+Attention, la livraison par la Navette Pickup est désactivée pour vos clients tant que vous n’avez pas choisi un autre relais.

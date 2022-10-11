@@ -1,0 +1,10 @@
+2018-10-25 11:27:20 1540459640 DEBUG: URL to check 2
+2018-10-25 11:27:20 1540459640 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-25 11:27:20 1540459640 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-25 11:27:20 1540459640 DEBUG: Cart 29039: Redirecting customer to Paybox (CARTE, CB).
+2018-10-25 11:28:56 1540459736 DEBUG: Call params: M=2442&R=29039%20-%20Melanie%20Richard&T=61739802&A=541333&B=0&C=MasterCard&D=2206&E=00000&F=Y&G=O&I=BEL&J=46&N=525636&O=Y&P=3DSECURE&Q=11%3A27%3A19&S=937113866&W=25102018&Y=BEL&K=vFZFBhV0xJFMo3MMiIP68SFynymvSJg%2F8aTTWlHXltMtuvcOnAHIzaCPAGBYImwQ94gGodjcItAGNJbugvdCDhSeCMKQMbrHE7jHwT%2BSkLZ9RMwzwO9h08ad6hJLHa8unsiiwicJfH%2BslnCzTkPu9nlKpCx%2Fq3WVUYxfnAQMlVU%3D
+2018-10-25 11:28:56 1540459736 DEBUG: Cart 29039: Standard IPN
+2018-10-25 11:28:56 1540459736 DEBUG: Cart 29039: Validating order
+2018-10-25 11:28:56 1540459736 DEBUG: Cart 29039: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-25 11:28:57 1540459736 DEBUG: Cart 29039: Order 3384 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-25 11:28:57 1540459737 DEBUG: Cart 29039: Customer is back from Paybox payment page. Payment success.

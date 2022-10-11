@@ -1,0 +1,2 @@
+File template della e-mail che sarà utilizzata per indicare la fattura allegata.
+Potete modificare o aggiungere questi files nella directory modules/amazon/mail.

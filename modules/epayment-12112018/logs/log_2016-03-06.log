@@ -1,0 +1,10 @@
+2016-03-06 00:10:55 1457219455 DEBUG: URL to check 2
+2016-03-06 00:10:55 1457219455 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-06 00:10:55 1457219455 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-06 00:10:55 1457219455 DEBUG: Cart 534: Redirecting customer to Paybox (CARTE, CB).
+2016-03-06 00:11:53 1457219513 DEBUG: Call params: M=4294&R=534%20-%20Agnes%20DAGBERT&T=612394335&A=229631&B=0&C=Visa&D=1805&E=00000&G=D&H=2D987ED6B652C40E5E71FD7F53839B3C3816C6CA&I=FRA&J=&N=&P=CARTE&Q=00%3A10%3A57&S=610563743&W=06032016&Y=FRA&K=Ef6x8SxRT0Ln2QwIRekVHBCYSbRz0QBzpFHbm%2F2tNfNzUElcmGopvHyw6MEIBInaJqL%2BNt%2FPonGj4yk0eWMBf40hN42nJQktggK5CPGJPPe10BGu0utmW8720iqEigOtbAWotxifV6X7n5sPfvBOceseSVK8iozqWb7bfDK52rI%3D
+2016-03-06 00:11:53 1457219513 DEBUG: Cart 534: Standard IPN
+2016-03-06 00:11:53 1457219513 DEBUG: Cart 534: Validating order (PS1.5+)
+2016-03-06 00:11:55 1457219515 DEBUG: Cart 534: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-06 00:11:55 1457219513 DEBUG: Cart 534: Order 123 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-06 00:11:56 1457219516 DEBUG: Cart 534: Customer is back from Paybox payment page. Payment success.

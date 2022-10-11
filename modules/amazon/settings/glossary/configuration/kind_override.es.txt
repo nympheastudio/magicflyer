@@ -1,0 +1,2 @@
+Agregado si desea agregar tasas a las tasas actuales de envío configuradas en Amazon.Agregado incrementará las tasas.
+Exclusivo para reemplazar las tasas de envío que ya tiene configuradas en Amazon. Exclusivo reemplazara su costo total de envío.

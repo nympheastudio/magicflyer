@@ -1,0 +1,19 @@
+2017-12-13 10:51:46 1513158706 DEBUG: URL to check 2
+2017-12-13 10:51:46 1513158706 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-12-13 10:51:46 1513158706 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-12-13 10:51:46 1513158706 DEBUG: Cart 19906: Redirecting customer to Paybox (CARTE, CB).
+2017-12-13 12:06:49 1513163207 DEBUG: URL to check 2
+2017-12-13 12:06:49 1513163207 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-12-13 12:06:49 1513163207 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-12-13 12:06:49 1513163207 DEBUG: Cart 19907: Redirecting customer to Paybox (CARTE, CB).
+2017-12-13 12:08:10 1513163290 DEBUG: Call params: M=15282&R=19907%20-%20Lidia%20Miranda&T=774058290&B=0&C=CB&D=2007&E=00040&F=N&G=N&I=LUX&J=95&N=494025&O=Y&P=3DSECURE&Q=12%3A06%3A53&S=757669196&W=13122017&K=H2vAwSfPqWFAHSNUikctcBUoxH%2BNCyh5vp7gBenSSDy4j1mqXeXGnS0otNj%2B4pPgormXi4nGQ7gjTQjPxxhlqTKSr4kJ%2FBE9naNLnSpa9ayQt%2BJz%2FQf863jU6qIPGv8VFsGry0DMtNHdgRX9Tybk75VKQNvTfOf6mUpAbdhAgjI%3D
+2017-12-13 12:08:10 1513163290 DEBUG: Cart 19907: (IPN) Payment was refused by Paybox (40).
+2017-12-13 12:09:29 1513163369 DEBUG: Call params: M=15282&R=19907%20-%20Lidia%20Miranda&T=774058290&A=449989&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=LUX&J=87&N=454102&O=Y&P=3DSECURE&Q=12%3A06%3A53&S=757669707&W=13122017&Y=LUX&K=oGYbS7n6UjXaekA15jrB58lg8JIU0LnZnBInSxIi%2BiicF522dzTAiVzt%2BMKu6C8QkABhsau909XvC3shy07eSij2cyP6wQyzgU0dK2H80SedlynvJ3C7cKgo6MOag6r5aWT1p8ucmX7su%2BSh%2FtnddQooCR8nnHnhIvsyY%2FOArVM%3D
+2017-12-13 12:09:29 1513163369 DEBUG: Cart 19907: Standard IPN
+2017-12-13 12:09:30 1513163369 DEBUG: Cart 19907: Validating order
+2017-12-13 12:09:31 1513163371 DEBUG: Cart 19907: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-12-13 12:09:32 1513163372 DEBUG: Cart 19907: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-12-13 12:09:32 1513163369 DEBUG: Cart 19907: Order 1820 / Le paiement a été autorisé et capturé par Paybox.
+2017-12-13 12:09:32 1513163372 DEBUG: Call params: M=15282&R=19907%20-%20Lidia%20Miranda&T=774058290&A=449989&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=LUX&J=87&N=454102&O=Y&P=3DSECURE&Q=12%3A06%3A53&S=757669707&W=13122017&Y=LUX&K=oGYbS7n6UjXaekA15jrB58lg8JIU0LnZnBInSxIi%2BiicF522dzTAiVzt%2BMKu6C8QkABhsau909XvC3shy07eSij2cyP6wQyzgU0dK2H80SedlynvJ3C7cKgo6MOag6r5aWT1p8ucmX7su%2BSh%2FtnddQooCR8nnHnhIvsyY%2FOArVM%3D
+2017-12-13 12:09:32 1513163372 DEBUG: Cart 19907: (IPN) Cart already being validated as order.
+2017-12-13 12:09:34 1513163374 DEBUG: Cart 19907: Customer is back from Paybox payment page. Payment success.

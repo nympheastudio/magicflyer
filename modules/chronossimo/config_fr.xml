@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>chronossimo</name>
+	<displayName><![CDATA[Chronossimo]]></displayName>
+	<version><![CDATA[2.6.6]]></version>
+	<description><![CDATA[Exp&eacute;diez vos colis en un clic.]]></description>
+	<author><![CDATA[Chronossimo]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<confirmUninstall><![CDATA[Etes vous sur ? Vous allez perdre toute vos données Chronossimo et historique.]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

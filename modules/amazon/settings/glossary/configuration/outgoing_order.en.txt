@@ -1,0 +1,2 @@
+Select your shop carrier's which will be used with processed order
+Select the associated Amazon's carrier to use to notify Amazon

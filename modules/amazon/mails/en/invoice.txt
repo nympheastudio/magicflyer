@@ -1,0 +1,11 @@
+Hello {firstname} {lastname},
+
+Enclosed herewith, you will find the invoice for your order No. {amazon_order_id} on {amazon_order_date} which was placed ​​on Amazon and already paid.
+
+This invoice is in universal PDF format and you can use a PDF reader to view it.
+
+Keep this invoice and think about the environment impact before printing. Print only if it is necessary.
+
+Sincerely,
+Customer Service
+{shop_name}

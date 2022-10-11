@@ -1,0 +1,1 @@
+Quand une commande éligible FBA est créée, l'envoyer automatiquement par Amazon FBA Multi-Canal.

@@ -1,0 +1,1 @@
+Vous permets de configurer le service de Repricing intégré au module.

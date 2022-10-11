@@ -1,0 +1,2 @@
+Scegliere uno Status dell\'ordine che attivi l\'invio della fattura tramite e-mail
+Sono visualizzati soltanto gli status degli ordini idonei (non le e-mail, sì la fattura)

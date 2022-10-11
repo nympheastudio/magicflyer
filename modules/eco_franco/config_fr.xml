@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>eco_franco</name>
+	<displayName><![CDATA[Frais de port gratuit]]></displayName>
+	<version><![CDATA[3]]></version>
+	<description><![CDATA[Proposer la gratuit&eacute; pour certaines zones, transporteurs ou groupes de clients]]></description>
+	<author><![CDATA[EcomiZ]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

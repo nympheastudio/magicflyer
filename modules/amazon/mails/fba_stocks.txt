@@ -1,0 +1,9 @@
+Bonjour,
+
+Des mouvements de stocks ont été enregistrés sur Amazon, voici le détail : 
+
+{events}
+
+----
+
+{errors}

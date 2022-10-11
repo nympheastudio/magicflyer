@@ -1,0 +1,23 @@
+2015-11-17 09:33:26 1447749206 DEBUG: URL to check 2
+2015-11-17 09:33:26 1447749206 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-17 09:33:27 1447749206 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-11-17 09:33:27 1447749206 DEBUG: Cart 277: Redirecting customer to Paybox (CARTE, CB).
+2015-11-17 09:34:05 1447749245 DEBUG: Call params: M=10182&R=277%20-%20Patricia%20Bony&T=287939986&A=624535&B=0&C=Visa&D=1702&E=00000&G=D&H=6BF3254E4393457A9FA468ED02FF47CE21734285&I=FRA&J=&N=&P=CARTE&Q=09%3A33%3A28&S=293274937&W=17112015&Y=FRA&K=vE%2BUr6QsatugKTVYPM%2FbHKMdw%2B1wx2SZ2WUlMpEwwJLlZyxYWqEOci8JV1B4sNRW1ViY6Cc6X5fXnDLdzsx4kfUi13kjEdI1rp388d35%2BSdGepZ2DTzOscabbCFtxNa1vliZjeJ9TfS5U6LOFSFSgTwndwux2QeXQvN86lt0wNs%3D
+2015-11-17 09:34:05 1447749245 DEBUG: Cart 277: Standard IPN
+2015-11-17 09:34:05 1447749245 DEBUG: Cart 277: Validating order (PS1.5+)
+2015-11-17 09:34:09 1447749245 DEBUG: Cart 277: Order 74 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-11-17 09:34:07 1447749247 DEBUG: Cart 277: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-17 09:34:08 1447749248 DEBUG: Cart 277: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-11-17 09:34:10 1447749250 DEBUG: Cart 277: Customer is back from Paybox payment page. Payment success.
+2015-11-17 09:38:48 1447749527 DEBUG: URL to check 2
+2015-11-17 09:38:48 1447749527 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-17 09:38:48 1447749527 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-11-17 09:38:48 1447749527 DEBUG: Cart 284: Redirecting customer to Paybox (CARTE, CB).
+2015-11-17 09:39:32 1447749572 DEBUG: Call params: M=11779&R=284%20-%20Patricia%20Bony&T=287940618&A=138215&B=0&C=Visa&D=1702&E=00000&G=D&H=6BF3254E4393457A9FA468ED02FF47CE21734285&I=FRA&J=&N=&P=CARTE&Q=09%3A38%3A48&S=293275552&W=17112015&Y=FRA&K=ls2mN8Jc72jhloJuRo3BSr3Gdj4dUqxZh%2BuwiktY%2FTkScO6GzoQKj%2B0QqoFhv5m4qs0ExA75BvzK%2F%2Bhfj5r3KV88bE4jydyepOebQKUbI29f%2BKboWdbs9R90TJfyyOoS26g%2FM8Z0sWXeIJ7b3EaxduaTRh5NuOdklQEEcMiXxJs%3D
+2015-11-17 09:39:32 1447749572 DEBUG: Cart 284: Standard IPN
+2015-11-17 09:39:32 1447749572 DEBUG: Cart 284: Validating order (PS1.5+)
+2015-11-17 09:39:34 1447749572 DEBUG: Cart 284: Order 75 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-11-17 09:39:34 1447749574 DEBUG: Cart 284: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-17 09:39:35 1447749575 DEBUG: Cart 284: Customer is back from Paybox payment page. Payment success.

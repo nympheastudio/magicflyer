@@ -1,0 +1,3 @@
+Enables or disables Repricing for this strategy
+
+The profile associated with this repricing strategy will not be processed by Repricing anymore

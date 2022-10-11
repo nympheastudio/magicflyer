@@ -1,0 +1,5 @@
+Etichette che dovranno essere create su Gmail (Etichette Imap)
+
+<img src="views/img/tips/en/labels.jpg" />
+
+Avviso: Le etichette sono sensibili alle maiuscole ; piccole caps, GRANDI caps.

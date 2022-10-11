@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<profile title="Home 7" profile_type="homebody" class_suffix="home-7">
+<row title="Slideshow" class="slideshow-section" fullwidth="1">
+<position title="Slideshow" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Sideshow" block_type="module" module_name="jmssliderlayer" hook_name="top" show_title="0" />
+</position>
+</row>
+<row title="Top five trending" class="home-banner" fullwidth="1">
+<position title="Banner" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Banner" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wp-banner wp-category-1">
+<div class="wrapper-banner-inner">
+<div class="wrapper-banner-content"><span class="title-thin">Check out today</span>
+<h4 class="title"><span class="color-mark">Top five</span> Trending</h4>
+<a title="" href="?id_category=12&amp;controller=category&amp;id_lang=1"> Shop now </a></div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+</row>
+<row title="The best collection" class="home-banner" fullwidth="1">
+<position title="Banner" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Banner" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wp-banner wp-category-2">
+<div class="wrapper-banner-inner">
+<div class="wrapper-banner-content"><span class="title-thin">The best collection</span>
+<h4 class="title"><span class="color-mark">Sale</span> 50% coupons</h4>
+<a title="" href="?id_category=13&amp;controller=category&amp;id_lang=1"> Shop now </a></div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+</row>
+<row title="Best seller products" class="home-banner" fullwidth="1">
+<position title="Banner" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Banner" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="wp-banner wp-category-3">
+<div class="wrapper-banner-inner">
+<div class="wrapper-banner-content">
+<h4 class="title">Best seller products</h4>
+<span class="title-thin color-mark">Price only $199.00</span> <a title="" href="?id_category=14&amp;controller=category&amp;id_lang=1"> Shop now </a></div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+</row>
+</profile>
+<profile title="Footer 7" profile_type="footer" class_suffix="footer-7 footer-4">
+<row title="Footer navbar" class="footer-navbar" fullwidth="0">
+<position title="Contact us" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Contact us" block_type="module" module_name="blockcontactinfos" hook_name="footer" show_title="0" />
+</position>
+<position title="Information" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Informations" block_type="custom_html" module_name="" hook_name="top" show_title="1">
+				<htmlData><![CDATA[<ul><li><a href="#" title="Return exchage">Return exchage</a></li>
+<li><a href="#" title="Term &amp; conditions">Term &amp; conditions</a></li>
+<li><a href="#" title="Size guide">Size guide</a></li>
+<li><a href="#" title="Privacy policy">Privacy policy</a></li>
+<li><a href="#" title="Search terms">Search terms</a></li>
+</ul>]]></htmlData>
+			</block>
+</position>
+<position title="From blog post" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="From blog post" block_type="custom_html" module_name="" hook_name="top" show_title="1">
+				<htmlData><![CDATA[<div class="blog_footer">
+<div class="item-blog">
+<div class="image-blog"><img src="themes/jms_hera/img/demo/bl1.jpg" alt="Fashion from italy" /></div>
+<div class="info-blog">
+<h3>Fashion from italy</h3>
+<div class="time-post"><i class="fa fa-clock-o"></i> <span>December 22, 2015</span></div>
+</div>
+</div>
+<div class="item-blog">
+<div class="image-blog"><img src="themes/jms_hera/img/demo/bl2.jpg" alt="Pro style of lady" /></div>
+<div class="info-blog">
+<h3>Pro style of lady</h3>
+<div class="time-post"><i class="fa fa-clock-o"></i> <span>December 22, 2015</span></div>
+</div>
+</div>
+<div class="item-blog">
+<div class="image-blog"><img src="themes/jms_hera/img/demo/bl3.jpg" alt="Women fashion model" /></div>
+<div class="info-blog">
+<h3>Women fashion model</h3>
+<div class="time-post"><i class="fa fa-clock-o"></i> <span>December 22, 2015</span></div>
+</div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+<position title="Follow us" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Follow us" block_type="module" module_name="blocknewsletter" hook_name="footer" show_title="1" />
+<block title="Social" block_type="module" module_name="jmssocial" hook_name="top" show_title="0" />
+</position>
+</row>
+<row title="Footer bottom" class="footer-bottom" fullwidth="0">
+<position title="Coppy right" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Coppy right" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<p>© 2015 Design by <a href="#" title="Joommasters.com">Joommasters.com</a> Power by Prestashop</p>]]></htmlData>
+			</block>
+</position>
+</row>
+</profile>
+</entity_profile>

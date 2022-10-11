@@ -1,0 +1,39 @@
+2021-08-31 12:39:23 1630406363 DEBUG: URL to check 2
+2021-08-31 12:39:23 1630406363 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-08-31 12:39:23 1630406363 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-08-31 12:39:23 1630406363 DEBUG: Cart 55144: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-08-31 12:40:30 1630406430 DEBUG: Call params: M=4279&R=55144%20-%20ELISE%20HUVELIN&T=1016084764&A=318314&B=0&C=CB&D=2303&E=00000&F=Y&G=O&I=FRA&J=13&N=513277&O=Y&P=3DSECURE&Q=12%3A40%3A29&S=270762886&W=31082021&Y=FRA&Z=0-0&K=TjS1bFUB%2BnlU2uoaoRu4%2BEhd6ar2fqaiKkK5u3WU8%2BoWFGrbCSlUa9YcAWcbD3fu47qy2kvfgdz4dnFrhac6Tp6X9VNXK4y7JHGifkjrgYgue1MJ%2B5rIvbi1UPb6rLEAuhU1HywjI1XCtWj1jsQtm%2BoRhUuq4ol2%2Bxb4tk%2B5njs%3D
+2021-08-31 12:40:30 1630406430 DEBUG: Cart 55144: Standard IPN
+2021-08-31 12:40:30 1630406430 DEBUG: Cart 55144: Validating order
+2021-08-31 12:40:31 1630406431 DEBUG: Cart 55144: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2021-08-31 12:40:32 1630406432 DEBUG: Cart 55144: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2021-08-31 12:40:33 1630406433 DEBUG: Cart 55144: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2021-08-31 12:40:34 1630406434 DEBUG: Cart 55144: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2021-08-31 12:40:35 1630406435 DEBUG: Cart 55144: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2021-08-31 12:40:36 1630406436 DEBUG: Cart 55144: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2021-08-31 12:40:37 1630406430 DEBUG: Cart 55144: Order 5542 validated, creating details
+2021-08-31 12:40:37 1630406430 DEBUG: Cart 55144: Order 5542 / Le paiement a été autorisé et capturé par Paybox.
+2021-08-31 12:40:38 1630406438 DEBUG: Cart 55144: Customer is back from Verifone e-commerce payment page. Payment success.
+2021-08-31 18:43:41 1630428221 DEBUG: URL to check 2
+2021-08-31 18:43:41 1630428221 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-08-31 18:43:41 1630428221 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-08-31 18:43:41 1630428221 DEBUG: Cart 55154: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-08-31 18:45:49 1630428349 DEBUG: Call params: M=4703&R=55154%20-%20Alexia%20Bouineau&T=1016196226&A=526154&B=0&C=CB&D=2309&E=00000&F=Y&G=O&I=FRA&J=29&N=497874&O=Y&P=CARTE&Q=18%3A45%3A48&S=270870162&W=31082021&Y=FRA&Z=0-0&K=lt5Jx%2BhA9kBWf0tFqSVB%2BuD9e6sc0WVnQUJWXgrU3qShJk%2Bv2obFDmIypOLAwZ%2FxRqhb9FJvrc%2Bcsx7hToK6O8D4CHLdyt6vvBBO5KqxYO%2BOwIvKGA1uftfoITS0omi1BTVJVkb4%2BQFzDbtzEjftNxJj7TXGon6UpKHZM4Zhl3o%3D
+2021-08-31 18:45:49 1630428349 DEBUG: Cart 55154: Standard IPN
+2021-08-31 18:45:49 1630428349 DEBUG: Cart 55154: Validating order
+2021-08-31 18:45:51 1630428351 DEBUG: Cart 55154: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2021-08-31 18:45:52 1630428349 DEBUG: Cart 55154: Order 5543 validated, creating details
+2021-08-31 18:45:52 1630428349 DEBUG: Cart 55154: Order 5543 / Le paiement a été autorisé et capturé par Paybox.
+2021-08-31 18:45:53 1630428353 DEBUG: Cart 55154: Customer is back from Verifone e-commerce payment page. Payment success.
+2021-08-31 20:36:46 1630435006 DEBUG: URL to check 2
+2021-08-31 20:36:46 1630435006 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-08-31 20:36:46 1630435006 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-08-31 20:36:46 1630435006 DEBUG: Cart 55157: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-08-31 20:38:04 1630435084 DEBUG: Call params: M=11058&R=55157%20-%20Marion%20BRIANT&T=1563992535&A=458723&B=0&C=CB&D=2405&E=00000&F=Y&G=O&I=FRA&J=56&N=513162&O=Y&P=CARTE&Q=20%3A38%3A03&S=414104042&W=31082021&Y=FRA&Z=0-0&K=qqQoL%2BdW7K%2BMvEhGbFrjwLaK1ZKmjaYFqM8TTCqPYTE15xVfGpEIT6DtnaPdq47QcjTjmt2ARyPrr6KsBGXeR7jvbUDBwkszrqxpmGBF4OVwvRucrwGoLGXpO3YfTULm6ZSrX9kn5MFj1V1TRWi2EDVJ%2Btswe0VTMiUPDi47nFE%3D
+2021-08-31 20:38:04 1630435084 DEBUG: Cart 55157: Standard IPN
+2021-08-31 20:38:04 1630435084 DEBUG: Cart 55157: Validating order
+2021-08-31 20:38:05 1630435085 DEBUG: Cart 55157: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2021-08-31 20:38:06 1630435086 DEBUG: Cart 55157: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2021-08-31 20:38:06 1630435084 DEBUG: Cart 55157: Order 5544 validated, creating details
+2021-08-31 20:38:06 1630435084 DEBUG: Cart 55157: Order 5544 / Le paiement a été autorisé et capturé par Paybox.
+2021-08-31 20:38:07 1630435087 DEBUG: Cart 55157: Customer is back from Verifone e-commerce payment page. Payment success.

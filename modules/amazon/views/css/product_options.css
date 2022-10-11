@@ -1,0 +1,261 @@
+#menuTab {
+    list-style-type: none;
+    float: left;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    background-color: #efefef
+}
+
+#menuTab li {
+    text-align: left;
+    float: left;
+    height: auto;
+    min-width: 64px;
+    padding: 5px;
+    padding-right: 20px;
+    background: #EFEFEF;
+    font-weight: bold;
+    cursor: pointer;
+    border-left: 1px solid #EFEFEF;
+    border-right: 1px solid #efefef;
+    border-top: 1px solid #efefef;
+}
+
+#menuTab li.menuTabButton.selected {
+    background: #FFF6D3;
+    border-left: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    border-top: 1px solid #CCCCCC;
+}
+
+#menuTab li.menuTabButton:hover {
+    background: #ffb700;
+    border-left: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    border-top: 1px solid #CCCCCC;
+}
+
+#tabList {
+    clear: left;
+}
+
+.tabItem {
+    display: none;
+    list-style-type: none
+}
+
+.tabItem.selected {
+    display: block;
+}
+
+.menuTabButton {
+    height: 16px;
+}
+
+.cleaner {
+    clear: both;
+}
+
+#amazon-ext > table {
+    width: 100%;
+}
+
+.amazon-tab-lang {
+    float: right;
+    margin: 10px 15px 0 0;
+}
+
+#m-asin-create {
+    cursor: pointer;
+}
+
+#m-asin-del {
+    cursor: pointer;
+}
+
+#amazon-options img {
+    position: relative;
+    top: -2px;
+}
+
+#amazon-options {
+    padding: 5px;
+    border: 1px solid transparent;
+}
+
+#amazon-options:hover {
+    padding: 5px;
+    background-color: #ffe1d3;
+    border: 1px solid silver;
+    cursor: pointer;
+}
+
+.amazon-details {
+    display: none;
+}
+
+.asin-response {
+    /* display:none; */
+    min-height: 18px;
+    width: 400px;
+    border: 1px solid #E0D0B1;
+    background-color: #fffefb;
+    padding-left: 5px;
+    margin-top: 5px;
+}
+
+#result-amz {
+    width: 100%;
+}
+
+.amz-link {
+    color: navy;
+}
+
+.amz-link:hover {
+    color: brown;
+    text-decoration: underline;
+}
+
+.amz-small-loader {
+    position: relative;
+    top: -3px;
+    margin-left: 10px;
+}
+
+.amz-comb-loader {
+    display: none;
+    position: relative;
+    top: -1px;
+}
+
+.amazon_combination {
+    cursor: pointer;
+}
+
+.amz-small-line {
+    font-size: 0.8em;
+    color: grey;
+    line-height: 150%;
+}
+
+span.amz-action * {
+    vertical-align: middle;
+}
+
+.amz-action {
+    display: inline-block;
+    min-width: 100px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.amz-action input {
+    position: relative;
+    top: -2px;
+}
+
+.amz-action-label {
+    display: inline-block;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.amz-action-container {
+    margin: 5px;
+    padding: 5px;
+    background-color: #EEECEC;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+}
+
+.amz-action-img {
+    position: relative;
+    top: -10px;
+}
+
+.bootstrap .amz-action-img {
+    position: relative;
+    top: -1px;
+}
+
+.not-amazon {
+    color: brown;
+    font-style: italic;
+}
+
+.amazon-section-title {
+    display: inline-block;
+    color: indigo;
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.1em;
+    border-bottom: 1px solid gainsboro;
+    margin-left: 20px;
+}
+
+.amazon-item-title td:first-child {
+    text-align: right;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
+#main .bootstrap td /* PS 1.6 */
+{
+    vertical-align: top;
+}
+
+#main .bootstrap .amazon-details input /* PS 1.6 */
+{
+    display: inline-block;
+}
+
+#main .bootstrap .amazon-bullet-point /* PS 1.6 */
+{
+    max-width: 80%;
+}
+
+.amazon-bullet-point {
+    width: 500px;
+    padding: 2px;
+    margin-bottom: 2px;
+}
+
+#main .bulletpoint-action {
+
+}
+
+#main .bulletpoint-action img {
+    position: relative;
+    top: -3px;
+    left: -1px;
+    border: 1px solid gainsboro;
+    padding: 1px 0 1px 0;
+    cursor: pointer;
+    background-color: lavender;
+    border-radius: 2px;
+    -webkit-opacity: 0.7;
+    -moz-opacity: 0.7;
+    opacity: 0.7;
+}
+
+#main .bulletpoint-action img:hover {
+    border: 1px solid lavender;
+    background-color: lightgray;
+}
+
+#main .conf {
+    background: #DFF2BF url(../img/icon-valid.png) no-repeat scroll 6px 6px;
+    border: 1px solid #4F8A10;
+    color: #4F8A10;
+    font-size: 12px;
+    font-weight: normal;
+    margin: 0 0 10px 0;
+    line-height: 20px;
+    padding: 13px 5px 5px 40px;
+    min-height: 28px;
+    border-radius: 3px;
+}
+/**/

@@ -1,0 +1,1 @@
+Utiliser "Smart Shipping". Cette option permet de calculer des frais de port basés sur le poids de l'article .

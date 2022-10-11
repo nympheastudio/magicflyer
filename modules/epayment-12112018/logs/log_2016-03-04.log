@@ -1,0 +1,10 @@
+2016-03-04 19:05:15 1457114715 DEBUG: URL to check 2
+2016-03-04 19:05:15 1457114715 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-04 19:05:15 1457114715 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-04 19:05:15 1457114715 DEBUG: Cart 527: Redirecting customer to Paybox (CARTE, CB).
+2016-03-04 19:05:54 1457114754 DEBUG: Call params: M=2014&R=527%20-%20Oren%20Elbaz&T=612005144&A=038601&B=0&C=MasterCard&D=1804&E=00000&G=D&H=B9C3CE1075CA217D57860F983A43BB95B4F3872A&I=ISR&J=&N=&P=CARTE&Q=19%3A05%3A17&S=610247061&W=04032016&Y=ISR&K=Mb9gUTluwy1wOdV2jiVQs3xOKhBOEU6XL4dWR%2F5hD%2BrNiF8b0LO%2BzbCPrF9%2B4e3Twa93zpW8qnb%2BHlGfzWYEOE2rHt%2FKS2c3TVVN0ZsoXdzyPk5XJtJ4lQhVccRymTyWdyoG8BpzItmESt%2Fx39QcGtyZBdFT2U8lxQg97PPlt1U%3D
+2016-03-04 19:05:54 1457114754 DEBUG: Cart 527: Standard IPN
+2016-03-04 19:05:54 1457114754 DEBUG: Cart 527: Validating order (PS1.5+)
+2016-03-04 19:05:55 1457114755 DEBUG: Cart 527: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-04 19:05:56 1457114754 DEBUG: Cart 527: Order 122 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-04 19:05:56 1457114756 DEBUG: Cart 527: Customer is back from Paybox payment page. Payment success.

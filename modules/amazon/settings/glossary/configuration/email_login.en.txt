@@ -1,0 +1,3 @@
+Enter the email account login, for instance ;
+
+<img src="views/img/tips/en/email_login.jpg" />

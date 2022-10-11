@@ -1,0 +1,45 @@
+2017-08-31 11:28:20 1504171700 DEBUG: URL to check 2
+2017-08-31 11:28:20 1504171700 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-31 11:28:20 1504171700 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-08-31 11:28:20 1504171700 DEBUG: Cart 17269: Redirecting customer to Paybox (CARTE, CB).
+2017-08-31 11:28:44 1504171724 DEBUG: Call params: M=9550&R=17269%20-%20Antony%20Llewellyn&T=743441253&A=124117&B=0&C=Visa&D=2009&E=00000&F=Y&G=O&I=GBR&J=21&N=465838&O=Y&P=3DSECURE&Q=11%3A28%3A20&S=731665292&W=31082017&Y=GBR&K=UtbUBHuSIj7Gwu2GLJINSHX4IngypC4uvPk%2FiCHK5pWrZXUKMQDSdADK2jCYridCTJeSVMaz50YFvPfNytnSOFajnZlJ0%2FrQc9tw2Hb2cJG1ue50n0ISG13xvx0eAwjZKemHV054fNeRz0VTzvtbssfcEVVoTq3ygaZ4CQ0Gjyw%3D
+2017-08-31 11:28:44 1504171724 DEBUG: Cart 17269: Standard IPN
+2017-08-31 11:28:44 1504171724 DEBUG: Cart 17269: Validating order
+2017-08-31 11:28:44 1504171724 DEBUG: Cart 17269: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-08-31 11:28:45 1504171725 DEBUG: Cart 17269: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-08-31 11:28:46 1504171724 DEBUG: Cart 17269: Order 1611 / Le paiement a été autorisé et capturé par Paybox.
+2017-08-31 11:28:46 1504171726 DEBUG: Call params: M=9550&R=17269%20-%20Antony%20Llewellyn&T=743441253&A=124117&B=0&C=Visa&D=2009&E=00000&F=Y&G=O&I=GBR&J=21&N=465838&O=Y&P=3DSECURE&Q=11%3A28%3A20&S=731665292&W=31082017&Y=GBR&K=UtbUBHuSIj7Gwu2GLJINSHX4IngypC4uvPk%2FiCHK5pWrZXUKMQDSdADK2jCYridCTJeSVMaz50YFvPfNytnSOFajnZlJ0%2FrQc9tw2Hb2cJG1ue50n0ISG13xvx0eAwjZKemHV054fNeRz0VTzvtbssfcEVVoTq3ygaZ4CQ0Gjyw%3D
+2017-08-31 11:28:46 1504171726 DEBUG: Cart 17269: (IPN) Cart already being validated as order.
+2017-08-31 11:28:47 1504171727 DEBUG: Cart 17269: Customer is back from Paybox payment page. Payment success.
+2017-08-31 14:38:22 1504183102 DEBUG: URL to check 2
+2017-08-31 14:38:22 1504183102 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-31 14:38:22 1504183102 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-08-31 14:38:22 1504183102 DEBUG: Cart 16665: Redirecting customer to Paybox (CARTE, CB).
+2017-08-31 17:41:08 1504194068 DEBUG: URL to check 2
+2017-08-31 17:41:08 1504194068 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-31 17:41:08 1504194068 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-08-31 17:41:08 1504194068 DEBUG: Cart 17304: Redirecting customer to Paybox (CARTE, CB).
+2017-08-31 17:41:51 1504194111 DEBUG: URL to check 2
+2017-08-31 17:41:51 1504194111 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-31 17:41:52 1504194111 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-08-31 17:41:52 1504194111 DEBUG: Cart 17304: Redirecting customer to Paybox (CARTE, CB).
+2017-08-31 17:46:12 1504194372 DEBUG: Call params: M=12200&R=17304%20-%20Amelie%20%20Cazes&T=743607826&A=346261&B=0&C=MasterCard&D=2006&E=00000&F=Y&G=O&I=FRA&J=56&N=513138&O=Y&P=3DSECURE&Q=17%3A41%3A08&S=731793701&W=31082017&Y=FRA&K=yGGweEfHjZ7JQCd8ITBBWzjK201KZ3MP7nyE%2BeOwN6Z2G2ePAPGKECnIxZj8g4cfqXw4y68Jy0tVudHARgLMzQqOBVjU87KSDeyE%2BOtNsCTxe8ZyHy6WUvG%2FQ7%2ByKPaZk2UdcQMklKLxiIaqXI51szryo0O%2F5gcgfHHIBzOvY1U%3D
+2017-08-31 17:46:12 1504194372 DEBUG: Cart 17304: Standard IPN
+2017-08-31 17:46:12 1504194372 DEBUG: Cart 17304: Validating order
+2017-08-31 17:46:12 1504194372 DEBUG: Cart 17304: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-08-31 17:46:14 1504194372 DEBUG: Cart 17304: Order 1612 / Le paiement a été autorisé et capturé par Paybox.
+2017-08-31 17:46:14 1504194374 DEBUG: Cart 17304: Customer is back from Paybox payment page. Payment success.
+2017-08-31 17:46:14 1504194374 DEBUG: Call params: M=12200&R=17304%20-%20Amelie%20%20Cazes&T=743607826&A=346261&B=0&C=MasterCard&D=2006&E=00000&F=Y&G=O&I=FRA&J=56&N=513138&O=Y&P=3DSECURE&Q=17%3A41%3A08&S=731793701&W=31082017&Y=FRA&K=yGGweEfHjZ7JQCd8ITBBWzjK201KZ3MP7nyE%2BeOwN6Z2G2ePAPGKECnIxZj8g4cfqXw4y68Jy0tVudHARgLMzQqOBVjU87KSDeyE%2BOtNsCTxe8ZyHy6WUvG%2FQ7%2ByKPaZk2UdcQMklKLxiIaqXI51szryo0O%2F5gcgfHHIBzOvY1U%3D
+2017-08-31 17:46:14 1504194374 DEBUG: Cart 17304: (IPN) Cart already being validated as order.
+2017-08-31 18:35:58 1504197357 DEBUG: URL to check 2
+2017-08-31 18:35:58 1504197357 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-31 18:35:58 1504197357 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-08-31 18:35:58 1504197357 DEBUG: Cart 17182: Redirecting customer to Paybox (CARTE, CB).
+2017-08-31 18:37:03 1504197423 DEBUG: Call params: M=17600&R=17182%20-%20Jeremy%20Besteiro&T=743633757&A=021135&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=FRA&J=02&N=497355&O=Y&P=3DSECURE&Q=18%3A36%3A00&S=731811353&W=31082017&Y=FRA&K=JH8Qi9ivhbL2rAt042gLm6zhwrpXLQ2eScpM04rNftuNpDYJDJuJcuUWwsHTaUyHJj%2FQZb3QK%2FWs4W8gKHDZeeEZZCiYtFsGqQ3ru66%2B8gDAGX4piBxBVgMA8ZIpSr1epF%2Fbnmm4IKxXDRnUasT2Cy%2FkfsYjbAcfUU%2FQkLbsWng%3D
+2017-08-31 18:37:03 1504197423 DEBUG: Cart 17182: Standard IPN
+2017-08-31 18:37:03 1504197423 DEBUG: Cart 17182: Validating order
+2017-08-31 18:37:03 1504197423 DEBUG: Cart 17182: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-08-31 18:37:04 1504197423 DEBUG: Cart 17182: Order 1613 / Le paiement a été autorisé et capturé par Paybox.
+2017-08-31 18:37:04 1504197424 DEBUG: Cart 17182: Customer is back from Paybox payment page. Payment success.
+2017-08-31 18:37:23 1504197443 DEBUG: Call params: M=17600&R=17182%20-%20Jeremy%20Besteiro&T=743633757&A=021135&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=FRA&J=02&N=497355&O=Y&P=3DSECURE&Q=18%3A36%3A00&S=731811353&W=31082017&Y=FRA&K=JH8Qi9ivhbL2rAt042gLm6zhwrpXLQ2eScpM04rNftuNpDYJDJuJcuUWwsHTaUyHJj%2FQZb3QK%2FWs4W8gKHDZeeEZZCiYtFsGqQ3ru66%2B8gDAGX4piBxBVgMA8ZIpSr1epF%2Fbnmm4IKxXDRnUasT2Cy%2FkfsYjbAcfUU%2FQkLbsWng%3D
+2017-08-31 18:37:23 1504197443 DEBUG: Cart 17182: (IPN) Cart already being validated as order.

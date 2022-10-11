@@ -1,0 +1,99 @@
+#amazon-order-ps16 #amazon_go {
+    margin-left: 50px;
+}
+
+/* Prestashop 1.5 */
+#amazon-order-ps15 legend img.flag {
+    position: relative;
+    top: -5px;
+    margin-left: 10px;
+}
+
+#amazon-order-ps15 legend span {
+    position: relative;
+    top: -3px;
+}
+
+#amazon-order-ps15 #amazon_go {
+    float: right;
+}
+
+#amazon-order-ps14 legend img.flag {
+    position: relative;
+    top: -5px;
+    margin-left: 10px;
+}
+
+#amazon-order-ps15 {
+    max-width: 400px;
+}
+
+#amazon-order-ps14 legend span {
+    position: relative;
+    top: -3px;
+}
+
+#amazon-order-ps14 #amazon_go {
+    float: right;
+}
+
+#amazon-order-ps14 pre, #amazon-order-ps15 pre {
+    display: block;
+    padding: 8px;
+    margin: 0 0 8.5px;
+    font-size: 11px;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    line-height: 1.42857;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #333333;
+    background-color: whitesmoke;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+}
+
+#order-fba-loader {
+    display: none;
+    float: right;
+    position: relative;
+    top: +3px;
+}
+
+#order-fba-ajax-error, #order-fba-error-message {
+    display: none;
+    color: red;
+    margin-left: 30px;
+}
+
+#order-fba-message {
+    display: none;
+    color: green;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+#order-fba-detail-spacer {
+    display: none;
+    width: 30%;
+    border-bottom: 1px solid silver;
+}
+
+#order-fba-detail-spacer2 {
+    width: 30%;
+    border-bottom: 1px solid silver;
+}
+
+#amazon_fba_create {
+    float: right;
+}
+
+/*Switch name button*/
+#amazon-switch {
+    display: none;
+}
+.switch-customer .amazon-switch-text {
+    display: none;
+}
+.switch-customer, .switch-shipping, .switch-invoice {
+    display: inline-block;
+}

@@ -1,0 +1,6 @@
+Délai de traitement (en jours) 
+
+Il s'agit du temps dont vous aurez besoin pour préparer le produit à l'envoi (en jours) après la commande du client.
+
+Plus d'informations à ce sujet:
+https://sellercentral.amazon.fr/gp/help/help-page.html/ref=ag_35011_cont_scsearch?ie=UTF8&itemID=35011&language=fr_FR

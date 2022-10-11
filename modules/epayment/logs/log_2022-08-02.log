@@ -1,0 +1,13 @@
+2022-08-02 13:32:30 1659439950 DEBUG: URL to check 2
+2022-08-02 13:32:30 1659439950 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-08-02 13:32:30 1659439950 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-08-02 13:32:30 1659439950 DEBUG: Cart 64674: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-08-02 13:34:17 1659440057 DEBUG: Call params: M=9842&R=64674%20-%20Veronique%20Crespin&T=1071475591&A=713488&B=0&C=MasterCard&D=2408&E=00000&F=Y&G=O&I=BEL&J=74&N=539853&O=Y&P=CARTE&Q=13%3A34%3A15&S=926095166&W=02082022&Y=BEL&Z=0-0&K=SvIi8mHb0KPNeNRr%2Bt0eGNafgO6Q3ev3cPP2GXTpLbcADVRiygkWE9sMlcGAQTpuN4b7YJZNg0kPs%2Bb8mHofWDEBcy9cJywqEO8V34CMVsF9Sa2IJX0ffXRSGt%2BsMh6v7%2BmCX5h0NkmVveocf2LfgMAWh0aQsFG4fB4%2F5ibosj4%3D
+2022-08-02 13:34:17 1659440057 DEBUG: Cart 64674: Standard IPN
+2022-08-02 13:34:17 1659440057 DEBUG: Cart 64674: Validating order
+2022-08-02 13:34:20 1659440057 DEBUG: Cart 64674: Order 6012 validated, creating details
+2022-08-02 13:34:20 1659440057 DEBUG: Cart 64674: Order 6012 / Le paiement a été autorisé et capturé par Paybox.
+2022-08-02 19:12:10 1659460330 DEBUG: URL to check 2
+2022-08-02 19:12:10 1659460330 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-08-02 19:12:10 1659460330 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-08-02 19:12:10 1659460330 DEBUG: Cart 64696: Redirecting customer to Verifone e-commerce (CARTE, CB).

@@ -1,0 +1,1 @@
+Elija un empleado autorizado a efectuar las tareas automatizadas (es decir: tareas planificadas).

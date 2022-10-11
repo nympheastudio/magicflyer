@@ -1,0 +1,2 @@
+Wählen Sie den Spediteur ihres Shops, der bei den Amazon-Bestellungen angegeben sein wird.
+Wählen Sie den Spediteur, der verwendet wird um Amazon zu benachrichtigen.

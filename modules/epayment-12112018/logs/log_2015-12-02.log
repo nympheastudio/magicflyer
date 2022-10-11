@@ -1,0 +1,12 @@
+2015-12-02 10:01:38 1449046898 DEBUG: URL to check 2
+2015-12-02 10:01:38 1449046898 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-12-02 10:01:38 1449046898 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-12-02 10:01:38 1449046898 DEBUG: Cart 327: Redirecting customer to Paybox (CARTE, CB).
+2015-12-02 10:02:08 1449046928 DEBUG: Call params: M=10285&R=327%20-%20DENISOT%20Lorane&T=288355646&A=676107&B=0&C=MasterCard&D=1612&E=00000&G=D&H=776150D3B1969B4E6CF666CB4DFDA77CD5CA704E&I=FRA&J=&N=&P=CARTE&Q=10%3A01%3A39&S=293696630&W=02122015&Y=FRA&K=UQeI%2F%2FF7%2FxUHw4z2fUUs2Tg6SSvNtH0ocp%2F3jg5h%2FpU1O0%2FIBU%2Bvjfpwe8JfgluJoyWHY6ZSQFKZeZgy0VHzFhh1g1%2FEQB4RGLSNv7p5I9t19HRXnnL%2FS8McVFb9Hbkq3Hv3eA0v6m3fAiH4ynR3gCdldjqbSq6JXwRBQyGTPEM%3D
+2015-12-02 10:02:08 1449046928 DEBUG: Cart 327: Standard IPN
+2015-12-02 10:02:08 1449046928 DEBUG: Cart 327: Validating order (PS1.5+)
+2015-12-02 10:02:08 1449046928 DEBUG: Cart 327: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-12-02 10:02:09 1449046929 DEBUG: Cart 327: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-12-02 10:02:10 1449046930 DEBUG: Cart 327: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-12-02 10:02:11 1449046928 DEBUG: Cart 327: Order 95 / Le paiement a été autorisé et capturé par Paybox.
+2015-12-02 10:02:12 1449046932 DEBUG: Cart 327: Customer is back from Paybox payment page. Payment success.

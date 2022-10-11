@@ -1,0 +1,5 @@
+Mode d'arrondi à appliquer sur le prix de vente Marketplace
+
+- 1, 2 chiffres : arrondi à un ou deux chiffres après la virgule (ex: 10.12 devient 10.10 ou 10.15)
+- Arrondi intelligent : transforme le prix en prix intelligible (ex: 10.12 devient 10.19)
+- Aucun : ne transforme pas le prix

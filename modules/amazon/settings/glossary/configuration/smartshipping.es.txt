@@ -1,0 +1,1 @@
+El uso de "Smart Shipping". Esta opción le permite calcular el envío basado en el peso del artículo.

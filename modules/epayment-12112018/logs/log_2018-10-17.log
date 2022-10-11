@@ -1,0 +1,29 @@
+2018-10-17 16:26:48 1539786408 DEBUG: URL to check 2
+2018-10-17 16:26:48 1539786408 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-17 16:26:48 1539786408 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-17 16:26:48 1539786408 DEBUG: Cart 28882: Redirecting customer to Paybox (CARTE, CB).
+2018-10-17 16:26:58 1539786418 DEBUG: Cart 28882: Payment was canceled by user on Paybox payment page.
+2018-10-17 16:28:11 1539786491 DEBUG: URL to check 2
+2018-10-17 16:28:11 1539786491 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-17 16:28:11 1539786491 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-17 16:28:11 1539786491 DEBUG: Cart 28882: Redirecting customer to Paybox (CARTE, CB).
+2018-10-17 16:30:40 1539786640 DEBUG: Call params: M=20616&R=28882%20-%20SOFIE%20HOUBEN&T=59320644&A=056464&B=0&C=MasterCard&D=2005&E=00000&F=Y&G=O&I=FRA&J=93&N=513770&O=Y&P=CARTE&Q=16%3A28%3A07&S=935169302&W=17102018&Y=FRA&K=ChSzDtJBdvx%2FOh%2FQ3jKhMMTTocy0FWNNTps%2B37CQMaejXz5Ml6X1N2fXBo4LMy1JY6i5OJ8ea8FRs0%2F6ZBaBHi3E5K0yw%2BDmZcphsZcYT%2BCDMxycmBGl3KV0yyOWXW3t4GyJigEW28UPmBJxA6SEp5vCOpq6pUYDQWzFGzUycdA%3D
+2018-10-17 16:30:40 1539786640 DEBUG: Cart 28882: Standard IPN
+2018-10-17 16:30:40 1539786640 DEBUG: Cart 28882: Validating order
+2018-10-17 16:30:40 1539786640 DEBUG: Cart 28882: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-17 16:30:42 1539786642 DEBUG: Cart 28882: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2018-10-17 16:30:43 1539786643 DEBUG: Cart 28882: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2018-10-17 16:30:44 1539786644 DEBUG: Cart 28882: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2018-10-17 16:30:45 1539786645 DEBUG: Cart 28882: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2018-10-17 16:30:46 1539786640 DEBUG: Cart 28882: Order 3373 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-17 16:30:47 1539786647 DEBUG: Cart 28882: Customer is back from Paybox payment page. Payment success.
+2018-10-17 22:05:28 1539806727 DEBUG: URL to check 2
+2018-10-17 22:05:28 1539806727 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-17 22:05:28 1539806727 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-17 22:05:28 1539806727 DEBUG: Cart 28891: Redirecting customer to Paybox (CARTE, CB).
+2018-10-17 22:07:13 1539806833 DEBUG: Call params: M=8662&R=28891%20-%20Audrey%20CARPIN&T=59423544&A=758482&B=0&C=Visa&D=1906&E=00000&F=Y&G=O&I=FRA&J=26&N=497355&O=Y&P=3DSECURE&Q=22%3A05%3A21&S=935259345&W=17102018&Y=FRA&K=waiVURjOgrLA8ZPouajne3Oq5LHnOg8mm%2FuGzFM9bnFS9a3KVdISUD6kTn%2BoGPYJLIru%2BX0fK2RKjwsMfwap7Zuwb8SmMeF25IPMXwU%2FWRJdko6waRm1l3QNq0f%2BTdUBKYXD9uk4726vs0M3NTk2m3cQg1jdwYSH45rffjU3%2BEE%3D
+2018-10-17 22:07:13 1539806833 DEBUG: Cart 28891: Standard IPN
+2018-10-17 22:07:13 1539806833 DEBUG: Cart 28891: Validating order
+2018-10-17 22:07:13 1539806833 DEBUG: Cart 28891: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-17 22:07:14 1539806833 DEBUG: Cart 28891: Order 3374 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-17 22:07:15 1539806835 DEBUG: Cart 28891: Customer is back from Paybox payment page. Payment success.

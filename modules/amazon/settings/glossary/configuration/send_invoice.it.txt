@@ -1,0 +1,1 @@
+Attivare l\'invio automatico della fattura tramite e-mail. Il modulo invierà in allegato la fattura tramite e-mail (PDF).

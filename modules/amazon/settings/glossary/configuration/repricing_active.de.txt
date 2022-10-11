@@ -1,0 +1,3 @@
+Aktiviert oder deaktiviert die Preisgestaltung für diese Strategie
+
+Das assoziierte Profil dieser Preigestaltungsstrategie wird von der Preisgestaltung nicht mehr bearbeitet

@@ -1,0 +1,5 @@
+Si ha configurado la planilla de envio de Central de Vendedor, puede utilizarlas en el modulo;
+
+Usted puede aplicar una planilla, ya sea a un perfil, a un producto o a una combinacion en la extension de hoja producto
+
+Sino se especifica en ningun lugar, entonces, se utilizara su configuracion de envio por definicion configurada en Central de Vendedor

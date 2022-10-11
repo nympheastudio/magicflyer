@@ -1,0 +1,1 @@
+Ship automatically through FBA Multi-Channel when an eligible order is created.

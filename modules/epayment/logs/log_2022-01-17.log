@@ -1,0 +1,16 @@
+2022-01-17 13:33:03 1642422783 DEBUG: URL to check 2
+2022-01-17 13:33:03 1642422783 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-01-17 13:33:03 1642422783 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-01-17 13:33:03 1642422783 DEBUG: Cart 57638: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-01-17 13:33:37 1642422817 DEBUG: Call params: M=16519&R=57638%20-%20Greg%20Alexander&T=1585200677&B=0&C=CB&D=2401&E=00105&F=A&G=N&I=FRA&J=--&N=456299&O=Y&P=3DSECURE&Q=13%3A33%3A36&S=437904004&W=17012022&Y=FRA&Z=0-0&K=vZ6olCm0%2FTya%2FklDdG9Qxa8X4wcwod8FLNMae5%2BOYu3XLvIspNOKol2QRBGODwnXWpxI2BRS8RkAcTlbV1f3jnVInLo5KpAyxY4fx0IHG8Sv41kxxBQxRlSiCZTUEQvIVO88LUbj%2Bf27WwykFBbC3TD7sm4pHFYaHIAlvRdr8Io%3D
+2022-01-17 13:33:37 1642422817 DEBUG: Cart 57638: (IPN) Payment was refused by Verifone e-commerce (105).
+2022-01-17 13:34:30 1642422870 DEBUG: Call params: M=16519&R=57638%20-%20Greg%20Alexander&T=1585200677&B=0&C=CB&D=2401&E=00105&F=Y&G=O&I=FRA&J=--&N=456299&O=Y&P=3DSECURE&Q=13%3A34%3A29&S=437904323&W=17012022&Y=FRA&Z=0-0&K=Fo3eYS8o7tXAPLpd3P5FzN8wfYNeRTY5hiNq%2FxYHcj60w1gH36Fz03zdr2QEIV0n8yLJFjNYIM0Ru4aC49NCACF9mSkNdR8S5CmRkmFHs1pdYzeb99xOAbQR5uMHXju5HjznpsRi6AxoFEyTIic0TD2qrdikMuEknr5jXlSbINE%3D
+2022-01-17 13:34:30 1642422870 DEBUG: Cart 57638: (IPN) Payment was refused by Verifone e-commerce (105).
+2022-01-17 15:28:39 1642429719 DEBUG: URL to check 2
+2022-01-17 15:28:39 1642429719 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-01-17 15:28:39 1642429719 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-01-17 15:28:39 1642429719 DEBUG: Cart 57638: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-01-17 15:29:30 1642429769 DEBUG: URL to check 2
+2022-01-17 15:29:30 1642429769 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-01-17 15:29:30 1642429769 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-01-17 15:29:30 1642429769 DEBUG: Cart 57638: Redirecting customer to Verifone e-commerce (CARTE, CB).

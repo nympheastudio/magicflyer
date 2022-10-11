@@ -1,0 +1,15 @@
+Bonjour,
+
+A new FBA Multichannel has been triggered and the shipping notification has been sent to Amazon, here is the detail : 
+
+Order:
+{order}
+
+Customer:
+{customer_address}
+
+Products:
+{ordered_items}
+
+----
+{amazon_info}

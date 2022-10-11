@@ -1,0 +1,1 @@
+Activar la solicitud por correo electrónico de la Valoración del vendedor. Se le pedirá a su cliente que evalúe la compra

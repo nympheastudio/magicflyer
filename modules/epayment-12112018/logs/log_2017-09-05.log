@@ -1,0 +1,50 @@
+2017-09-05 16:32:12 1504621932 DEBUG: URL to check 2
+2017-09-05 16:32:12 1504621932 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-05 16:32:12 1504621932 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-05 16:32:12 1504621932 DEBUG: Cart 17448: Redirecting customer to Paybox (CARTE, CB).
+2017-09-05 16:34:32 1504622072 DEBUG: Call params: M=25100&R=17448%20-%20Frederique%20Sejourne&T=745474236&A=433954&B=0&C=Visa&D=1910&E=00000&F=Y&G=O&I=FRA&J=00&N=449959&O=Y&P=3DSECURE&Q=16%3A32%3A18&S=733240243&W=05092017&Y=FRA&K=UX%2FHLsE4gmfqvRAYEXx9bmlRHWIQhy5fTPfhYe897eql%2FhJbmUhTlBeP37kkidirOnuM9wHklh8Ie3aDk3vvMcUZs%2Bvv9UBEdDp%2Ff9LnAwy4K9%2F1auWvA5RbPss0AiZ8FfYhpjTKtvRVgbgu3sk4qJTSHGJ%2BipRCkB3EK8hBR3A%3D
+2017-09-05 16:34:32 1504622072 DEBUG: Cart 17448: Standard IPN
+2017-09-05 16:34:32 1504622072 DEBUG: Cart 17448: Validating order
+2017-09-05 16:34:33 1504622072 DEBUG: Cart 17448: Order 1626 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-05 16:34:33 1504622073 DEBUG: Cart 17448: Customer is back from Paybox payment page. Payment success.
+2017-09-05 19:36:29 1504632989 DEBUG: URL to check 2
+2017-09-05 19:36:29 1504632989 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-05 19:36:29 1504632989 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-05 19:36:29 1504632989 DEBUG: Cart 17458: Redirecting customer to Paybox (CARTE, CB).
+2017-09-05 19:37:49 1504633069 DEBUG: Call params: M=4500&R=17458%20-%20Nadia%20Manai&T=745554763&B=0&C=CB&D=1903&E=00004&I=FRA&J=19&N=497301&P=3DSECURE&Q=19%3A36%3A30&S=733307777&W=05092017&K=Zpk0h18EwDB6vqOun7uU8o3N8KTxlvBnFU%2FQDKBSOcf459t2j5EjHArwpWdanp3XCvRw9my0QWoBMoOvBc3jYBcp3xm4CwCojA7poC1R6tDaUpDoDH0tULfuBKFTya5jcLyBSuqwvTOusidTj2yqZDIZDGuaLqT%2BWDNxdufMBdU%3D
+2017-09-05 19:37:49 1504633069 DEBUG: Cart 17458: (IPN) Payment was refused by Paybox (4).
+2017-09-05 19:43:47 1504633427 DEBUG: Call params: M=4500&R=17458%20-%20Nadia%20Manai&T=745554763&B=0&C=CB&D=1903&E=00040&F=N&G=N&I=FRA&J=19&N=497301&O=Y&P=3DSECURE&Q=19%3A36%3A30&S=733308073&W=05092017&K=IIcX6Ibi7UNNswBhh912y5VgVyvonj78C5Fu27MPmeFWI4VmYTPqO%2Btz7IOGddDs%2BrK3kDcUgtK5O%2Ft3z3Uy0Wy30DoB5Dt4GKf0PBiEGBrboLJ31X0euZ09QXlb%2FzCQ3DTS5FgKncYCA0hZDhN9xwNP571Y70T2iB36caFygI0%3D
+2017-09-05 19:43:47 1504633427 DEBUG: Cart 17458: (IPN) Payment was refused by Paybox (40).
+2017-09-05 19:50:24 1504633824 DEBUG: Call params: M=4500&R=17458%20-%20Nadia%20Manai&T=745554763&B=0&C=CB&D=1903&E=00040&F=N&G=N&I=FRA&J=19&N=497301&O=Y&P=3DSECURE&Q=19%3A36%3A30&S=733309980&W=05092017&K=HEGBrPVK8XbmWIvfjZaKh1y5Vn5VyQpDj%2FxEAzX3AjJUTvQfLcqz81MxkBQmWrhsaoK5GlpIaUTU1WmTKkHSCPoBCW%2BmpWaeBAfZiwOS4j81%2F6Q0XgRD4Hk5u6WyJHk2KxwH837aGxTiWZ%2B%2BhYFff2VBT50YKd1b1Ks1s8v1hJQ%3D
+2017-09-05 19:50:24 1504633824 DEBUG: Cart 17458: (IPN) Payment was refused by Paybox (40).
+2017-09-05 19:50:27 1504633827 DEBUG: Cart 17458: Customer is back from Paybox payment page. Payment refused by Paybox (40).
+2017-09-05 19:50:55 1504633854 DEBUG: URL to check 2
+2017-09-05 19:50:55 1504633854 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-05 19:50:55 1504633854 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-05 19:50:55 1504633854 DEBUG: Cart 17458: Redirecting customer to Paybox (CARTE, CB).
+2017-09-05 19:51:05 1504633865 DEBUG: Cart 17458: Customer is back from Paybox payment page. Payment refused by Paybox (40).
+2017-09-05 19:51:39 1504633899 DEBUG: URL to check 2
+2017-09-05 19:51:39 1504633899 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-05 19:51:39 1504633899 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-05 19:51:39 1504633899 DEBUG: Cart 17458: Redirecting customer to Paybox (CARTE, CB).
+2017-09-05 19:51:39 1504633899 DEBUG: URL to check 2
+2017-09-05 19:51:39 1504633899 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-05 19:51:39 1504633899 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-05 19:51:39 1504633899 DEBUG: Cart 17458: Redirecting customer to Paybox (CARTE, CB).
+2017-09-05 19:54:31 1504634071 DEBUG: URL to check 2
+2017-09-05 19:54:31 1504634071 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-05 19:54:31 1504634071 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-05 19:54:31 1504634071 DEBUG: Cart 17458: Redirecting customer to Paybox (CARTE, CB).
+2017-09-05 19:54:37 1504634077 DEBUG: Cart 17458: Customer is back from Paybox payment page. Payment refused by Paybox (40).
+2017-09-05 20:24:25 1504635865 DEBUG: URL to check 2
+2017-09-05 20:24:25 1504635865 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-05 20:24:25 1504635865 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-09-05 20:24:25 1504635865 DEBUG: Cart 17460: Redirecting customer to Paybox (CARTE, CB).
+2017-09-05 20:25:46 1504635946 DEBUG: Call params: M=30000&R=17460%20-%20Maxime%20Besnard&T=745569533&A=536541&B=0&C=Visa&D=1710&E=00000&F=Y&G=O&I=FRA&J=01&N=497582&O=Y&P=3DSECURE&Q=20%3A24%3A25&S=733320801&W=05092017&Y=FRA&K=zkqi7JFiIjYmmPX%2BZ57GEjeNFnL4TR2Jwp%2FqPY1fJHHOVWi5S8TaXktEBVMRv62oClNQibpl5GyZFGI49qfLjo2XXhMw7PF7wirsBS5CClwL5r9zpRROtZ1NtByAN3LitNt%2F4IQbdimpKBBU9Fn6k%2Fzl5LPo3XglbbUSitgwFiA%3D
+2017-09-05 20:25:46 1504635946 DEBUG: Cart 17460: Standard IPN
+2017-09-05 20:25:46 1504635946 DEBUG: Cart 17460: Validating order
+2017-09-05 20:25:46 1504635946 DEBUG: Cart 17460: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-09-05 20:25:47 1504635946 DEBUG: Cart 17460: Order 1628 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-05 20:25:47 1504635947 DEBUG: Call params: M=30000&R=17460%20-%20Maxime%20Besnard&T=745569533&A=536541&B=0&C=Visa&D=1710&E=00000&F=Y&G=O&I=FRA&J=01&N=497582&O=Y&P=3DSECURE&Q=20%3A24%3A25&S=733320801&W=05092017&Y=FRA&K=zkqi7JFiIjYmmPX%2BZ57GEjeNFnL4TR2Jwp%2FqPY1fJHHOVWi5S8TaXktEBVMRv62oClNQibpl5GyZFGI49qfLjo2XXhMw7PF7wirsBS5CClwL5r9zpRROtZ1NtByAN3LitNt%2F4IQbdimpKBBU9Fn6k%2Fzl5LPo3XglbbUSitgwFiA%3D
+2017-09-05 20:25:47 1504635947 DEBUG: Cart 17460: (IPN) Cart already being validated as order.
+2017-09-05 20:25:48 1504635948 DEBUG: Cart 17460: Customer is back from Paybox payment page. Payment success.

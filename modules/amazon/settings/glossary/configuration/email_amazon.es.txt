@@ -1,0 +1,5 @@
+En la Central de Vendedor, usted redirigirá el "Email de Servicio al Cliente" a su entrada de correo Gmail
+
+<img src="views/img/tips/en/email_amazon.jpg" />
+
+Nota: No utilice el menú "notificación" si usted no trabajara. Únicamente funciona la configuración como la mostrada en la imagen

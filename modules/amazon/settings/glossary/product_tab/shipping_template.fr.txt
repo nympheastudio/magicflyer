@@ -1,0 +1,7 @@
+Vous avez configuré des modèles d'expédition dans votre compte Seller Central.
+
+Ainsi vous pouvez choisir ici un modèle d'expédition à appliquer pour ce produit.
+
+Si vous n'indiquez rien, le modèle d'expédition configuré dans le profil, dans la configuration du module, sera utilisé.
+
+Si le profil n'a pas de modèle d'expédition par défaut, les frais d'expédition configurés par défaut sur Seller Central seront alors appliqués.

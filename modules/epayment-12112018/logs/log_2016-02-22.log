@@ -1,0 +1,10 @@
+2016-02-22 22:15:33 1456175733 DEBUG: URL to check 2
+2016-02-22 22:15:33 1456175733 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-22 22:15:35 1456175733 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-22 22:15:35 1456175733 DEBUG: Cart 446: Redirecting customer to Paybox (CARTE, CB).
+2016-02-22 22:16:10 1456175770 DEBUG: Call params: M=3100&R=446%20-%20muriel%20dietrich&T=608360847&A=561522&B=0&C=MasterCard&D=1604&E=00000&G=D&H=EA890B291D1202F37C0D701CF4EB2CDD64B85BE3&I=FRA&J=&N=&P=CARTE&Q=22%3A15%3A36&S=607262246&W=22022016&Y=FRA&K=IRT1MVx8zRcgn0xjCr0ficLzKc4MGiUdbSGH4%2BDIRZDmxmABfUnXV3T2vv80%2Fq9x58qHx429Uo%2FygZcpdLkZzbG7pfCkZrzmtXBH%2BdWM1oy87lAiYGK9kd7bVlUcf%2FZKGIGHHuly7lCgGJHrJGWWUOwcdvj24TZnRvbW4zG6H2I%3D
+2016-02-22 22:16:10 1456175770 DEBUG: Cart 446: Standard IPN
+2016-02-22 22:16:10 1456175770 DEBUG: Cart 446: Validating order (PS1.5+)
+2016-02-22 22:16:10 1456175770 DEBUG: Cart 446: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-02-22 22:16:11 1456175770 DEBUG: Cart 446: Order 112 / Le paiement a été autorisé et capturé par Paybox.
+2016-02-22 22:16:15 1456175775 DEBUG: Cart 446: Customer is back from Paybox payment page. Payment success.

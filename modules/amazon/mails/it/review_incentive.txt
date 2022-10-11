@@ -1,0 +1,25 @@
+Gentile {firstname} {lastname},
+    
+Le valutazioni La guidano nei Suoi acquisti su Amazon Marketplace ma
+anche la Sua valutazione sarà utile ai futuri acquirenti di Marketplace.
+
+Le saremo inoltre estremamente grati se vorrà valutare la nostra prestazione.
+
+Potrà farlo tra alcuni istanti collegandosi al sito: 
+
+{amazon_review_url}
+
+Segua semplicemente le istruzioni.
+
+La ringraziamo per averci accordato la Sua fiducia e speriamo di riverderLa presto su Amazon Marketplace.
+
+Cordialmente,
+Il Servizio alla Clientela
+{shop_name}
+
+
+
+
+
+
+

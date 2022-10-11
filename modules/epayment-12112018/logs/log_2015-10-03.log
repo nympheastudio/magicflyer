@@ -1,0 +1,16 @@
+2015-10-03 16:00:59 1443880859 DEBUG: URL to check 2
+2015-10-03 16:00:59 1443880859 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-03 16:00:59 1443880859 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-10-03 16:00:59 1443880859 DEBUG: Cart 155: Redirecting customer to Paybox (CARTE, CB).
+2015-10-03 16:10:12 1443881411 DEBUG: URL to check 2
+2015-10-03 16:10:12 1443881411 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-03 16:10:12 1443881411 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-10-03 16:10:12 1443881411 DEBUG: Cart 155: Redirecting customer to Paybox (CARTE, CB).
+2015-10-03 16:11:16 1443881476 DEBUG: Call params: M=6250&R=155%20-%20Nat%20nadal&T=282951505&A=588634&B=0&C=Visa&D=1605&E=00000&G=D&H=14AC92414C18A6FC2BBCE5CF6BD28D2F9C51AA4F&I=FRA&J=&N=&P=CARTE&Q=16%3A01%3A01&S=288237039&W=03102015&Y=FRA&K=y9ZiEQvW6QH3RgFKVFi6xr2yK1gCbTtPvedJqG6VrqBHIUK%2B1luOrLeRUmK5BVL%2FsCUHAYBGdXHBuA7i23FI3OizmUEfMNpo6wZKtc5z8GfxNO4CA6AQRMwJB5qhWy4WDju8tolmSZjk9ExPd2y8FS3C70nfVfk%2BeVRLI8ZWdvs%3D
+2015-10-03 16:11:16 1443881476 DEBUG: Cart 155: Standard IPN
+2015-10-03 16:11:16 1443881476 DEBUG: Cart 155: Validating order (PS1.5+)
+2015-10-03 16:11:20 1443881476 DEBUG: Cart 155: Order 38 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-10-03 16:11:18 1443881478 DEBUG: Cart 155: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-10-03 16:11:19 1443881479 DEBUG: Cart 155: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-10-03 16:11:20 1443881480 DEBUG: Cart 155: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,13 @@
+2016-09-10 17:48:58 1473522538 DEBUG: URL to check 2
+2016-09-10 17:48:58 1473522538 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-10 17:48:59 1473522538 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-10 17:48:59 1473522538 DEBUG: Cart 3137: Redirecting customer to Paybox (CARTE, CB).
+2016-09-10 17:50:29 1473522629 DEBUG: Call params: M=2000&R=3137%20-%20Valentin%20VEYRARD&T=644162435&B=0&C=CB&D=1705&E=00040&F=N&G=O&H=E197BF1535189E2B53883E142B9A9C6485485976&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=17%3A49%3A00&S=640313841&W=10092016&K=CkTpeKOZlc5ii34r839A1dZXY%2FJwFhcTk9Mr%2Fa4l%2FkjVLBTnLeA0vbybA8tU5fnUEq1jhFwmYrJhnajTbY%2FtT%2FJZzKVoYsM4LqhU2JkibCheyvMi4GxcuvieoBVpAaD%2F0RtovIn8Ufh9dU43scyDLc7DqJxqSZQkpBk6TSV0cDc%3D
+2016-09-10 17:50:29 1473522629 DEBUG: Cart 3137: (IPN) Payment was refused by Paybox (40).
+2016-09-10 17:56:15 1473522975 DEBUG: Call params: M=2000&R=3137%20-%20Valentin%20VEYRARD&T=644162435&A=453612&B=0&C=MasterCard&D=1705&E=00000&F=Y&G=O&H=E197BF1535189E2B53883E142B9A9C6485485976&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=17%3A49%3A00&S=640314596&W=10092016&Y=FRA&K=XjqL3ERW7nnv04MiWHtZU6iyC7rnvKlErs4K5EaKWZAT7m8NYmMMJ0cao2qCD0iZYsWtn%2BJPw8AG4Wx47gb7dNBQZ2fu2A5tPgEOrtto5gyImkKv91Knm3%2FmXHNjYvc18LemXrX1cSWXXPIjm4qdVWGD6sahld6Ziez9OEhdaaY%3D
+2016-09-10 17:56:15 1473522975 DEBUG: Cart 3137: Standard IPN
+2016-09-10 17:56:15 1473522975 DEBUG: Cart 3137: Validating order (PS1.5+)
+2016-09-10 17:56:15 1473522975 DEBUG: Cart 3137: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-10 17:56:16 1473522976 DEBUG: Cart 3137: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-09-10 17:56:16 1473522975 DEBUG: Cart 3137: Order 370 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-10 17:56:18 1473522978 DEBUG: Cart 3137: Customer is back from Paybox payment page. Payment success.

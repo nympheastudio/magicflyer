@@ -1,0 +1,41 @@
+2022-02-07 07:32:54 1644215574 DEBUG: URL to check 2
+2022-02-07 07:32:54 1644215574 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-02-07 07:32:54 1644215574 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-02-07 07:32:54 1644215574 DEBUG: Cart 55762: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-02-07 07:43:46 1644216226 DEBUG: URL to check 2
+2022-02-07 07:43:46 1644216226 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-02-07 07:43:46 1644216226 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-02-07 07:43:46 1644216226 DEBUG: Cart 55762: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-02-07 12:43:11 1644234191 DEBUG: URL to check 2
+2022-02-07 12:43:11 1644234191 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-02-07 12:43:11 1644234191 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-02-07 12:43:11 1644234191 DEBUG: Cart 58180: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-02-07 12:44:21 1644234261 DEBUG: Call params: M=16021&R=58180%20-%20Julie%20Verkest&T=1591536162&B=0&C=Visa&D=2611&E=00040&F=N&G=N&I=BEL&J=79&N=487104&O=Y&P=3DSECURE&Q=12%3A44%3A21&S=4971325&W=07022022&Y=BEL&Z=0-0&K=2nQBqxggc535w0WV0vUHR4aaF9smDS94tpJY9OIik5tX8tByEpXW377L7JDqpAYcQ54FD5KM7C0Kz87YFKBlgg9yrIaZcGViWegtkR4jcDJHFp%2Fj%2BtNptLpu4KUn6YVOEVKSbMTJG2cWOtpiOIf1JN3Gs%2BcTdS%2BS8oKH9rxRjH8%3D
+2022-02-07 12:44:21 1644234261 DEBUG: Cart 58180: (IPN) Payment was refused by Verifone e-commerce (40).
+2022-02-07 12:51:04 1644234664 DEBUG: URL to check 2
+2022-02-07 12:51:04 1644234664 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-02-07 12:51:04 1644234664 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-02-07 12:51:04 1644234664 DEBUG: Cart 58181: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-02-07 12:52:55 1644234775 DEBUG: Call params: M=2874&R=58181%20-%20Corinne%20Deflandre&T=1591539447&A=246261&B=0&C=Visa&D=2309&E=00000&F=Y&G=O&I=FRA&J=91&N=497355&O=Y&P=CARTE&Q=12%3A52%3A54&S=4975881&W=07022022&Y=FRA&Z=0-0&K=YEudLG5ss4ZtG0R42b4MtRL4ivxW3T6cQB3zSoJBKHDmKKpJi4NJSfmSL6a3Av4tP3pfwlAcF99alcbdz429QjXxoy67KPwChfzIVHgmlHtmA6xy8DGbotB%2BwU5UBjVp0B8Rk9VeJE6lDUoz8mQFa9LcaLPjZno516r2eMBcwuY%3D
+2022-02-07 12:52:55 1644234775 DEBUG: Cart 58181: Standard IPN
+2022-02-07 12:52:55 1644234775 DEBUG: Cart 58181: Validating order
+2022-02-07 12:52:56 1644234776 DEBUG: Cart 58181: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-02-07 12:52:57 1644234777 DEBUG: Cart 58181: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-02-07 12:52:59 1644234779 DEBUG: Cart 58181: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-02-07 12:53:00 1644234780 DEBUG: Cart 58181: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-02-07 12:53:02 1644234782 DEBUG: Cart 58181: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-02-07 12:53:02 1644234775 DEBUG: Cart 58181: Order 5688 validated, creating details
+2022-02-07 12:53:02 1644234775 DEBUG: Cart 58181: Order 5688 / Le paiement a été autorisé et capturé par Paybox.
+2022-02-07 12:53:03 1644234783 DEBUG: Cart 58181: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-02-07 18:33:05 1644255185 DEBUG: URL to check 2
+2022-02-07 18:33:05 1644255185 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-02-07 18:33:06 1644255185 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-02-07 18:33:06 1644255185 DEBUG: Cart 58180: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-02-07 18:34:27 1644255267 DEBUG: Call params: M=16021&R=58180%20-%20Julie%20Verkest&T=1591678035&A=791088&B=0&C=Visa&D=2611&E=00000&F=Y&G=O&I=BEL&J=79&N=487104&O=Y&P=3DSECURE&Q=18%3A34%3A26&S=5121966&W=07022022&Y=BEL&Z=0-0&K=k6icASdlUB4Q6Y99O%2F%2FoEq9iyN7u%2BpCUbN5CeqrJ1DBuREA%2B1nFai9QpryhyM2jU%2Fgo6HzDLSSxMvuqgJwRYkTWnHyq3kwLT%2BelgQS2xevbwKG7EhKhtVF1RvVtNmOENqGYLO3NOTBS8gtwrJ9aPurhEaFBn1VcFodPS6dcxpKw%3D
+2022-02-07 18:34:27 1644255267 DEBUG: Cart 58180: Standard IPN
+2022-02-07 18:34:27 1644255267 DEBUG: Cart 58180: Validating order
+2022-02-07 18:34:28 1644255268 DEBUG: Cart 58180: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-02-07 18:34:30 1644255270 DEBUG: Cart 58180: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-02-07 18:34:31 1644255267 DEBUG: Cart 58180: Order 5689 validated, creating details
+2022-02-07 18:34:31 1644255267 DEBUG: Cart 58180: Order 5689 / Le paiement a été autorisé et capturé par Paybox.
+2022-02-07 18:34:32 1644255272 DEBUG: Cart 58180: Customer is back from Verifone e-commerce payment page. Payment success.

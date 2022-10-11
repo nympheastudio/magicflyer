@@ -1,0 +1,11 @@
+2016-08-28 22:57:09 1472417829 DEBUG: URL to check 2
+2016-08-28 22:57:09 1472417829 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-28 22:57:09 1472417829 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-28 22:57:09 1472417829 DEBUG: Cart 2809: Redirecting customer to Paybox (CARTE, CB).
+2016-08-28 23:05:57 1472418357 DEBUG: Call params: M=15136&R=2809%20-%20Ana%20Isabel%20Mota&T=642324006&A=075362&B=0&C=MasterCard&D=2009&E=00000&F=%20&G=N&H=E0919628DE6744A2F617CBB39ECD59D70E52AA24&I=PRT&J=&N=&O=U&P=3DSECURE&Q=22%3A57%3A11&S=638430785&W=28082016&Y=PRT&K=cLZ2KLN4X7oVOOe23JcdIG1ZTLQJf%2F4LtKMsa3jEKhPVPHpNXbx2n4778cwlKvf4atSiN3cq40c02Wj2etZw7AETW9YF0Q0uSTXSFsZ2bX5RCC3cjJHk7iESac6P3hxXzbRlQFCHgYOFbRZpFTirG5VanOvgcDkDiwXlPlU7iiA%3D
+2016-08-28 23:05:57 1472418357 DEBUG: Cart 2809: Standard IPN
+2016-08-28 23:05:57 1472418357 DEBUG: Cart 2809: Validating order (PS1.5+)
+2016-08-28 23:05:57 1472418357 DEBUG: Cart 2809: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-28 23:05:58 1472418358 DEBUG: Cart 2809: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-28 23:05:59 1472418357 DEBUG: Cart 2809: Order 345 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-28 23:06:00 1472418360 DEBUG: Cart 2809: Customer is back from Paybox payment page. Payment success.

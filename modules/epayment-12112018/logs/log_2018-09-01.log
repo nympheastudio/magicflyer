@@ -1,0 +1,10 @@
+2018-09-01 13:01:13 1535799673 DEBUG: URL to check 2
+2018-09-01 13:01:13 1535799673 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-01 13:01:13 1535799673 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-09-01 13:01:13 1535799673 DEBUG: Cart 27247: Redirecting customer to Paybox (CARTE, CB).
+2018-09-01 13:02:44 1535799764 DEBUG: Call params: M=32836&R=27247%20-%20perrine%20martin&T=43807938&A=736695&B=0&C=Visa&D=2106&E=00000&F=Y&G=O&I=FRA&J=16&N=497886&O=Y&P=CARTE&Q=13%3A01%3A10&S=922682411&W=01092018&Y=FRA&K=aH6KN3g0gZqoVR5WfM%2FJaJzr41iN71H6Efjyr11RB%2BTVVShGOD9r%2FB5QVFDYsJsesdQa8Zm0oCmwM3AaL1QRVMeW281G31l7%2FMYfMA%2BTEHUsrHJ0iCVhzwSX0flZ6%2BhFwbKDobWrr54DRQ0Td3uN8Ag7BQWIYuy1odPd5%2ByUlQA%3D
+2018-09-01 13:02:44 1535799764 DEBUG: Cart 27247: Standard IPN
+2018-09-01 13:02:44 1535799764 DEBUG: Cart 27247: Validating order
+2018-09-01 13:02:44 1535799764 DEBUG: Cart 27247: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-09-01 13:02:45 1535799764 DEBUG: Cart 27247: Order 3252 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-01 13:02:46 1535799766 DEBUG: Cart 27247: Customer is back from Paybox payment page. Payment success.

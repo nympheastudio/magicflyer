@@ -1,0 +1,10 @@
+2016-02-26 23:44:17 1456526657 DEBUG: URL to check 2
+2016-02-26 23:44:17 1456526657 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-26 23:44:19 1456526657 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-26 23:44:19 1456526657 DEBUG: Cart 478: Redirecting customer to Paybox (CARTE, CB).
+2016-02-26 23:46:56 1456526816 DEBUG: Call params: M=2297&R=478%20-%20muriel%20reboul&T=609659185&A=106569&B=0&C=Visa&D=1703&E=00000&G=D&H=7093BA3740C63F3A701A993B3D5A18D04E86BFEC&I=FRA&J=&N=&P=CARTE&Q=23%3A44%3A20&S=608319501&W=26022016&Y=FRA&K=cKytVkYOpDwniHaPiwMjZGJ0y5ZZP240z12yI3RPXRcR8IhI3PpME4jg7bIgo%2BaHP1jTAjyXW0MdH27F6ZSZOp6k9uf2alMjhALKJfBtR7JrctRSD2HRjMrkGNCuFftf0APkco9Gm0721JNY7jPB%2Bi17jCXW33H9jUDpHFoGTwU%3D
+2016-02-26 23:46:56 1456526816 DEBUG: Cart 478: Standard IPN
+2016-02-26 23:46:56 1456526816 DEBUG: Cart 478: Validating order (PS1.5+)
+2016-02-26 23:46:56 1456526816 DEBUG: Cart 478: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-02-26 23:46:58 1456526816 DEBUG: Cart 478: Order 116 / Le paiement a été autorisé et capturé par Paybox.
+2016-02-26 23:46:58 1456526818 DEBUG: Cart 478: Customer is back from Paybox payment page. Payment success.

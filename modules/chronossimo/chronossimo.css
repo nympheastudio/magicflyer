@@ -1,0 +1,233 @@
+@charset "UTF-8";
+ /**
+  * Chronossimo - Gestion automatique de l'affranchissement et du suivi des colis
+  * 
+  * Ce programme est gratuit et peut être distribué librement
+  * Pour toutes modifications, veuillez contacter l'auteur
+  * Copyright 2012 - VanVan SARL
+  * 
+  * @author Wandrille RONCE <contact@chronossimo.fr>
+  * @copyright VanVan SARL - 2012
+  * @version 2.6.6
+  * @link http://www.chronossimo.fr
+  * 
+  */
+
+#chronossimo_logo {
+	width: 250px;
+	margin: auto;
+}
+#utiliser_chronossimo {
+	margin: auto;
+	text-align: center;
+}
+.center {
+    margin: auto;
+    text-align: center;
+}
+#form_chronossimo_config label {
+    min-width: 250px;
+}
+#form_chronossimo_config div.margin
+{
+padding-left: 270px;
+}
+.hide {
+	display: none;
+}
+.colCoche {
+
+}
+.numero_sh {
+	width: 70px;
+}
+.aideNumeroSH {
+	font-size: 10px;
+}
+.duplicate {
+	cursor: pointer;
+}
+fieldset.fieldset_inside {
+	width: 420px;
+	margin: auto;
+	text-align: left;
+	padding-left: 50px;
+}
+fieldset.fieldset_inside label {
+	text-align: left;
+	float: none;
+	width: auto;
+}
+fieldset.fieldset_inside .margin-form {
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+.options {
+	text-align: left;
+}
+.options label {
+	float: none;
+	margin-left: 50px;
+	text-align: left;
+	
+}
+.cb_validite {
+	width: 45px;
+}
+
+.cb_validite_year {
+	width: 60px;
+}
+
+
+.details label{
+	width: 300px;
+}
+.expedition_list tbody {
+	font-size: 10px;
+}
+.pays_origine {
+	width: 70px;
+}
+#progressDiv {
+	margin: auto;
+	width: 300px;
+	height: 120px;
+	border: 1px solid #000000;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: #FFFFFF;
+	position: absolute;
+}
+#progressDiv img {
+	margin: auto;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+#progressbar {
+	margin: auto;
+}
+#progressText {
+	margin: auto;
+	text-align: center;
+}
+
+#addOrder {
+	margin: auto;
+	top: 200px;
+	width: 260px;
+	height: 30px;
+	border: 1px solid #000000;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background: #FFFFFF;
+	position: absolute;
+}
+#addOrder input[type="text"] {
+	width: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.paiement_secure_img {
+	float: left;
+	margin-right: -100px;
+}
+.paiement_3dsecure_img {
+	float: right;
+}
+.redirect_secure_paiement {
+	float: none;
+}
+.infos_complements {
+	/*display: none;*/
+}
+
+.infos_complements ul {
+	list-style: none;
+	padding-left: 20px;
+}
+.infos_complements ul li {
+	padding-left: 17px;
+	background: url(img/croix.png) no-repeat 0 0.27em;
+}
+.poids {
+    width: 40px;
+}
+.selectTransporteur {
+	width: 600px;
+	margin: auto;
+}
+.selectTransporteur > div {
+	width: 200px;
+	height: 200px;
+}
+.selectTransporteur > div:first-child {
+	float:left;
+}
+.selectTransporteur > div:last-child {
+	float:right;
+}
+.selectTransporteur img:hover{
+	position: relative;
+	top: 1px;
+	left: 1px;
+}
+.notice {
+	margin-bottom: 10px;
+}
+input.inputLinkOrder {
+	height: 2em;
+	width: 20em;
+}
+input.inputLinkOrder {
+	height: 2em;
+	width: 20em;
+}
+input.inputLinkTracking {
+	margin-top: 20px;
+	height: 2em;
+	width: 20em;
+}
+
+.trackingContainer {
+	height: 70px;
+}
+.trackingDiv {
+	display: none;
+	/*position: absolute;*/
+	/*left:0;*/
+	/*right:0;*/
+	/*margin-left:auto;*/
+	/*margin-right:auto;*/
+
+	z-index: 9999;
+	margin: auto;
+
+	position: relative;
+	top: -110px;
+}
+.trackingDiv fieldset {
+	background-color: #f7d86c;
+}
+.trackingDiv fieldset legend {
+	background-color: #f7d86c;
+}
+.trackingDiv label {
+	width: 50px;
+}
+.trackingDiv .margin-form {
+	padding-left: 120px;
+	text-align: left;
+}
+.trackingDiv .margin-form span {
+	font-size: 2em;
+}
+.small {
+	font-size: .8em;
+}

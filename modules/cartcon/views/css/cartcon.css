@@ -1,0 +1,43 @@
+/*
+* PrestaShop module created by VEKIA, a guy from official PrestaShop community ;-)
+*
+* @author    VEKIA https://www.prestashop.com/forums/user/132608-vekia/
+* @copyright 2010-2020 VEKIA
+* @license   This program is not free software and you can't resell and redistribute it
+*
+* CONTACT WITH DEVELOPER http://mypresta.eu
+* support@mypresta.eu
+*/
+
+.cartcon_message {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: #000;
+    border: 1px solid;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+
+.cartcon_message_single {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: #000;
+    border: 1px solid;
+    margin: 10px;
+    margin-top: 0px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+
+.cartcon_message_single_colors {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bcdff1;
+}

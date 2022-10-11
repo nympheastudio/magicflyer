@@ -1,0 +1,3 @@
+Le flux d’annulation vous permet de mettre en place des exceptions au niveau des frais d’expédition pour un SKU donné.
+
+Cette fonctionnalité est parfois utilisée pour les articles lourds, surdimensionnés ou d’une taille anormale tels qu’un kayak ou un pare-chocs de voiture.

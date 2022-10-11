@@ -1,0 +1,14 @@
+2017-11-26 21:50:16 1511729415 DEBUG: URL to check 2
+2017-11-26 21:50:16 1511729415 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-11-26 21:50:16 1511729415 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-11-26 21:50:16 1511729415 DEBUG: Cart 19734: Redirecting customer to Paybox (CARTE, CB).
+2017-11-26 21:51:14 1511729474 DEBUG: Call params: M=17099&R=19734%20-%20Sigolene%20%20Deschamps&T=769967066&A=865839&B=0&C=Visa&D=1804&E=00000&F=Y&G=O&I=FRA&J=17&N=497582&O=Y&P=3DSECURE&Q=21%3A50%3A17&S=753742670&W=26112017&Y=FRA&K=MU9hYtmCWXwDloeEfVdmPIi7MEfrOVF6rq9Ft4tF1f6%2FtkyWZIxMl%2B93piffODbUyBnpke%2B6Akn5LaKWKCHx233uybGCdumJ2C%2BVijO3uhyfD0JOuzUzc6Y0Gzdap0DE78SqggvIHTxYqRws87n8Rxei6HPBX6q0x2j8CheMT%2Fk%3D
+2017-11-26 21:51:14 1511729474 DEBUG: Cart 19734: Standard IPN
+2017-11-26 21:51:14 1511729474 DEBUG: Cart 19734: Validating order
+2017-11-26 21:51:14 1511729474 DEBUG: Cart 19734: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-11-26 21:51:15 1511729475 DEBUG: Cart 19734: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-11-26 21:51:16 1511729476 DEBUG: Cart 19734: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-11-26 21:51:17 1511729474 DEBUG: Cart 19734: Order 1792 / Le paiement a été autorisé et capturé par Paybox.
+2017-11-26 21:51:17 1511729477 DEBUG: Call params: M=17099&R=19734%20-%20Sigolene%20%20Deschamps&T=769967066&A=865839&B=0&C=Visa&D=1804&E=00000&F=Y&G=O&I=FRA&J=17&N=497582&O=Y&P=3DSECURE&Q=21%3A50%3A17&S=753742670&W=26112017&Y=FRA&K=MU9hYtmCWXwDloeEfVdmPIi7MEfrOVF6rq9Ft4tF1f6%2FtkyWZIxMl%2B93piffODbUyBnpke%2B6Akn5LaKWKCHx233uybGCdumJ2C%2BVijO3uhyfD0JOuzUzc6Y0Gzdap0DE78SqggvIHTxYqRws87n8Rxei6HPBX6q0x2j8CheMT%2Fk%3D
+2017-11-26 21:51:17 1511729477 DEBUG: Cart 19734: (IPN) Cart already being validated as order.
+2017-11-26 21:51:17 1511729477 DEBUG: Cart 19734: Customer is back from Paybox payment page. Payment success.

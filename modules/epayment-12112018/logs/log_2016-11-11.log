@@ -1,0 +1,4 @@
+2016-11-11 20:32:52 1478892772 DEBUG: URL to check 2
+2016-11-11 20:32:52 1478892772 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-11 20:32:52 1478892772 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-11 20:32:52 1478892772 DEBUG: Cart 4530: Redirecting customer to Paybox (CARTE, CB).

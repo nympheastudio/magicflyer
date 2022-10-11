@@ -1,0 +1,158 @@
+/*Layout*/
+/*.page-sidebar #content {
+    padding-left: 20px;
+}*/
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.float-right img {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.float-left img {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/*Button*/
+.button-proceed, .button-verify:not(#submit-orders-list) {
+/*    float: right;
+    width: 220px;
+    */
+    padding: 5px;
+    line-height: 60px;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    margin: 10px;
+    text-align: center;
+    display: inline;
+}
+
+#content .button-proceed.float-left img {
+    margin-left:20px;
+}
+#content .button-proceed.float-right img {
+    margin-right:40px;
+}
+#content .button-proceed.float-left {
+    min-width: 250px;
+}
+#content .button-proceed.float-right {
+    min-width: 250px;
+}
+/*
+#submit-orders-list {
+    float: unset;
+    text-align: unset;
+    display: unset;
+}
+*/
+#content .button-proceed:hover, .button-verify:hover, .button-wizard:hover {
+    border-bottom: 3px solid #6495ED;
+}
+#content .button-proceed.disabled, .button-verify.disabled {
+    opacity: 0.5;
+}
+/*
+.button-proceed img {
+    margin-left: 10px;
+}
+*/
+/*
+.button-verify img {
+    margin-right: 10px;
+}
+
+*/
+/*Support*/
+.usage1 {
+    color: #CA120D;
+}
+.usage2, .usage2 a {
+    color: blue;
+}
+.usage2 a:hover {
+    text-decoration: underline;
+}
+
+/*Menu*/
+#menuTab {
+    margin-bottom: 20px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 0, #fff 0 0 0 5px inset;
+}
+#country-selector, #menuTab {
+    padding: 25px;
+}
+#menuTab li {
+    max-width: 180px;
+    min-width: 160px;
+    display: inline-block !important;
+    margin-right: 20px;
+}
+#menuTab li.menuTabButton.selected {
+    border-bottom: 3px solid #6495ED;
+}
+#menuTab li a:focus, #menuTab li a:visited {
+    background: none;
+}
+
+/*Tab list*/
+#tabList {
+    clear: left;
+}
+.tabItem {
+    display: none;
+}
+.tabItem.selected {
+    display: block;
+}
+
+/*Report tab*/
+#menudiv-report table.report .report-selected td {
+    background-color: lightgreen;
+}
+#menudiv-report .table td {
+    line-height: 240%;
+    cursor: pointer;
+}
+#menudiv-report .submission-feed-id {
+    color: #00aff0;
+}
+#menudiv-report .submission-feed-id:hover {
+    text-decoration: underline;
+    cursor: pointer
+}
+
+/*Report tab content*/
+#wait-report {
+    display: block;
+    clear: both;
+    float: left;
+    width: 400px;
+    height: 40px;
+    border: none;
+    color: navy;
+    font-size: 1.2em;
+}
+#wait-report img {
+    padding: 5px;
+    margin: 5px;
+}
+#report-set {
+    width: 100%;
+}
+#reports-loader {
+    display: none;
+    position: relative;
+    margin-left: 200px;
+    width: 32px;
+    height: 32px;
+    background: transparent url(../../img/loading.gif) no-repeat;
+}
+#amazon-report-result, #amazon-report-error {
+    display: none;
+    margin-top: 20px;
+}

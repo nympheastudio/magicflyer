@@ -1,0 +1,3 @@
+Troverete il numero dell'ordine di Prestashop qua:
+
+<img src="views/img/tips/en/order_id.jpg" />

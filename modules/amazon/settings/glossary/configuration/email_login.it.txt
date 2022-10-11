@@ -1,0 +1,3 @@
+Inserire l'email di accesso all account, per esempio ;
+
+<img src="views/img/tips/en/email_login.jpg" />

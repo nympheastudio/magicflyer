@@ -1,0 +1,124 @@
+@charset "UTF-8";
+ /**
+  * Chronossimo - Gestion automatique de l'affranchissement et du suivi des colis
+  * 
+  * Ce programme est gratuit et peut être distribué librement
+  * Pour toutes modifications, veuillez contacter l'auteur
+  * Copyright 2012 - VanVan SARL
+  * 
+  * @author Wandrille RONCE <contact@chronossimo.fr>
+  * @copyright VanVan SARL - 2012
+  * @version 2.6.6
+  * @link http://www.chronossimo.fr
+  * 
+  */
+
+#chronossimo_logo {
+	width: 250px;
+	margin: auto;
+}
+
+.colCoche {
+
+}
+.numero_sh {
+	width: 70px;
+}
+.aideNumeroSH {
+	font-size: 10px;
+}
+.duplicate {
+	cursor: pointer;
+}
+fieldset.fieldset_inside {
+	width: 400px;
+	margin: auto;
+	text-align: left;
+	padding-left: 50px;
+}
+fieldset.fieldset_inside label {
+	text-align: left;
+	float: none;
+	width: auto;
+}
+fieldset.fieldset_inside .margin-form {
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+.options {
+	text-align: left;
+}
+.options label {
+	float: none;
+	margin-left: 50px;
+	text-align: left;
+	
+}
+.cb_validite {
+	width: 30px;
+}
+
+.cb_validite_year {
+	width: 50px;
+}
+
+
+.details label{
+	width: 300px;
+}
+.expedition_list tbody {
+	font-size: 10px;
+}
+.pays_origine {
+	width: 70px;
+}
+#progressDiv {
+	margin: auto;
+	width: 300px;
+	height: 120px;
+	border: 1px solid #000000;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: #FFFFFF;
+	position: absolute;
+}
+#progressDiv img {
+	margin: auto;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+#progressbar {
+	margin: auto;
+}
+#progressText {
+	margin: auto;
+	text-align: center;
+}
+
+#addOrder {
+	margin: auto;
+	top: 200px;
+	width: 250px;
+	height: 30px;
+	border: 1px solid #000000;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background: #FFFFFF;
+	position: absolute;
+}
+#addOrder input[type="text"] {
+	width: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.paiement_secure_img {
+	position: relative;
+	top: 100px;
+	left: 30px;
+}

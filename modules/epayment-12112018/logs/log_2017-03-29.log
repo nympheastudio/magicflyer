@@ -1,0 +1,14 @@
+2017-03-29 04:18:40 1490753920 DEBUG: URL to check 2
+2017-03-29 04:18:40 1490753920 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-29 04:18:40 1490753920 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-29 04:18:40 1490753920 DEBUG: Cart 11398: Redirecting customer to Paybox (CARTE, CB).
+2017-03-29 04:20:27 1490754027 DEBUG: URL to check 2
+2017-03-29 04:20:27 1490754027 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-29 04:20:27 1490754027 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-29 04:20:27 1490754027 DEBUG: Cart 11398: Redirecting customer to Paybox (CARTE, CB).
+2017-03-29 04:21:18 1490754078 DEBUG: Call params: M=2130&R=11398%20-%20Galeno%20Arvelos%20de%20Carvalho&T=701087528&B=0&C=CB&D=2111&E=00004&I=BRA&J=84&N=4984%20%20&P=3DSECURE&Q=04%3A18%3A42&S=695972388&W=29032017&K=HroABJ%2B0sQaQ8f8vZGIA7AHtCWNUSAE4wx7zZY0CgFSQK%2BbTJHoLtU%2FyC6fSn1g5Wk3D%2FKR9AyPCRVAz9VuTFah%2F%2FB%2BmcBBiepmhyj9IOQjmFtCqcGfebwQx%2BxK%2BMM3WvcYcFgIrmRA9%2BTMJWXMrC%2Bc6sP8rLrb9DA%2BiecEgveg%3D
+2017-03-29 04:21:18 1490754078 DEBUG: Cart 11398: (IPN) Payment was refused by Paybox (4).
+2017-03-29 04:22:11 1490754131 DEBUG: URL to check 2
+2017-03-29 04:22:11 1490754131 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-29 04:22:11 1490754131 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-29 04:22:11 1490754131 DEBUG: Cart 11398: Redirecting customer to Paybox (CARTE, CB).

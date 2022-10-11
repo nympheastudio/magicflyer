@@ -1,0 +1,3 @@
+You can use the product classifier to get the item type:
+https://sellercentral.amazon.com/hz/inventory/classify?ref=ag_pclasshm_cont_invfile
+This option is mandatory only for U.S.A. and could be mandatory for India.

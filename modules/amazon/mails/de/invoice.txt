@@ -1,0 +1,11 @@
+Guten {firstname} {lastname},
+
+Anbei erhalten Sie die Rechnung zu Ihrer Bestellung Nr. {amazon_order_id} vom {amazon_order_date} über Amazon und bereits bezahlt. 
+
+Wir senden Ihnen die Rechnung im allgemeinen PDF-Format, das Sie mithilfe eines PDF-Leseprogramms öffnen können.
+
+Heben Sie diese Rechnung bitte auf. Denken Sie auch an die Umwelt und drucken Sie diese nur, falls unbedingt nötig.
+
+Mit freundlichen Grüßen
+Kundenservice
+{shop_name}

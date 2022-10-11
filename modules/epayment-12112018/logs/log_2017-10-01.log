@@ -1,0 +1,13 @@
+2017-10-01 04:37:55 1506825475 DEBUG: URL to check 2
+2017-10-01 04:37:55 1506825475 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-01 04:37:55 1506825475 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-10-01 04:37:55 1506825475 DEBUG: Cart 18266: Redirecting customer to Paybox (CARTE, CB).
+2017-10-01 04:39:16 1506825556 DEBUG: Call params: M=2250&R=18266%20-%20alexandre%20ghilardi&T=752696244&A=117261&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=10&N=497887&O=Y&P=3DSECURE&Q=04%3A37%3A55&S=739485531&W=01102017&Y=FRA&K=UiOl6Gq3KzqgeZ1iul7P%2Fw%2F3KHwIahuDspQ0ENkEFL3mVr6quQjc7R0fExSU5roza5Sl%2FnPo2ttnFYNqiBM9V9ZYfKf%2Bpqh9tV11u6w5dNVo3wP3s64PR9H0s9v4U6nSKno9WOz7auXbDqft57g0KST0AY8272FRP8pbqf1qoEI%3D
+2017-10-01 04:39:16 1506825556 DEBUG: Cart 18266: Standard IPN
+2017-10-01 04:39:16 1506825556 DEBUG: Cart 18266: Validating order
+2017-10-01 04:39:16 1506825556 DEBUG: Cart 18266: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-10-01 04:39:17 1506825557 DEBUG: Cart 18266: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-10-01 04:39:18 1506825556 DEBUG: Cart 18266: Order 1712 / Le paiement a été autorisé et capturé par Paybox.
+2017-10-01 04:39:18 1506825558 DEBUG: Cart 18266: Customer is back from Paybox payment page. Payment success.
+2017-10-01 04:39:36 1506825576 DEBUG: Call params: M=2250&R=18266%20-%20alexandre%20ghilardi&T=752696244&A=117261&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=10&N=497887&O=Y&P=3DSECURE&Q=04%3A37%3A55&S=739485531&W=01102017&Y=FRA&K=UiOl6Gq3KzqgeZ1iul7P%2Fw%2F3KHwIahuDspQ0ENkEFL3mVr6quQjc7R0fExSU5roza5Sl%2FnPo2ttnFYNqiBM9V9ZYfKf%2Bpqh9tV11u6w5dNVo3wP3s64PR9H0s9v4U6nSKno9WOz7auXbDqft57g0KST0AY8272FRP8pbqf1qoEI%3D
+2017-10-01 04:39:36 1506825576 DEBUG: Cart 18266: (IPN) Cart already being validated as order.

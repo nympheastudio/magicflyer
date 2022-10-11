@@ -1,0 +1,7 @@
+Caractéristiques clés par défaut lorsqu'elles ne sont pas renseignées dans l'onglet Amazon de la fiche produit.
+
+Si vos descriptions courtes font moins de 500 caractères, vous pouvez mettre celle ci comme première ligne. Vous pouvez ajoutez vos caractéristiques Prestashop sur les autres lignes. Nous vous conseillons l'option "Description Courte, Caractéristiques" et de cocher l'option "Avec étiquettes", cette option ajoute le nom de la caractéristique avant la valeur, exemple ; Matière: Jean.
+
+Voici comment elles seront visibles sur Amazon :
+
+<img src="views/img/tips/fr/bullet_point_example.jpg" />

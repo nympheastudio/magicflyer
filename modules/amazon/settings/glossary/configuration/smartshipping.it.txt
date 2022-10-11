@@ -1,0 +1,1 @@
+Prova "Smart Shipping". Questa opzione consente di calcolare le tariffe di spedizione di ogni prodotto in base al peso.

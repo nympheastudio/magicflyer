@@ -1,0 +1,17 @@
+As you know it, during customer registration process Amazon stores the whole name without differentiating the first and last name as shown on the screenshot given below:
+
+<img src = "../modules/amazon/views/img/tips/en/amazon-registration.png" />
+
+You also know that Prestashop has two fields for the first and the last name, and that both fields are mandatory. If one of them was not entered, order importing would be impossible.
+
+Thus, it is impossible to recreate the first and the last name using an algorithm, based on the information provided by Amazon, especially as the way the field is filled depends on the country, how it is used in that country and the general discipline.
+
+For example, for American feeds, it is very easy to recreate the first and last name because people are disciplined and they apply the rules that are taught to them so as to enter their names starting from the first name, such as John F. Kennedy.
+
+This is impossible for all other countries. So you'll inevitably have a part of the first and last name fields that will be reversed.
+
+We are used to the following response: well then reverse the fields... and no! If you look at a representative sample of your orders, you will see that the percentage of names in the right order is conclusive.
+
+However, if it would not be the case for you, you can swap here for the target country the first name and last name !
+
+This parameter will be considered when orders will be imported.

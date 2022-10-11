@@ -1,0 +1,15 @@
+2018-01-27 20:24:28 1517081066 DEBUG: URL to check 2
+2018-01-27 20:24:28 1517081066 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-01-27 20:24:28 1517081066 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-01-27 20:24:28 1517081066 DEBUG: Cart 24156: Redirecting customer to Paybox (CARTE, CB).
+2018-01-27 20:26:31 1517081191 DEBUG: Call params: M=8425&R=24156%20-%20fanny%20barthelemy&T=785805757&A=587890&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=62&N=497600&O=Y&P=3DSECURE&Q=20%3A24%3A30&S=767246683&W=27012018&Y=FRA&K=JwaOMIbaMq8ZiIcQCEjcFUopLcNtEne8WMF7z02TxML6xDeqdecu4VVhx4q%2Fk2LG9a7eMBDLP6KQ9vmmIRwkOTSz7Zpi4lj%2FvWxlmxuon4OW1P6PzlEGhunsBJ54Eons%2BaXPxnwAV86IavfjEv%2B3WPVBfcdXAdMfHXXRzCSA480%3D
+2018-01-27 20:26:31 1517081191 DEBUG: Cart 24156: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-01-27 20:26:31 1517081191 DEBUG: Cart 24156: Standard IPN
+2018-01-27 20:26:31 1517081191 DEBUG: Cart 24156: Validating order
+2018-01-27 20:26:32 1517081192 DEBUG: Cart 24156: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2018-01-27 20:26:33 1517081193 DEBUG: Cart 24156: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2018-01-27 20:26:34 1517081194 DEBUG: Cart 24156: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2018-01-27 20:26:35 1517081191 DEBUG: Cart 24156: Order 1887 / Le paiement a été autorisé et capturé par Paybox.
+2018-01-27 20:26:35 1517081195 DEBUG: Cart 24156: Customer is back from Paybox payment page. Payment success.
+2018-01-27 20:26:35 1517081195 DEBUG: Call params: M=8425&R=24156%20-%20fanny%20barthelemy&T=785805757&A=587890&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=62&N=497600&O=Y&P=3DSECURE&Q=20%3A24%3A30&S=767246683&W=27012018&Y=FRA&K=JwaOMIbaMq8ZiIcQCEjcFUopLcNtEne8WMF7z02TxML6xDeqdecu4VVhx4q%2Fk2LG9a7eMBDLP6KQ9vmmIRwkOTSz7Zpi4lj%2FvWxlmxuon4OW1P6PzlEGhunsBJ54Eons%2BaXPxnwAV86IavfjEv%2B3WPVBfcdXAdMfHXXRzCSA480%3D
+2018-01-27 20:26:35 1517081195 DEBUG: Cart 24156: (IPN) Cart already being validated as order.

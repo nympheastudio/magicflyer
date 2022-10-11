@@ -1,0 +1,3 @@
+Introduzca el login de la cuenta de correo. Por ejemplo:
+
+<img src="views/img/tips/en/email_login.jpg" />

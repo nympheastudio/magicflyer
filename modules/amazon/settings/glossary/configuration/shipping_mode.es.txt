@@ -1,0 +1,5 @@
+Por favor, seleccione un valor solamente si desea utilizar la característica "smart shipping" del módulo.
+ El método por definición es mostrado únicamente en órdenes &gt; Amazon, en la lista de órdenes, cuando usted tiene nuevos pedidos entrantes.
+ En esta lista se muestra como "Envio".
+  <b> Esta es la manera más fácil de encontrar esta información. </b>
+                    

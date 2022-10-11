@@ -1,0 +1,12 @@
+2015-10-09 02:32:32 1444350751 DEBUG: URL to check 2
+2015-10-09 02:32:32 1444350751 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-09 02:32:33 1444350751 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2015-10-09 02:32:33 1444350751 DEBUG: Cart 173: Redirecting customer to Paybox (CARTE, CB).
+2015-10-09 02:33:38 1444350818 DEBUG: Call params: M=2297&R=173%20-%20Celine%20Le%20gacque&T=283594582&A=196874&B=0&C=E_CARD&D=1601&E=00000&G=D&H=019567FE1CE69C9E83548F850F89332EF17A05D4&I=FRA&J=&N=&P=CARTE&Q=02%3A32%3A34&S=288905304&W=09102015&Y=FRA&K=RKia7JVbrl4JMva5wWetOe7Xac2Dyzqsv6rGCYwSr%2B32EhHN%2Bfm9I6oTKSoTL19JWZkA%2Bm%2FnBbOoieZ5itF9r2ZMJhwKa4Yg8az5ekykqzZRTm6sGKvScZAtzDOg2pVyCqDc0j3emQw%2FYueNjAyvxSt%2B094FZpce9%2BZrUTm2Axo%3D
+2015-10-09 02:33:38 1444350818 DEBUG: Cart 173: Standard IPN
+2015-10-09 02:33:38 1444350818 DEBUG: Cart 173: Validating order (PS1.5+)
+2015-10-09 02:33:41 1444350818 DEBUG: Cart 173: Order 44 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-10-09 02:33:40 1444350820 DEBUG: Cart 173: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-10-09 02:33:41 1444350821 DEBUG: Cart 173: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-10-09 02:33:43 1444350823 DEBUG: Cart 173: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,1 @@
+Sostituire i codici esistenti (EAN/UPC) e i riferimenti (SKU) nel vostro database

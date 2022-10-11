@@ -1,0 +1,17 @@
+2017-03-09 08:15:54 1489043754 DEBUG: URL to check 2
+2017-03-09 08:15:54 1489043754 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-09 08:15:54 1489043754 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-03-09 08:15:54 1489043754 DEBUG: Cart 10519: Redirecting customer to Paybox (CARTE, CB).
+2017-03-09 08:16:50 1489043810 DEBUG: Call params: M=17700&R=10519%20-%20CHANTAL%20%20PINSU&T=694553142&B=0&C=CB&D=1811&E=00004&I=FRA&J=40&N=546140&P=CARTE&Q=08%3A15%3A55&S=691039125&W=09032017&K=DJ862skvOs5gVwVLmnb54BDdRS3fMK61Ag5HJ6otYnKWM%2B8ZhKZyvTQHgMziP9e0F96pn6Tu9seOFnlhEGd2G77lV2DICRSjoyqE8FuxE3U3k9sqZiyMzxZ9xz%2FsT4S8Lx5pZb3uh9ThCF5Iaju%2Fp2GvCBZwG8T%2BjzXEpCdsGMM%3D
+2017-03-09 08:16:50 1489043810 DEBUG: Cart 10519: (IPN) Payment was refused by Paybox (4).
+2017-03-09 09:35:43 1489048543 DEBUG: URL to check 2
+2017-03-09 09:35:43 1489048543 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-09 09:35:43 1489048543 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-09 09:35:43 1489048543 DEBUG: Cart 10521: Redirecting customer to Paybox (CARTE, CB).
+2017-03-09 09:36:48 1489048608 DEBUG: Call params: M=15800&R=10521%20-%20noemie%20michel&T=694573155&A=623026&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=15&N=497887&O=Y&P=3DSECURE&Q=09%3A35%3A44&S=691055480&W=09032017&Y=FRA&K=bPcv3O4Qvq3w1RAKqXiZYl%2FeRoaBHyEe%2F5%2BTWs0UeZaG8E3nyRaBEqnyqVZRqPDp50hAJ3n00U506gHIcnamRxVQnB1gv5NzWy1VdJVFUkLnTRYRnuW8RS%2Fh%2FKroh2Rmn5xx0qFVY8L14taks4Hw27B8GjiGb70NVKEA2fLrP5g%3D
+2017-03-09 09:36:48 1489048608 DEBUG: Cart 10521: Standard IPN
+2017-03-09 09:36:48 1489048608 DEBUG: Cart 10521: Validating order
+2017-03-09 09:36:48 1489048608 DEBUG: Cart 10521: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-09 09:36:49 1489048609 DEBUG: Cart 10521: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-03-09 09:36:50 1489048608 DEBUG: Cart 10521: Order 771 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-09 09:36:51 1489048611 DEBUG: Cart 10521: Customer is back from Paybox payment page. Payment success.

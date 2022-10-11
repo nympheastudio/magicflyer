@@ -1,0 +1,4 @@
+Browse Node Override:
+
+This value will replace for this product the browse node id you configured in the profile configuration.
+By this way, you can have a global browse node for a profile and create per product exceptions.

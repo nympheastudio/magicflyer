@@ -1,0 +1,11 @@
+2016-11-26 23:29:40 1480199380 DEBUG: URL to check 2
+2016-11-26 23:29:40 1480199380 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-26 23:29:40 1480199380 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-26 23:29:40 1480199380 DEBUG: Cart 5018: Redirecting customer to Paybox (CARTE, CB).
+2016-11-26 23:31:08 1480199468 DEBUG: Call params: M=12280&R=5018%20-%20Micheline%20MFOUMOU&T=668721290&A=869885&B=0&C=MasterCard&D=2009&E=00000&F=Y&G=O&I=FRA&J=15&N=529434&O=Y&P=3DSECURE&Q=23%3A29%3A45&S=667948118&W=26112016&Y=FRA&K=gw%2FMJzOYamOXBogJqibTesZPG9VukjqQjMgO7Tdaqy2SJwNXAsMMzh1ve0ZRSsj8%2Bp1O66SrU7SpP9UYw72WNxLGsBsPxvN7wvMX1cOE0rbnLaX59aL6pOK4rKqqnWl0jN%2BP3DaB3m50j36k3lSjgcYTa807X%2FCk%2Fp49fxS0XQk%3D
+2016-11-26 23:31:09 1480199468 DEBUG: Cart 5018: Standard IPN
+2016-11-26 23:31:09 1480199468 DEBUG: Cart 5018: Validating order
+2016-11-26 23:31:09 1480199469 DEBUG: Cart 5018: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-26 23:31:11 1480199471 DEBUG: Cart 5018: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-26 23:31:11 1480199468 DEBUG: Cart 5018: Order 491 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-26 23:31:12 1480199472 DEBUG: Cart 5018: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,20 @@
+/*
+* Compatibilité pour le drag-n-drop
+*/
+table td.dragHandle .dragGroup .positions {
+    display: inline-block;
+    border: 1px solid #CCC;
+    background-color: #EEE;
+    padding: 0px 5px;
+    color: #AAA;
+    width: 43px;
+    text-shadow: 1px 1px #FFF;
+    border-radius: 3px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2) inset;
+}
+
+table td.dragHandle .dragGroup:before {
+    font-family: FontAwesome;
+    content: "\f047";
+    font-size: 18px;
+}

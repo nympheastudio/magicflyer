@@ -1,0 +1,1 @@
+Synchroniser les prix, pas les quantités

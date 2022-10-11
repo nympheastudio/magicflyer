@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p style="text-align: left;"><strong>Bonjour {firstname} {lastname}</strong></p>
+<table class="table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="padding: 7px 0;">
+<p><span style="color: #555454; font-family: Open-sans, sans-serif; font-size: small;"> <span style="color: #777;"> Vous avez ajout&eacute; des produits dans votre panier, mais vous n&#039;avez pas valid&eacute; votre commande. Nous esp&eacute;rons que vous n&#039;avez pas rencontr&eacute; de probl&egrave;mes techniques.</span></span></p>
+<p><span style="color: #555454; font-family: Open-sans, sans-serif; font-size: small;"><span style="color: #777;">Si c&#039;est le cas, merci de contacter notre service technique : magicflyer@magicflyer.com</span></span></p>
+<p><span style="color: #555454; font-family: Open-sans, sans-serif; font-size: small;"><span style="color: #777;">Retrouvez ci-dessous le contenu de votre panier. N&#039;attendez pas plus longtemps pour valider votre commande et cr&eacute;er la magie autour de vous !<br /></span></span></p>
+<p><span style="color: #555454; font-family: Open-sans, sans-serif; font-size: small;"><span style="color: #777;"><br /></span> </span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>{cart_content}</p>
+<table class="table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="padding: 7px 0;"><span style="color: #555454; font-family: Open-sans, sans-serif; font-size: small;"> <span style="color: #777;">Cordialement<br /><br /> {shop_name}<br /> {shop_url_link} </span> </span></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</body>
+</html>

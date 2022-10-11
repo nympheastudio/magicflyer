@@ -1,0 +1,2 @@
+Please choose here the email template for Customers > Customer Service tab.
+Usually, the template is "reply_msg", please don't change this value if you are unsure.

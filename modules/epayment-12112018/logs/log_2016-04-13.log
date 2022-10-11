@@ -1,0 +1,11 @@
+2016-04-13 08:04:15 1460527455 DEBUG: URL to check 2
+2016-04-13 08:04:15 1460527455 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-13 08:04:15 1460527455 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-13 08:04:15 1460527455 DEBUG: Cart 750: Redirecting customer to Paybox (CARTE, CB).
+2016-04-13 08:05:00 1460527500 DEBUG: Call params: M=3231&R=750%20-%20Johannes%20Brevis&T=624604943&A=03785A&B=0&C=Visa&D=1811&E=00000&G=D&H=8EBF5892C6DE3BF74A0224734419BF47888D7A40&I=USA&J=&N=&P=CARTE&Q=08%3A04%3A17&S=620622719&W=13042016&Y=USA&K=wUfsoauR7FBTTNlQGGGQ4NqAkSMsTjLTEf27rINiEP8aawUPn9lb1TeDbmzRzcE7g1cUstdYCJZDEwsoYcxocQFhLRgNPL2zh9DD9qi%2Fhx68R%2B2OhhcSvd1S%2BYKtvBO4fwitb%2BgXFT5RvoxdyTvbVrUNQDunYR6x3mceptUMxek%3D
+2016-04-13 08:05:00 1460527500 DEBUG: Cart 750: Standard IPN
+2016-04-13 08:05:00 1460527500 DEBUG: Cart 750: Validating order (PS1.5+)
+2016-04-13 08:05:00 1460527500 DEBUG: Cart 750: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-13 08:05:02 1460527502 DEBUG: Cart 750: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-04-13 08:05:02 1460527500 DEBUG: Cart 750: Order 158 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-13 08:05:03 1460527503 DEBUG: Cart 750: Customer is back from Paybox payment page. Payment success.

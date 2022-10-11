@@ -1,0 +1,7 @@
+Este es el nombre que usted le dio a sus planillas de envios
+
+Usted podra utilizar una planilla envio en la configuracion de perfil
+
+y tambien en la extension de la hoja producto.
+
+Aqui, no hay mas nada que hacer que buscar la lista

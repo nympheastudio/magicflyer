@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_39b0e854bf1f412c4d4f5c53d4edfd8c'] = 'Fanpage Like Box Gratis';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9b9b30cc5124cb38a0b4f37bb3d2f0bb'] = 'Este módulo añadir bloque likebox especial con su página de fans en Facebook. Ahora todo el mundo puede, como su página de fans en facebook!';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_f4d1ea475eaa85102e2b4e6d95da84bd'] = 'Confirmación';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_c888438d14855d7d96a2724ee9c306bd'] = 'Configuración actualizado';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_7a7d57029c0de7a52035f23f44e94b38'] = 'Likebox configuración';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_265bc69afdaf77a2b20642a84cb2b129'] = 'Like Box Visual Ajustes';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_c19a11786e82b0736dc4735f1bd6e552'] = 'URL de la página de Facebook';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_381e99d9115db381c11785957d9e508d'] = 'La dirección URL de la página de Facebook para Like Box';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_32954654ac8fe66a1d09be19001de2d4'] = 'ancho';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9cddcd63ac79b2d3a082816b7f63f2a5'] = 'La anchura del plugin.';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_eec6c4bdbd339edf8cbea68becb85244'] = 'altura';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_623d21d65296ba114e9869f19750fd04'] = 'La altura del plugin';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_6761e135fa31a256983cc0de4ff8d7d9'] = 'Esquema de color';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_a82fd95db10ff25dfad39f07372ebe37'] = 'oscuro';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_2ac43aa43bf473f9a9c09b4b608619d3'] = 'luz';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_96a5b485a34b99798846a5106214bead'] = 'El esquema de color del plugin Like Box. Tenga en cuenta que el fondo es siempre transparente para que coincida con el color de fondo. Este ajuste cambia el color del primer plano por el trabajo bien sobre fondos claros u oscuros';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_83cccf4d0f83339c027ad7395fa4d0b9'] = 'Mostrar caras';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_82432be27dcfce6316adae8964c64677'] = 'Mostrar fotos de perfil en el plugin';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9df092bf9043e0783aa7a950eef6427d'] = 'Color del borde:';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_071e98b48cf92976a3e9c78358ca4b5c'] = 'El color del borde del plugin. Haga clic y verifique que los colores';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_2e9864c4cae842d71fc0b5ffe1d9d7d2'] = 'Mostrar corriente';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_f2f74c24b7138f32c05a4dc259600b88'] = 'Mostrar el perfil de corriente (en la pared) en el plugin';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_b796c5bd7ecdb3f4a130bafbe46579d1'] = 'Mostrar encabezado';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_a436543a292ec5bdd53083bcb1f4889f'] = 'Mostrar \"Encuéntranos en Facebook\" bar en la parte superior. Mostrar únicamente cuando sea corriente o caras están presentes';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9daf1fb753b42c3cdc8f1d01669cd6d8'] = 'Guardar configuración';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_701ce215fb238c7cd5b9aa57b08d79b0'] = 'Como previsualización';

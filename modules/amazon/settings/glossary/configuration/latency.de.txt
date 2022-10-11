@@ -1,0 +1,2 @@
+Latenzverzögerung in Tagen, bevor dieses Produkt versandfertig ist (d.h.: Bereitstellungszeit, eigene Wartezeit vor dem Versand)
+Es handelt sich dabei um die Standardverzögerung, die durch eine andere Verzögerung auf dem 

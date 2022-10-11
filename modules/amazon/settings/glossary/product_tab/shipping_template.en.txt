@@ -1,0 +1,5 @@
+As you configured shipping templates in Seller Central you can specify here the shipping template belonging to this product.
+
+If not specified, the default group, configured in the profile will be used.
+
+If not specified in the profile, then, your default shipping settings configured in Seller Central will be used.

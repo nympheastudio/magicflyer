@@ -1,0 +1,10 @@
+2017-03-21 22:39:27 1490132367 DEBUG: URL to check 2
+2017-03-21 22:39:27 1490132367 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-21 22:39:27 1490132367 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-21 22:39:27 1490132367 DEBUG: Cart 11144: Redirecting customer to Paybox (CARTE, CB).
+2017-03-21 22:41:14 1490132474 DEBUG: Call params: M=2250&R=11144%20-%20nathalie%20de%20bremaeker&T=698618094&A=251131&B=0&C=MasterCard&D=1811&E=00000&F=Y&G=O&I=FRA&J=23&N=513770&O=Y&P=3DSECURE&Q=22%3A39%3A29&S=694294837&W=21032017&Y=FRA&K=QO%2B3%2B01Ex7i01qd8843bCc%2BqVI64eULvaFCPmtxJwbYKqXtfgKywxT%2FTe7dLP2ZcGZERy%2Fho0J64CctQFyvcxxI38bvYujmATj5f1zdiXbfBVy2lazTSlyAS5Dg7iOye57CmBgJj9oS51mzFhMDsZIX7lDdC6t5Y4vq6izLXu4s%3D
+2017-03-21 22:41:14 1490132474 DEBUG: Cart 11144: Standard IPN
+2017-03-21 22:41:14 1490132474 DEBUG: Cart 11144: Validating order
+2017-03-21 22:41:14 1490132474 DEBUG: Cart 11144: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-21 22:41:15 1490132474 DEBUG: Cart 11144: Order 828 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-21 22:41:15 1490132475 DEBUG: Cart 11144: Customer is back from Paybox payment page. Payment success.

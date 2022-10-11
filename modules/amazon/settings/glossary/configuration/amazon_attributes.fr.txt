@@ -1,0 +1,10 @@
+
+Mappings et Attributs
+
+Vous ferez correspondre dans cette section vos valeurs Prestashop avec les attributs sur Amazon. 
+
+Plus vous renseignerez de champs, au plus votre produit sera mis en avant, au plus vous ferez de ventes, car certains de ces champs seront utilisés pour la navigation à facette sur Amazon, les clients aurons donc plus de chances de trouver vos produits.
+
+Ces champs serviront également à renseigner le descriptif technique sur la fiche produit :
+
+<img src="views/img/tips/fr/attributes.jpg" />

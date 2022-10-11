@@ -1,0 +1,7 @@
+A la derecha, transportista asociado cuando este importando la orden, perfecto para mostrar el nombre correcto en su página de inicio o recibo.
+A la izquierda:
+"Seleccione el transportista de su tienda a ser utilizado para la orden cuando se actualice el estado, enviando el número de rastreo del paquete.
+"
+Por razones de incompatibilidad, no se muestran los módulos de los transportistas.
+
+<img src="views/img/tips/en/incoming_carriers.jpg" />

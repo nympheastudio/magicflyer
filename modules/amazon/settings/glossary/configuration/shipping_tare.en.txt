@@ -1,0 +1,2 @@
+Weight to be deducted from initial parcel weight.
+Parcel weight is the weight indicated in Shipping tab on the product sheet.

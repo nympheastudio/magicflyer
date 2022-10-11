@@ -1,0 +1,38 @@
+/* PS 1.6 styles */
+
+/* /PS 1.6 styles */
+
+li {list-style-type: none!important;}
+.pm_icon{float:left}
+.pm_config_icon {float: right;}
+.pm_sort {padding:0!important;}
+div.warning{width:auto!important;}
+
+/* Cross Selling CSS*/
+ul.connected-list{height: 170px!important;}
+div.ui-multiselect{height: 200px!important;width: 890px!important;}
+div.selected{width: 500px!important;}
+div.available{width: 389px!important;}
+
+/* Hidden block */
+.pm_mc3_hidden_block {
+	background: pink !important; border-style: dashed !important;
+}
+
+.jGrowl-notification{
+	font-weight: bold;
+	background: #000000;
+	color: white;
+	opacity:.85;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=85);
+	font-size:1em;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	padding:10px;
+	margin-top:5px;
+	margin-bottom:5px;
+	text-align:left;
+	width:235px;
+}
+div.jGrowl div.jGrowl-notification,div.jGrowl div.jGrowl-closer{margin:10px}

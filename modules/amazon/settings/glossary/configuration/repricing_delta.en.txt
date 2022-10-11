@@ -1,0 +1,4 @@
+Left, maximum percentage down
+Right, maximum percentage high
+
+The base price used is the regular price of the module, ie the price that the module usually sends to Amazon. 

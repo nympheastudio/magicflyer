@@ -1,0 +1,3 @@
+La fuente de cancelaciones te permite establecer excepciones en los cargos de envió para un dado SKU.
+
+Esta función se utiliza a veces para artículos pesados, muy grandes o tamaño anormal como Kayaks o parachoques de carros.

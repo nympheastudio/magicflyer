@@ -1,0 +1,5 @@
+2021-03-30 10:02:56 1617091376 DEBUG: URL to check 2
+2021-03-30 10:02:56 1617091376 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-03-30 10:02:56 1617091376 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-03-30 10:02:56 1617091376 DEBUG: Cart 48695: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-03-30 10:03:05 1617091384 DEBUG: Cart 48695: Payment was canceled by user on Verifone e-commerce payment page.

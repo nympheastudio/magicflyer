@@ -1,0 +1,1 @@
+Add Amazon FBA Multi-Channel support to the module.

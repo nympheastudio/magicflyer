@@ -1,0 +1,33 @@
+2016-11-07 15:36:29 1478529389 DEBUG: URL to check 2
+2016-11-07 15:36:29 1478529389 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-07 15:36:29 1478529389 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-07 15:36:29 1478529389 DEBUG: Cart 4316: Redirecting customer to Paybox (CARTE, CB).
+2016-11-07 15:39:29 1478529569 DEBUG: Call params: M=14676&R=4316%20-%20zephirine%20laigle&T=664575103&A=123876&B=0&C=Visa&D=1703&E=00000&F=Y&G=O&I=FRA&J=92&N=497355&O=Y&P=3DSECURE&Q=15%3A36%3A32&S=664103829&W=07112016&Y=FRA&K=Eli99%2FIL4FlNyQuLbLuqn5rFBu9uFIkqBlwuBKzI%2FGomuRg5NPaibdGEO5u5MeHTebSLnenJAehsLGgcYFgkhFwZx5pjgKIIk4LSmHmb%2B8Q6V%2FcMF3ve%2F9mVntBcj7n7BHanBCQB2u%2BOX6jrdNOpIXc0H8aePfbOb2J%2FN1QudFk%3D
+2016-11-07 15:39:29 1478529569 DEBUG: Cart 4316: Standard IPN
+2016-11-07 15:39:29 1478529569 DEBUG: Cart 4316: Validating order
+2016-11-07 15:39:30 1478529570 DEBUG: Cart 4316: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-07 15:39:31 1478529569 DEBUG: Cart 4316: Order 468 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-07 15:39:32 1478529572 DEBUG: Cart 4316: Customer is back from Paybox payment page. Payment success.
+2016-11-07 16:07:08 1478531228 DEBUG: URL to check 2
+2016-11-07 16:07:08 1478531228 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-07 16:07:08 1478531228 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-11-07 16:07:08 1478531228 DEBUG: Cart 4411: Redirecting customer to Paybox (CARTE, CB).
+2016-11-07 16:08:13 1478531293 DEBUG: Call params: M=2297&R=4411%20-%20Laet%20Hintzy&T=664582968&A=667877&B=0&C=Visa&D=1909&E=00000&F=Y&G=O&I=FRA&J=70&N=497278&O=Y&P=3DSECURE&Q=16%3A07%3A08&S=664110352&W=07112016&Y=FRA&K=tPJTxFXxmkxHvEKNBT%2FQlCBU%2BcniaZxV2EUnFSxED0eVWieZh9qHXh0v9qwIrpK3k00vEHyMWFnY8vE%2FH9NpW%2BHveq5Z2kcUbuIdrh6P48YLM6ZAzQTQ8shbv1CoR94sxDd9PMO364Ae%2F9mTtG2Svw%2BaabWjSdGELRipTaNsssc%3D
+2016-11-07 16:08:13 1478531293 DEBUG: Cart 4411: Standard IPN
+2016-11-07 16:08:13 1478531293 DEBUG: Cart 4411: Validating order
+2016-11-07 16:08:13 1478531293 DEBUG: Cart 4411: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-07 16:08:14 1478531293 DEBUG: Cart 4411: Order 469 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-07 16:08:15 1478531295 DEBUG: Cart 4411: Customer is back from Paybox payment page. Payment success.
+2016-11-07 21:56:57 1478552217 DEBUG: URL to check 2
+2016-11-07 21:56:57 1478552217 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-07 21:56:57 1478552217 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-07 21:56:57 1478552217 DEBUG: Cart 4414: Redirecting customer to Paybox (CARTE, CB).
+2016-11-07 21:57:56 1478552276 DEBUG: Call params: M=4344&R=4414%20-%20Karen%20Prebble&T=664664995&A=007612&B=0&C=Visa&D=1707&E=00000&F=Y&G=O&I=GBR&J=18&N=446272&O=Y&P=3DSECURE&Q=21%3A57%3A00&S=664185319&W=07112016&Y=GBR&K=PHiCK7CrUthcF0LNwU1i57aTSTYaoL6RuOsCDlMcuOYsif0haWcqXGjQFovanrr6RHP94OgLaDx7WVQQbm2AO1NuYgJZVU34NxqmcFsvpkhSobo8wpv%2FxKyRnkttWtmCth8aUPbF4KKa4XD7DAQ5Nu0nDUYKvM3tHNsp1m4Ih7s%3D
+2016-11-07 21:57:56 1478552276 DEBUG: Cart 4414: Standard IPN
+2016-11-07 21:57:56 1478552276 DEBUG: Cart 4414: Validating order
+2016-11-07 21:57:57 1478552277 DEBUG: Cart 4414: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-07 21:57:58 1478552278 DEBUG: Cart 4414: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-07 21:57:58 1478552276 DEBUG: Cart 4414: Order 470 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-07 21:57:59 1478552279 DEBUG: Cart 4414: Customer is back from Paybox payment page. Payment success.
+2016-11-07 21:58:16 1478552296 DEBUG: Call params: M=4344&R=4414%20-%20Karen%20Prebble&T=664664995&A=007612&B=0&C=Visa&D=1707&E=00000&F=Y&G=O&I=GBR&J=18&N=446272&O=Y&P=3DSECURE&Q=21%3A57%3A00&S=664185319&W=07112016&Y=GBR&K=PHiCK7CrUthcF0LNwU1i57aTSTYaoL6RuOsCDlMcuOYsif0haWcqXGjQFovanrr6RHP94OgLaDx7WVQQbm2AO1NuYgJZVU34NxqmcFsvpkhSobo8wpv%2FxKyRnkttWtmCth8aUPbF4KKa4XD7DAQ5Nu0nDUYKvM3tHNsp1m4Ih7s%3D
+2016-11-07 21:58:16 1478552296 DEBUG: Cart 4414: (IPN) Cart already being validated as order.

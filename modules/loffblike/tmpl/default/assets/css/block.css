@@ -1,0 +1,25 @@
+.twitter-ticker { 
+width:310px; 
+padding:5px 5px 0; 
+font-family:Verdana,Arial,Sans-Serif;
+font-size:12px;
+margin:20px auto;
+}
+.twitter-ticker a{
+	text-decoration:none;
+}
+.twitter-ticker .title {
+text-align:center;
+font-size:14px;
+font-weight:bold;
+padding:5px;
+}
+
+.tweet-container { width:300px; }
+.tweet-container ul li{ list-style:none; display:block; padding-bottom:1px; margin-bottom:5px; }
+
+.jta-tweet-attributes{
+	display:block;
+	margin-top:4px;
+}
+.clear { clear: both; }

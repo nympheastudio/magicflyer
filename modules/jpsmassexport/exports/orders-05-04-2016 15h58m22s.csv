@@ -1,0 +1,43 @@
+Commande n°;Order State;Mode de paiement;Total payé;Total payé réel;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Email;Pays de livraison;Nom de la compagnie de facturation;Code pays de livraison
+119;Expédié;PayPal;99.000000;99.000000;4.000000;163;2016-03-01 09:43:48;1;Pascal;vertanessian;pvertanessian@gmail.com;8;;FR
+120;Expédié;Paybox - Epayment;17.000000;17.000000;3.000000;164;2016-03-03 10:17:40;1;christelle;FRENOIS;shoppingalf@gmail.com;8;;FR
+122;Expédié;Paybox - Epayment;20.140000;20.140000;3.500000;165;2016-03-04 19:05:55;1;Oren;Elbaz;orenlbz@gmail.com;29;;IL
+123;Expédié;Paybox - Epayment;42.940000;42.940000;3.000000;166;2016-03-06 00:11:54;1;Agnès;DAGBERT;agnes_dagbert@hotmail.com;8;;FR
+123;Expédié;Paybox - Epayment;42.940000;42.940000;3.000000;166;2016-03-06 00:11:54;1;Agnès;DAGBERT;agnes_dagbert@hotmail.com;8;;FR
+124;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;167;2016-03-07 16:05:40;1;drolatic;industry;drolatic.industry@gmail.com;8;;FR
+125;Expédié;PayPal;15.930000;15.930000;6.000000;168;2016-03-07 22:19:39;1;denise;rochette;deniserochette@hotmail.fr;8;;FR
+126;Expédié;PayPal;22.970000;22.970000;3.000000;169;2016-03-08 12:46:29;1;Laurent;Jupin;verbalis1@aol.com;8;verbalis;FR
+127;Expédié;PayPal;65.910000;65.910000;6.000000;170;2016-03-09 15:35:32;1;Michel;Barbier;michelbarbierthomas@gmail.com;8;;FR
+127;Expédié;PayPal;65.910000;65.910000;6.000000;170;2016-03-09 15:35:32;1;Michel;Barbier;michelbarbierthomas@gmail.com;8;;FR
+127;Expédié;PayPal;65.910000;65.910000;6.000000;170;2016-03-09 15:35:32;1;Michel;Barbier;michelbarbierthomas@gmail.com;8;;FR
+128;Expédié;Paybox - Epayment;32.900000;32.900000;3.000000;171;2016-03-11 00:22:22;1;Christian;HERSPERGER;christianhersperger@gmail.com;8;;FR
+128;Expédié;Paybox - Epayment;32.900000;32.900000;3.000000;171;2016-03-11 00:22:22;1;Christian;HERSPERGER;christianhersperger@gmail.com;8;;FR
+129;Expédié;Paybox - Epayment;62.500000;62.500000;3.000000;172;2016-03-12 12:20:30;1;corinne;VIGNE;corinnevigne@yahoo.fr;8;;FR
+130;Expédié;Paybox - Epayment;99.000000;99.000000;4.000000;173;2016-03-13 15:13:37;1;Chloé;DARRIEU;chloe.darrieu@wanadoo.fr;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+131;Expédié;PayPal;181.740000;181.740000;6.000000;174;2016-03-15 09:03:38;1;Stanislas;CORNIER;stanislas.cornier@hotmail.com;8;;FR
+132;Expédié;Paybox - Epayment;17.000000;17.000000;3.000000;175;2016-03-16 19:40:48;1;Julie;Boullier;boullier.j@gmail.com;8;;FR
+133;Expédié;Paybox - Epayment;105.800000;105.800000;6.000000;176;2016-03-17 16:46:54;1;Caroline;Fastré;miaimaou@yahoo.fr;176;;RE
+134;Expédié;Paybox - Epayment;20.640000;20.640000;4.000000;177;2016-03-18 14:48:43;1;ALISSON;LITTEE;alisson.littee@gmail.com;141;;MQ
+135;Expédié;Paybox - Epayment;122.800000;122.800000;3.000000;178;2016-03-21 12:09:41;1;Valentine;Layet;vlayet@editions-stock.fr;8;Editions Stock;FR
+136;Expédié;Paybox - Epayment;62.310000;62.310000;3.000000;179;2016-03-21 23:11:17;1;Michel;GUILBERT;m.guilbert@nordnet.fr;8;GM;FR
+137;Expédié;Paybox - Epayment;20.000000;20.000000;6.000000;180;2016-03-23 14:01:46;1;Léna;Rondé;kaldmigdavidt@gmail.com;8;Collectif Krumple;FR
+138;Expédié;Paybox - Epayment;25.970000;25.970000;6.000000;181;2016-03-23 14:41:55;1;zabarino;philippe;zabafam@club-internet.fr;8;;FR
+139;Expédié;Paybox - Epayment;67.570000;67.570000;3.000000;182;2016-03-23 17:14:48;1;Nicolas;Hugon;nicohugon@gmail.com;8;La Casquette Productions;FR
+139;Expédié;Paybox - Epayment;67.570000;67.570000;3.000000;182;2016-03-23 17:14:48;1;Nicolas;Hugon;nicohugon@gmail.com;8;La Casquette Productions;FR
+139;Expédié;Paybox - Epayment;67.570000;67.570000;3.000000;182;2016-03-23 17:14:48;1;Nicolas;Hugon;nicohugon@gmail.com;8;La Casquette Productions;FR
+139;Expédié;Paybox - Epayment;67.570000;67.570000;3.000000;182;2016-03-23 17:14:48;1;Nicolas;Hugon;nicohugon@gmail.com;8;La Casquette Productions;FR
+140;Expédié;PayPal;23.470000;23.470000;3.500000;183;2016-03-25 11:58:21;1;Norbert;Höhne;mark@magitainment.de;1;;DE
+141;Expédié;Paybox - Epayment;82.850000;82.850000;3.000000;184;2016-03-27 17:44:42;1;Corinne;JUVENELLE;copamabe@gmail.com;8;;FR
+142;Expédié;Paybox - Epayment;17.000000;17.000000;3.000000;185;2016-03-29 10:17:40;1;Céline;BILLOT;celine.billot@free.fr;8;;FR
+143;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;186;2016-03-29 21:31:47;1;Carine;JAHIER;carinejahier@hotmail.fr;8;;FR
+144;Expédié;Paybox - Epayment;98.880000;98.880000;3.000000;187;2016-03-30 22:41:51;1;CHRISTELLE;GAY;ocekae@hotmail.fr;8;;FR

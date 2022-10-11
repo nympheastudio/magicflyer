@@ -1,0 +1,3 @@
+Habilitar o deshabilitar ajustes de precios para esta estrategia
+
+El perfil asociado con esta estrategia de ajustes de precios no será procesado más por Ajustes de Precios

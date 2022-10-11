@@ -1,0 +1,17 @@
+2015-09-21 19:00:42 1442854842 DEBUG: URL to check 2
+2015-09-21 19:00:42 1442854842 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-21 19:00:42 1442854842 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-21 19:00:42 1442854842 DEBUG: Cart 91: Redirecting customer to Paybox (CARTE, CB).
+2015-09-21 19:04:38 1442855078 DEBUG: URL to check 2
+2015-09-21 19:04:38 1442855078 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-21 19:04:38 1442855078 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-21 19:04:38 1442855078 DEBUG: Cart 91: Redirecting customer to Paybox (CARTE, CB).
+2015-09-21 19:06:20 1442855180 DEBUG: Call params: M=2842&R=91%20-%20Burgess%20Rodney&T=281725060&A=085826&B=0&C=Visa&D=1612&E=00000&G=D&H=8B753F3D51DCEB264AF48D89000B7DF1E2218D44&I=GBR&J=&N=&P=CARTE&Q=19%3A04%3A39&S=286972584&W=21092015&Y=GBR&K=xTq%2BiT1%2BVfZ7rVUGj9qY%2BHoukeD5m3q6TaLMZLotafPSM2uM4ecf9fUVNMndhu33qs531qrB%2BQ5nMbaHyYsokR1qHJ1%2Bda7R8%2Fowmiwqr3Ogy1Ow5xJuTWApmSSj2PksoSfS4oZCTL9HlWmiCwWb2LhFDTDOXQdefpQ%2BD7983NM%3D
+2015-09-21 19:06:20 1442855180 DEBUG: Cart 91: Standard IPN
+2015-09-21 19:06:20 1442855180 DEBUG: Cart 91: Validating order (PS1.5+)
+2015-09-21 19:06:21 1442855181 DEBUG: Cart 91: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-09-21 19:06:22 1442855182 DEBUG: Cart 91: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-09-21 19:06:23 1442855183 DEBUG: Cart 91: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-09-21 19:06:25 1442855185 DEBUG: Cart 91: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2015-09-21 19:06:25 1442855180 DEBUG: Cart 91: Order 31 / Le paiement a été autorisé et capturé par Paybox.
+2015-09-21 19:06:26 1442855186 DEBUG: Cart 91: Customer is back from Paybox payment page. Payment success.

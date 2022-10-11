@@ -1,0 +1,1 @@
+Seleccione a quien notificara Amazon por correo el envió cuando una orden multicanal sea colocada

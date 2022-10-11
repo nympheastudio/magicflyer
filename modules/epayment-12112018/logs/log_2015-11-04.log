@@ -1,0 +1,25 @@
+2015-11-04 10:05:02 1446627902 DEBUG: URL to check 2
+2015-11-04 10:05:02 1446627902 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-04 10:05:02 1446627902 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-11-04 10:05:02 1446627902 DEBUG: Cart 258: Redirecting customer to Paybox (CARTE, CB).
+2015-11-04 10:06:06 1446627966 DEBUG: Call params: M=3066&R=258%20-%20Thierry%20STAMPFLER&T=286431478&A=547359&B=0&C=Visa&D=1610&E=00000&G=D&H=03243CC5B634DE3DAC0086C7FEF0C3FDD93E68B7&I=PYF&J=&N=&P=CARTE&Q=10%3A05%3A09&S=291787417&W=04112015&Y=FRA&K=zOmz%2BiKVU1WB%2Bl6kcFVOhNTTYRXKBx1oW6YkPXhdH%2BICif%2BLu3kz%2FZ%2BraDJLXsiJ8qK8xhVfTsQaPCdKtGoT1JUHiH8eJeIh1JqETVwkqCrz1u8r9ZxWOXp2snLRuMUKtqc3N6d1hXbPIo7pxvPJ2LN9YRIBftT1gws9DSbQcV8%3D
+2015-11-04 10:06:06 1446627966 DEBUG: Cart 258: Standard IPN
+2015-11-04 10:06:06 1446627966 DEBUG: Cart 258: Validating order (PS1.5+)
+2015-11-04 10:06:07 1446627967 DEBUG: Cart 258: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-11-04 10:06:09 1446627969 DEBUG: Cart 258: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-04 10:06:10 1446627970 DEBUG: Cart 258: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-11-04 10:06:11 1446627966 DEBUG: Cart 258: Order 66 / Le paiement a été autorisé et capturé par Paybox.
+2015-11-04 10:06:12 1446627972 DEBUG: Cart 258: Customer is back from Paybox payment page. Payment success.
+2015-11-04 16:45:42 1446651942 DEBUG: URL to check 2
+2015-11-04 16:45:42 1446651942 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-04 16:45:42 1446651942 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-11-04 16:45:42 1446651942 DEBUG: Cart 259: Redirecting customer to Paybox (CARTE, CB).
+2015-11-04 16:46:12 1446651972 DEBUG: Call params: M=9882&R=259%20-%20marie%20baron-lemaire&T=286486977&B=0&C=CB&D=1511&E=00004&H=&I=FRA&J=&N=&P=CARTE&Q=16%3A45%3A44&S=291842412&W=04112015&K=UEdnIpWWeEfqcGiWxCR6zA5UkIrR2C2lSaKLIvWp9rBO0OT0isLFgx57%2FiZWgt6RpSP9E4dQsQiJQVVGIsSW6z35MAcRlcNjbhW0dHc%2Fh7%2FQmJkvXcdjZqMLp28lkfb%2FI44S3FN1yhrulxL7yJ58Y4KHkn3i4qkvAtkCRwLJVdQ%3D
+2015-11-04 16:46:12 1446651972 DEBUG: Cart 259: (IPN) Payment was refused by Paybox (4).
+2015-11-04 16:46:48 1446652008 DEBUG: Call params: M=9882&R=259%20-%20marie%20baron-lemaire&T=286486977&A=664115&B=0&C=Visa&D=1511&E=00000&G=D&H=783AA0189E60AAA9EC55761953C6ACA0040F22AC&I=FRA&J=&N=&P=CARTE&Q=16%3A45%3A44&S=291842511&W=04112015&Y=FRA&K=JDeumKpsTWhA6MSivIJgBUzVgElCMcTcMXbRIdEEl8z6tSnoswqkSmqEMlmrFN7SDFqsldwxDL0ujiz4TDG%2FN7XKIXKEPG4FzZZgZlVmWMlElkwYmNWTNgz7ckdoSVdC5wkt2%2F8LYNLUxFMRj0wuJeMwaUhoO3qUrP%2FrOqgwacM%3D
+2015-11-04 16:46:48 1446652008 DEBUG: Cart 259: Standard IPN
+2015-11-04 16:46:48 1446652008 DEBUG: Cart 259: Validating order (PS1.5+)
+2015-11-04 16:46:49 1446652008 DEBUG: Cart 259: Order 67 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-11-04 16:46:49 1446652009 DEBUG: Cart 259: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-04 16:46:50 1446652010 DEBUG: Cart 259: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,4 @@
+Noeud d'Arborescence Recommandé de substitution 
+
+Cette valeur remplace pour ce produit le numéro de noeud que vous avez indiqué dans le profil relatif à ce produit dans la configuration du module.
+De cette manière, vous pouvez avoir un numéro de noeud global pour l'ensemble des produits d'un profil et gérer des exceptions par produit.

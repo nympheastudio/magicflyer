@@ -1,0 +1,139 @@
+.foqty_btn_updateqty_up, .foqty_btn_updateqty_down {
+	margin: 2px; 
+	padding: 2px 0 2px 2px; 
+	font-size: 12px; 
+	background-color: #CCCCCC; 
+	cursor:pointer;
+}
+
+.foqty_total_info {
+	padding-top:5px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	font-style: italic;
+}
+
+.oleaqty_btnadd {
+	padding:0 !important;
+}
+.oleaqty_btnadd img {
+	width: 20px;
+	height: 20px;
+}
+
+.nyroModalData {
+	padding: 15px;
+}
+.olea_nowrap {
+	white-space: nowrap;
+}
+.tabolea_price .olea_price {
+	clear:both;
+    padding-bottom: 5px;
+	text-align:right;
+	white-space:nowrap;
+}
+
+.tabolea_price .olea_group_price {
+	font-size: 0.9em;
+    font-style: italic;
+    text-decoration: line-through;
+}
+table.tabolea_table th {
+	text-align: center;
+}
+table.tabolea_table td {
+	padding: 4px;
+}
+table td .foqty_colorinfo {
+	width:25px;
+	height:25px;
+}
+#oleaqty_pricestable {
+	width: auto;
+	max-width: 100%;
+}
+#oleaqty_pricestable.table-product-discounts tr td,
+#oleaqty_pricestable.table-product-discounts tr th {
+	width: auto;
+}
+
+#oleaqty_pricestable.table-product-discounts tr td .exclusive {
+  background-image: linear-gradient(#009AD0, #007AB7);
+  border-color: #0079B6 #006FA8 #012740;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #FFFFFF;
+  font-size: 1.4em;
+  padding: 4px;
+  position: relative;
+}
+
+#oleaqty_pricestable.table-product-discounts tr td .ajax_add_to_cart_button {
+  font: 700 17px/21px Arial, Helvetica, sans-serif;
+  color: white;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  padding: 0;
+  border: 1px solid;
+  border-color: #0079b6 #006fa8 #012740 #006fa8; }
+#oleaqty_pricestable.table-product-discounts tr td .ajax_add_to_cart_button span {
+    border: 1px solid;
+    border-color: #06b2e6;
+    padding: 3px 5px;
+    display: block;
+    background: #009ad0;
+    background: -moz-linear-gradient(top, #009ad0 0%, #007ab7 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #009ad0), color-stop(100%, #007ab7));
+    background: -webkit-linear-gradient(top, #009ad0 0%, #007ab7 100%);
+    background: -o-linear-gradient(top, #009ad0 0%, #007ab7 100%);
+    background: -ms-linear-gradient(top, #009ad0 0%, #007ab7 100%);
+    background: linear-gradient(to bottom, #009ad0 0%, #007ab7 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#009ad0', endColorstr='#007ab7',GradientType=0); }
+#oleaqty_pricestable.table-product-discounts tr td .ajax_add_to_cart_button:hover {
+    border-color: #01314e #004b74 #0079b6 #004b74; }
+#oleaqty_pricestable.table-product-discounts tr td .ajax_add_to_cart_button:hover span {
+      filter: none;
+      background: #0084bf; }
+
+.oleafoqty_divqtymulti, .oleafoqty_divqty {
+	display:inline-block;
+}
+#oleaqty_pricestable.byqty .oleafoqty_divqtymulti {
+	display:none;
+}
+#oleaqty_pricestable.byqtymulti .oleafoqty_divqty {
+	display:none;
+}
+	
+#quantity_wanted_multi_p label {
+  display: block;
+  margin-bottom: 7px;
+}
+#quantity_wanted_multi_p input {
+  width: 78px;
+  height: 27px;
+  padding: 0 6px;
+  border: 1px solid #d6d4d4;
+  line-height: 27px;
+}
+
+.content_prices.oleafoqty_hasspanprices #reduction_percent,
+.content_prices.oleafoqty_hasspanprices #reduction_amonut,
+.content_prices.oleafoqty_hasspanprices #old_price {
+	display: none!important;
+}
+
+.content_prices.oleafoqty_hasspanprices .our_price_display,
+.content_prices.oleafoqty_hasspanprices .our_price_display .price {
+  text-decoration: line-through;
+  color: #aaa;
+}
+
+#oleafoqty_spansprices .price {
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 32px;
+  font-family: "Open Sans", sans-serif;
+  color: #333;
+}

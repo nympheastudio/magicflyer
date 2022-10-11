@@ -1,0 +1,21 @@
+2021-05-19 10:12:00 1621411920 DEBUG: URL to check 2
+2021-05-19 10:12:00 1621411920 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-05-19 10:12:01 1621411920 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-05-19 10:12:01 1621411920 DEBUG: Cart 48835: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-05-19 10:12:25 1621411945 DEBUG: URL to check 2
+2021-05-19 10:12:25 1621411945 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-05-19 10:12:25 1621411945 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-05-19 10:12:25 1621411945 DEBUG: Cart 48835: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-05-19 10:15:55 1621412155 DEBUG: URL to check 2
+2021-05-19 10:15:55 1621412155 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-05-19 10:15:55 1621412155 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-05-19 10:15:55 1621412155 DEBUG: Cart 48835: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-05-19 10:16:08 1621412167 DEBUG: URL to check 2
+2021-05-19 10:16:08 1621412167 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-05-19 10:16:08 1621412167 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-05-19 10:16:08 1621412167 DEBUG: Cart 48833: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-05-19 10:16:25 1621412185 DEBUG: Cart 48833: Payment was canceled by user on Verifone e-commerce payment page.
+2021-05-19 10:23:15 1621412594 DEBUG: URL to check 2
+2021-05-19 10:23:15 1621412594 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-05-19 10:23:15 1621412594 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-05-19 10:23:15 1621412594 DEBUG: Cart 48840: Redirecting customer to Verifone e-commerce (CARTE, CB).

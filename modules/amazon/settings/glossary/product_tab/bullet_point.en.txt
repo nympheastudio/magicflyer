@@ -1,0 +1,7 @@
+Use these to highlight some of the product's most important qualities. Each line will be displayed as a separate bullet point above the product description.
+
+Use these fields to highlight some of the product's most important qualities. Each line will be displayed as a bullet point above the product description. Please do not include an actual bullet point object, just the text used to describe your product. The information you provide should pertain to the product in general, not your particular item.
+
+Key Product Features are visible as below on Amazon :
+
+<img src="views/img/tips/en/bullet_point_example.jpg" />

@@ -1,0 +1,17 @@
+2016-10-11 16:28:33 1476196113 DEBUG: URL to check 2
+2016-10-11 16:28:33 1476196113 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-11 16:28:33 1476196113 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-11 16:28:33 1476196113 DEBUG: Cart 3878: Redirecting customer to Paybox (CARTE, CB).
+2016-10-11 16:28:36 1476196116 DEBUG: Cart 3878: Payment was canceled by user on Paybox payment page.
+2016-10-11 22:50:40 1476219040 DEBUG: URL to check 2
+2016-10-11 22:50:40 1476219040 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-11 22:50:40 1476219040 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-11 22:50:40 1476219040 DEBUG: Cart 3883: Redirecting customer to Paybox (CARTE, CB).
+2016-10-11 22:55:31 1476219331 DEBUG: Call params: M=2597&R=3883%20-%20charlene%20vellard&T=659185510&B=0&C=CB&D=1808&E=00040&F=N&G=O&I=FRA&J=79&N=513141&O=Y&P=3DSECURE&Q=22%3A50%3A40&S=658981644&W=11102016&K=U0y9F%2BXSFJ%2Bm%2BJZal6QcTmlS7uivtob5L1FtQtTvI%2BR8ZPdz0vxTZngtDfTF7A7zr4cOkTM1YjI%2B0ghJWm8TXh4ITfPv9yBZYOrEcQS4AWs%2FUZorMjWz0vvmBPpT47o4dnxXHC9hES4UePt0L6sAwyEJiVIiGB6vaFdMp3aux08%3D
+2016-10-11 22:55:31 1476219331 DEBUG: Cart 3883: (IPN) Payment was refused by Paybox (40).
+2016-10-11 23:00:13 1476219613 DEBUG: Call params: M=2597&R=3883%20-%20charlene%20vellard&T=659185510&A=727042&B=0&C=MasterCard&D=1808&E=00000&F=Y&G=O&I=FRA&J=79&N=513141&O=Y&P=3DSECURE&Q=22%3A50%3A40&S=658982649&W=11102016&Y=FRA&K=xfYtzGrpAlotnzY2%2FAn6Tn3tMNco5xK2AL%2FEdxVvn%2FdNIi0rRTQ84yIRNBekWWtj2ljzdP67OgTJy26tJxCEzwS22NVBQ8A%2B3krQ6Ny8P%2FMuy9ZxhjP3p%2F10vfe%2BLcav7GqpnLHVOBRDaTo2mRMTTY6CBngiTWVFE3RwY%2FRNWL0%3D
+2016-10-11 23:00:13 1476219613 DEBUG: Cart 3883: Standard IPN
+2016-10-11 23:00:13 1476219613 DEBUG: Cart 3883: Validating order
+2016-10-11 23:00:13 1476219613 DEBUG: Cart 3883: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-11 23:00:14 1476219613 DEBUG: Cart 3883: Order 431 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-11 23:00:14 1476219614 DEBUG: Cart 3883: Customer is back from Paybox payment page. Payment success.

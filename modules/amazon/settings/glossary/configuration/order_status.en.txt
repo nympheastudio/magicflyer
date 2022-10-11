@@ -1,0 +1,2 @@
+Choose the order status which will trigger the invoice sending
+Only the eligible states are shown (email set to off, invoice to on)

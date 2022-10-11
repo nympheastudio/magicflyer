@@ -1,0 +1,5 @@
+Kundengruppen
+Sie können im PrestaShop eine personalisierte Gruppe für Ihre Amazon-Exporte unter Kunden > Gruppen erstellen
+Somit können Sie Rabatte ganz spezifisch für Ihre Amazon-Exporte anwenden.
+
+Die Kunden, die beim Import der Bestellung erstellt werden, gehören dann ebenfalls zu dieser Gruppe.

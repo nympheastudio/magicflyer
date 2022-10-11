@@ -1,0 +1,11 @@
+Buenos días  {firstname} {lastname}, 
+
+Se adjunta la factura de su pedido nº{amazon_order_id} de {amazon_order_date} efectuado en Amazon ya pagado.
+
+Esta factura está en el formato universal PDF. Puede utilizar un lector de PDF para verla.
+
+Conserve esta factura y piense en el medio ambiente, imprima sólo cuando sea necesario.
+
+Atentamente,
+Atención al cliente
+{shop_name}

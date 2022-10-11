@@ -1,0 +1,7 @@
+Loggen Sie sich auf die Zentrale Verkäufer Seite ein (Seller Central)
+
+Danach bitte auf folgende Seite gehen:
+https://sellercentral.amazon.de/gp/mws/registration/register.html
+
+<img src="views/img/tips/en/register1.jpg" />
+

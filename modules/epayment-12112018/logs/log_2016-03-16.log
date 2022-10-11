@@ -1,0 +1,11 @@
+2016-03-16 19:39:40 1458153580 DEBUG: URL to check 2
+2016-03-16 19:39:40 1458153580 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-16 19:39:40 1458153580 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-16 19:39:40 1458153580 DEBUG: Cart 598: Redirecting customer to Paybox (CARTE, CB).
+2016-03-16 19:40:48 1458153648 DEBUG: Call params: M=1700&R=598%20-%20Julie%20Boullier&T=616031242&A=153244&B=0&C=Visa&D=1712&E=00000&G=D&H=5BA1E73B644C78190DE0E16F551EECE9E6483821&I=FRA&J=&N=&P=CARTE&Q=19%3A39%3A41&S=613550929&W=16032016&Y=FRA&K=gLC8%2FF1eBWG2RqjbxZIraodGS1g5YQkHn0idAyuPUVUFIAbd3kNcoBc%2BVzaFXd6sirccrSuRLBfGPfCDpiQUgrLEtnUKutQgAqw1T%2BZVuaaq1kLVrgVPSN%2BQLWpwDuj1yfg3NAhv8kKTFYXIz8ZSm%2B99etgLl1RvoK8sYSEwZ60%3D
+2016-03-16 19:40:48 1458153648 DEBUG: Cart 598: Standard IPN
+2016-03-16 19:40:48 1458153648 DEBUG: Cart 598: Validating order (PS1.5+)
+2016-03-16 19:40:48 1458153648 DEBUG: Cart 598: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-16 19:40:49 1458153649 DEBUG: Cart 598: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-03-16 19:40:49 1458153648 DEBUG: Cart 598: Order 132 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-16 19:40:50 1458153650 DEBUG: Cart 598: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,23 @@
+2017-12-30 18:47:28 1514656047 DEBUG: URL to check 2
+2017-12-30 18:47:28 1514656047 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-12-30 18:47:28 1514656047 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-12-30 18:47:28 1514656047 DEBUG: Cart 20085: Redirecting customer to Paybox (CARTE, CB).
+2017-12-30 18:49:42 1514656182 DEBUG: Call params: M=2442&R=20085%20-%20Pauline%20GUITTARD&T=777861747&B=0&C=Visa&D=2004&E=00151&F=Y&G=O&I=FRA&J=--&N=453307&O=Y&P=3DSECURE&Q=18%3A47%3A29&S=761229510&W=30122017&Y=FRA&K=xutT%2F1QuVbRoZIC1BeL%2BqsZbsdMqIgoK1EcCy3r1ka1N7%2FiFeF6Qyr6cmY37Z3rRIArjnpKfPOYUxwKSqqF7mBdZoqQbZ%2FbEg5yuhQ76RBTbOIQRPG%2FeiUIuBTZ39rfRG7H3TK8z6G4pUiSRGk9Wa07yaApArz4xjc%2FYqGgRN24%3D
+2017-12-30 18:49:42 1514656182 DEBUG: Cart 20085: (IPN) Payment was refused by Paybox (151).
+2017-12-30 19:38:44 1514659123 DEBUG: URL to check 2
+2017-12-30 19:38:44 1514659123 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-12-30 19:38:44 1514659123 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-12-30 19:38:44 1514659123 DEBUG: Cart 20040: Redirecting customer to Paybox (CARTE, CB).
+2017-12-30 19:43:17 1514659397 DEBUG: Call params: M=1892&R=20040%20-%20Lucie%20Jouenne&T=777869442&B=0&C=CB&D=2002&E=00040&F=N&G=N&I=FRA&J=01&N=497599&O=Y&P=3DSECURE&Q=19%3A38%3A45&S=761236933&W=30122017&K=q5WlfUVM49ghSULQDNYERlF3ToxIcqZ6yumw3zLvxPKwI0NrXcofWxEdrFPH9HIK%2FOxcFE%2FbNa69X9N02VNAYZ66VIj%2BQhSh095L16KpFJ1%2Fl0zVkQ0rcbX7UHHJNAqAP8xiA6ANjVucuWgcEhbuK%2BNy2rdHaT6RrdU9x8NUEQE%3D
+2017-12-30 19:43:17 1514659397 DEBUG: Cart 20040: (IPN) Payment was refused by Paybox (40).
+2017-12-30 19:45:57 1514659557 DEBUG: Call params: M=1892&R=20040%20-%20Lucie%20Jouenne&T=777869442&A=369914&B=0&C=Visa&D=2002&E=00000&F=Y&G=O&I=FRA&J=01&N=497599&O=Y&P=3DSECURE&Q=19%3A38%3A45&S=761237525&W=30122017&Y=FRA&K=Upo76NHrwSKKWFb6kgzaKzbde%2FmeddebuBFb6IedXGpppbS%2FlGjdgbdvcZE9m6ElWvFlUKC%2BlOY1ON%2Bo%2FSnHilK4LFhkwtqLzRG%2FZJo1b7pvWvQs90S5IT8Kwf%2BP%2BmaixNsavixaqZVfRoDYoP1IKXEcm1wi13XHD0kcaVsw0Zs%3D
+2017-12-30 19:45:57 1514659557 DEBUG: Cart 20040: Standard IPN
+2017-12-30 19:45:57 1514659557 DEBUG: Cart 20040: Validating order
+2017-12-30 19:45:57 1514659557 DEBUG: Cart 20040: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-12-30 19:45:59 1514659559 DEBUG: Cart 20040: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-12-30 19:46:00 1514659560 DEBUG: Cart 20040: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-12-30 19:46:01 1514659561 DEBUG: Cart 20040: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2017-12-30 19:46:01 1514659557 DEBUG: Cart 20040: Order 1835 / Le paiement a été autorisé et capturé par Paybox.
+2017-12-30 19:46:02 1514659562 DEBUG: Call params: M=1892&R=20040%20-%20Lucie%20Jouenne&T=777869442&A=369914&B=0&C=Visa&D=2002&E=00000&F=Y&G=O&I=FRA&J=01&N=497599&O=Y&P=3DSECURE&Q=19%3A38%3A45&S=761237525&W=30122017&Y=FRA&K=Upo76NHrwSKKWFb6kgzaKzbde%2FmeddebuBFb6IedXGpppbS%2FlGjdgbdvcZE9m6ElWvFlUKC%2BlOY1ON%2Bo%2FSnHilK4LFhkwtqLzRG%2FZJo1b7pvWvQs90S5IT8Kwf%2BP%2BmaixNsavixaqZVfRoDYoP1IKXEcm1wi13XHD0kcaVsw0Zs%3D
+2017-12-30 19:46:02 1514659562 DEBUG: Cart 20040: (IPN) Cart already being validated as order.
+2017-12-30 19:46:02 1514659562 DEBUG: Cart 20040: Customer is back from Paybox payment page. Payment success.

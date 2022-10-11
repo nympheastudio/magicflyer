@@ -1,0 +1,1 @@
+Wählen Sie das Feld, das für die Synchronisierung mit Amazon verwendet werden.

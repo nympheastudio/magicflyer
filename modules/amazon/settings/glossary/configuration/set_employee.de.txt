@@ -1,0 +1,1 @@
+Einen Mitarbeiter wählen, der autorisiert ist automatisierte Aufgaben (d.h.: geplante Aufgaben).

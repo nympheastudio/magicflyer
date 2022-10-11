@@ -1,0 +1,27 @@
+Hola,
+"{form_name}" forma acaba de ser presentado por {customer_name} 
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Report number
+{id_report}
+
+Language
+{lang_name}
+
+El campo
+
+Valor
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 
+
+
+
+
+

@@ -1,0 +1,2 @@
+Additive if you would like to add fees to your existing shipping fees you already configured on Amazon. Additive will add fees.
+Exclusive to replace the shipping fees you already configured on Amazon. Exclusive will set your total shipping cost.

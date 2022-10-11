@@ -1,0 +1,206 @@
+#menudiv-profiles .country-selector {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+#menudiv-profiles .country-selector img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+#menudiv-profiles .country-selector tr td {
+    padding-right: 5px;
+    vertical-align: middle;
+}
+
+#menudiv-profiles .country-selector tr td span.amazon-tab-selector {
+    display: inline-block;
+    padding: 10px;
+    padding-right: 20px;
+    background-color: transparent;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+}
+
+#menudiv-profiles .country-selector tr td span.amazon-tab-selector:hover {
+    background-color: #dcdcdc;
+}
+
+#menudiv-profiles .country-selector tr td span.amazon-tab-selector.active {
+    border-bottom: 3px solid #6495ED;
+}
+
+#menudiv-profiles .amazon-tab-bar {
+    border-bottom: 3px solid #dcdcdc;
+    position: relative;
+    left: -10px;
+}
+
+#menudiv-profiles .country-separator {
+    margin-bottom: 10px;
+}
+
+#menudiv-profiles .amazon-tab h4.marketplace-heading {
+    float: right;
+    margin-right: 5px;
+}
+
+#menudiv-profiles .amazon-tab h4.marketplace-heading img {
+    position: relative;
+    top: -1px;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+#menudiv-profiles .profile-universe {
+
+}
+
+#menudiv-profiles .profile-name, #menudiv-profiles .browsenode, #menudiv-profiles .item-type {
+    min-width: 150px;
+    width: 250px;
+    max-width: 500px;
+}
+
+#menudiv-profiles select {
+    width: 250px;
+    max-width: 350px;
+}
+
+#main .bullet-point-edit-img {
+    position: relative;
+    top: -6px;
+    padding: 2px;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+
+#main .bullet-point-edit-img:hover {
+    border: 1px solid navy;
+    background-color: #f5f5f5;
+}
+
+#main .profile .bullet-point-item {
+    position: relative;
+    display: inline-block;
+    width: 400px;
+    height: 27px;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+
+}
+
+#main .profile .bullet-point-item span {
+    position: relative;
+    top: -6px;
+    display: inline-block;
+    color: white;
+    height: 23px;
+    background: transparent url(../img/binary.png) no-repeat;
+    background-position: 10px center;
+    border: 1px solid #00aff0;
+    background-color: #3ecbff;
+    padding: 2px 5px 2px 40px;
+    margin: 3px;
+    border-radius: 4px;
+    cursor: move;
+}
+
+#main .profile span.bullet-point-item span > a {
+    padding-left: 10px;
+    padding-right: 5px;
+    position: relative;
+    top: -1px;
+    color: #f5f5f5;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#main .profile span.bullet-point-item span > a:hover {
+    color: red;
+}
+
+#main .profile .bullet-points input {
+    position: relative;
+    top: 4px;
+}
+
+#main .profile .bullet-points input + label {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.2em;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+
+#main .profile .bullet-points .recommended {
+    position: relative;
+    top: -8px;
+}
+
+#main .profile .universe-section .mandatory, #main .profile .product-type-section .mandatory {
+    position: relative;
+    top: -3px;
+    margin-left: 10px;
+}
+
+#main .profile .bullet-points select {
+    margin-right: 15px;
+}
+
+#menudiv-profiles .recommended-browse-nodes .tagify-container {
+    min-width: 350px;
+    max-width: 550px;
+    float: left;
+}
+
+#menudiv-profiles .recommended-browse-nodes .tagify-container input[type=text] {
+
+    min-width: 250px;
+}
+
+#menudiv-profiles .recommended-browse-nodes .mandatory {
+    clear: left;
+    position: relative;
+    top: 4px;
+}
+
+#menudiv-profiles.ps15 .variant-items-container {
+    margin: 10px;
+}
+
+#menudiv-profiles.ps15 .mandatory_fields label.profile-obj-title {
+    float: none;
+}
+
+#menudiv-profiles.ps15 .specific-field-variant label {
+    float: none;
+}
+
+#menudiv-profiles.ps15 .specific-field-data {
+    margin: 2px;
+}
+
+#menudiv-profiles.ps15 .bullet-points div label {
+    float: none;
+}
+
+#menudiv-profiles.ps15 input, #menudiv-profiles.ps15 select {
+    padding: 4px;
+    margin: 2px;
+}
+
+#menudiv-profiles.ps15 input[type=checkbox] {
+    width: 20px;
+    height: 20px;
+
+}

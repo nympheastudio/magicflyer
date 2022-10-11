@@ -1,0 +1,7 @@
+2016-08-29 18:53:29 1472489609 DEBUG: URL to check 2
+2016-08-29 18:53:29 1472489609 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-29 18:53:29 1472489609 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-29 18:53:29 1472489609 DEBUG: Cart 2838: Redirecting customer to Paybox (CARTE, CB).
+2016-08-29 18:56:21 1472489781 DEBUG: Call params: M=9000&R=2838%20-%20marguerite%20fortin&T=642456045&B=0&C=CB&D=1805&E=00040&F=N&G=N&H=E58CCFA8423517AF75CEA9479D79D6572A22A857&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=18%3A53%3A34&S=638564738&W=29082016&K=qcL57B4lFuiSkPR2F4pd%2FcEhwhyVYsB%2BpP3ZJRTw2yPQQS6HGSvIzMYYsKeKQqNp9vETfCeVmqRrZ%2FvrJAQy5lA%2Bu1czcLXU1MhZUp4QOxl26PC8moEqqrFHajPLjfx8Epct0%2FFCKITVtgsiTQVeE3a%2BF4krIyBdZZbPuI%2BxXxc%3D
+2016-08-29 18:56:21 1472489781 DEBUG: Cart 2838: (IPN) Payment was refused by Paybox (40).
+2016-08-29 18:56:46 1472489806 DEBUG: Cart 2838: Payment was canceled by user on Paybox payment page.

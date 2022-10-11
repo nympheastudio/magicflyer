@@ -1,0 +1,412 @@
+<?php
+class FrontController extends FrontControllerCore
+{
+	public function initHeader()
+	{
+		
+		$id_lang = $this->context->language->id;	
+		
+		//carousel references ds footer.tpl
+		$files = scandir('/home/magicflyr/www' . __PS_BASE_URI__ . 'img/cms/reference2/');
+		foreach ($files as $file) {
+			if (($file != '..') && ($file != '.'))
+			$imgs .= '<div class="item"><img src="' . _PS_BASE_URL_ . __PS_BASE_URI__ . 'img/cms/reference2/' . $file . '"/></div>';
+		}
+		$this->context->smarty->assign('contenu_owl_references', $imgs);
+		//Fin carousel references
+		
+		//ajout menu sous categoriesTree
+		$current_cat_id = 42;//(int) Tools::getValue('id_category');
+		$this->context->smarty->assign('sous_menu_cat', '');
+		$filtre_cat = '1'; //1,2,3,5 ...
+		$cat_id_papillon_magique = 29;
+		$indentation_html = '&nbsp;&nbsp;&nbsp;';
+		//restriction par catégorie
+		//AND c.`id_parent` = ' . $current_cat_id . '
+		
+		// if ($current_cat_id != 42) {
+		$result = Db::getInstance()->executeS('
+			SELECT c.`id_category` , c.`id_parent` 
+			FROM `' . _DB_PREFIX_ . 'category` c
+			' . Shop::addSqlAssociation('category', 'c') . '
+			WHERE c.`id_category` NOT IN ( ' . $filtre_cat . ')
+			AND ( ( c.`id_parent` = ' . $current_cat_id . ' ) OR ( c.`id_parent` = ' . $cat_id_papillon_magique . ' ) )
+			ORDER BY FIELD(c.`id_category`, 29, 32, 33, 40, 31,13, 12, 18,41 )');
+		$count  = count($result);
+		
+		
+		
+
+		$sous_menu_cat = '<div id="category_block_left" class="block mega">
+<div class="block_content">
+
+
+<div>				
+
+<div style="    position: relative;     top: -6px;" >
+<span class="layered_subtitle">CATEGORIE</span>
+<div class="clear"></div>
+<ul >';
+		
+		$sous_menu_cat .= '<select class="select" onchange="if (this.value) window.location.href=this.value">';
+		
+		
+		
+		if($id_lang==1){
+			$sous_menu_cat .= '<option >Aucune catégorie</option>';
+		}elseif($id_lang==2){
+			$sous_menu_cat .= '<option  >No category</option>';
+		}
+		
+		for ($i = 0; $i < $count; $i++) {
+			//$c = Category::getCategoryInformations( $result[$i]['id_category'] );
+			/* $sous_menu_cat .= '<a href="index.php?controller=category&id_category=' . $result[$i]['id_category'] . '">';
+				$sous_menu_cat .= $this->getCategoryName($result[$i]['id_category']);
+				$sous_menu_cat .= '</a>';
+				*/
+			$url = 'index.php?controller=category&id_category=' . $result[$i]['id_category'];
+			$sous_menu_cat .= '<option value="'.$url.'">';
+			if($result[$i]['id_parent'] == 29)$sous_menu_cat .= $indentation_html;
+			$sous_menu_cat .= $this->getCategoryName($result[$i]['id_category']);
+			$sous_menu_cat .= '</option>';
+		}
+		$sous_menu_cat .= '</select>';
+		$sous_menu_cat .= '</ul>
+</div>
+
+
+</div>
+
+</div>
+<div class="section-divider"></div>
+</div>';
+		
+		
+		
+		// $this->context->smarty->assign('sous_menu_cat', '<aside class="content-aside"><div class="content-aside-inner">' . $sous_menu_cat . '</div></aside>');
+		$this->context->smarty->assign('sous_menu_cat',  '<div class="sous_menu_cat">'.$sous_menu_cat.'</div>' );
+		//  }
+		
+		
+		//Fin ajout menu sous categoriesTree
+		
+		
+		
+		$id_cat_news = 1;
+		$id_cat_image_du_moment = 7;
+		
+		
+		$r = Db::getInstance(_PS_USE_SQL_SLAVE_)->executeS('
+
+			SELECT hss.`post_id`, hssl.`image`,hss.`category_id`,  hss.`active`, hssl.`title`,  hss.`modified`, 
+
+			hssl.`alias`,hssl.`meta_desc`, hssl.`meta_key`, hssl.`key_ref`, catsl.`title` AS category_name, catsl.`alias` AS category_alias
+
+			FROM '._DB_PREFIX_.'jmsblog_posts hss			
+
+			LEFT JOIN '._DB_PREFIX_.'jmsblog_posts_lang hssl ON (hss.post_id = hssl.post_id)
+
+			LEFT JOIN '._DB_PREFIX_.'jmsblog_categories_lang catsl ON (catsl.category_id = hss.category_id)
+
+			WHERE catsl.category_id = '. $id_cat_news .' AND hss.active = 1 AND hssl.id_lang = '.(int)$id_lang.' AND catsl.id_lang = '.(int)$id_lang.			
+
+		' GROUP BY hss.post_id	
+
+			ORDER BY hss.created DESC
+
+			LIMIT 0, 2'
+
+		);
+		
+		
+
+
+		$img_blog_path = 'http://www.magicflyer.com/modules/jmsblog/views/img/thumb_';
+		
+		foreach( $r as $i ){
+			
+			
+			$url = /* '../'.__PS_BASE_URI__.*/'http://www.magicflyer.com/jmsblog/'.$i['category_alias'].'/'.$i['post_id'].'_'.$i['alias'];
+			
+			$h .= '<div class="item-blog">';
+			
+			$h .= '<div class="image-blog">';
+			
+			$h .= '<a href="'.$url.'">';
+			
+			$h .= '<img src="'.$img_blog_path.$i['image'].'" alt="'. $i['title'] . '" width="80" height="80" />';
+			
+			$h .= '</a>';
+			
+			$h .= '</div>';
+			
+			$h .= '<div class="info-blog">';
+			
+			$h .= '<h3><a href="'.$url.'">'. $i['title'] . '</a></h3><div class="time-post">'. tools::displayDate($i['modified'], $id_lang, $full = false, $separator = '/') . '</div>';
+			//$h .= '<h3>'. $i['title'] . '</h3><div class="time-post">'. date_format('d/m/Y' ,$i['modified']) . '</div>';
+			
+			
+			$h .= '</div>';
+			
+			
+			$h .= '</div>';
+			
+		}
+		
+		
+		
+		$r = Db::getInstance(_PS_USE_SQL_SLAVE_)->executeS('
+
+			SELECT hss.`post_id`, hssl.`image`,hss.`category_id`,  hss.`active`, hssl.`title`,  hss.`modified`, 
+
+			hssl.`alias`,hssl.`meta_desc`, hssl.`meta_key`, hssl.`key_ref`, catsl.`title` AS category_name, catsl.`alias` AS category_alias
+
+			FROM '._DB_PREFIX_.'jmsblog_posts hss			
+
+			LEFT JOIN '._DB_PREFIX_.'jmsblog_posts_lang hssl ON (hss.post_id = hssl.post_id)
+
+			LEFT JOIN '._DB_PREFIX_.'jmsblog_categories_lang catsl ON (catsl.category_id = hss.category_id)
+
+			WHERE catsl.category_id = '. $id_cat_image_du_moment  .' AND hss.active = 1 AND hssl.id_lang = '.(int)$id_lang.' AND catsl.id_lang = '.(int)$id_lang.			
+
+		' GROUP BY hss.post_id	
+
+			ORDER BY hss.created DESC
+
+			LIMIT 0, 1'
+
+		);
+		
+		
+
+		
+		
+		
+		if($id_lang==1){
+			$flag_tag = 'fr/';
+		}else{
+			$flag_tag = 'en/';
+		}
+		
+		foreach( $r as $i ){
+			
+			
+			$url = 'http://www.magicflyer.com/'.$flag_tag.'jmsblog/news/'.$i['post_id'].'_'. $i['alias'];
+			
+			$h2 .= '<a title="'. $i['title'] . '" href="'.$url.'"><img src="'.$img_blog_path.$i['image'].'" alt="'. $i['title'] . '" width="198" height="177" />';
+			$h2 .= '<br />';
+			$h2 .= ''. $i['title'] . '</a>';
+			$h2 .= '<p>'.tools::displayDate($i['modified'], $id_lang, $full = false, $separator = '/').'</p>';
+			
+			
+		}
+		
+		
+		
+		//debug only
+		/*
+		if($_GET['test']==1){
+		
+			echo '<pre>'.print_r($r).'</pre>'; 
+			
+			$post_id = $r[0]['post_id'];
+			
+			echo  $h ;
+			die();
+			
+		}
+		*/
+		
+		
+		
+		
+		//contenu extrait du blog
+		$footer_blog_content = $h; //id_category = 7
+		$footer_image_du_moment = $h2; //id_category = 7
+		
+		global $_LANG;
+		
+		
+		$footer_de_m_fr = '<footer class="footer-4">
+<div class="footer-navbar">
+<div class="container">
+<div class="footer-row row">
+<div class="footer-position  col-lg-3 col-sm-3 col-md-6 col-xs-12">
+<div class="footer-block">
+<h4 class="title_block"><span>Suivez-nous !</span></h4>							<div class="block-content">
+<p><a title="retrouvez le papillon magique sur facebook" href="http://www.facebook.com/LePapillonMagique/"><img src="http://www.magicflyer.com/img/cms/facebook.jpg" alt="facebook le papillon magique" width="230" height="129" /></a></p>
+</div>
+</div>
+<div class="footer-block">
+<div class="block-content">
+<div id="social_block">
+<ul>
+<li class="facebook"><a class="_blank" href="http://www.facebook.com/LePapillonMagique">
+<i class="fa fa-facebook"></i></a></li>		<li class="twitter"><a class="_blank" href="https://twitter.com/LPMagique"><i class="fa fa-twitter"></i></a></li>				<li class="youtube"><a class="_blank" href="https://www.youtube.com/channel/UCNkBWpEoYbZccyYY9OOpERg"><i class="fa fa-youtube-play"></i></a></li>				<li class="pinterest"><a class="_blank" href="https://fr.pinterest.com/magicflyerfr/ "><i class="fa fa-pinterest"></i></a></li>				<li class="instagram"><a class="_blank" href="https://instagram.com/lepapillonmagique/"><i class="fa fa-instagram"></i></a></li>	</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer-position  col-lg-3 col-sm-3 col-md-6 col-xs-12">
+<div class="footer-block">
+<h4 class="title_block"><span>blog !</span></h4>							
+<div class="block-content">
+' . $footer_blog_content . '
+</div>
+</div>
+</div>
+
+
+<div class="footer-position  col-lg-3 col-sm-3 col-md-6 col-xs-12">
+<div class="footer-block">
+<h4 class="title_block"><span>L&#039;image du moment !</span></h4>
+<div class="block-content">
+<div id="jour-image">
+' . $footer_image_du_moment . '
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="footer-position  col-lg-3 col-sm-3 col-md-6 col-xs-12">
+<div class="footer-block">
+<div class="block-content">
+
+<!-- MODULE Block contact infos -->
+<div id="block_contact_infos">
+<h4 class="title_block">
+<span class="title">Contactez-nous</span>
+</h4>'.$_LANG['footer_8d2e230c3843e484d22c7f48a2bf2035'].'
+</div>
+<!-- /MODULE Block contact infos -->
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="footer-row row">
+<div class="footer-position  col-lg-12 col-sm-12 col-md-12 col-xs-12">
+<div class="footer-block">
+<div class="block-content">
+<p>
+<a title="Nos condtions générales de vente chez le papillon magique - Magic Flyer" href="http://www.magicflyer.com/fr/content/3-conditions-utilisation">CGV</a> - 
+<a title="Mentions légales de magic Flyer - Le papillon magique" href="http://www.magicflyer.com/fr/content/2-mentions-legales">Mentions légales</a> - 
+<a title="Trouvez toutes les informations concernant la livraison et les paiements sur le papillon maigique" href="http://www.magicflyer.com/fr/content/1-livraison-et-paiement">Livraison et paiement</a> - 
+<a title="Nymphea studio - Création de site internet et application mobile" href="http://www.nymphea-studio.fr" target="_blank">Nymphea studio - Création de site internet et application mobile</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+';
+		
+
+		$footer_de_m_en = '<footer class="footer-4">
+<div class="footer-navbar">
+<div class="container">
+<div class="footer-row row">
+<div class="footer-position  col-lg-3 col-sm-3 col-md-6 col-xs-12">
+<div class="footer-block">
+<h4 class="title_block"><span>Follow us !</span></h4>							<div class="block-content">
+<p><a title="Follow us on Facebook" href="http://www.facebook.com/LePapillonMagique/"><img src="http://www.magicflyer.com/img/cms/facebook.jpg" alt="Follow us on Facebook" width="230" height="129" /></a></p>
+</div>
+</div>
+<div class="footer-block">
+<div class="block-content">
+<div id="social_block">
+<ul>
+<li class="facebook"><a class="_blank" href="http://www.facebook.com/LePapillonMagique">
+<i class="fa fa-facebook"></i></a></li>		<li class="twitter"><a class="_blank" href="https://twitter.com/LPMagique"><i class="fa fa-twitter"></i></a></li>				<li class="youtube"><a class="_blank" href="https://www.youtube.com/channel/UCNkBWpEoYbZccyYY9OOpERg"><i class="fa fa-youtube-play"></i></a></li>				<li class="pinterest"><a class="_blank" href="https://fr.pinterest.com/magicflyerfr/ "><i class="fa fa-pinterest"></i></a></li>				<li class="instagram"><a class="_blank" href="https://instagram.com/lepapillonmagique/"><i class="fa fa-instagram"></i></a></li>	</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer-position  col-lg-3 col-sm-3 col-md-6 col-xs-12">
+<div class="footer-block">
+<h4 class="title_block"><span>blog !</span></h4>							
+<div class="block-content">
+' . $footer_blog_content . '
+</div>
+</div>
+</div>
+
+
+<div class="footer-position  col-lg-3 col-sm-3 col-md-6 col-xs-12">
+<div class="footer-block">
+<h4 class="title_block"><span>In the Spotlight !</span></h4>
+<div class="block-content">
+<div id="jour-image">
+' . $footer_image_du_moment . '
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="footer-position  col-lg-3 col-sm-3 col-md-6 col-xs-12">
+<div class="footer-block">
+<div class="block-content">
+
+<!-- MODULE Block contact infos -->
+<div id="block_contact_infos">
+<h4 class="title_block">
+<span class="title">Contact-us</span>
+</h4>'.$_LANG['footer_8d2e230c3843e484d22c7f48a2bf2035'].'
+</div>
+<!-- /MODULE Block contact infos -->
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="footer-row row">
+<div class="footer-position  col-lg-12 col-sm-12 col-md-12 col-xs-12">
+<div class="footer-block">
+<div class="block-content">
+<p>
+<a title="" href="http://www.magicflyer.com/en/content/3-conditions-utilisation">Conditions</a> - 
+<a title="" href="http://www.magicflyer.com/en/content/2-mentions-legales">Legal Notice</a> - 
+<a title="" href="http://www.magicflyer.com/en/content/1-livraison-et-paiement">Shipping</a> - 
+<a title="Nymphea studio - Création de site internet et application mobile" href="http://www.nymphea-studio.fr" target="_blank">Nymphea studio - Création de site internet et application mobile</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+';
+		//$footer_de_m_fr ='test';
+		if($id_lang==1){
+			$this->context->smarty->assign('footer_magicflyer', $footer_de_m_fr);
+		}elseif($id_lang==2){
+			$this->context->smarty->assign('footer_magicflyer', $footer_de_m_en);
+		}
+		
+		//footer magicflyer
+		
+		
+		
+		
+		
+		//call original method, to maintain default behaviour:
+		return parent::initHeader();
+	}
+}

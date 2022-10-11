@@ -1,0 +1,11 @@
+2016-02-28 18:49:01 1456681741 DEBUG: URL to check 2
+2016-02-28 18:49:01 1456681741 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-28 18:49:01 1456681741 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-28 18:49:01 1456681741 DEBUG: Cart 487: Redirecting customer to Paybox (CARTE, CB).
+2016-02-28 18:50:07 1456681807 DEBUG: Call params: M=8585&R=487%20-%20Frederic%20GIAI-PRON&T=610158927&A=416368&B=0&C=Visa&D=1704&E=00000&G=D&H=00F8B7C8A904D4948529C9142CC1712111F8C045&I=FRA&J=&N=&P=CARTE&Q=18%3A49%3A02&S=608750783&W=28022016&Y=FRA&K=VEOwgNaNZ92jgLE3lgXT827ghusaoA%2Fprgd2So6HFFgNIFQiUoO0pW9E0y5XCouzlXRjgvTamGz%2BK6j7n5qeLN6OxHbjb%2BvPu0mtEMUWHgmQ4yyy4C6j9wwlxQYFp%2FeIhGQLq41bCzuA1zhnF1He7artVZ7mTwtJKRRr2vymAx4%3D
+2016-02-28 18:50:07 1456681807 DEBUG: Cart 487: Standard IPN
+2016-02-28 18:50:07 1456681807 DEBUG: Cart 487: Validating order (PS1.5+)
+2016-02-28 18:50:08 1456681808 DEBUG: Cart 487: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-02-28 18:50:09 1456681809 DEBUG: Cart 487: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-02-28 18:50:10 1456681807 DEBUG: Cart 487: Order 117 / Le paiement a été autorisé et capturé par Paybox.
+2016-02-28 18:50:10 1456681810 DEBUG: Cart 487: Customer is back from Paybox payment page. Payment success.

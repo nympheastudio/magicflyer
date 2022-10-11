@@ -1,0 +1,12 @@
+Dear {name},
+
+We are sorry to inform you that your drop off parcelshop {pudo_name} {pudo_address} {pudo_zipCode} {pudo_city} is not available.
+
+We invite you to select another parcelshop in your Prestashop Back Office, in the General Configuration tab of the la Navette Pickup Module.
+
+Warning : your customer will not be able to choose la Navette Pickup as delivery service until you have selected another drop off parcelshop.
+To Select another preferred parcel shop, go to the Sender Information tab of the la Navette Pickup Module in your Prestashop Back Office.
+
+We apologize for the inconvenience,
+
+Regards,

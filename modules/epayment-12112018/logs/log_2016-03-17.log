@@ -1,0 +1,10 @@
+2016-03-17 16:46:20 1458229579 DEBUG: URL to check 2
+2016-03-17 16:46:20 1458229579 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-17 16:46:20 1458229579 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-17 16:46:20 1458229579 DEBUG: Cart 605: Redirecting customer to Paybox (CARTE, CB).
+2016-03-17 16:46:52 1458229612 DEBUG: Call params: M=10580&R=605%20-%20Caroline%20Fastre&T=616298090&A=363921&B=0&C=Visa&D=1702&E=00000&G=D&H=B551557F70060FC82D218AF2D0A3D4C83BDDC5B6&I=REU&J=&N=&P=CARTE&Q=16%3A46%3A24&S=613767891&W=17032016&Y=FRA&K=Gwog5%2BuFvf4cgIpE5FKxkyE%2F1RS6%2BMA8ou8zHQhNSryxrCseh2sPEbIH0wZbdm0woIqGknZGTertOkdbHsXKEsItzPVdnPDJIa%2Fd3QEHUzlLMK3UN8bImymMISR9hzah5MF9QHr8aMgip2%2FF5aubVk7qXZxIT3XB29EofE22pVE%3D
+2016-03-17 16:46:52 1458229612 DEBUG: Cart 605: Standard IPN
+2016-03-17 16:46:52 1458229612 DEBUG: Cart 605: Validating order (PS1.5+)
+2016-03-17 16:46:53 1458229613 DEBUG: Cart 605: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-17 16:46:54 1458229612 DEBUG: Cart 605: Order 133 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-17 16:46:55 1458229615 DEBUG: Cart 605: Customer is back from Paybox payment page. Payment success.

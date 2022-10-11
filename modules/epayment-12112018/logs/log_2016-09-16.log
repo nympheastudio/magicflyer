@@ -1,0 +1,11 @@
+2016-09-16 10:30:10 1474014610 DEBUG: URL to check 2
+2016-09-16 10:30:10 1474014610 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-16 10:30:10 1474014610 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-16 10:30:10 1474014610 DEBUG: Cart 3345: Redirecting customer to Paybox (CARTE, CB).
+2016-09-16 10:35:02 1474014902 DEBUG: Call params: M=6715&R=3345%20-%20CHRISTELLE%20RAKOTOVAO&T=652235465&A=030438&B=0&C=Visa&D=1812&E=00000&F=Y&G=O&I=FRA&J=34&N=456282&O=Y&P=3DSECURE&Q=10%3A30%3A11&S=653007856&W=16092016&Y=FRA&K=ZJsUdvcimwvf0zwIYstK0XjJeSWGbX0%2F5Ovvr06n0LFAN2yPd3qmLWv6N1hQ50fPiGJLoumaZdISYXHe19PZRCe16MbPdGpLH%2FAQ8jTLrHkKjy13pGXuMZnBOAxRMCqgXCjovG%2FCCA258BWdUxIS1NwipkmAg5MnjQNJfQ96c6s%3D
+2016-09-16 10:35:02 1474014902 DEBUG: Cart 3345: Standard IPN
+2016-09-16 10:35:02 1474014902 DEBUG: Cart 3345: Validating order
+2016-09-16 10:35:02 1474014902 DEBUG: Cart 3345: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-16 10:35:03 1474014903 DEBUG: Cart 3345: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-09-16 10:35:03 1474014902 DEBUG: Cart 3345: Order 387 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-16 10:35:04 1474014904 DEBUG: Cart 3345: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,12 @@
+2016-03-27 17:44:12 1459093452 DEBUG: URL to check 2
+2016-03-27 17:44:12 1459093452 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-27 17:44:13 1459093452 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-27 17:44:13 1459093452 DEBUG: Cart 653: Redirecting customer to Paybox (CARTE, CB).
+2016-03-27 17:44:39 1459093479 DEBUG: Call params: M=8285&R=653%20-%20Corinne%20JUVENELLE&T=619325834&A=054533&B=0&C=Visa&D=1706&E=00000&G=D&H=393AE48D0ED28253613A3087267C4851DBD9C212&I=FRA&J=&N=&P=CARTE&Q=17%3A44%3A15&S=616248417&W=27032016&Y=FRA&K=qmjTQgTCojI7sSH1GEzlqO2bU3lp4t4pRK4Spfl2KoQzxUk69kaWL4GH1mulUwli9YohUB%2F5agCtjI%2BS%2FzJLkOM%2Bg8XAr%2FMuBqI4h2ftqHpzYscLmQ1ltQa3TafSYWcEPN4RM7uqZ1%2BmP2Ew%2B%2BaURRarE8EHRdUO7koLVF5E5IU%3D
+2016-03-27 17:44:39 1459093479 DEBUG: Cart 653: Standard IPN
+2016-03-27 17:44:39 1459093479 DEBUG: Cart 653: Validating order (PS1.5+)
+2016-03-27 17:44:40 1459093480 DEBUG: Cart 653: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-27 17:44:41 1459093481 DEBUG: Cart 653: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-03-27 17:44:42 1459093482 DEBUG: Cart 653: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-03-27 17:44:43 1459093479 DEBUG: Cart 653: Order 141 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-27 17:44:43 1459093483 DEBUG: Cart 653: Customer is back from Paybox payment page. Payment success.

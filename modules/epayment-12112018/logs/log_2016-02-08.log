@@ -1,0 +1,16 @@
+2016-02-08 14:38:02 1454938682 DEBUG: URL to check 2
+2016-02-08 14:38:02 1454938682 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-08 14:38:02 1454938682 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-08 14:38:02 1454938682 DEBUG: Cart 356: Redirecting customer to Paybox (CARTE, CB).
+2016-02-08 14:38:49 1454938729 DEBUG: Call params: M=700&R=356%20-%20Stephanie%20Dobua&T=605222551&A=955287&B=0&C=MasterCard&D=1709&E=00000&G=D&H=CB049DFC07D53A889E5FD4D8DA723577C70FA035&I=FRA&J=&N=&P=CARTE&Q=14%3A38%3A03&S=604523481&W=08022016&Y=FRA&K=hyzaQv5TX59zzoHkLZ7QO9uYUCNZrtUOEK44SNobGCTVaduQuT0143t4XC0iKhq%2FJEAbCAcbv%2BB5bGWktmSXqbVoCLQdG9nktqcQ7KWe4YFBtHq3pJoJqoqfNvitqrseR2QPQ0a852M9e4FR75vlVozTUzUDL9YJUFWgBf029Gs%3D
+2016-02-08 14:38:49 1454938729 DEBUG: Cart 356: Standard IPN
+2016-02-08 14:38:49 1454938729 DEBUG: Cart 356: Validating order (PS1.5+)
+2016-02-08 14:38:49 1454938729 DEBUG: Cart 356: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-02-08 14:38:50 1454938730 DEBUG: Cart 356: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-02-08 14:38:51 1454938729 DEBUG: Cart 356: Order 101 / Le paiement a été autorisé et capturé par Paybox.
+2016-02-08 14:38:51 1454938731 DEBUG: Cart 356: Customer is back from Paybox payment page. Payment success.
+2016-02-08 14:40:19 1454938819 DEBUG: URL to check 2
+2016-02-08 14:40:19 1454938819 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-08 14:40:20 1454938819 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-08 14:40:20 1454938819 DEBUG: Cart 357: Redirecting customer to Paybox (CARTE, CB).
+2016-02-08 14:40:31 1454938831 DEBUG: Cart 357: Payment was canceled by user on Paybox payment page.

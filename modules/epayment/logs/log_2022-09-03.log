@@ -1,0 +1,17 @@
+2022-09-03 12:47:02 1662202022 DEBUG: URL to check 2
+2022-09-03 12:47:02 1662202022 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-09-03 12:47:03 1662202022 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-09-03 12:47:03 1662202022 DEBUG: Cart 66369: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-09-03 12:48:37 1662202117 DEBUG: Call params: M=9127&R=66369%20-%20Armelle%20PELLETIER&T=1076763388&A=302535&B=0&C=CB&D=2410&E=00000&F=Y&G=O&I=FRA&J=37&N=497355&O=Y&P=CARTE&Q=12%3A48%3A36&S=931210050&W=03092022&Y=FRA&Z=0-0&K=dXRIZVEBw5S2zc6RoNscSN1IJ7ehh%2BPAvfXROoMD3nSHaJQAarEB6o7JRcwxPok3S%2F3UllAoSm2LDsOyazzcyH1S1Zx2JF%2FHXuDzUdMttBceRJ10VxHEwPkysZVYWji4VSwzOsTTIkGCg4qSTMJAclTVfJN9AjUK1jzX%2BaD%2BElI%3D
+2022-09-03 12:48:37 1662202117 DEBUG: Cart 66369: Standard IPN
+2022-09-03 12:48:37 1662202117 DEBUG: Cart 66369: Validating order
+2022-09-03 12:48:37 1662202117 DEBUG: Cart 66369: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-09-03 12:48:38 1662202118 DEBUG: Cart 66369: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-09-03 12:48:40 1662202120 DEBUG: Cart 66369: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-09-03 12:48:41 1662202121 DEBUG: Cart 66369: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-09-03 12:48:42 1662202122 DEBUG: Cart 66369: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-09-03 12:48:43 1662202123 DEBUG: Cart 66369: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2022-09-03 12:48:45 1662202125 DEBUG: Cart 66369: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 6).
+2022-09-03 12:48:45 1662202117 DEBUG: Cart 66369: Order 6074 validated, creating details
+2022-09-03 12:48:46 1662202126 DEBUG: Cart 66369: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-09-03 12:48:46 1662202117 DEBUG: Cart 66369: Order 6074 / Le paiement a été autorisé et capturé par Paybox.

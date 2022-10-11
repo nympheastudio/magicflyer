@@ -1,0 +1,47 @@
+2016-06-27 23:33:23 1467063203 DEBUG: URL to check 2
+2016-06-27 23:33:23 1467063203 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:23 1467063203 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:23 1467063203 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:33:36 1467063216 DEBUG: URL to check 2
+2016-06-27 23:33:36 1467063216 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:36 1467063216 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:36 1467063216 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:33:40 1467063220 DEBUG: URL to check 2
+2016-06-27 23:33:40 1467063220 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:40 1467063220 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:40 1467063220 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:33:41 1467063221 DEBUG: URL to check 2
+2016-06-27 23:33:41 1467063221 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:42 1467063221 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:42 1467063221 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:33:46 1467063226 DEBUG: URL to check 2
+2016-06-27 23:33:46 1467063226 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:46 1467063226 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:46 1467063226 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:33:50 1467063230 DEBUG: URL to check 2
+2016-06-27 23:33:50 1467063230 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:50 1467063230 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:50 1467063230 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:33:50 1467063230 DEBUG: URL to check 2
+2016-06-27 23:33:50 1467063230 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:50 1467063230 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:50 1467063230 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:33:51 1467063231 DEBUG: URL to check 2
+2016-06-27 23:33:51 1467063231 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:51 1467063231 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:51 1467063231 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:33:51 1467063231 DEBUG: URL to check 2
+2016-06-27 23:33:51 1467063231 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:33:52 1467063231 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:33:52 1467063231 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:35:45 1467063345 DEBUG: URL to check 2
+2016-06-27 23:35:45 1467063345 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-27 23:35:45 1467063345 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-27 23:35:45 1467063345 DEBUG: Cart 1595: Redirecting customer to Paybox (CARTE, CB).
+2016-06-27 23:38:24 1467063504 DEBUG: Call params: M=1750&R=1595%20-%20Antonio%20Amaral&T=634496440&A=082693&B=0&C=MasterCard&D=1704&E=00000&G=D&H=BA87EE3A3ECD3D69728C824B8AD26651B8BEB6A6&I=PRT&J=&N=&P=CARTE&Q=23%3A33%3A25&S=630479205&W=27062016&Y=PRT&K=TVhole46JebSk1ziCPnThDgxpQWs5T432l3Y0Ctz1qnv0snJXd0LDMsAWtJ4Y0WXJ6p8wvXy5kqnNKngjrL%2FT9sOmU%2BoG8XvGrE31XZ87EeEs3%2BZmQnaVUgvEAxoV1dbO9apfjxu4upm9OIGiJjWJ19Tq2D%2BoV%2FHdbMc0W1RLXc%3D
+2016-06-27 23:38:24 1467063504 DEBUG: Cart 1595: Standard IPN
+2016-06-27 23:38:24 1467063504 DEBUG: Cart 1595: Validating order (PS1.5+)
+2016-06-27 23:38:24 1467063504 DEBUG: Cart 1595: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-06-27 23:38:25 1467063505 DEBUG: Cart 1595: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-06-27 23:38:25 1467063504 DEBUG: Cart 1595: Order 255 / Le paiement a été autorisé et capturé par Paybox.
+2016-06-27 23:38:26 1467063506 DEBUG: Cart 1595: Customer is back from Paybox payment page. Payment success.

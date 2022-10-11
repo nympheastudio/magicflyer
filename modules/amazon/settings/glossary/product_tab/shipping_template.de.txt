@@ -1,0 +1,5 @@
+Während Sie die Versandvorlagen in "Seller Central" konfigurieren, können Sie die Standard Versandvorlagen für dieses Produkt festlegen
+
+Sie können eine Vorlage, entweder für ein Profil, ein Produkt oder eine Kombination in der Produktblatterweiterung anwenden
+
+Wenn nicht spezifiziert, werden Ihre Standard Versandeinstellungen, die Sie in "Seller Central" angegeben haben, genutzt

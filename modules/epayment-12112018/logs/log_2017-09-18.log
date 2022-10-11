@@ -1,0 +1,14 @@
+2017-09-18 10:15:05 1505722505 DEBUG: URL to check 2
+2017-09-18 10:15:05 1505722505 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-18 10:15:05 1505722505 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-18 10:15:05 1505722505 DEBUG: Cart 17913: Redirecting customer to Paybox (CARTE, CB).
+2017-09-18 10:16:46 1505722606 DEBUG: Call params: M=9100&R=17913%20-%20Celine%20Pairoys-michaud&T=748603647&A=648265&B=0&C=Visa&D=1712&E=00000&F=Y&G=O&I=FRA&J=58&N=497589&O=Y&P=3DSECURE&Q=10%3A15%3A06&S=736202328&W=18092017&Y=FRA&K=KyIQ8CUdYziF%2BP93b0Bqd6hhz9O5DOo%2BXt7tubZMyGoOoG%2B2TZhAK6VjLjj2%2FbO2XJRnP%2FVg7yJZqYb%2F0PghNKXbc%2FXWLkstX3bCK%2F7s5e6x2cAaRXlZvvxh2EEfYefWjN9CkQyN1wwa4tdDnuqInr1gQQrS%2BFYOGO2ou6EEreQ%3D
+2017-09-18 10:16:46 1505722606 DEBUG: Cart 17913: Standard IPN
+2017-09-18 10:16:46 1505722606 DEBUG: Cart 17913: Validating order
+2017-09-18 10:16:46 1505722606 DEBUG: Cart 17913: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-09-18 10:16:47 1505722607 DEBUG: Cart 17913: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-09-18 10:16:49 1505722609 DEBUG: Cart 17913: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-09-18 10:16:49 1505722606 DEBUG: Cart 17913: Order 1666 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-18 10:16:49 1505722609 DEBUG: Call params: M=9100&R=17913%20-%20Celine%20Pairoys-michaud&T=748603647&A=648265&B=0&C=Visa&D=1712&E=00000&F=Y&G=O&I=FRA&J=58&N=497589&O=Y&P=3DSECURE&Q=10%3A15%3A06&S=736202328&W=18092017&Y=FRA&K=KyIQ8CUdYziF%2BP93b0Bqd6hhz9O5DOo%2BXt7tubZMyGoOoG%2B2TZhAK6VjLjj2%2FbO2XJRnP%2FVg7yJZqYb%2F0PghNKXbc%2FXWLkstX3bCK%2F7s5e6x2cAaRXlZvvxh2EEfYefWjN9CkQyN1wwa4tdDnuqInr1gQQrS%2BFYOGO2ou6EEreQ%3D
+2017-09-18 10:16:49 1505722609 DEBUG: Cart 17913: (IPN) Cart already being validated as order.
+2017-09-18 10:16:50 1505722610 DEBUG: Cart 17913: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,13 @@
+2016-09-02 17:10:26 1472829026 DEBUG: URL to check 2
+2016-09-02 17:10:26 1472829026 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-02 17:10:26 1472829026 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-02 17:10:26 1472829026 DEBUG: Cart 2966: Redirecting customer to Paybox (CARTE, CB).
+2016-09-02 17:12:02 1472829122 DEBUG: Call params: M=3187&R=2966%20-%20marinette%20maignan&T=643081907&A=655243&B=0&C=Visa&D=1710&E=00000&F=Y&G=O&H=68955622A2DD5AC5AB5BEB01B923934A83808387&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=17%3A10%3A27&S=639211540&W=02092016&Y=FRA&K=QHFBOFCE7f87gjd8tbFH6AQCdYp0%2Fcp%2FlND%2BSktQe07%2BfwTv9kZyShSLmB3xBnXIgBFI0VH2LYlcnwSyGgbnva03ms%2FUyd6enb4otHd5SyS5vlOxGZwRhY7dTR%2Fp%2F5BTq%2BL67WkBl4FwntaN3qtlG8W0tO9xmD%2Br5NgmhTwXkOs%3D
+2016-09-02 17:12:02 1472829122 DEBUG: Cart 2966: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-02 17:12:02 1472829122 DEBUG: Cart 2966: Standard IPN
+2016-09-02 17:12:02 1472829122 DEBUG: Cart 2966: Validating order (PS1.5+)
+2016-09-02 17:12:03 1472829123 DEBUG: Cart 2966: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-09-02 17:12:04 1472829124 DEBUG: Cart 2966: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-09-02 17:12:05 1472829125 DEBUG: Cart 2966: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2016-09-02 17:12:05 1472829122 DEBUG: Cart 2966: Order 349 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-02 17:12:06 1472829126 DEBUG: Cart 2966: Customer is back from Paybox payment page. Payment success.

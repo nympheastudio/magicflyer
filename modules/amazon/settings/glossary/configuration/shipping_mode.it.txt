@@ -1,0 +1,5 @@
+Si prega di selezionare un valore solo se si vuole usare la funzione di configurazione del modulo "Spedizione rapida".
+Il metodo di default è mostrato solo in Ordini &gt; Amazon, nell'elenco degli ordini, quando sono presenti nuovi ordini in arrivo.
+E' mostrato come "Spedizione" in questa lista.
+
+  <b>Questa è l'unico modo semplice per trovare questa informazione. </b>

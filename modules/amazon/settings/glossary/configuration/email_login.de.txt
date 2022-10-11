@@ -1,0 +1,3 @@
+Geben Sie die Anmeldedaten zum E-Mail Konto an, zum Beispiel:
+
+<img src="views/img/tips/en/email_login.jpg" />

@@ -1,0 +1,1 @@
+Habilitar la codificación segura de los títulos y descripciones del producto para evitar caracteres extraviados y  caracteres mal codificados.

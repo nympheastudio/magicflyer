@@ -1,0 +1,4 @@
+Die Funktionalität Preisgestaltung benötigt ein Amazon AWS Konto.
+
+Bitte gehe Sie auf diese URL, um ein Konto zu eröffnen:
+https://aws.amazon.com/de/free/

@@ -1,0 +1,23 @@
+2016-11-29 10:24:10 1480411450 DEBUG: URL to check 2
+2016-11-29 10:24:10 1480411450 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-29 10:24:10 1480411450 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-29 10:24:10 1480411450 DEBUG: Cart 5143: Redirecting customer to Paybox (CARTE, CB).
+2016-11-29 10:25:19 1480411519 DEBUG: Call params: M=2297&R=5143%20-%20sandra%20henschen&T=669396342&A=613084&B=0&C=Visa&D=1704&E=00000&F=Y&G=O&I=FRA&J=24&N=497040&O=Y&P=3DSECURE&Q=10%3A24%3A11&S=668540671&W=29112016&Y=FRA&K=tTG81RLw4QfxkDqi9SwB4RR8o%2BxEcaxbVxKTT5SQuUryOOW9f3TUGz1b6QGSpjjsjft2%2BgLV2ZNLdJ8JWIxJebKGSX5PXly7lWrN616MhifHOrsPDIy5yLwAybuNIAiCEdbAsFzcQGEXf0mycLn4Udv1515zXYaY6P9iRx83Mb4%3D
+2016-11-29 10:25:19 1480411519 DEBUG: Cart 5143: Standard IPN
+2016-11-29 10:25:19 1480411519 DEBUG: Cart 5143: Validating order
+2016-11-29 10:25:19 1480411519 DEBUG: Cart 5143: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-29 10:25:20 1480411520 DEBUG: Cart 5143: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-29 10:25:21 1480411519 DEBUG: Cart 5143: Order 495 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-29 10:25:22 1480411522 DEBUG: Cart 5143: Customer is back from Paybox payment page. Payment success.
+2016-11-29 20:10:59 1480446658 DEBUG: URL to check 2
+2016-11-29 20:10:59 1480446658 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-29 20:10:59 1480446658 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-29 20:10:59 1480446658 DEBUG: Cart 5154: Redirecting customer to Paybox (CARTE, CB).
+2016-11-29 20:12:11 1480446731 DEBUG: Call params: M=19140&R=5154%20-%20Johan%20PLANTIN&T=669601880&A=412540&B=0&C=Visa&D=1802&E=00000&F=Y&G=O&I=FRA&J=67&N=497401&O=Y&P=3DSECURE&Q=20%3A11%3A06&S=668715131&W=29112016&Y=FRA&K=Qx3Dg6kW0ilohFmz59wsKjgPinE%2BvLRJeMBNlb6amE%2BVMaBODrelCUi3k3I62BQhR%2BGyZQlwMN4lq19B9TcNoIpIisjf69lzPX1tOi0IpApchtzQEcN31hgetq5TIhr26y0wJV9RtuwbftVGE%2FQGlOhN11bppaT1f8ccOrmWlDE%3D
+2016-11-29 20:12:11 1480446731 DEBUG: Cart 5154: Standard IPN
+2016-11-29 20:12:11 1480446731 DEBUG: Cart 5154: Validating order
+2016-11-29 20:12:12 1480446732 DEBUG: Cart 5154: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-29 20:12:13 1480446731 DEBUG: Cart 5154: Order 496 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-29 20:12:13 1480446733 DEBUG: Cart 5154: Customer is back from Paybox payment page. Payment success.
+2016-11-29 20:12:31 1480446751 DEBUG: Call params: M=19140&R=5154%20-%20Johan%20PLANTIN&T=669601880&A=412540&B=0&C=Visa&D=1802&E=00000&F=Y&G=O&I=FRA&J=67&N=497401&O=Y&P=3DSECURE&Q=20%3A11%3A06&S=668715131&W=29112016&Y=FRA&K=Qx3Dg6kW0ilohFmz59wsKjgPinE%2BvLRJeMBNlb6amE%2BVMaBODrelCUi3k3I62BQhR%2BGyZQlwMN4lq19B9TcNoIpIisjf69lzPX1tOi0IpApchtzQEcN31hgetq5TIhr26y0wJV9RtuwbftVGE%2FQGlOhN11bppaT1f8ccOrmWlDE%3D
+2016-11-29 20:12:31 1480446751 DEBUG: Cart 5154: (IPN) Cart already being validated as order.

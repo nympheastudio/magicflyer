@@ -1,0 +1,21 @@
+2017-02-21 17:57:44 1487696264 DEBUG: URL to check 2
+2017-02-21 17:57:44 1487696264 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-21 17:57:44 1487696264 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-02-21 17:57:44 1487696264 DEBUG: Cart 9722: Redirecting customer to Paybox (CARTE, CB).
+2017-02-21 18:00:15 1487696415 DEBUG: URL to check 2
+2017-02-21 18:00:15 1487696415 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-21 18:00:15 1487696415 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-02-21 18:00:15 1487696415 DEBUG: Cart 9722: Redirecting customer to Paybox (CARTE, CB).
+2017-02-21 21:23:32 1487708612 DEBUG: URL to check 2
+2017-02-21 21:23:32 1487708612 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-21 21:23:32 1487708612 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-21 21:23:32 1487708612 DEBUG: Cart 9737: Redirecting customer to Paybox (CARTE, CB).
+2017-02-21 21:24:48 1487708688 DEBUG: Call params: M=2445&R=9737%20-%20Maxime%20Micand&T=690460164&A=227825&B=0&C=MasterCard&D=1711&E=00000&F=Y&G=O&I=FRA&J=66&N=513130&O=Y&P=3DSECURE&Q=21%3A23%3A33&S=687464372&W=21022017&Y=FRA&K=cQDE26P4fu1M2ZfZaKCInXx9SkkPa27x0TqYATzjtIIdUwpf%2B2E4mMfwwF%2BDsEZLV%2FdigSVnYGUMh7EvcAJu9e4nvpFldMP%2FZUvrhxQgMsjE%2FqnvFxbDhJKsMQPWpginV6lPpBYgDcx%2BOHm%2BRGm2Z8%2BHsFT2LjM2oR%2FzIXYSB4g%3D
+2017-02-21 21:24:49 1487708688 DEBUG: Cart 9737: Standard IPN
+2017-02-21 21:24:49 1487708688 DEBUG: Cart 9737: Validating order
+2017-02-21 21:24:49 1487708689 DEBUG: Cart 9737: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-02-21 21:24:50 1487708690 DEBUG: Cart 9737: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-02-21 21:24:51 1487708688 DEBUG: Cart 9737: Order 709 / Le paiement a été autorisé et capturé par Paybox.
+2017-02-21 21:24:51 1487708691 DEBUG: Call params: M=2445&R=9737%20-%20Maxime%20Micand&T=690460164&A=227825&B=0&C=MasterCard&D=1711&E=00000&F=Y&G=O&I=FRA&J=66&N=513130&O=Y&P=3DSECURE&Q=21%3A23%3A33&S=687464372&W=21022017&Y=FRA&K=cQDE26P4fu1M2ZfZaKCInXx9SkkPa27x0TqYATzjtIIdUwpf%2B2E4mMfwwF%2BDsEZLV%2FdigSVnYGUMh7EvcAJu9e4nvpFldMP%2FZUvrhxQgMsjE%2FqnvFxbDhJKsMQPWpginV6lPpBYgDcx%2BOHm%2BRGm2Z8%2BHsFT2LjM2oR%2FzIXYSB4g%3D
+2017-02-21 21:24:51 1487708691 DEBUG: Cart 9737: (IPN) Cart already being validated as order.
+2017-02-21 21:24:51 1487708691 DEBUG: Cart 9737: Customer is back from Paybox payment page. Payment success.

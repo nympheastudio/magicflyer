@@ -1,0 +1,1 @@
+Choose an employee which will be allowed to make automations (i.e: cron tasks)

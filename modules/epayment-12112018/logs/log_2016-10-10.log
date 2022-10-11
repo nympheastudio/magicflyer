@@ -1,0 +1,22 @@
+2016-10-10 10:45:41 1476089141 DEBUG: URL to check 2
+2016-10-10 10:45:41 1476089141 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-10 10:45:41 1476089141 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-10 10:45:41 1476089141 DEBUG: Cart 3844: Redirecting customer to Paybox (CARTE, CB).
+2016-10-10 10:47:38 1476089258 DEBUG: Call params: M=10287&R=3844%20-%20Christel%20Savaric&T=658701487&A=042312&B=0&C=Visa&D=1611&E=00000&F=Y&G=O&I=FRA&J=03&N=497578&O=Y&P=3DSECURE&Q=10%3A45%3A43&S=658559420&W=10102016&Y=FRA&K=C6gAswSVI0e0oYpGagMshoUHphbj7xUzGobLC5vBncXLQTXFIF6UKbExalk2qLpbXDaS6taMbRD8sZn98wxeByB32VitdJwMoOBgbEiiEXMvL7zC%2BwRxhKsKwy2JnNUe3V5Jie0TK%2F3QK561oo4fHPliP9W2mnBhdL%2BVIna%2FPFY%3D
+2016-10-10 10:47:38 1476089258 DEBUG: Cart 3844: Standard IPN
+2016-10-10 10:47:38 1476089258 DEBUG: Cart 3844: Validating order
+2016-10-10 10:47:38 1476089258 DEBUG: Cart 3844: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-10 10:47:39 1476089258 DEBUG: Cart 3844: Order 428 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-10 10:47:39 1476089259 DEBUG: Cart 3844: Customer is back from Paybox payment page. Payment success.
+2016-10-10 18:09:17 1476115757 DEBUG: URL to check 2
+2016-10-10 18:09:17 1476115757 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-10 18:09:17 1476115757 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-10 18:09:17 1476115757 DEBUG: Cart 3854: Redirecting customer to Paybox (CARTE, CB).
+2016-10-10 18:11:26 1476115886 DEBUG: Call params: M=1900&R=3854%20-%20LUCILE%20DROGUET&T=658831816&A=057617&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=02&N=497886&O=Y&P=3DSECURE&Q=18%3A09%3A18&S=658680258&W=10102016&Y=FRA&K=BbAjT5R0ovEIQJnf%2Fe00T019pwJpvs50sO4Nd%2FXn61cM0YTAMV2a6X5vmnSGWZhhgYAdcAeHyI1kT5QO3GrNsrqDBA0Gwbd6Uj82esOYV2jCopxyIKVIw%2BiDyYjtM5oiXMlfgi9gIPuYpPnluFAz4K4%2Fvhecov9N%2FOktfKC16RQ%3D
+2016-10-10 18:11:26 1476115886 DEBUG: Cart 3854: Standard IPN
+2016-10-10 18:11:26 1476115886 DEBUG: Cart 3854: Validating order
+2016-10-10 18:11:26 1476115886 DEBUG: Cart 3854: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-10 18:11:27 1476115886 DEBUG: Cart 3854: Order 430 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-10 18:11:28 1476115888 DEBUG: Cart 3854: Customer is back from Paybox payment page. Payment success.
+2016-10-10 18:11:46 1476115906 DEBUG: Call params: M=1900&R=3854%20-%20LUCILE%20DROGUET&T=658831816&A=057617&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=02&N=497886&O=Y&P=3DSECURE&Q=18%3A09%3A18&S=658680258&W=10102016&Y=FRA&K=BbAjT5R0ovEIQJnf%2Fe00T019pwJpvs50sO4Nd%2FXn61cM0YTAMV2a6X5vmnSGWZhhgYAdcAeHyI1kT5QO3GrNsrqDBA0Gwbd6Uj82esOYV2jCopxyIKVIw%2BiDyYjtM5oiXMlfgi9gIPuYpPnluFAz4K4%2Fvhecov9N%2FOktfKC16RQ%3D
+2016-10-10 18:11:46 1476115906 DEBUG: Cart 3854: (IPN) Cart already being validated as order.

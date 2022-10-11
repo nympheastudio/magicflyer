@@ -1,0 +1,5 @@
+ Bitte wählen Sie einen Wert nur wenn Sie die Systemkonfiguration "smarter Versand" des Moduls benutzen.
+ Die Standardmethode wird nur unter Bestellungen &gt; Amazon angezeigt, in der Bestellliste, wenn Sie neu ankommende Bestellungen haben.
+ Es wird ein "Versand" in der Liste angezeigt.
+  <b>Dies ist der einzige einfache Weg diese Information zu finden. </b>
+                    

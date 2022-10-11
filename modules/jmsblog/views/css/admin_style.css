@@ -1,0 +1,84 @@
+/**
+ * @package Jms Blog
+ * @version 1.0
+ * @Copyright (C) 2009 - 2015 Joommasters.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ * @Website: http://www.joommasters.com
+**/
+
+.heading {
+	background:#ECF6FB;	
+}
+.heading th {
+	border-bottom: 1px solid #ddd;
+    padding: 15px 10px!important;
+}
+.heading th.right {
+	text-align:right;
+}
+.tableDnD {
+	width:100%;
+}
+.tableDnD td {
+	padding:10px!important;
+}
+.comment {
+	width:60%;
+}
+.jms-blog-filter {
+	width:100%;
+	height:40px;
+	margin-bottom:10px;
+}
+.jms-blog-filter span {
+    float: left;
+    line-height: 40px;
+    margin: 0 10px 0 15px;
+}
+.jms-blog-filter select {
+    float: left;
+    margin-top: 5px;
+    width: 210px;
+}
+#filter-bt {
+    background: none repeat scroll 0 0 #4f5964;
+    border: 0 none;
+    color: #fff;
+    float: left;
+    height: 26px;
+    margin: 9px 0 0 10px;
+    padding: 0 20px;
+}
+.jms-blog-pagination {
+	width:100%;
+	line-height:30px;
+	height:65px;
+	text-align:center;
+}
+.jms-blog-pagination .pagination {
+    text-align: center;
+    width: 100%;
+	margin:0;
+}
+.jms-blog-pagination .pagination ul {
+    margin: 0;
+    padding: 0;
+}
+.jms-blog-pagination .pagination ul li {
+    display: inline;
+	margin:0 1px;
+}
+.jms-blog-pagination .pagination ul li a {
+    border: 1px solid #dddddd;
+    color: #555;
+    font-weight: normal;
+    padding: 0 6px;
+    text-align: center;
+    text-decoration: none !important;
+}
+.jms-blog-pagination .pagination ul li.active a {
+    background: none repeat scroll 0 0 #ddd;
+    color: #fff;
+}
+.jms-blog-pagination .counter-div{}
+.jms-blog-pagination .counter-div span{}

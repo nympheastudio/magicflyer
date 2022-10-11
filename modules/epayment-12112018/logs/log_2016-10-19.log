@@ -1,0 +1,15 @@
+2016-10-19 14:49:54 1476881393 DEBUG: URL to check 2
+2016-10-19 14:49:54 1476881393 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-19 14:49:54 1476881393 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-19 14:49:54 1476881393 DEBUG: Cart 3915: Redirecting customer to Paybox (CARTE, CB).
+2016-10-19 15:00:09 1476882009 DEBUG: URL to check 2
+2016-10-19 15:00:09 1476882009 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-19 15:00:09 1476882009 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-19 15:00:09 1476882009 DEBUG: Cart 3915: Redirecting customer to Paybox (CARTE, CB).
+2016-10-19 15:02:05 1476882125 DEBUG: Call params: M=8402&R=3915%20-%20Anne-Sophie%20Mathieu&T=660871026&A=954125&B=0&C=MasterCard&D=1904&E=00000&F=Y&G=O&I=BEL&J=75&N=547685&O=Y&P=3DSECURE&Q=14%3A49%3A55&S=660536217&W=19102016&Y=BEL&K=hoP8J8FJtbKHykmu%2BMlamepNbwhFnbWHp3OmAZK0GrKb1nVndEC9%2BBY%2BJ3tJ6F9e3403ftSIpo4Ln0o%2BKLoJhzNZabXmKntFRfpYn8io%2BhRYFLTVHBfqxhRC2R5V6%2BIr6M991XneqF7qtkRFh%2FSGm%2FHE5gMaFeIWlHYanlxMB1I%3D
+2016-10-19 15:02:05 1476882125 DEBUG: Cart 3915: Standard IPN
+2016-10-19 15:02:05 1476882125 DEBUG: Cart 3915: Validating order
+2016-10-19 15:02:05 1476882125 DEBUG: Cart 3915: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-19 15:02:07 1476882127 DEBUG: Cart 3915: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-10-19 15:02:07 1476882125 DEBUG: Cart 3915: Order 440 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-19 15:02:08 1476882128 DEBUG: Cart 3915: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,3 @@
+Vous pouvez utiliser les Services Cadeaux pour proposer un service d'emballage cadeau et un service de message cadeau aux clients. Les services cadeaux peuvent vous aider à augmenter vos taux de conversion de ventes en proposant à vos clients une meilleure expérience d'achat.
+
+L'option cadeau permet aux clients d'indiquer qu'une commande est un cadeau. Vous pouvez également ajouter des options telles qu'un message de la part de l'acheteur et un emballage cadeau. Par défaut, lorsqu'un acheteur indique qu'une commande est un cadeau, le prix des produits n'est pas indiqué sur le bordereau d'envoi, mais ils peuvent choisir de le laisser visible. Le choix de votre acheteur sera indiqué sur le bordereau d'envoi qui est disponible dans l'outil Gestion des Commandes.

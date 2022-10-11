@@ -1,0 +1,8 @@
+Activates Amazon Europe support
+
+Then, to enable each platform, you have to activate the corresponding Prestashop language.
+
+It is necessary to enable the languages because texts, descriptions, and product names must be sent in the language of the country.
+
+More information about it on the online documentation:
+http://documentation.common-services.com/amazonv4/additional-languages-%E2%80%8B%E2%80%8B-additional-european-platforms-france-germany-united-kingdom-spain-italy/?lang=en

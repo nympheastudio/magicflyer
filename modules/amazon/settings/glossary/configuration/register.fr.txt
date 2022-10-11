@@ -1,0 +1,7 @@
+Connectez vous sur Seller Central
+
+Ensuite rendez vous ici :
+https://sellercentral.amazon.fr/gp/mws/registration/register.html
+
+<img src="views/img/tips/fr/register1.jpg" />
+

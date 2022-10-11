@@ -1,0 +1,5 @@
+Please add a short comment to better describe the condition of your item. You are limited to 2000 characters.
+
+Example on Amazon :
+
+<img src="views/img/tips/en/condition_note_example.jpg" />

@@ -1,0 +1,24 @@
+Buen día,
+Gracias por su consulta. Nos pondremos en contacto con usted lo antes posible.
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Language
+{lang_name}
+
+El campo
+
+Valor
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 
+
+
+
+
+

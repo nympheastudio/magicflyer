@@ -1,0 +1,188 @@
+#form_builder_wrapper {
+	position: relative;
+}
+
+#elementMenuContainer {
+	border: 1px solid #C8D3BC;
+	background: #E1EAD7;
+	position: relative;
+	box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.3);
+	width: 100%;
+	position: absolute;
+	padding: 7px 14px;
+	z-index: 480;
+	overflow: hidden;
+}
+
+#form_elements {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#form_elements li {
+    cursor: move;
+	float: left;
+}
+
+#form_maker {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    min-height: 100px;
+    padding: 14px;
+    list-style: none;
+    margin: 0;
+	margin-top: 60px;
+}
+
+#form_maker li.form-element {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 1em;
+    background: #fff;   
+}
+
+#form_maker li.form-element:not(.ui-sortable-helper) {
+    transition: all .2s;
+}
+
+#form_maker li.form-element:hover {
+	cursor: move;
+	box-shadow: 0 0 10px #333;
+}
+
+#form_maker li .field-wrapper span.field-delete {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    background: #E27171;
+    border: 1px solid #B24242;
+    display: inline-block;
+    color: #fff;
+    padding: 3px 5px;
+    border-radius: 4px;
+    position: absolute;
+    right: -12px;
+    top: -12px;
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.4);
+    cursor: pointer;
+}
+
+#form_maker li span.field-delete:hover {
+    background: #B24242;
+}
+
+#form_maker li .field-wrapper {
+    position: relative;
+    padding: 20px 14px 14px 14px;
+}
+
+#form_maker li .field-wrapper label {
+	margin-bottom: 5px;
+	padding: 0;
+	font-size: 12px;
+}
+
+#form_maker li .field-wrapper label span {
+	border: none;
+	font-size: 12px;
+}
+
+#form_maker li .field-wrapper label.field-name {
+    display: inline-block;
+    position: absolute;
+    background: #fff;
+    top: -9px;
+    left: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 0 7px;
+}
+
+#form_maker li .field-wrapper .settings-block-contents {
+    padding: 0 14px;
+}
+
+#form_maker li .field-wrapper ul.settings-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#form_maker li .field-wrapper ul.settings-list li {
+    border: none;
+    margin-bottom: 1em;
+    position: relative;
+}
+
+#form_maker li .field-wrapper ul.settings-list li .field-value-actions-wrapper {
+    overflow: hidden;
+}
+
+#form_maker li .field-wrapper ul.settings-list li .field-value-actions-wrapper span.settings-value-delete,
+#form_maker li .field-wrapper ul.settings-list li .field-value-actions-wrapper span.value-name-refresh {
+    display: inline-block;
+    float: left;
+    cursor: pointer;
+}
+
+#form_maker li .field-wrapper ul.settings-list li .field-value-actions-wrapper span.settings-value-delete {
+    padding: 3px 5px;
+    background: #E27171;
+    border: 1px solid #B24242;
+    color: #fff;
+    border-bottom-right-radius: 4px;
+}
+
+#form_maker li .field-wrapper ul.settings-list li .field-value-actions-wrapper span.value-name-refresh {
+    padding: 3px 5px;
+    background: #93cd60;
+    border: 1px solid #79bd3c;
+    color: #fff;
+    margin-left: 4px; /* Border radius */
+    border-bottom-left-radius: 4px;
+}
+
+#form_maker li .field-wrapper ul.settings-list li .field-value-actions-wrapper span.value-name-refresh:hover {
+    background: #79bd3c;
+}
+
+#form_maker li .field-wrapper ul.settings-list li .field-value-actions-wrapper span.settings-value-delete:hover {
+    background: #B24242;
+}
+
+#form_maker li .field-wrapper .checkbox-block, #form_maker li .field-wrapper .radio-block {
+    padding-left: 20px;
+}
+
+.bootstrap .form-horizontal #form_maker .form-group {
+	margin: 0;
+}
+
+#sideMenu.affix {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.formmaker-placeholder-form {
+    border-radius: 3px;
+    border: 1px dashed #bbb;
+    height: 35px;
+    background: #eee;
+    margin: 10px 0;
+}
+
+.bootstrap .form-horizontal #form_maker .values-block-inner {
+	margin-top: 1em;
+}
+
+#viewReportsButton {
+	overflow: hidden;
+	border-radius: 4px;
+}
+
+#form_builder_wrapper li.ui-sortable-helper,
+#form_builder_wrapper li.ui-draggable-dragging {
+    cursor: move;
+}

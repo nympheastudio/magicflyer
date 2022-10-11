@@ -1,0 +1,27 @@
+2016-05-17 00:34:14 1463438054 DEBUG: URL to check 2
+2016-05-17 00:34:14 1463438054 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-17 00:34:14 1463438054 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-17 00:34:14 1463438054 DEBUG: Cart 938: Redirecting customer to Paybox (CARTE, CB).
+2016-05-17 00:35:52 1463438152 DEBUG: URL to check 2
+2016-05-17 00:35:52 1463438152 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-17 00:35:52 1463438152 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-17 00:35:52 1463438152 DEBUG: Cart 938: Redirecting customer to Paybox (CARTE, CB).
+2016-05-17 00:35:57 1463438157 DEBUG: URL to check 2
+2016-05-17 00:35:57 1463438157 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-17 00:35:57 1463438157 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-17 00:35:57 1463438157 DEBUG: Cart 938: Redirecting customer to Paybox (CARTE, CB).
+2016-05-17 00:36:01 1463438161 DEBUG: URL to check 2
+2016-05-17 00:36:01 1463438161 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-17 00:36:01 1463438161 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-17 00:36:01 1463438161 DEBUG: Cart 938: Redirecting customer to Paybox (CARTE, CB).
+2016-05-17 00:36:08 1463438168 DEBUG: Cart 938: Payment was canceled by user on Paybox payment page.
+2016-05-17 00:42:58 1463438578 DEBUG: URL to check 2
+2016-05-17 00:42:58 1463438578 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-17 00:42:58 1463438578 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-17 00:42:58 1463438578 DEBUG: Cart 938: Redirecting customer to Paybox (CARTE, CB).
+2016-05-17 00:43:42 1463438622 DEBUG: Call params: M=2597&R=938%20-%20BRISSET%20Marion&T=629240033&A=320324&B=0&C=Visa&D=1806&E=00000&G=D&H=F0AD324CDD33B1892B9AF86B16F5544A1BBC50CA&I=FRA&J=&N=&P=CARTE&Q=00%3A34%3A20&S=625170372&W=17052016&Y=FRA&K=fQQsJNmNd58cAaUKGnvRpTOUvDBFmWINiLz27B0FdTNW%2BuGDi73bUkeYiJ25AgYsUG5KnRujhortFqzqeriwaN1VcRlknCNH6u7LtmAARLVvTsRKznqCiV%2FL6xI3%2Brs8JeTiGC7qB1vjGPjNysQ9AE%2FeydL9kyhQHZDqlNKMXzw%3D
+2016-05-17 00:43:42 1463438622 DEBUG: Cart 938: Standard IPN
+2016-05-17 00:43:42 1463438622 DEBUG: Cart 938: Validating order (PS1.5+)
+2016-05-17 00:43:42 1463438622 DEBUG: Cart 938: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-17 00:43:43 1463438622 DEBUG: Cart 938: Order 192 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-17 00:43:43 1463438623 DEBUG: Cart 938: Customer is back from Paybox payment page. Payment success.

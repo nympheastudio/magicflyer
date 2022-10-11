@@ -1,0 +1,29 @@
+/* JGrowl Modal */
+#pm_mc3_jgrowl_table_container { width: 100%; }
+.jGrowl-close {margin: -16px -17px 0 0;background:url("../img/close-icon-22.png") no-repeat scroll center center transparent;width:22px;height:22px;}
+
+/* CART SUMMARY global */
+table#pm_mc3_cart_summary, table#pm_mc3_lpa {width:100%;border:0;border-collapse:collapse;border-spacing:0;}
+table#pm_mc3_cart_summary th, table#pm_mc3_lpa th {text-align: center;font-weight: bold;border-bottom: 1px solid #d0d0d0;padding: 10px 0;}
+table#pm_mc3_cart_summary td, table#pm_mc3_cart_summary th, table#pm_mc3_lpa td, table#pm_mc3_lpa th {vertical-align:middle;}
+/* Product-Line Quantity buttons */
+table#pm_mc3_cart_summary td.pm_mc3_cs_product_quantity {white-space: nowrap;}
+table#pm_mc3_cart_summary span.pm_mc3_quantity_more,
+table#pm_mc3_cart_summary span.pm_mc3_quantity_less,
+table#pm_mc3_cart_summary span.pm_mc3_quantity_delete {cursor: pointer;display: inline-block;width: 12px;height: 12px;text-indent: -9999px;overflow: hidden;margin: 5px 2px 0 2px;border:1px solid #;-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;background: url("../img/jqueryui/ui-icons_888888_256x240.png") no-repeat;}
+table#pm_mc3_cart_summary span.pm_mc3_quantity_more {background-position: -2px -194px;}
+table#pm_mc3_cart_summary span.pm_mc3_quantity_less {background-position: -18px -194px;}
+table#pm_mc3_cart_summary span.pm_mc3_quantity_delete {background-position: -34px -194px;}
+
+/* Overrides default styles from PrestaShop */
+#pm_mc3_cs_free_content_1 p, #pm_mc3_cs_free_content_2 p, #pm_mc3_cs_free_shipping p, #pm_mc3_jgrowl_free_content_1 p, #pm_mc3_jgrowl_free_content_2 p, #pm_mc3_lpa_free_shipping p, .pm_mc3_lpa_product_description p, #pm_mc3_lpa_free_content_1 p, #pm_mc3_lpa_free_content_2 p {padding-bottom:0;}
+.pm_mc3_jgrowl_product_name a { text-decoration: none!important; }
+.pm_mc3_cs_line, .pm_mc3_lpa_line {clear: both;}
+/* Modal empty cell - customized product (td) */
+.pm_mc3_cs_customized_product_empty_cell, .pm_mc3_lpa_customized_product_empty_cell { border-left: none !important; border-right: none !important; }
+/* Default buttons styles */
+.pm_mc3_button_left {float:left;}
+.pm_mc3_button_right {float:right;}
+.pm_mc3_button_left_sub, .pm_mc3_button_right_sub {float:left;}
+#pm_mc3_lpa_keep_shopping_btn, #pm_mc3_lpa_order_now_btn, #pm_mc3_cs_keep_shopping_btn, #pm_mc3_cs_order_now_btn, #pm_mc3_jgrowl_order_now_btn {position: relative;text-decoration:none !important;transition:.3s ease-in-out;-webkit-transition:.3s ease-in-out;-moz-transition:.3s ease-in-out;}
+#pm_mc3_lpa_keep_shopping_btn:active, #pm_mc3_lpa_order_now_btn:active, #pm_mc3_cs_keep_shopping_btn:active, #pm_mc3_cs_order_now_btn:active, #pm_mc3_jgrowl_order_now_btn:active {top: 1px;}

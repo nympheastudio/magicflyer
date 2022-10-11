@@ -1,0 +1,5 @@
+2016-01-18 14:20:36 1453123236 DEBUG: URL to check 2
+2016-01-18 14:20:36 1453123236 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-01-18 14:20:36 1453123236 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-01-18 14:20:36 1453123236 DEBUG: Cart 352: Redirecting customer to Paybox (CARTE, CB).
+2016-01-18 14:20:46 1453123246 DEBUG: Cart 352: Payment was canceled by user on Paybox payment page.

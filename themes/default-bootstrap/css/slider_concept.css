@@ -1,0 +1,81 @@
+body{margin:0}
+
+.aside {
+	padding-top:40px;
+	padding-left:40px;
+	position:fixed;
+	left:0;
+	top:0;
+	width:260px;
+	height: 100%; 
+	background: #fff;
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+	z-index: 9
+}
+
+.content.aim {
+	position:relative;
+	margin-left: 300px;
+	width: calc(100% - 300px) !important;
+} 
+
+#imgcontent{width:100%;}
+.aside, .content { display:inline-block}
+
+.footer{
+	position:absolute;
+	bottom:80px;
+	left:40px;
+}
+
+#navbar, #title-page {position: fixed;right: 100px; top: 70px;z-index: 99;}
+#title-page {top: auto; bottom: 45px}
+
+.aim {
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  clear: both;
+  padding: 0;
+  max-height: 100vh !important;
+}
+
+.aim a, .content a {
+  background-position: center center;
+  cursor: pointer;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  float: left;
+  text-decoration: none;
+	background-size: cover;
+	width: 200px ;
+}
+
+.aim a:hover,
+.aim a:visited { text-decoration: none }
+
+.aim ul { list-style: none }
+
+.aim li {
+  display: block;
+  overflow: hidden;
+  float: left;
+}
+
+.aim a span {
+  color: #FFFFFF;
+  bottom: 10px;
+  left: 10px;
+  width: 100%;
+  display: block;
+  padding: 2px 5px 5px;
+  position: absolute;
+  background: #000;
+  font-size: 12px;
+  font-weight: bold;
+  height: 15px;
+  line-height: 18px
+}	
+	
+.content a.default-size {width: 200px}

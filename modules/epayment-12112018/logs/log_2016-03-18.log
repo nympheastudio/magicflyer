@@ -1,0 +1,11 @@
+2016-03-18 14:48:19 1458308899 DEBUG: URL to check 2
+2016-03-18 14:48:19 1458308899 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-18 14:48:19 1458308899 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-18 14:48:19 1458308899 DEBUG: Cart 607: Redirecting customer to Paybox (CARTE, CB).
+2016-03-18 14:48:42 1458308922 DEBUG: Call params: M=2064&R=607%20-%20ALISSON%20LITTEE&T=616573794&A=432607&B=0&C=Visa&D=1611&E=00000&G=D&H=8E9535B38A4A51C1C18BDF7BD490352CC4029F40&I=MTQ&J=&N=&P=CARTE&Q=14%3A48%3A21&S=613994927&W=18032016&Y=FRA&K=AEXUd5KOxqiajNEJmEOhO14OGUJDJ3vXSpusCGZG1aSO0iI6WXbQi7UDQKPMG%2FuolHA3f1qdHF5sn%2Bdy6PJ4ffwkf5AzqOaI43sjqV%2FXRL%2BqvwXcGq%2F2Zi%2BZCliv9i3pVpmRnrGLRJPYRlwFGJX512FMwpjrxTPU46zMuzxyqwI%3D
+2016-03-18 14:48:42 1458308922 DEBUG: Cart 607: Standard IPN
+2016-03-18 14:48:42 1458308922 DEBUG: Cart 607: Validating order (PS1.5+)
+2016-03-18 14:48:42 1458308922 DEBUG: Cart 607: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-18 14:48:43 1458308923 DEBUG: Cart 607: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-03-18 14:48:44 1458308922 DEBUG: Cart 607: Order 134 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-18 14:48:45 1458308925 DEBUG: Cart 607: Customer is back from Paybox payment page. Payment success.

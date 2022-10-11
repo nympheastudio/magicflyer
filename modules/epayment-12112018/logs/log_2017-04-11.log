@@ -1,0 +1,58 @@
+2017-04-11 09:14:18 1491894858 DEBUG: URL to check 2
+2017-04-11 09:14:18 1491894858 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-11 09:14:18 1491894858 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-04-11 09:14:18 1491894858 DEBUG: Cart 11796: Redirecting customer to Paybox (CARTE, CB).
+2017-04-11 09:16:41 1491895001 DEBUG: URL to check 2
+2017-04-11 09:16:41 1491895001 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-11 09:16:42 1491895001 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-11 09:16:42 1491895001 DEBUG: Cart 11796: Redirecting customer to Paybox (CARTE, CB).
+2017-04-11 09:16:52 1491895012 DEBUG: Cart 11796: Payment was canceled by user on Paybox payment page.
+2017-04-11 09:17:53 1491895073 DEBUG: Call params: M=1980&R=11796%20-%20Michaela%20Wimmler&T=705202586&A=216308&B=0&C=MasterCard&D=1806&E=00000&F=A&G=O&I=AUT&J=80&N=527456&O=Y&P=3DSECURE&Q=09%3A14%3A18&S=699340410&W=11042017&Y=DEU&K=NYLf9d%2BH4qo8wN3b%2FCz7ZLjvPsU9S0Kd5oFlUd2jR7hZihja3uWgiOl2yQ%2FExC5nuXEXQOxbozt19scSk5cXT1vFk4TtIyswGP2AvDtLQVXhO7sX5O%2B%2FiLnJBPWCk%2B6MSzfUSDy9PvTkvXFWsqDhdpe5%2Fd5nq%2F2mKjrjdMP9dZ0%3D
+2017-04-11 09:17:53 1491895073 DEBUG: Cart 11796: Standard IPN
+2017-04-11 09:17:53 1491895073 DEBUG: Cart 11796: Validating order
+2017-04-11 09:17:54 1491895074 DEBUG: Cart 11796: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-04-11 09:17:55 1491895073 DEBUG: Cart 11796: Order 911 / Le paiement a été autorisé et capturé par Paybox.
+2017-04-11 09:17:55 1491895075 DEBUG: Cart 11796: Customer is back from Paybox payment page. Payment success.
+2017-04-11 09:18:13 1491895093 DEBUG: Call params: M=1980&R=11796%20-%20Michaela%20Wimmler&T=705202586&A=216308&B=0&C=MasterCard&D=1806&E=00000&F=A&G=O&I=AUT&J=80&N=527456&O=Y&P=3DSECURE&Q=09%3A14%3A18&S=699340410&W=11042017&Y=DEU&K=NYLf9d%2BH4qo8wN3b%2FCz7ZLjvPsU9S0Kd5oFlUd2jR7hZihja3uWgiOl2yQ%2FExC5nuXEXQOxbozt19scSk5cXT1vFk4TtIyswGP2AvDtLQVXhO7sX5O%2B%2FiLnJBPWCk%2B6MSzfUSDy9PvTkvXFWsqDhdpe5%2Fd5nq%2F2mKjrjdMP9dZ0%3D
+2017-04-11 09:18:13 1491895093 DEBUG: Cart 11796: (IPN) Cart already being validated as order.
+2017-04-11 09:18:34 1491895114 DEBUG: URL to check 2
+2017-04-11 09:18:34 1491895114 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-11 09:18:34 1491895114 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-11 09:18:34 1491895114 DEBUG: Cart 11800: Redirecting customer to Paybox (CARTE, CB).
+2017-04-11 09:19:47 1491895187 DEBUG: Call params: M=32700&R=11800%20-%20Philippe%20NORMAND&T=705203726&A=208253&B=0&C=Visa&D=2002&E=00000&F=Y&G=O&I=FRA&J=46&N=497647&O=Y&P=3DSECURE&Q=09%3A18%3A35&S=699340750&W=11042017&Y=FRA&K=vuF3kBLcsWkYZtGvRdSFmTcrftOiixtN%2FJgVa9ExIksGlhezZRVzEj4jHM0o18jPfwgZQv7jVTqySmuxBkPGtudb3sfRI1Qit4Z%2FFXgn2nqyvp%2Fi7YKlTlnSR6kbkMU3r5CUVVQusUrjHdGm9Pu%2FMHvxAnsTV0fzovF04N3cMsQ%3D
+2017-04-11 09:19:47 1491895187 DEBUG: Cart 11800: Standard IPN
+2017-04-11 09:19:47 1491895187 DEBUG: Cart 11800: Validating order
+2017-04-11 09:19:48 1491895188 DEBUG: Cart 11800: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-04-11 09:19:49 1491895187 DEBUG: Cart 11800: Order 912 / Le paiement a été autorisé et capturé par Paybox.
+2017-04-11 09:19:49 1491895189 DEBUG: Cart 11800: Customer is back from Paybox payment page. Payment success.
+2017-04-11 11:01:49 1491901308 DEBUG: URL to check 2
+2017-04-11 11:01:49 1491901308 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-11 11:01:49 1491901308 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-04-11 11:01:49 1491901308 DEBUG: Cart 11804: Redirecting customer to Paybox (CARTE, CB).
+2017-04-11 11:27:36 1491902856 DEBUG: Call params: M=10450&R=11804%20-%20Laura%20Janier-Dubry&T=705242642&B=0&C=CB&D=1809&E=00040&F=N&G=N&I=FRA&J=60&N=497604&O=Y&P=3DSECURE&Q=11%3A01%3A49&S=699375638&W=11042017&K=T8bPm5rSBb4gE8TdkN%2Fixbg6PpvN4f%2BfROeV4tAQEGZlwWnEXKWP5V%2Fk9uqDt05TZgQDVvZq25cZlNYEHUzoMpTLL11U7pIxlyscUu35IOCnM80xpUNVJX9Ksp8jf1gXpXLRDWUEXz%2B65nH3UlMG3wawkebGMxhNoVyopXA4XQo%3D
+2017-04-11 11:27:36 1491902856 DEBUG: Cart 11804: (IPN) Payment was refused by Paybox (40).
+2017-04-11 11:28:54 1491902934 DEBUG: URL to check 2
+2017-04-11 11:28:54 1491902934 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-11 11:28:54 1491902934 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-04-11 11:28:54 1491902934 DEBUG: Cart 11804: Redirecting customer to Paybox (CARTE, CB).
+2017-04-11 11:29:10 1491902950 DEBUG: Cart 11804: Customer is back from Paybox payment page. Payment refused by Paybox (30).
+2017-04-11 11:29:26 1491902965 DEBUG: URL to check 2
+2017-04-11 11:29:26 1491902965 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-11 11:29:26 1491902965 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-04-11 11:29:26 1491902965 DEBUG: Cart 11804: Redirecting customer to Paybox (CARTE, CB).
+2017-04-11 11:50:55 1491904254 DEBUG: URL to check 2
+2017-04-11 11:50:55 1491904254 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-11 11:50:55 1491904254 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-04-11 11:50:55 1491904254 DEBUG: Cart 11804: Redirecting customer to Paybox (CARTE, CB).
+2017-04-11 22:32:04 1491942724 DEBUG: URL to check 2
+2017-04-11 22:32:05 1491942724 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-11 22:32:05 1491942724 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-11 22:32:05 1491942724 DEBUG: Cart 11783: Redirecting customer to Paybox (CARTE, CB).
+2017-04-11 22:33:31 1491942811 DEBUG: Call params: M=1980&R=11783%20-%20Rozenn%20%20Krotki&T=705478924&B=0&C=CB&D=1809&E=00004&I=FRA&J=44&N=523162&P=3DSECURE&Q=22%3A32%3A06&S=699543951&W=11042017&K=b5d7ScSK83wAPIAn2xgHiKQwL17JAbv1vULB6wFHBZkzFVo%2BoZtdhAXna8Nd5WQCuXKipx2tvuijlH2i8sUpy4CoKaEGEWKog3OxHjMvqnLSNom%2BJo%2BMiyNfs83%2BRRSAU9v39oDyKrjFL3buWaiS8UYnVk8ZTOtV%2Bdz5ZDJgTqQ%3D
+2017-04-11 22:33:31 1491942811 DEBUG: Cart 11783: (IPN) Payment was refused by Paybox (4).
+2017-04-11 22:35:40 1491942940 DEBUG: Call params: M=1980&R=11783%20-%20Rozenn%20%20Krotki&T=705478924&A=181429&B=0&C=MasterCard&D=1809&E=00000&F=Y&G=O&I=FRA&J=44&N=513162&O=Y&P=3DSECURE&Q=22%3A32%3A06&S=699544124&W=11042017&Y=FRA&K=3ZijaBcEfh0r572S2m8WYEPCA4Xzi%2BVc3Kgt6x2D%2Bbg0x%2FoXjzNM2dN5lnR6yG3%2BAoF%2FmZSuksQ4KuQD7Netts4G4uXH%2Bc9eFHCVH4S8ox5A6xApT8vR0rumTlTCJ2Z7w4QhHgYqB0g4bunj9eIcNHBPGHfBoQ9dCtBhQJiXoKs%3D
+2017-04-11 22:35:40 1491942940 DEBUG: Cart 11783: Standard IPN
+2017-04-11 22:35:40 1491942940 DEBUG: Cart 11783: Validating order
+2017-04-11 22:35:41 1491942941 DEBUG: Cart 11783: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-04-11 22:35:42 1491942940 DEBUG: Cart 11783: Order 916 / Le paiement a été autorisé et capturé par Paybox.
+2017-04-11 22:35:42 1491942942 DEBUG: Cart 11783: Customer is back from Paybox payment page. Payment success.

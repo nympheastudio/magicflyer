@@ -1,0 +1,10 @@
+2016-06-21 16:33:24 1466519603 DEBUG: URL to check 2
+2016-06-21 16:33:24 1466519603 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-21 16:33:24 1466519603 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-21 16:33:24 1466519603 DEBUG: Cart 1551: Redirecting customer to Paybox (CARTE, CB).
+2016-06-21 16:34:04 1466519644 DEBUG: Call params: M=2297&R=1551%20-%20ben%20daoud%20alex&T=633712667&B=0&C=MasterCard&D=1802&E=00151&G=D&H=F9405312D7477D0A5C4E5CCA763AFE6B23D5E1A7&I=FRA&J=&N=&P=CARTE&Q=16%3A33%3A25&S=629689441&W=21062016&Y=FRA&K=Vj2X%2Fs2h2U8r1UBk%2FFh1JG2kH6tcmrLbFfB7bHJmpVSMVjt3DouTKtxH8oIaWoXoMw3o1NxYqughomHxNq99lX15vHiwsI4BYXUVb8SXwlaEI4Vg0G3TD4dWhaaztDyjv1nOtyUq%2BbuYkFlbtQNUs8E3Vi1irjRkpy5KO1lt%2FEs%3D
+2016-06-21 16:34:04 1466519644 DEBUG: Cart 1551: (IPN) Payment was refused by Paybox (151).
+2016-06-21 22:05:43 1466539543 DEBUG: URL to check 2
+2016-06-21 22:05:43 1466539543 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-21 22:05:43 1466539543 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-21 22:05:43 1466539543 DEBUG: Cart 1553: Redirecting customer to Paybox (CARTE, CB).

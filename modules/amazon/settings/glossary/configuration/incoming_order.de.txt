@@ -1,0 +1,6 @@
+Rechts, assoziierter Transport bei Import der Bestellungen, ideal um den richtigen Namen auf Ihrer Bestellungsseite oder Rechnung anzuzeigen
+Links:
+Wählen Sie den Transport Ihres Geschäfts, der für die Bestellung bei Aktualisierungsstatus, bei Versand der Trackingnummer des Pakets benutzt werden soll.
+Aus Gründen der Inkompatibilität, werden die Modultransporte nicht angezeigt.
+
+<img src="views/img/tips/en/incoming_carriers.jpg" />

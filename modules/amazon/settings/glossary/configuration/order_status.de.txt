@@ -1,0 +1,2 @@
+Wählen Sie einen Bestellstatus, der die Zusendung der Rechnung per E-Mail löst
+Nur verfügbare Bestellstatus werden angezeigt (E-Mail nicht, Rechnung ja )

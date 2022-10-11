@@ -1,0 +1,11 @@
+2016-12-13 18:54:07 1481651647 DEBUG: URL to check 2
+2016-12-13 18:54:07 1481651647 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-12-13 18:54:07 1481651647 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-12-13 18:54:07 1481651647 DEBUG: Cart 5564: Redirecting customer to Paybox (CARTE, CB).
+2016-12-13 18:55:47 1481651747 DEBUG: Call params: M=2297&R=5564%20-%20cynthia%20gissot&T=673558692&A=484688&B=0&C=Visa&D=1704&E=00000&F=Y&G=O&I=FRA&J=68&N=497355&O=Y&P=3DSECURE&Q=18%3A54%3A09&S=672355187&W=13122016&Y=FRA&K=ORhPzG9B%2F3%2BGbNaI7FQfUOxbV1Nvn3erbLbuOSgGJi4vMn7%2BW5G33oCAKmhVN4MHQdRZntHyZ4n4sYdy%2FBgYaGJMXUvPMsbDBYfsLiIqPC4Pw9qaRP5IiYYTevuIuI71coNrgYjiuSNiY4WLagvN9PH2bBnwlAo1GIcH%2BH5VKE4%3D
+2016-12-13 18:55:47 1481651747 DEBUG: Cart 5564: Standard IPN
+2016-12-13 18:55:47 1481651747 DEBUG: Cart 5564: Validating order
+2016-12-13 18:55:47 1481651747 DEBUG: Cart 5564: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-12-13 18:55:49 1481651749 DEBUG: Cart 5564: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-12-13 18:55:49 1481651747 DEBUG: Cart 5564: Order 516 / Le paiement a été autorisé et capturé par Paybox.
+2016-12-13 18:55:50 1481651750 DEBUG: Cart 5564: Customer is back from Paybox payment page. Payment success.

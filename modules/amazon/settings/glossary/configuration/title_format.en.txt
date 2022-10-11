@@ -1,0 +1,2 @@
+Type of product name, Amazon recommend to format the title like Manufacturer, Title, Attributes
+Please choose the first choice if your products titles are already formated for Amazon

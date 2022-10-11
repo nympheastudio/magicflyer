@@ -1,0 +1,13 @@
+Revise/Subscriba a Servicio de Ajuste de Precios:
+
+Haga clic sobre este botón si usted desea habilitar el Ajuste de Precios para
+esta plataforma
+
+Usted también puede hacer clic sobre este botón para verificar que el servicio
+se encuentre funcional y activo
+
+
+
+Cancelar Suscripción:
+
+Haga click sobre este botón para detener el servicio

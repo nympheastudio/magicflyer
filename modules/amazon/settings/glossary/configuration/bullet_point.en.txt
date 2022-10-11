@@ -1,0 +1,7 @@
+Key features by default when they are not indicated in the Amazon tab of the product sheet.
+
+If your short descriptions are less than 2000 characters, you can put this one as the first line. You can add your Prestashop features on other lines. We recommend the "Short Description, Features" option and to check "With labels", this option adds the name of the feature before the value, example; Material: Jean.
+
+Here is how they will be visible on Amazon:
+
+<img src = "../modules/amazon/views/img/tips/en/bullet_point_example.jpg" />

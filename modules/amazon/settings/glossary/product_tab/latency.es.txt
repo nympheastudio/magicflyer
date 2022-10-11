@@ -1,0 +1,2 @@
+Plazo de latencia en días antes de que el producto sea enviado (Ej: preparación, su propio tiempo de retraso antes de que el producto sea enviado)
+Será el retraso pro defecto y puede ser sobre-escrito por otro retraso definido en la página de producto

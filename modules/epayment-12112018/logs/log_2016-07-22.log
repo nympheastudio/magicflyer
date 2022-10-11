@@ -1,0 +1,10 @@
+2016-07-22 09:35:29 1469172929 DEBUG: URL to check 2
+2016-07-22 09:35:29 1469172929 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-07-22 09:35:29 1469172929 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-07-22 09:35:29 1469172929 DEBUG: Cart 1966: Redirecting customer to Paybox (CARTE, CB).
+2016-07-22 09:36:48 1469173008 DEBUG: Call params: M=2347&R=1966%20-%20Stefan%20muller&T=637972811&A=230060&B=0&C=Visa&D=1806&E=00000&G=D&H=2A974D7384E82ADF6BBEF585AD513ED9F2D06C78&I=DEU&J=&N=&P=CARTE&Q=09%3A35%3A31&S=634007103&W=22072016&Y=DEU&K=1NQyzFmIa8g%2FexU%2B7AaDkm8yzIYardK8L5WwQfHuJb9Wgs9i1jo%2BjCDdg6Up%2FbpQyCtBXSU9%2By9Uvwqm3rqw5rz5wbAHaZtjw0gR0NvNB1EGkyYFHjPzg3GvhSOgJFY9hpE%2BxgzaeJDGikxDBmhqLDqZBGq02IO%2Bal%2BAVkjxYfw%3D
+2016-07-22 09:36:48 1469173008 DEBUG: Cart 1966: Standard IPN
+2016-07-22 09:36:48 1469173008 DEBUG: Cart 1966: Validating order (PS1.5+)
+2016-07-22 09:36:49 1469173009 DEBUG: Cart 1966: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-07-22 09:36:50 1469173008 DEBUG: Cart 1966: Order 290 / Le paiement a été autorisé et capturé par Paybox.
+2016-07-22 09:36:50 1469173010 DEBUG: Cart 1966: Customer is back from Paybox payment page. Payment success.

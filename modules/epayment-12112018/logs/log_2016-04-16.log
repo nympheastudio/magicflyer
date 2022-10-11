@@ -1,0 +1,34 @@
+2016-04-16 16:47:40 1460818060 DEBUG: URL to check 2
+2016-04-16 16:47:40 1460818060 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-16 16:47:40 1460818060 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-16 16:47:40 1460818060 DEBUG: Cart 773: Redirecting customer to Paybox (CARTE, CB).
+2016-04-16 16:49:06 1460818146 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-16 16:49:07 1460818147 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-04-16 16:49:08 1460818148 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-04-16 16:49:10 1460818150 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2016-04-16 16:49:11 1460818151 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2016-04-16 16:49:12 1460818152 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 5).
+2016-04-16 16:49:14 1460818154 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 6).
+2016-04-16 16:49:15 1460818155 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 7).
+2016-04-16 16:49:16 1460818156 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 8).
+2016-04-16 16:49:18 1460818158 DEBUG: Cart 773: Customer is back from Paybox payment page. Waiting order validation (loop 9).
+2016-04-16 16:49:19 1460818159 DEBUG: Cart 773: Customer is back from Paybox payment page. Order not validated.
+2016-04-16 16:49:31 1460818171 DEBUG: Call params: M=3728&R=773%20-%20Deborah%20McCahan&T=625209582&A=016072&B=0&C=Visa&D=1908&E=00000&G=D&H=A5FA37FD10523E52CE6666953D7F26DFA41586FA&I=USA&J=&N=&P=CARTE&Q=16%3A47%3A42&S=621171038&W=16042016&Y=USA&K=nC%2BcGnwa4zyR3ARn%2FvpzB6HmKi5lBeonEFjG6PHESmPxG3Wcn8m0aN756UCIP%2FRZtUNmOkmcTvLTtsSpN9I7JFNqA3NmXlhI8p6NhHwaYlmHSQMbU6VZe5n1e6Ha4Ww%2F56OWbMAFgYmwxD11bL3NO%2BzpyJZW33VxJBsBs%2FrBXmA%3D
+2016-04-16 16:49:31 1460818171 DEBUG: Cart 773: Standard IPN
+2016-04-16 16:49:31 1460818171 DEBUG: Cart 773: Validating order (PS1.5+)
+2016-04-16 16:49:40 1460818171 DEBUG: Cart 773: Order 161 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-16 23:17:48 1460841468 DEBUG: URL to check 2
+2016-04-16 23:17:48 1460841468 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-16 23:17:48 1460841468 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-16 23:17:48 1460841468 DEBUG: Cart 776: Redirecting customer to Paybox (CARTE, CB).
+2016-04-16 23:18:49 1460841529 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-16 23:18:50 1460841530 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-04-16 23:18:51 1460841531 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-04-16 23:18:52 1460841532 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2016-04-16 23:18:53 1460841533 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2016-04-16 23:18:54 1460841534 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 5).
+2016-04-16 23:18:55 1460841535 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 6).
+2016-04-16 23:18:57 1460841537 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 7).
+2016-04-16 23:18:58 1460841538 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 8).
+2016-04-16 23:18:59 1460841539 DEBUG: Cart 776: Customer is back from Paybox payment page. Waiting order validation (loop 9).
+2016-04-16 23:19:00 1460841540 DEBUG: Cart 776: Customer is back from Paybox payment page. Order not validated.

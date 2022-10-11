@@ -1,0 +1,1 @@
+Active safe and strong encoding for products titles and descriptions to avoid charset issues and filter, eliminate badly encoded, noise and strayed chars.

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>simplecsvexport</name>
+	<displayName><![CDATA[Simple CSV export of orders.]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[Simple CSV export of orders.]]></description>
+	<author><![CDATA[Quadra informatique]]></author>
+	<tab><![CDATA[export]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall simple CSV export of orders ?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

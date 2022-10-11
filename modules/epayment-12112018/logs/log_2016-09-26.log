@@ -1,0 +1,11 @@
+2016-09-26 22:55:43 1474923343 DEBUG: URL to check 2
+2016-09-26 22:55:43 1474923343 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-26 22:55:43 1474923343 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-09-26 22:55:43 1474923343 DEBUG: Cart 3555: Redirecting customer to Paybox (CARTE, CB).
+2016-09-26 22:59:13 1474923553 DEBUG: Call params: M=8290&R=3555%20-%20Sylvie%20Henriot%20-Mempokap&T=655057607&A=111270&B=0&C=Visa&D=1804&E=00000&F=Y&G=O&I=FRA&J=71&N=497388&O=Y&P=3DSECURE&Q=22%3A55%3A44&S=655329094&W=26092016&Y=FRA&K=3Og%2FXt2kCpoxJfLpjrOrGsGF8Mt3Y2AJpJjadGo1zhkACY%2BJ5xHds0OHS72LNS4rBQo5jLyVregd3nRvfJ3VbcIRUZPq2iorMGeb8if%2FSzuUF6114O96UAr6PxNquixngm4Qjsit7NQMta%2FffLW8FjUNCTLU%2FjR6gwqyuSMRqhA%3D
+2016-09-26 22:59:13 1474923553 DEBUG: Cart 3555: Standard IPN
+2016-09-26 22:59:13 1474923553 DEBUG: Cart 3555: Validating order
+2016-09-26 22:59:14 1474923554 DEBUG: Cart 3555: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-26 22:59:15 1474923555 DEBUG: Cart 3555: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-09-26 22:59:15 1474923553 DEBUG: Cart 3555: Order 396 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-26 22:59:16 1474923556 DEBUG: Cart 3555: Customer is back from Paybox payment page. Payment success.

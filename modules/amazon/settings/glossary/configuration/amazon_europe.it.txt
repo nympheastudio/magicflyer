@@ -1,0 +1,8 @@
+Attiva il supporto Amazon Europa
+
+In seguito, per abilitare ogni piattafoma, dovrà essere attivata la lingua Prestashop corrispondente.
+
+E' necessario abilitare la lingua perche i testi, le descrizioni, e i nomi dei prodotti devono essere inviati nella lingua della nazione corrispondente.
+
+Ulteriori informazioni sono disponibili nella documentazione online:
+http://documentation.common-services.com/amazonv4/altre-lingue-piattaforme-europee/?lang=it

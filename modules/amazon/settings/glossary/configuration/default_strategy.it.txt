@@ -1,0 +1,2 @@
+Strategia preimpostata da applicare all'intero catalogo.
+Questa strategia verrà applicata anche se dal profilo non è stata selezionata nessuna strategia.

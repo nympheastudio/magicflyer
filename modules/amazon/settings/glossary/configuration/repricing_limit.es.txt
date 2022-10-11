@@ -1,0 +1,1 @@
+El Limite bajo del cual el precio no descenderá sobre el precio base indicado arriba

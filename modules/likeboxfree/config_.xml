@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>likeboxfree</name>
+	<displayName><![CDATA[Fanpage Likebox Free]]></displayName>
+	<version><![CDATA[2.1]]></version>
+	<description><![CDATA[This module add special likebox block with your fanpage on Facebook. Now anybody can like your facebook fanpage!]]></description>
+	<author><![CDATA[MyPresta.eu]]></author>
+	<tab><![CDATA[social_networks]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,22 @@
+2017-01-11 12:21:54 1484133714 DEBUG: URL to check 2
+2017-01-11 12:21:54 1484133714 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-11 12:21:54 1484133714 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-01-11 12:21:54 1484133714 DEBUG: Cart 6894: Redirecting customer to Paybox (CARTE, CB).
+2017-01-11 15:36:43 1484145403 DEBUG: URL to check 2
+2017-01-11 15:36:43 1484145403 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-11 15:36:43 1484145403 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-01-11 15:36:43 1484145403 DEBUG: Cart 6908: Redirecting customer to Paybox (CARTE, CB).
+2017-01-11 19:18:25 1484158705 DEBUG: URL to check 2
+2017-01-11 19:18:25 1484158705 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-11 19:18:25 1484158705 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-01-11 19:18:25 1484158705 DEBUG: Cart 6916: Redirecting customer to Paybox (CARTE, CB).
+2017-01-11 19:59:51 1484161191 DEBUG: URL to check 2
+2017-01-11 19:59:51 1484161191 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-11 19:59:51 1484161191 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-01-11 19:59:51 1484161191 DEBUG: Cart 6917: Redirecting customer to Paybox (CARTE, CB).
+2017-01-11 20:01:23 1484161283 DEBUG: Call params: M=2550&R=6917%20-%20rosange%20rabel&T=680265665&A=573123&B=0&C=E_CARD&D=1704&E=00000&F=Y&G=O&I=FRA&J=97&N=415059&O=Y&P=3DSECURE&Q=19%3A59%3A52&S=678363919&W=11012017&Y=FRA&K=lae%2Fv4IfG77yr7B9997KAGi1rBJ5dhVsqdKPNb%2FqhCQ%2FGEFqveo3kHr8mjPTxS9z1xOqNvZfx5kxdPP5%2F7BO08hympd8vKrJhkibKHMQtKmw9ZctQHyvCwSdoao6AKapL4ptPnWDbbLRERnWr3C8o6nAGnIuJzvwqRfCovlR6UQ%3D
+2017-01-11 20:01:23 1484161283 DEBUG: Cart 6917: Standard IPN
+2017-01-11 20:01:23 1484161283 DEBUG: Cart 6917: Validating order
+2017-01-11 20:01:23 1484161283 DEBUG: Cart 6917: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-01-11 20:01:24 1484161283 DEBUG: Cart 6917: Order 567 / Le paiement a été autorisé et capturé par Paybox.
+2017-01-11 20:01:25 1484161285 DEBUG: Cart 6917: Customer is back from Paybox payment page. Payment success.

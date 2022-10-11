@@ -1,0 +1,10 @@
+2017-04-09 21:36:23 1491766583 DEBUG: URL to check 2
+2017-04-09 21:36:23 1491766583 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-09 21:36:23 1491766583 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-04-09 21:36:23 1491766583 DEBUG: Cart 11721: Redirecting customer to Paybox (CARTE, CB).
+2017-04-09 21:38:27 1491766707 DEBUG: Call params: M=6600&R=11721%20-%20Camille%20CANEL&T=704824693&A=657652&B=0&C=MasterCard&D=1803&E=00000&F=Y&G=O&I=FRA&J=43&N=513277&O=Y&P=3DSECURE&Q=21%3A36%3A24&S=699001707&W=09042017&Y=FRA&K=lefLDM%2BUUo5FP09mHpW8XF%2F3eGi%2FcLfaRogzoKoBv%2BPZPH0NpWg8r9By7p8V%2F3R6P6JuwctGhbtJfNXbK5KKyRfuyiq%2Bk8wYEoSKPoBS0oyiC0iw%2BWaDlCxFxtPdE%2Ff9wfWo%2B2ASqONh9SZ3ipJoK44AwshcglXHCvKgWQAn5GU%3D
+2017-04-09 21:38:27 1491766707 DEBUG: Cart 11721: Standard IPN
+2017-04-09 21:38:27 1491766707 DEBUG: Cart 11721: Validating order
+2017-04-09 21:38:28 1491766708 DEBUG: Cart 11721: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-04-09 21:38:29 1491766707 DEBUG: Cart 11721: Order 902 / Le paiement a été autorisé et capturé par Paybox.
+2017-04-09 21:38:29 1491766709 DEBUG: Cart 11721: Customer is back from Paybox payment page. Payment success.

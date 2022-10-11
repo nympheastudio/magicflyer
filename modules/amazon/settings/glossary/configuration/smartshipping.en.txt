@@ -1,0 +1,1 @@
+Use "Smart Shipping" facility. This options allows to calculate per product shipping fees based on weight.

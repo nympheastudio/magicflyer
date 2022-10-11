@@ -1,0 +1,2 @@
+Estrategia por defecto a aplicar para todo el catálogo
+Si no se selecciona una estrategia en el perfil, esta será la estrategia a aplicar.

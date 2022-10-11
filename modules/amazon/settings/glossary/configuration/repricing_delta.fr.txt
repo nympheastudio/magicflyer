@@ -1,0 +1,5 @@
+ 
+A gauche, pourcentage maximum à la baisse
+A droite, pourcentage maximum à la haute 
+
+Le prix de base utilisé est le prix régulier du module, c'est à dire le prix que le module envoie habituellement à Amazon.

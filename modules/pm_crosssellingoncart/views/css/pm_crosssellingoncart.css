@@ -1,0 +1,151 @@
+div#csoc-container {
+	margin-bottom: 10px; 
+}
+div#csoc-container div.product-container .product-image-container {
+	text-align: center;
+}
+div#csoc-container div.product-container .product-image-container img {
+	border: 1px solid #D6D4D4;
+	/*padding: 9px 0;*//*incompatible avec magic flyer style */
+	margin: 0 auto;
+}
+div#csoc-container div.product-container.product-box .product-image-container img {
+	border: 0;
+	padding: 0;
+	margin: 0 auto;
+}
+div#csoc-container div.product-container .content_price {
+	text-align: center;
+	margin-bottom: 10px;
+}
+div#csoc-container div.product-container.product-box .content_price {
+	text-align: left;
+}
+div#csoc-container div.product-container .right-block {
+	text-align: center;
+}
+div#csoc-container div.product-container .left-block {
+	position:relative;
+	margin:0 auto;
+}
+div#csoc-container div.product-container .availability span {
+	color: #FFFFFF;
+	display: inline-block;
+	font-weight: bold;
+	margin-bottom: 20px;
+	padding: 3px 8px 4px;
+}
+div#csoc-container div.product-container .availability span.available-now {
+	background: #46A74E;
+	border: 1px solid #36943E;
+}
+div#csoc-container div.product-container .availability span.out-of-stock {
+	background: #ff7430;
+	border: 1px solid #EA5E1A;
+}
+div#csoc-container  div.product-container div.button-container {
+	margin-bottom: 5px;
+}
+div#csoc-container div.product-container.csoc_product, div#csoc-container div.product-container .addtocart_buttons_container {
+	text-align: center;
+}
+div#csoc-container div.product-container .addtocart_buttons_container a {
+	margin-left: auto;
+	margin-right: auto;
+}
+div#csoc-container div.product-container .csoc_product_title {
+	padding-top: 10px;
+}
+div#csoc-container .image-block {
+	padding: 5px;
+}
+div#csoc-container .left-block {
+    /* width: 178px !important; */
+}
+
+/* Like the accessories  */
+div#csoc-container .csoc-block .block_description {
+  display: none; }
+div#csoc-container .csoc-block .exclusive span {
+  font-size: 13px;
+  line-height: 18px;
+  padding: 2px 8px 3px;
+  text-decoration: none; }
+  div#csoc-container .csoc-block .exclusive span:focus, div#csoc-container .csoc-block .exclusive span:active {
+    text-decoration: none; }
+div#csoc-container .csoc-block .product-name {
+  margin-bottom: 5px; }
+  div#csoc-container .csoc-block .product-name a {
+    font-size: 15px;
+    line-height: 18px;
+    color: #3a3939; }
+    div#csoc-container .csoc-block .product-name a:hover {
+      color: #515151; }
+div#csoc-container .csoc-block div ul li a {
+  display: inline-block; }
+div#csoc-container .csoc-block div ul li.s_title_block a,
+div#csoc-container .csoc-block div ul li.s_title_block span {
+  font-weight: 700; }
+
+/* Modal Cart 3 */
+div#csoc-container.pm_mc_csoc {
+	margin-bottom: 0 !important;
+	margin-top: 0 !important;
+}
+div#csoc-container.pm_mc_csoc span.availability {
+	display: none;
+}
+div#csoc-container.pm_mc_csoc .button-small.ajax_add_to_cart_button span {
+	font: bold 13px/17px Arial,Helvetica,sans-serif;
+	padding: 0.5em;
+}
+div#csoc-container.pm_mc_csoc .content_price span {
+	font-size: 1.3em;
+}
+/* Modal Cart 3 */
+
+/* PrestaShop 1.7 */
+div#csoc-container .product-miniature .thumbnail-container.with-button {
+	height: 362px;
+}
+div#csoc-container .product-miniature .thumbnail-container.with-button .product-description {
+	height: 115px;
+}
+div#csoc-container .product-miniature .thumbnail-container.with-button .highlighted-informations {
+	height: 6.125rem;
+}
+div#csoc-container .product-miniature .available,
+div#csoc-container .product-miniature .unavailable {
+	display: block;
+    position: absolute;
+    left: -0.4375rem;
+    top: 12.4375rem;
+    padding: 0.3125rem 0.4375rem;
+    color: white;
+    background: #2fb5d2;
+    text-transform: uppercase;
+    min-width: 3.125rem;
+    min-height: 1.875rem;
+    font-size: 1rem;
+    font-weight: 600;
+    box-shadow: 2px 2px 11px 0px rgba(0, 0, 0, 0.1);
+}
+
+div#csoc-container .product-miniature .available{
+    background: #4cbb6c;
+}
+div#csoc-container .product-miniature .unavailable {
+    background: #ff9a52;
+}
+
+div#csoc-container .product-miniature .button_display .btn {
+	font-size: 0.7rem;
+	margin-top: 5px;
+}
+div#csoc-container .product-miniature .button_display .btn i {
+	font-size: 0.8rem;
+}
+div#csoc-container {
+	padding-top: 10px;
+}
+/* PrestaShop 1.7 */

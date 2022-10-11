@@ -1,0 +1,19 @@
+2022-04-07 17:42:11 1649346131 DEBUG: URL to check 2
+2022-04-07 17:42:11 1649346131 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-07 17:42:11 1649346131 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-04-07 17:42:11 1649346131 DEBUG: Cart 60110: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-07 17:54:08 1649346848 DEBUG: URL to check 2
+2022-04-07 17:54:08 1649346848 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-07 17:54:08 1649346848 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-04-07 17:54:08 1649346848 DEBUG: Cart 60112: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-07 21:59:08 1649361548 DEBUG: URL to check 2
+2022-04-07 21:59:08 1649361548 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-07 21:59:08 1649361548 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-04-07 21:59:08 1649361548 DEBUG: Cart 60117: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-07 22:02:07 1649361727 DEBUG: Call params: M=8080&R=60117%20-%20Elodie%20GORRET&T=1052276379&A=145207&B=0&C=CB&D=2305&E=00000&F=Y&G=O&I=FRA&J=05&N=497887&O=Y&P=3DSECURE&Q=22%3A02%3A05&S=906959418&W=07042022&Y=FRA&Z=0-0&K=C69otv0nHcgm%2Fy%2BLKROY%2BqnUl64JUetdY6I5LpyS2H%2FH3KaWUTPtkc6J%2FQiPRQxDAFxAC32vRZ7tDeys1Oh2ojMhOQWmdz56NUgTlx4AtnJ5Jjq9Kf%2FkGLH59UmDKI%2BFg729Ih9UJ2EbA8LAqplzg21jIGlMuRZe%2B%2FFfEyVYlbc%3D
+2022-04-07 22:02:07 1649361727 DEBUG: Cart 60117: Standard IPN
+2022-04-07 22:02:07 1649361727 DEBUG: Cart 60117: Validating order
+2022-04-07 22:02:08 1649361728 DEBUG: Cart 60117: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-04-07 22:02:09 1649361727 DEBUG: Cart 60117: Order 5773 validated, creating details
+2022-04-07 22:02:09 1649361727 DEBUG: Cart 60117: Order 5773 / Le paiement a été autorisé et capturé par Paybox.
+2022-04-07 22:02:09 1649361729 DEBUG: Cart 60117: Customer is back from Verifone e-commerce payment page. Payment success.

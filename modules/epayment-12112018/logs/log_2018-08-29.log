@@ -1,0 +1,36 @@
+2018-08-29 00:32:14 1535495534 DEBUG: URL to check 2
+2018-08-29 00:32:14 1535495534 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-29 00:32:14 1535495534 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-08-29 00:32:14 1535495534 DEBUG: Cart 27367: Redirecting customer to Paybox (CARTE, CB).
+2018-08-29 00:34:49 1535495689 DEBUG: Call params: M=22714&R=27367%20-%20Sylvie%20%20Pigeon&T=42461067&A=032103&B=0&C=MasterCard&D=1902&E=00000&F=Y&G=O&I=CAN&J=43&N=516075&O=Y&P=CARTE&Q=00%3A32%3A06&S=921630775&W=29082018&Y=CAN&K=n%2FaJnwhspE8xoMqNZyx7Sr0Mn%2Bpq1%2FqebBh7UXWNtXEAElJZrQZXgXcwv18qfRK4gSY3U6TTs%2FQmHDcy5embS6XrLsrJzlvHMZKt3sr80Sjn07BegUkyzvfwVakaUOqIKVmcAKEThq3%2BMBeGk%2Bel49usRdI5cIKc5Zt%2FfxBknAc%3D
+2018-08-29 00:34:49 1535495689 DEBUG: Cart 27367: Standard IPN
+2018-08-29 00:34:49 1535495689 DEBUG: Cart 27367: Validating order
+2018-08-29 00:34:50 1535495689 DEBUG: Cart 27367: Order 3246 / Le paiement a été autorisé et capturé par Paybox.
+2018-08-29 00:34:50 1535495690 DEBUG: Cart 27367: Customer is back from Paybox payment page. Payment success.
+2018-08-29 18:05:27 1535558727 DEBUG: URL to check 2
+2018-08-29 18:05:27 1535558727 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-29 18:05:27 1535558727 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-08-29 18:05:27 1535558727 DEBUG: Cart 27375: Redirecting customer to Paybox (CARTE, CB).
+2018-08-29 18:06:35 1535558795 DEBUG: Call params: M=11292&R=27375%20-%20Marianne%20Ducret&T=42775536&A=225443&B=0&C=Visa&D=2105&E=00000&F=Y&G=O&I=FRA&J=32&N=497408&O=Y&P=3DSECURE&Q=18%3A05%3A22&S=921873241&W=29082018&Y=FRA&K=Lo9W0Oe%2BasWr4vrWMSF1PacXrJquSOo2oH5rvHDNbvClX4ZZZa1rs1ipUHWSNuSM79G93QYyKt95Qo1RJNl1Ha63JRixvr9V1nf7hipseBuVehukNwXoz6XckMlB36DQnrkHJ%2FFzac9r4ys5P58cMvMOq%2BcoVea0D3Px6KimUlY%3D
+2018-08-29 18:06:35 1535558795 DEBUG: Cart 27375: Standard IPN
+2018-08-29 18:06:35 1535558795 DEBUG: Cart 27375: Validating order
+2018-08-29 18:06:35 1535558795 DEBUG: Cart 27375: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-08-29 18:06:36 1535558795 DEBUG: Cart 27375: Order 3248 / Le paiement a été autorisé et capturé par Paybox.
+2018-08-29 18:06:36 1535558796 DEBUG: Cart 27375: Customer is back from Paybox payment page. Payment success.
+2018-08-29 21:34:50 1535571290 DEBUG: URL to check 2
+2018-08-29 21:34:50 1535571290 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-29 21:34:50 1535571290 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-08-29 21:34:50 1535571290 DEBUG: Cart 27388: Redirecting customer to Paybox (CARTE, CB).
+2018-08-29 21:51:18 1535572278 DEBUG: Call params: M=9259&R=27388%20-%20Wendy%20Van%20Tendeloo&T=42850706&A=978670&B=0&C=MasterCard&D=2205&E=00000&F=Y&G=O&I=BEL&J=21&N=544038&O=Y&P=3DSECURE&Q=21%3A34%3A44&S=921937697&W=29082018&Y=BEL&K=0zXSaowGy6xosxxBixPM5S%2B58dVEtZOlDg26Z%2BT1Q3wC5JIXNAHVcALbP2zoB9y%2F4X02vc1%2BE6ouzfmyD%2BiWJOtPBda%2B9xn2Yi9J6%2Fmza9KTZoW8QH%2FsMeoIKALPUGKChEwefTYCI81lAkaQLEibMdmtwLW%2FEpcND2niflFnCQU%3D
+2018-08-29 21:51:18 1535572278 DEBUG: Cart 27388: Standard IPN
+2018-08-29 21:51:18 1535572278 DEBUG: Cart 27388: Validating order
+2018-08-29 21:51:18 1535572278 DEBUG: Cart 27388: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-08-29 21:51:19 1535572278 DEBUG: Cart 27388: Order 3249 / Le paiement a été autorisé et capturé par Paybox.
+2018-08-29 21:51:19 1535572279 DEBUG: Cart 27388: Customer is back from Paybox payment page. Payment success.
+2018-08-29 22:03:42 1535573022 DEBUG: URL to check 2
+2018-08-29 22:03:42 1535573022 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-29 22:03:42 1535573022 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-08-29 22:03:42 1535573022 DEBUG: Cart 27390: Redirecting customer to Paybox (CARTE, CB).
+2018-08-29 22:04:59 1535573099 DEBUG: Call params: M=17833&R=27390%20-%20sarah%20centeleghe&T=42860421&B=0&C=MasterCard&D=2004&E=00151&F=Y&G=O&I=FRA&J=--&N=513770&O=Y&P=3DSECURE&Q=22%3A03%3A35&S=921941296&W=29082018&Y=FRA&K=LB06nscrHFF8QopHIVvYjWGGU3xF1Fpuo9fTrt%2B56FDgAGaK2zXi0AkOp5MQY%2F6TXNyUcNS6sLd15jkIrnTKpQ0QdrogxFUPBwf53SUwTRF3z1e%2BuqH7mrSAYQmqFTTQpqR%2Bpzp%2FSuGMWiLkgo%2FEkKr4RF5avd8dVT7QcNtBwjA%3D
+2018-08-29 22:04:59 1535573099 DEBUG: Cart 27390: (IPN) Payment was refused by Paybox (151).
+2018-08-29 22:12:02 1535573522 DEBUG: Cart 27390: Payment was canceled by user on Paybox payment page.

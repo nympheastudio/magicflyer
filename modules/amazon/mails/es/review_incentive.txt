@@ -1,0 +1,16 @@
+Estimado {firstname} {lastname},
+
+Las evaluaciones le guían en sus compras en el Marketplace de Amazon pero también su evaluación será igualmente útil a los futuros compradores del Marketplace.
+
+Así, nosotros le agradeceríamos de evaluar positivamente nuestro servicio.
+
+Lo puede hacer en un momento, iniciando sesión en su cuenta en la dirección: 
+{amazon_review_url}
+
+Simplemente siga las instrucciones.
+
+Le agradecemos su confianza en nosotros y deseamos volver a verlo muy pronto en el Marketplace de Amazon.
+
+Cordialmente,
+El Servicio de Atención al Cliente
+{shop_name}

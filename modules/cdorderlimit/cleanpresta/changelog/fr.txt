@@ -1,0 +1,9 @@
+1.2.0 - 14/06/2016
+	Ajout de la restriction des groupes clients 
+	
+1.1.0
+	Centralisation du système de documentation
+	Mise en place des modules de base
+	
+1.0.0
+	Mise en place

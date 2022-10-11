@@ -1,0 +1,18 @@
+2020-09-23 16:44:32 1600872272 DEBUG: URL to check 2
+2020-09-23 16:44:32 1600872272 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-09-23 16:44:32 1600872272 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2020-09-23 16:44:32 1600872272 DEBUG: Cart 47954: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-09-23 16:44:45 1600872285 DEBUG: URL to check 2
+2020-09-23 16:44:45 1600872285 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-09-23 16:44:45 1600872285 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2020-09-23 16:44:45 1600872285 DEBUG: Cart 47954: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-09-23 16:46:23 1600872383 DEBUG: Call params: M=8581&R=47954%20-%20AUReLIEN%20BeNARD&T=953677290&A=570247&B=0&C=Visa&D=2109&E=00000&F=Y&G=O&I=FRA&J=19&N=497887&O=Y&P=CARTE&Q=16%3A44%3A45&S=213867619&W=23092020&Y=FRA&Z=0-0&K=I%2FiLdvh2qsVu1EJIJUVGwW9gts%2FsjWlDSHOK%2Bwr2%2BVTPPxTWqbajRobr9lJCLrnPpSSxWpDV8bMLu6nMtESHgjKgavEPW8fE9%2BcTs0BhZuR0gsuSYUkKqoHCE4RVV%2Bp64I9gae9qE%2BrVRMH4ny1zmOlZ3HMGg2bBizzL02vkfBo%3D
+2020-09-23 16:46:23 1600872383 DEBUG: Cart 47954: Standard IPN
+2020-09-23 16:46:23 1600872383 DEBUG: Cart 47954: Validating order
+2020-09-23 16:46:23 1600872383 DEBUG: Cart 47954: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2020-09-23 16:46:24 1600872384 DEBUG: Cart 47954: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2020-09-23 16:46:25 1600872385 DEBUG: Cart 47954: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2020-09-23 16:46:27 1600872387 DEBUG: Cart 47954: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2020-09-23 16:46:27 1600872383 DEBUG: Cart 47954: Order 5077 validated, creating details
+2020-09-23 16:46:27 1600872383 DEBUG: Cart 47954: Order 5077 / Le paiement a été autorisé et capturé par Paybox.
+2020-09-23 16:46:28 1600872388 DEBUG: Cart 47954: Customer is back from Verifone e-commerce payment page. Payment success.

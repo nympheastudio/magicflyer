@@ -1,0 +1,14 @@
+2021-12-03 22:50:04 1638568204 DEBUG: URL to check 2
+2021-12-03 22:50:04 1638568204 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-12-03 22:50:04 1638568204 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-12-03 22:50:04 1638568204 DEBUG: Cart 56999: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-12-03 22:51:00 1638568260 DEBUG: Call params: M=4279&R=56999%20-%20Cedric%20Coureau&T=1034570619&A=726702&B=0&C=Visa&D=2212&E=00000&F=Y&G=O&I=FRA&J=10&N=416538&O=Y&P=CARTE&Q=22%3A50%3A58&S=289030114&W=03122021&Y=FRA&Z=0-0&K=VApZZZpYCR1rIm%2FGXgHTl%2BQR5T7gY9Y83YJKwj4vbbuiqhROrqq3Ju5kIpSMAC8NL9akl0HGQCro30h2kveCf2iPS0aMG3wU00rOMv63jC75HqDQm6WNVuFwDR5f8Pj65iZzpPUuCwUBoLjuVLKexBzXtQrXYZUH8fcTBeS6f88%3D
+2021-12-03 22:51:00 1638568260 DEBUG: Cart 56999: Standard IPN
+2021-12-03 22:51:00 1638568260 DEBUG: Cart 56999: Validating order
+2021-12-03 22:51:01 1638568261 DEBUG: Cart 56999: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2021-12-03 22:51:02 1638568262 DEBUG: Cart 56999: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2021-12-03 22:51:03 1638568263 DEBUG: Cart 56999: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2021-12-03 22:51:04 1638568264 DEBUG: Cart 56999: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2021-12-03 22:51:04 1638568260 DEBUG: Cart 56999: Order 5618 validated, creating details
+2021-12-03 22:51:04 1638568260 DEBUG: Cart 56999: Order 5618 / Le paiement a été autorisé et capturé par Paybox.
+2021-12-03 22:51:05 1638568265 DEBUG: Cart 56999: Customer is back from Verifone e-commerce payment page. Payment success.

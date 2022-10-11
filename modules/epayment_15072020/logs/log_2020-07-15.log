@@ -1,0 +1,474 @@
+2020-07-15 00:29:23 1594765763 DEBUG: URL to check 2
+2020-07-15 00:29:23 1594765763 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 00:29:23 1594765763 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 00:29:23 1594765763 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 00:29:23 1594765763 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 00:29:23 1594765763 DEBUG: No valid URL found!
+2020-07-15 00:29:29 1594765769 DEBUG: URL to check 2
+2020-07-15 00:29:29 1594765769 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 00:29:29 1594765769 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 00:29:29 1594765769 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 00:29:29 1594765769 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 00:29:29 1594765769 DEBUG: No valid URL found!
+2020-07-15 00:30:50 1594765850 DEBUG: URL to check 2
+2020-07-15 00:30:50 1594765850 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 00:30:50 1594765850 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 00:30:50 1594765850 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 00:30:50 1594765850 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 00:30:50 1594765850 DEBUG: No valid URL found!
+2020-07-15 09:07:19 1594796839 DEBUG: URL to check 2
+2020-07-15 09:07:19 1594796839 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 09:07:19 1594796839 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 09:07:19 1594796839 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 09:07:19 1594796839 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 09:07:19 1594796839 DEBUG: No valid URL found!
+2020-07-15 09:10:58 1594797057 DEBUG: URL to check 2
+2020-07-15 09:10:58 1594797057 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 09:10:58 1594797057 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 09:10:58 1594797057 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 09:10:58 1594797057 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 09:10:58 1594797057 DEBUG: No valid URL found!
+2020-07-15 09:11:22 1594797082 DEBUG: URL to check 2
+2020-07-15 09:11:22 1594797082 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 09:11:22 1594797082 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 09:11:22 1594797082 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 09:11:22 1594797082 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 09:11:22 1594797082 DEBUG: No valid URL found!
+2020-07-15 09:11:25 1594797085 DEBUG: URL to check 2
+2020-07-15 09:11:25 1594797085 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 09:11:25 1594797085 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 09:11:25 1594797085 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 09:11:25 1594797085 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 09:11:25 1594797085 DEBUG: No valid URL found!
+2020-07-15 10:29:56 1594801796 DEBUG: URL to check 2
+2020-07-15 10:29:56 1594801796 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:29:56 1594801796 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:29:56 1594801796 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:29:56 1594801796 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:29:56 1594801796 DEBUG: No valid URL found!
+2020-07-15 10:30:38 1594801838 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 10:30:40 1594801838 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 10:35:44 1594802144 DEBUG: URL to check 2
+2020-07-15 10:35:44 1594802144 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:35:44 1594802144 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:35:44 1594802144 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:35:44 1594802144 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:35:44 1594802144 DEBUG: No valid URL found!
+2020-07-15 10:38:37 1594802317 DEBUG: URL to check 2
+2020-07-15 10:38:37 1594802317 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:38:37 1594802317 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:38:37 1594802317 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:38:38 1594802317 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:38:38 1594802317 DEBUG: No valid URL found!
+2020-07-15 10:39:14 1594802353 DEBUG: URL to check 2
+2020-07-15 10:39:14 1594802353 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:39:14 1594802353 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:39:14 1594802353 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:39:14 1594802353 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:39:14 1594802353 DEBUG: No valid URL found!
+2020-07-15 10:41:40 1594802500 DEBUG: URL to check 2
+2020-07-15 10:41:40 1594802500 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:41:40 1594802500 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:41:40 1594802500 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:41:40 1594802500 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:41:40 1594802500 DEBUG: No valid URL found!
+2020-07-15 10:44:54 1594802694 DEBUG: URL to check 2
+2020-07-15 10:44:54 1594802694 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:44:54 1594802694 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:44:54 1594802694 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:44:54 1594802694 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:44:54 1594802694 DEBUG: No valid URL found!
+2020-07-15 10:46:54 1594802814 DEBUG: URL to check 2
+2020-07-15 10:46:54 1594802814 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:46:54 1594802814 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:46:54 1594802814 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:46:54 1594802814 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:46:54 1594802814 DEBUG: No valid URL found!
+2020-07-15 10:47:08 1594802828 DEBUG: URL to check 2
+2020-07-15 10:47:08 1594802828 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:47:08 1594802828 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:47:08 1594802828 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:47:08 1594802828 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:47:08 1594802828 DEBUG: No valid URL found!
+2020-07-15 10:48:03 1594802883 DEBUG: URL to check 2
+2020-07-15 10:48:03 1594802883 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 10:48:03 1594802883 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:48:03 1594802883 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 10:48:03 1594802883 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 10:48:03 1594802883 DEBUG: No valid URL found!
+2020-07-15 11:05:17 1594803917 DEBUG: URL to check 2
+2020-07-15 11:05:17 1594803917 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 11:05:17 1594803917 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:05:17 1594803917 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 11:05:17 1594803917 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:05:17 1594803917 DEBUG: No valid URL found!
+2020-07-15 11:07:43 1594804063 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 11:07:43 1594804063 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 11:32:50 1594805570 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 11:32:50 1594805570 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 11:41:55 1594806115 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 11:41:55 1594806115 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 11:44:34 1594806274 DEBUG: URL to check 2
+2020-07-15 11:44:34 1594806274 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 11:44:34 1594806274 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:44:34 1594806274 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 11:44:34 1594806274 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:44:34 1594806274 DEBUG: No valid URL found!
+2020-07-15 11:45:24 1594806324 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 11:45:24 1594806324 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 11:45:43 1594806343 DEBUG: URL to check 2
+2020-07-15 11:45:43 1594806343 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 11:45:43 1594806343 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:45:43 1594806343 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 11:45:43 1594806343 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:45:43 1594806343 DEBUG: No valid URL found!
+2020-07-15 11:48:15 1594806495 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 11:48:15 1594806495 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 11:48:40 1594806520 DEBUG: URL to check 2
+2020-07-15 11:48:40 1594806520 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 11:48:40 1594806520 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:48:40 1594806520 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 11:48:40 1594806520 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:48:40 1594806520 DEBUG: No valid URL found!
+2020-07-15 11:52:33 1594806753 DEBUG: URL to check 2
+2020-07-15 11:52:33 1594806753 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 11:52:33 1594806753 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:52:33 1594806753 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 11:52:33 1594806753 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:52:33 1594806753 DEBUG: No valid URL found!
+2020-07-15 11:55:22 1594806922 DEBUG: URL to check 2
+2020-07-15 11:55:22 1594806922 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 11:55:22 1594806922 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:55:22 1594806922 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 11:55:22 1594806922 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:55:22 1594806922 DEBUG: No valid URL found!
+2020-07-15 11:59:34 1594807174 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 11:59:34 1594807174 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 11:59:45 1594807185 DEBUG: URL to check 2
+2020-07-15 11:59:45 1594807185 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 11:59:45 1594807185 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:59:45 1594807185 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 11:59:45 1594807185 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 11:59:45 1594807185 DEBUG: No valid URL found!
+2020-07-15 12:00:05 1594807203 DEBUG: URL to check 2
+2020-07-15 12:00:05 1594807203 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:00:05 1594807203 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:00:05 1594807203 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:00:05 1594807203 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:00:05 1594807203 DEBUG: No valid URL found!
+2020-07-15 12:04:31 1594807471 DEBUG: URL to check 2
+2020-07-15 12:04:31 1594807471 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:04:31 1594807471 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:04:31 1594807471 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:04:31 1594807471 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:04:31 1594807471 DEBUG: No valid URL found!
+2020-07-15 12:05:11 1594807511 DEBUG: URL to check 2
+2020-07-15 12:05:11 1594807511 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:05:11 1594807511 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:05:11 1594807511 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:05:11 1594807511 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:05:11 1594807511 DEBUG: No valid URL found!
+2020-07-15 12:05:57 1594807556 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:05:57 1594807556 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:06:20 1594807580 DEBUG: URL to check 2
+2020-07-15 12:06:20 1594807580 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:06:20 1594807580 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:06:20 1594807580 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:06:20 1594807580 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:06:20 1594807580 DEBUG: No valid URL found!
+2020-07-15 12:06:32 1594807592 DEBUG: URL to check 2
+2020-07-15 12:06:32 1594807592 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:06:32 1594807592 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:06:32 1594807592 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:06:32 1594807592 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:06:32 1594807592 DEBUG: No valid URL found!
+2020-07-15 12:08:37 1594807717 DEBUG: URL to check 2
+2020-07-15 12:08:37 1594807717 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:08:37 1594807717 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:08:37 1594807717 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:08:37 1594807717 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:08:37 1594807717 DEBUG: No valid URL found!
+2020-07-15 12:09:44 1594807784 DEBUG: URL to check 2
+2020-07-15 12:09:44 1594807784 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:09:45 1594807784 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:09:45 1594807784 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:09:45 1594807784 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:09:45 1594807784 DEBUG: No valid URL found!
+2020-07-15 12:10:50 1594807850 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:10:50 1594807850 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:11:34 1594807894 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:11:34 1594807894 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:12:01 1594807921 DEBUG: URL to check 2
+2020-07-15 12:12:01 1594807921 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:12:01 1594807921 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:12:01 1594807921 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:12:01 1594807921 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:12:01 1594807921 DEBUG: No valid URL found!
+2020-07-15 12:12:15 1594807935 DEBUG: URL to check 2
+2020-07-15 12:12:15 1594807935 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:12:15 1594807935 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:12:15 1594807935 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:12:15 1594807935 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:12:15 1594807935 DEBUG: No valid URL found!
+2020-07-15 12:12:28 1594807948 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:12:28 1594807948 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:12:49 1594807969 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:12:49 1594807969 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:14:15 1594808055 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:14:15 1594808055 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:14:54 1594808093 DEBUG: URL to check 2
+2020-07-15 12:14:54 1594808093 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:14:54 1594808093 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:14:54 1594808093 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:14:54 1594808093 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:14:54 1594808093 DEBUG: No valid URL found!
+2020-07-15 12:15:31 1594808131 DEBUG: URL to check 2
+2020-07-15 12:15:31 1594808131 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:15:31 1594808131 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:15:31 1594808131 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:15:31 1594808131 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:15:31 1594808131 DEBUG: No valid URL found!
+2020-07-15 12:15:35 1594808135 DEBUG: URL to check 2
+2020-07-15 12:15:35 1594808135 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:15:35 1594808135 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:15:35 1594808135 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:15:35 1594808135 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:15:35 1594808135 DEBUG: No valid URL found!
+2020-07-15 12:16:44 1594808203 DEBUG: URL to check 2
+2020-07-15 12:16:44 1594808203 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:16:44 1594808203 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:16:44 1594808203 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:16:44 1594808203 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:16:44 1594808203 DEBUG: No valid URL found!
+2020-07-15 12:19:57 1594808397 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:19:57 1594808397 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:20:09 1594808408 DEBUG: URL to check 1
+2020-07-15 12:20:09 1594808408 DEBUG: Checking Verifone e-commerce URL https://preprod-tpeweb.paybox.com/load.html
+2020-07-15 12:20:09 1594808408 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:20:09 1594808408 DEBUG: No valid URL found!
+2020-07-15 12:20:24 1594808424 DEBUG: URL to check 1
+2020-07-15 12:20:24 1594808424 DEBUG: Checking Verifone e-commerce URL https://preprod-tpeweb.paybox.com/load.html
+2020-07-15 12:20:24 1594808424 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:20:24 1594808424 DEBUG: No valid URL found!
+2020-07-15 12:20:39 1594808439 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:20:39 1594808439 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:21:09 1594808469 DEBUG: URL to check 2
+2020-07-15 12:21:09 1594808469 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:21:09 1594808469 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:21:09 1594808469 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:21:09 1594808469 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:21:09 1594808469 DEBUG: No valid URL found!
+2020-07-15 12:21:23 1594808483 DEBUG: URL to check 2
+2020-07-15 12:21:23 1594808483 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:21:23 1594808483 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:21:23 1594808483 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:21:23 1594808483 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:21:23 1594808483 DEBUG: No valid URL found!
+2020-07-15 12:25:49 1594808749 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 12:25:49 1594808749 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 12:26:15 1594808775 DEBUG: URL to check 2
+2020-07-15 12:26:15 1594808775 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:26:15 1594808775 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:26:15 1594808775 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:26:15 1594808775 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:26:15 1594808775 DEBUG: No valid URL found!
+2020-07-15 12:27:40 1594808860 DEBUG: URL to check 2
+2020-07-15 12:27:40 1594808860 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:27:40 1594808860 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:27:40 1594808860 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:27:40 1594808860 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:27:40 1594808860 DEBUG: No valid URL found!
+2020-07-15 12:30:15 1594809015 DEBUG: URL to check 2
+2020-07-15 12:30:15 1594809015 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 12:30:15 1594809015 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:30:15 1594809015 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 12:30:15 1594809015 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 12:30:15 1594809015 DEBUG: No valid URL found!
+2020-07-15 13:22:07 1594812126 DEBUG: URL to check 2
+2020-07-15 13:22:07 1594812126 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 13:22:07 1594812126 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:22:07 1594812126 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 13:22:07 1594812126 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:22:07 1594812126 DEBUG: No valid URL found!
+2020-07-15 13:37:44 1594813064 DEBUG: URL to check 2
+2020-07-15 13:37:44 1594813064 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 13:37:44 1594813064 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:37:44 1594813064 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 13:37:44 1594813064 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:37:44 1594813064 DEBUG: No valid URL found!
+2020-07-15 13:38:32 1594813112 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 13:38:32 1594813112 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 13:40:16 1594813216 DEBUG: URL to check 2
+2020-07-15 13:40:16 1594813216 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 13:40:16 1594813216 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:40:16 1594813216 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 13:40:16 1594813216 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:40:16 1594813216 DEBUG: No valid URL found!
+2020-07-15 13:42:16 1594813336 DEBUG: URL to check 2
+2020-07-15 13:42:16 1594813336 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 13:42:16 1594813336 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:42:16 1594813336 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 13:42:16 1594813336 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:42:16 1594813336 DEBUG: No valid URL found!
+2020-07-15 13:53:03 1594813983 DEBUG: URL to check 2
+2020-07-15 13:53:03 1594813983 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 13:53:03 1594813983 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:53:03 1594813983 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 13:53:03 1594813983 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:53:03 1594813983 DEBUG: No valid URL found!
+2020-07-15 13:54:23 1594814063 DEBUG: URL to check 2
+2020-07-15 13:54:23 1594814063 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 13:54:23 1594814063 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:54:23 1594814063 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 13:54:23 1594814063 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 13:54:23 1594814063 DEBUG: No valid URL found!
+2020-07-15 14:27:37 1594816057 DEBUG: URL to check 2
+2020-07-15 14:27:37 1594816057 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 14:27:37 1594816057 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 14:27:37 1594816057 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 14:27:37 1594816057 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 14:27:37 1594816057 DEBUG: No valid URL found!
+2020-07-15 14:27:45 1594816065 DEBUG: URL to check 2
+2020-07-15 14:27:45 1594816065 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 14:27:45 1594816065 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 14:27:45 1594816065 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 14:27:45 1594816065 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 14:27:45 1594816065 DEBUG: No valid URL found!
+2020-07-15 14:27:46 1594816066 DEBUG: URL to check 2
+2020-07-15 14:27:46 1594816066 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 14:27:46 1594816066 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 14:27:46 1594816066 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 14:27:46 1594816066 DEBUG:   Exception Exception: error setting certificate verify locations:
+  CAfile: /home/magicflyer/public_html/modules/epayment/classes/curl-ca-bundle.crt
+  CApath: none
+2020-07-15 14:27:46 1594816066 DEBUG: No valid URL found!
+2020-07-15 14:43:15 1594816995 DEBUG: Checking Verifone e-commerce update to version 3.0.10.1
+2020-07-15 14:43:15 1594816995 DEBUG:  Exception Exception: Invalid status returned by remote server
+2020-07-15 14:45:19 1594817119 DEBUG: URL to check 2
+2020-07-15 14:45:19 1594817119 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 14:45:19 1594817119 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 14:45:19 1594817119 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 14:45:20 1594817119 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 14:45:20 1594817119 DEBUG: No valid URL found!
+2020-07-15 14:51:34 1594817494 DEBUG: URL to check 2
+2020-07-15 14:51:34 1594817494 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 14:51:34 1594817494 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 14:51:34 1594817494 DEBUG: Checking Verifone e-commerce URL https://tpeweb1.paybox.com/load.html
+2020-07-15 14:51:34 1594817494 DEBUG:   Exception Exception: SSL certificate problem: unable to get local issuer certificate
+2020-07-15 14:51:34 1594817494 DEBUG: No valid URL found!
+2020-07-15 15:03:13 1594818193 DEBUG: URL to check 2
+2020-07-15 15:03:13 1594818193 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 15:03:13 1594818193 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2020-07-15 15:03:13 1594818193 DEBUG: Cart 46025: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-07-15 15:14:07 1594818846 DEBUG: URL to check 2
+2020-07-15 15:14:07 1594818846 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 15:14:07 1594818846 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2020-07-15 15:14:07 1594818846 DEBUG: Cart 46030: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-07-15 16:00:58 1594821658 DEBUG: URL to check 2
+2020-07-15 16:00:58 1594821658 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 16:00:58 1594821658 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2020-07-15 16:00:58 1594821658 DEBUG: Cart 46031: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-07-15 16:03:23 1594821803 DEBUG: Call params: M=12316&R=46031%20-%20Huri%20SARAR&T=939936571&B=0&C=CB&D=2205&E=00040&F=N&G=N&I=FRA&J=29&N=497874&O=Y&P=3DSECURE&Q=16%3A01%3A00&S=201637316&W=15072020&Z=0-0&K=TJiaDuNr6KahwnMRuQ6a8X%2FeY%2BBQ8RjAhm27im%2B1PSNMJGJFPhybJneSr22De9O1gOqPomYcXwbLQkxHpZzkC%2B8jT1a7mZHJkA52Q9hCn16LRCR7xUAbNZs4zs0II%2B1lZOqsaD%2BrS%2F5pweCyIdCm5u8T1JTLmMIlu0vBpqEIqy4%3D
+2020-07-15 16:03:23 1594821803 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:03:24 1594821804 DEBUG: Call params: M=12316&R=46031%20-%20Huri%20SARAR&T=939936571&B=0&C=CB&D=2205&E=00040&F=N&G=N&I=FRA&J=29&N=497874&O=Y&P=3DSECURE&Q=16%3A01%3A00&S=201637316&W=15072020&Z=0-0&K=TJiaDuNr6KahwnMRuQ6a8X%2FeY%2BBQ8RjAhm27im%2B1PSNMJGJFPhybJneSr22De9O1gOqPomYcXwbLQkxHpZzkC%2B8jT1a7mZHJkA52Q9hCn16LRCR7xUAbNZs4zs0II%2B1lZOqsaD%2BrS%2F5pweCyIdCm5u8T1JTLmMIlu0vBpqEIqy4%3D
+2020-07-15 16:03:24 1594821804 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:03:24 1594821804 DEBUG: Call params: M=12316&R=46031%20-%20Huri%20SARAR&T=939936571&B=0&C=CB&D=2205&E=00040&F=N&G=N&I=FRA&J=29&N=497874&O=Y&P=3DSECURE&Q=16%3A01%3A00&S=201637316&W=15072020&Z=0-0&K=TJiaDuNr6KahwnMRuQ6a8X%2FeY%2BBQ8RjAhm27im%2B1PSNMJGJFPhybJneSr22De9O1gOqPomYcXwbLQkxHpZzkC%2B8jT1a7mZHJkA52Q9hCn16LRCR7xUAbNZs4zs0II%2B1lZOqsaD%2BrS%2F5pweCyIdCm5u8T1JTLmMIlu0vBpqEIqy4%3D
+2020-07-15 16:03:24 1594821804 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:07:01 1594822021 DEBUG: URL to check 2
+2020-07-15 16:07:01 1594822021 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 16:07:01 1594822021 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2020-07-15 16:07:01 1594822021 DEBUG: Cart 46021: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-07-15 16:08:46 1594822126 DEBUG: Call params: M=3921&R=46021%20-%20Charlene%20Simonet&T=939938450&A=619922&B=0&C=MasterCard&D=2104&E=00000&F=Y&G=O&I=FRA&J=39&N=513024&O=Y&P=CARTE&Q=16%3A07%3A01&S=201639175&W=15072020&Y=FRA&Z=0-0&K=mcp5ZcupvOq2OUt58gwJy7sxIq7OSnjgkYgF5Fj9I70fBSg7eQ%2FfccYS2Wx9e2RhBpZkGKsc%2FoiMWutOdnPDuclM16bQAExcAPUSzc8M8llYF7usihuzVO1EE5s%2Bj66sQ6nD17FM6KuaysWyPH6q5ZQuAvMsmgvd75cKr5qw5sU%3D
+2020-07-15 16:08:46 1594822126 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:08:46 1594822126 DEBUG: Call params: M=3921&R=46021%20-%20Charlene%20Simonet&T=939938450&A=619922&B=0&C=MasterCard&D=2104&E=00000&F=Y&G=O&I=FRA&J=39&N=513024&O=Y&P=CARTE&Q=16%3A07%3A01&S=201639175&W=15072020&Y=FRA&Z=0-0&K=mcp5ZcupvOq2OUt58gwJy7sxIq7OSnjgkYgF5Fj9I70fBSg7eQ%2FfccYS2Wx9e2RhBpZkGKsc%2FoiMWutOdnPDuclM16bQAExcAPUSzc8M8llYF7usihuzVO1EE5s%2Bj66sQ6nD17FM6KuaysWyPH6q5ZQuAvMsmgvd75cKr5qw5sU%3D
+2020-07-15 16:08:46 1594822126 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:08:46 1594822126 DEBUG: Call params: M=3921&R=46021%20-%20Charlene%20Simonet&T=939938450&A=619922&B=0&C=MasterCard&D=2104&E=00000&F=Y&G=O&I=FRA&J=39&N=513024&O=Y&P=CARTE&Q=16%3A07%3A01&S=201639175&W=15072020&Y=FRA&Z=0-0&K=mcp5ZcupvOq2OUt58gwJy7sxIq7OSnjgkYgF5Fj9I70fBSg7eQ%2FfccYS2Wx9e2RhBpZkGKsc%2FoiMWutOdnPDuclM16bQAExcAPUSzc8M8llYF7usihuzVO1EE5s%2Bj66sQ6nD17FM6KuaysWyPH6q5ZQuAvMsmgvd75cKr5qw5sU%3D
+2020-07-15 16:08:46 1594822126 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:08:47 1594822127 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2020-07-15 16:08:48 1594822128 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2020-07-15 16:08:49 1594822129 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2020-07-15 16:08:51 1594822131 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2020-07-15 16:08:52 1594822132 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2020-07-15 16:08:53 1594822133 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2020-07-15 16:08:59 1594822139 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 6).
+2020-07-15 16:09:00 1594822140 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 7).
+2020-07-15 16:09:01 1594822141 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 8).
+2020-07-15 16:09:03 1594822143 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 9).
+2020-07-15 16:09:04 1594822144 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 10).
+2020-07-15 16:09:05 1594822145 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 11).
+2020-07-15 16:09:06 1594822146 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 12).
+2020-07-15 16:09:08 1594822148 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 13).
+2020-07-15 16:09:09 1594822149 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 14).
+2020-07-15 16:09:10 1594822150 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 15).
+2020-07-15 16:09:12 1594822152 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 16).
+2020-07-15 16:09:13 1594822153 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 17).
+2020-07-15 16:09:14 1594822154 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 18).
+2020-07-15 16:09:15 1594822155 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 19).
+2020-07-15 16:09:17 1594822157 DEBUG: Cart 46021: Customer is back from Verifone e-commerce payment page. Order not validated.
+2020-07-15 16:20:57 1594822857 DEBUG: Call params: t=s&a=i
+2020-07-15 16:20:57 1594822857 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: missing signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1018).
+2020-07-15 16:33:41 1594823621 DEBUG: URL to check 2
+2020-07-15 16:33:41 1594823621 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-07-15 16:33:41 1594823621 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2020-07-15 16:33:41 1594823621 DEBUG: Cart 46034: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-07-15 16:35:01 1594823701 DEBUG: Call params: M=2819&R=46034%20-%20nico%20pero&T=939947146&A=115564&B=0&C=MasterCard&D=2109&E=00000&F=Y&G=O&I=FRA&J=65&N=513165&O=Y&P=3DSECURE&Q=16%3A33%3A43&S=201646628&W=15072020&Y=FRA&Z=0-0&K=MTu2SYL7LYKG4TulTWa%2B0Q9CU58vtu9bEupiHZoQLfqu0jzsscCLGShdrTeI6mWSOQQ1%2F2aBggXMSLBeTr4O6fCKddXiHHa5JKZUmPHXx%2BLRWEG24OG4YC%2BYluLbHaz7bL4qUm7cUW68keeyI7u1o%2FSRKL6dFSacizcZ3WhjD7M%3D
+2020-07-15 16:35:01 1594823701 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:35:01 1594823701 DEBUG: Call params: M=2819&R=46034%20-%20nico%20pero&T=939947146&A=115564&B=0&C=MasterCard&D=2109&E=00000&F=Y&G=O&I=FRA&J=65&N=513165&O=Y&P=3DSECURE&Q=16%3A33%3A43&S=201646628&W=15072020&Y=FRA&Z=0-0&K=MTu2SYL7LYKG4TulTWa%2B0Q9CU58vtu9bEupiHZoQLfqu0jzsscCLGShdrTeI6mWSOQQ1%2F2aBggXMSLBeTr4O6fCKddXiHHa5JKZUmPHXx%2BLRWEG24OG4YC%2BYluLbHaz7bL4qUm7cUW68keeyI7u1o%2FSRKL6dFSacizcZ3WhjD7M%3D
+2020-07-15 16:35:01 1594823701 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:35:01 1594823701 DEBUG: Call params: M=2819&R=46034%20-%20nico%20pero&T=939947146&A=115564&B=0&C=MasterCard&D=2109&E=00000&F=Y&G=O&I=FRA&J=65&N=513165&O=Y&P=3DSECURE&Q=16%3A33%3A43&S=201646628&W=15072020&Y=FRA&Z=0-0&K=MTu2SYL7LYKG4TulTWa%2B0Q9CU58vtu9bEupiHZoQLfqu0jzsscCLGShdrTeI6mWSOQQ1%2F2aBggXMSLBeTr4O6fCKddXiHHa5JKZUmPHXx%2BLRWEG24OG4YC%2BYluLbHaz7bL4qUm7cUW68keeyI7u1o%2FSRKL6dFSacizcZ3WhjD7M%3D
+2020-07-15 16:35:01 1594823701 DEBUG: (IPN) Exception An unexpected error in Verifone e-commerce call has occured: invalid signature. (/home/magicflyer/public_html/modules/epayment/classes/PayboxHelper.php 1039).
+2020-07-15 16:35:03 1594823703 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2020-07-15 16:35:05 1594823705 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2020-07-15 16:35:07 1594823707 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2020-07-15 16:35:09 1594823709 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2020-07-15 16:35:11 1594823711 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2020-07-15 16:35:13 1594823713 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2020-07-15 16:35:15 1594823715 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 6).
+2020-07-15 16:35:16 1594823716 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 7).
+2020-07-15 16:35:19 1594823719 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 8).
+2020-07-15 16:35:20 1594823720 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 9).
+2020-07-15 16:35:22 1594823722 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 10).
+2020-07-15 16:35:24 1594823724 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 11).
+2020-07-15 16:35:26 1594823726 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 12).
+2020-07-15 16:35:28 1594823728 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 13).
+2020-07-15 16:35:30 1594823730 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 14).
+2020-07-15 16:35:32 1594823732 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 15).
+2020-07-15 16:35:34 1594823734 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 16).
+2020-07-15 16:35:36 1594823736 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 17).
+2020-07-15 16:35:38 1594823738 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 18).
+2020-07-15 16:35:40 1594823740 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 19).
+2020-07-15 16:35:42 1594823742 DEBUG: Cart 46034: Customer is back from Verifone e-commerce payment page. Order not validated.

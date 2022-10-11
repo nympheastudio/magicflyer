@@ -1,0 +1,2 @@
+Tipo del nombre del producto; Amazon recomienda formatear el título así: Fabricante - Nombre del producto - Atributos
+Elija Título Estándar, Atributos si sus nombres de productos están ya formateados para Amazon

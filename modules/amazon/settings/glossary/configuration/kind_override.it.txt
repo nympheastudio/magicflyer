@@ -1,0 +1,2 @@
+Per aggiungere tariffe alle tariffe di spedizione già configurate su Amazon. Additive aggiunge le tariffe.
+Exclusive per sostituire le tariffe di spedizione già configurate su  Amazon. Exclusive imposta il  prezzo di spedizione totale.

@@ -1,0 +1,10 @@
+2015-09-17 04:09:44 1442455784 DEBUG: URL to check 2
+2015-09-17 04:09:44 1442455784 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-17 04:09:44 1442455784 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-17 04:09:44 1442455784 DEBUG: Cart 86: Redirecting customer to Paybox (CARTE, CB).
+2015-09-17 04:13:39 1442456019 DEBUG: Call params: M=6591&R=86%20-%20Emmanuelle%20Westphal&T=280463109&A=563339&B=0&C=Visa&D=1703&E=00000&G=D&H=F7DD7E9EBAC0060CD6B48EE1DE235B57F395B172&I=CAN&J=&N=&P=CARTE&Q=04%3A09%3A58&S=285877049&W=17092015&Y=FRA&K=mq3%2Bb6fQO7N1wIf%2FJJCLbTD9gLks%2BWghc%2FuRwcFDLgoOgF%2FFCdopTIFa6Ial2y7MpkHXpvRKv40%2FrwTQ4pyZpVdVYAfgvcuCsxwLe%2Bpd%2F27ejGScvZccbyC7zoqjGkDQzhzjzpHk4dCbE4ohnfW51hCUcY86106JAnzbz42MZUc%3D
+2015-09-17 04:13:39 1442456019 DEBUG: Cart 86: Standard IPN
+2015-09-17 04:13:39 1442456019 DEBUG: Cart 86: Validating order (PS1.5+)
+2015-09-17 04:13:40 1442456020 DEBUG: Cart 86: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-09-17 04:13:41 1442456019 DEBUG: Cart 86: Order 25 / Le paiement a été autorisé et capturé par Paybox.
+2015-09-17 04:13:46 1442456026 DEBUG: Cart 86: Customer is back from Paybox payment page. Payment success.

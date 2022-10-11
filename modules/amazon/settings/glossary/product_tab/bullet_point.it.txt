@@ -1,0 +1,7 @@
+Caratteristiche chiave di default quando esse non vengono indicate nell'etichetta di Amazon del foglio del prodotto.
+
+Se le vostre brevi descrizioni non superano i 2000 caratteri, è possibile mettere questa come prima riga. E' possibile aggiungere le caratteristiche del vostro Prestashop in altre righe. Consigliamo l'opzione "Breve Descrizione, Caratteristiche" e di controllare "con le etichette", questa opzione aggiunge il nome di una caratteristica prima del valore, esempio; Materiale: Jeans.
+
+Qui è mostrato come saranno visibili in Amazon:
+
+<img src = "../modules/amazon/views/img/tips/en/bullet_point_example.jpg"/>

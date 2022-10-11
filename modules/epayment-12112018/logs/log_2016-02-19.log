@@ -1,0 +1,11 @@
+2016-02-19 22:23:20 1455917000 DEBUG: URL to check 2
+2016-02-19 22:23:20 1455917000 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-19 22:23:20 1455917000 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-19 22:23:20 1455917000 DEBUG: Cart 430: Redirecting customer to Paybox (CARTE, CB).
+2016-02-19 22:24:03 1455917043 DEBUG: Call params: M=2347&R=430%20-%20Rune%20Klan&T=607546023&A=222403&B=0&C=Visa&D=1610&E=00000&G=D&H=31611957A41E1EEE34627C8A02BAA9C1E6734449&I=DNK&J=&N=&P=CARTE&Q=22%3A23%3A24&S=606577869&W=19022016&Y=DNK&K=ICSqovq7XifdfvPkDFccnU0eQ3zjU%2FLxGhmxUTw8aab4CGengfaFsv0RPQJBTH5hVIuTFK5maWZgkH87pa6xdVw01hbK2II0dihL88ZZWNJwcucliawZSnyXGORuAACCxJ2cglmkQzznbLBxIto6Qovc4lSmBnFImi5yV4B3sRg%3D
+2016-02-19 22:24:03 1455917043 DEBUG: Cart 430: Standard IPN
+2016-02-19 22:24:03 1455917043 DEBUG: Cart 430: Validating order (PS1.5+)
+2016-02-19 22:24:04 1455917044 DEBUG: Cart 430: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-02-19 22:24:05 1455917045 DEBUG: Cart 430: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-02-19 22:24:05 1455917043 DEBUG: Cart 430: Order 109 / Le paiement a été autorisé et capturé par Paybox.
+2016-02-19 22:24:06 1455917046 DEBUG: Cart 430: Customer is back from Paybox payment page. Payment success.

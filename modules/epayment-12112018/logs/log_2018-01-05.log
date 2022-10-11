@@ -1,0 +1,17 @@
+2018-01-05 11:41:24 1515148884 DEBUG: URL to check 2
+2018-01-05 11:41:24 1515148884 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-01-05 11:41:25 1515148884 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-01-05 11:41:25 1515148884 DEBUG: Cart 20113: Redirecting customer to Paybox (CARTE, CB).
+2018-01-05 13:28:23 1515155302 DEBUG: URL to check 2
+2018-01-05 13:28:23 1515155302 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-01-05 13:28:23 1515155302 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-01-05 13:28:23 1515155302 DEBUG: Cart 20183: Redirecting customer to Paybox (CARTE, CB).
+2018-01-05 13:29:47 1515155387 DEBUG: Call params: M=6342&R=20183%20-%20Angelique%20Ringot&T=779133457&A=562007&B=0&C=Visa&D=1909&E=00000&F=Y&G=O&I=FRA&J=21&N=497040&O=Y&P=3DSECURE&Q=13%3A28%3A24&S=762323147&W=05012018&Y=FRA&K=1RxR9iKCHqdQVytbECTUrGeIbYHlDMQDbzA3KjPmqUQWZzvoMAm3WoR0AUlJWuR135BCza34wKSbEipVtNDbuL0rxebetIA1QaTzdB6qM2u7iSgqv3ocS%2Fg5VYh8WKD9xynACONkURqphth7z9zVQWHXIH5ft2HmB4xcz9MMTfg%3D
+2018-01-05 13:29:47 1515155387 DEBUG: Cart 20183: Standard IPN
+2018-01-05 13:29:47 1515155387 DEBUG: Cart 20183: Validating order
+2018-01-05 13:29:48 1515155388 DEBUG: Cart 20183: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-01-05 13:29:49 1515155389 DEBUG: Cart 20183: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2018-01-05 13:29:50 1515155387 DEBUG: Cart 20183: Order 1843 / Le paiement a été autorisé et capturé par Paybox.
+2018-01-05 13:29:51 1515155391 DEBUG: Cart 20183: Customer is back from Paybox payment page. Payment success.
+2018-01-05 13:29:53 1515155393 DEBUG: Call params: M=6342&R=20183%20-%20Angelique%20Ringot&T=779133457&A=562007&B=0&C=Visa&D=1909&E=00000&F=Y&G=O&I=FRA&J=21&N=497040&O=Y&P=3DSECURE&Q=13%3A28%3A24&S=762323147&W=05012018&Y=FRA&K=1RxR9iKCHqdQVytbECTUrGeIbYHlDMQDbzA3KjPmqUQWZzvoMAm3WoR0AUlJWuR135BCza34wKSbEipVtNDbuL0rxebetIA1QaTzdB6qM2u7iSgqv3ocS%2Fg5VYh8WKD9xynACONkURqphth7z9zVQWHXIH5ft2HmB4xcz9MMTfg%3D
+2018-01-05 13:29:53 1515155393 DEBUG: Cart 20183: (IPN) Cart already being validated as order.

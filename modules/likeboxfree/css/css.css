@@ -1,0 +1,15 @@
+#notepadmodule {position:fixed; right:-300px; top:100px; display:block; width:300px; min-height:150px; }
+.load {position:absolute; left:-40px; width:40px; height:40px; color:#FFF; display:block; }
+.load #morebutton {font-size:26px; cursor:pointer;}
+
+.loadcounter {position:absolute; left:-40px; top:40px; width:40px; height:40px; display:block; overflow:hidden;  font-size:10px;}
+.loadcounter #counter {line-height:18px; margin:0px; padding:0px; font-size:20px;}
+#ajaxloader {display:block; width:16px; margin:auto; padding:3px 3px; margin-top:2px; padding-top:1px; background:#FFF; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px;}
+
+#notepadmodule ul {list-style:none; display:block; padding:5px; text-align:left;}
+#notepadmodule ul li {display:block; padding:5px; vertical-align:top; clear:both; overflow:hidden;}
+#notepadmodule ul li span.title {padding-top:2px; overflow:hidden; width:250px; display:inline-block; float:left; vertical-align:top;}
+#notepadmodule ul li span.del {display:inline-block; float:right; vertical-align:top;}
+
+#notepad_list #ajaxloader {padding-top:3px; padding-bottom:1px;}
+#notepad_list .del {display:block; width:16px; margin:auto; padding:3px 3px; margin-top:2px; padding-bottom:1px; background:#FFF; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px;}

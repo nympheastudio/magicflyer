@@ -1,0 +1,2 @@
+Periodo, espresso in giorni lavorativi, da quando l\'ordine è stato emesso a quando è stato spedito
+Trascorso questo periodo, l’e-mail per la richiesta di valutazione non sarà inviata

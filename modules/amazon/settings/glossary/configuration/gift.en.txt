@@ -1,0 +1,3 @@
+You may use the Gifts Services to offer a gift wrapping service and a gift message service to customers. Gift Services can help you increase your sales conversion rates by offering your customers a better shopping experience.
+
+The gift option enables customers to specify that an order is a gift. You can also add options such as a message from the buyer and a gift package. By default, when a buyer indicates that an order is a gift, the product price is not indicated on the packing slip, but they can choose to let it the visible. Your buyer's choice will be indicated on the packing slip that is available in the Order Management tool.

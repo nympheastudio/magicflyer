@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<profile title="Header 6" profile_type="header" class_suffix="header-6 header-4">
+<row title="Topbar" class="topbar" fullwidth="0">
+<position title="Topbar left" class_suffix="topbar-left" col_lg="6" col_sm="6" col_md="6" col_xs="7">
+<block title="Search" block_type="module" module_name="jmsajaxsearch" hook_name="top" show_title="0" />
+<block title="Languages" block_type="module" module_name="blocklanguages" hook_name="top" show_title="0" />
+<block title="Curriencies" block_type="module" module_name="blockcurrencies" hook_name="top" show_title="0" />
+</position>
+<position title="Topbar right" class_suffix="topbar-right" col_lg="6" col_sm="6" col_md="6" col_xs="5">
+<block title="Cart" block_type="module" module_name="blockcart" hook_name="top" show_title="0" />
+<block title="User info" block_type="module" module_name="blockuserinfo" hook_name="top" show_title="0" />
+</position>
+</row>
+<row title="Header bar" class="header-bar" fullwidth="0">
+<position title="Logo" class_suffix="navbar-logo" col_lg="2" col_sm="12" col_md="2" col_xs="12">
+<block title="Logo" block_type="logo" module_name="" hook_name="top" show_title="0" />
+</position>
+<position title="Menu" class_suffix="topnav" col_lg="10" col_sm="12" col_md="10" col_xs="12">
+<block title="Menu" block_type="module" module_name="jmsdropmegamenu" hook_name="top" show_title="0" />
+</position>
+</row>
+</profile>
+<profile title="Home 6" profile_type="homebody" class_suffix="home-6">
+<row title="Slideshow" class="slideshow-section" fullwidth="1">
+<position title="Slideshow" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Sideshow" block_type="module" module_name="jmssliderlayer" hook_name="top" show_title="0" />
+</position>
+</row>
+</profile>
+<profile title="Footer 6" profile_type="footer" class_suffix="footer-6 footer-4">
+<row title="Footer top" class="footer-top" fullwidth="0">
+<position title="Button" class_suffix="menu-button" col_lg="4" col_sm="2" col_md="3" col_xs="1">
+<block title="Button" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div id="menu-toggle-footer">
+<div class="menu-footer">Menu Footer
+<div></div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+<position title="Newsletter" class_suffix="" col_lg="4" col_sm="5" col_md="5" col_xs="5">
+<block title="Subscribe" block_type="module" module_name="blocknewsletter" hook_name="footer" show_title="1" />
+</position>
+<position title="Social" class_suffix="" col_lg="4" col_sm="5" col_md="4" col_xs="5">
+<block title="Social" block_type="module" module_name="jmssocial" hook_name="top" show_title="0" />
+</position>
+</row>
+<row title="Footer navbar" class="footer-navbar" fullwidth="0">
+<position title="Account" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Account" block_type="custom_html" module_name="" hook_name="top" show_title="1">
+				<htmlData><![CDATA[<ul><li><a href="#" title="About us">About us</a></li>
+<li><a href="#" title="Order history">Order history</a></li>
+<li><a href="#" title="Advanced search">Advanced search</a></li>
+<li><a href="#" title="Personal infomation"> Personal infomation</a></li>
+<li><a href="#" title="Vouchers">Vouchers</a></li>
+</ul>]]></htmlData>
+			</block>
+</position>
+<position title="Information" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Informations" block_type="custom_html" module_name="" hook_name="top" show_title="1">
+				<htmlData><![CDATA[<ul><li><a href="#" title="Return exchage">Return exchage</a></li>
+<li><a href="#" title="Term &amp; conditions">Term &amp; conditions</a></li>
+<li><a href="#" title="Size guide">Size guide</a></li>
+<li><a href="#" title="Privacy policy">Privacy policy</a></li>
+<li><a href="#" title="Search terms">Search terms</a></li>
+</ul>]]></htmlData>
+			</block>
+</position>
+<position title="From blog post" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="From blog post" block_type="custom_html" module_name="" hook_name="top" show_title="1">
+				<htmlData><![CDATA[<div class="blog_footer">
+<div class="item-blog">
+<div class="image-blog"><img src="themes/jms_hera/img/demo/bl1.jpg" alt="Fashion from italy" /></div>
+<div class="info-blog">
+<h3>Fashion from italy</h3>
+<div class="time-post"><i class="fa fa-clock-o"></i> <span>December 22, 2015</span></div>
+</div>
+</div>
+<div class="item-blog">
+<div class="image-blog"><img src="themes/jms_hera/img/demo/bl2.jpg" alt="Pro style of lady" /></div>
+<div class="info-blog">
+<h3>Pro style of lady</h3>
+<div class="time-post"><i class="fa fa-clock-o"></i> <span>December 22, 2015</span></div>
+</div>
+</div>
+<div class="item-blog">
+<div class="image-blog"><img src="themes/jms_hera/img/demo/bl3.jpg" alt="Women fashion model" /></div>
+<div class="info-blog">
+<h3>Women fashion model</h3>
+<div class="time-post"><i class="fa fa-clock-o"></i> <span>December 22, 2015</span></div>
+</div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+<position title="Contact us" class_suffix="" col_lg="3" col_sm="6" col_md="3" col_xs="12">
+<block title="Contact us" block_type="module" module_name="blockcontactinfos" hook_name="footer" show_title="0" />
+</position>
+</row>
+<row title="Footer bottom" class="footer-bottom" fullwidth="0">
+<position title="Coppy right" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Coppy right" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<p>© 2015 Design by <a href="#" title="Joommasters.com">Joommasters.com</a> Power by Prestashop</p>]]></htmlData>
+			</block>
+</position>
+</row>
+</profile>
+</entity_profile>

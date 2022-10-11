@@ -1,0 +1,7 @@
+2017-10-30 08:51:33 1509349892 DEBUG: URL to check 2
+2017-10-30 08:51:33 1509349892 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-30 08:51:33 1509349892 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-10-30 08:51:33 1509349892 DEBUG: Cart 19329: Redirecting customer to Paybox (CARTE, CB).
+2017-10-30 08:52:45 1509349965 DEBUG: Call params: M=3556&R=19329%20-%20maria%20adelina%20%20santos&T=759998950&B=0&C=CB&D=1912&E=00040&F=N&G=O&I=CHE&J=33&N=526750&O=Y&P=3DSECURE&Q=08%3A51%3A33&S=745521327&W=30102017&K=RLswrak8dC85oMcMsvCrdeGX5fKGUQqAgmFY8hFO1LsJpXwUYN0bliLL%2FbaSZtiI0XiWHCQNR9Yc6dNBfj80B3FQ0yYL7BsbXGPrnNzscPvL5CZUBZZQdbdy2lN7tGEgIgAEIxNauqxEywZPSzWY%2B65g7LbcpC39H1tK00egYDY%3D
+2017-10-30 08:52:45 1509349965 DEBUG: Cart 19329: (IPN) Payment was refused by Paybox (40).
+2017-10-30 08:52:54 1509349974 DEBUG: Cart 19329: Payment was canceled by user on Paybox payment page.

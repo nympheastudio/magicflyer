@@ -1,0 +1,2 @@
+Por favor, seleccione aquí las plantillas para Clientes > Pestaña Servicio al Cliente
+Usualmente, esta plantilla es "reply_msg". Por favor, no cambie este valor si esta inseguro

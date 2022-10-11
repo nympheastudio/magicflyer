@@ -1,0 +1,11 @@
+2016-04-06 18:25:19 1459959918 DEBUG: URL to check 2
+2016-04-06 18:25:19 1459959918 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-06 18:25:19 1459959918 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-06 18:25:19 1459959918 DEBUG: Cart 718: Redirecting customer to Paybox (CARTE, CB).
+2016-04-06 18:26:19 1459959979 DEBUG: Call params: M=4294&R=718%20-%20Laurie%20MICHOU&T=622725897&A=151161&B=0&C=Visa&D=1609&E=00000&G=D&H=F4EBE78A7483607D3018691B7553B213BC502BE9&I=FRA&J=&N=&P=CARTE&Q=18%3A25%3A20&S=619013614&W=06042016&Y=FRA&K=M0fRr0ssEmWPohDX63mghr2IBvrIYQatsWO2vUKIRzqiJYlbERjrc%2Bna6TToj9lsaIv9IZ1Qu3CcaZGJdx%2FiZqJ%2BYksp9mcW9P%2BzRVhE4n2cjpZP4xKzcZS%2FopRToshXwhB7QRh5NhwcwVPpY12tV1g7YpMDlBfXb8sMUWhZTwE%3D
+2016-04-06 18:26:19 1459959979 DEBUG: Cart 718: Standard IPN
+2016-04-06 18:26:19 1459959979 DEBUG: Cart 718: Validating order (PS1.5+)
+2016-04-06 18:26:20 1459959980 DEBUG: Cart 718: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-06 18:26:21 1459959981 DEBUG: Cart 718: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-04-06 18:26:22 1459959979 DEBUG: Cart 718: Order 149 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-06 18:26:22 1459959982 DEBUG: Cart 718: Customer is back from Paybox payment page. Payment success.

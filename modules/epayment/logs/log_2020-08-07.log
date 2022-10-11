@@ -1,0 +1,25 @@
+2020-08-07 10:08:56 1596787735 DEBUG: URL to check 2
+2020-08-07 10:08:56 1596787735 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-08-07 10:08:57 1596787735 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2020-08-07 10:08:57 1596787735 DEBUG: Cart 46634: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-08-07 10:09:38 1596787778 DEBUG: Call params: M=10194&R=46634%20-%20Judith%20Demars&T=1493938849&A=754951&B=0&C=MasterCard&D=2212&E=00000&F=Y&G=O&I=FRA&J=97&N=535612&O=Y&P=CARTE&Q=10%3A08%3A57&S=344358137&W=07082020&Y=FRA&Z=0-0&K=iiifgfd8sMk5aSjrTa%2B%2BJfAVllhUhPvEwQZBA6eQ2k3R5eDBxz1M0qqURmcQ55RWUkr5Q4ZDPAwzhbEMMpCuW%2BWhR5bOsmcjKEL28hpGO9aJWU28SdkY7rYLJGwWt15beSSo1uUsvB60vOJ8yIhD%2FoW4gKUUdr%2F7KaQq%2FsPNzPU%3D
+2020-08-07 10:09:38 1596787778 DEBUG: Cart 46634: Standard IPN
+2020-08-07 10:09:38 1596787778 DEBUG: Cart 46634: Validating order
+2020-08-07 10:09:50 1596787778 DEBUG: Cart 46634: Order 4975 validated, creating details
+2020-08-07 10:09:50 1596787778 DEBUG: Cart 46634: Order 4975 / Le paiement a été autorisé et capturé par Paybox.
+2020-08-07 10:10:03 1596787803 DEBUG: Call params: M=10194&R=46634%20-%20Judith%20Demars&T=1493938849&A=754951&B=0&C=MasterCard&D=2212&E=00000&F=Y&G=O&I=FRA&J=97&N=535612&O=Y&P=CARTE&Q=10%3A08%3A57&S=344358137&W=07082020&Y=FRA&Z=0-0&K=iiifgfd8sMk5aSjrTa%2B%2BJfAVllhUhPvEwQZBA6eQ2k3R5eDBxz1M0qqURmcQ55RWUkr5Q4ZDPAwzhbEMMpCuW%2BWhR5bOsmcjKEL28hpGO9aJWU28SdkY7rYLJGwWt15beSSo1uUsvB60vOJ8yIhD%2FoW4gKUUdr%2F7KaQq%2FsPNzPU%3D
+2020-08-07 10:10:03 1596787803 DEBUG: Cart 46634: (IPN) Cart already being validated as order with the transaction 344358137.
+2020-08-07 10:10:04 1596787804 DEBUG: Cart 46634: Customer is back from Verifone e-commerce payment page. Payment refused by Verifone e-commerce (0).
+2020-08-07 17:40:33 1596814833 DEBUG: URL to check 2
+2020-08-07 17:40:33 1596814833 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-08-07 17:40:33 1596814833 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2020-08-07 17:40:33 1596814833 DEBUG: Cart 46593: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-08-07 17:42:23 1596814943 DEBUG: Call params: M=34076&R=46593%20-%20Mylene%20VALTON&T=944875624&A=482137&B=0&C=MasterCard&D=2109&E=00000&F=Y&G=O&I=GLP&J=10&N=537112&O=Y&P=3DSECURE&Q=17%3A40%3A35&S=206028382&W=07082020&Y=FRA&Z=0-0&K=op%2BswpVhzIqr9AlVcPmdd1Bo9Ubqn8bGxaE7DjEjx8zMKJRPN97XyIWgM2Ho3JcCINgm%2FIkJJcXQ7yJJN7w0Fr%2Fgzsz5svRTW0Mr%2BoGXQdTJYL9x8OVZq7noY9xvKNsONWFH4DtqBFTmoiz7Yc0CFa7wBzd%2Fw8t337VXg%2FfJGHA%3D
+2020-08-07 17:42:23 1596814943 DEBUG: Cart 46593: Standard IPN
+2020-08-07 17:42:23 1596814943 DEBUG: Cart 46593: Validating order
+2020-08-07 17:42:24 1596814944 DEBUG: Cart 46593: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2020-08-07 17:42:26 1596814946 DEBUG: Cart 46593: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2020-08-07 17:42:27 1596814947 DEBUG: Cart 46593: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2020-08-07 17:42:28 1596814943 DEBUG: Cart 46593: Order 4976 validated, creating details
+2020-08-07 17:42:28 1596814943 DEBUG: Cart 46593: Order 4976 / Le paiement a été autorisé et capturé par Paybox.
+2020-08-07 17:42:28 1596814948 DEBUG: Cart 46593: Customer is back from Verifone e-commerce payment page. Payment success.

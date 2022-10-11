@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_39b0e854bf1f412c4d4f5c53d4edfd8c'] = 'Fanpage Like Box free';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9b9b30cc5124cb38a0b4f37bb3d2f0bb'] = 'Dieses Modul fügen Sie spezielle LikeBox Block mit Ihrer Fanpage auf Facebook. Jetzt kann jeder für Ihre Facebook-Fanseite!';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_f4d1ea475eaa85102e2b4e6d95da84bd'] = 'Bestätigung';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_c888438d14855d7d96a2724ee9c306bd'] = 'Einstellungen aktualisiert';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_7a7d57029c0de7a52035f23f44e94b38'] = 'LikeBox Konfiguration';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_265bc69afdaf77a2b20642a84cb2b129'] = 'LikeBox Visuelle Einstellungen';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_c19a11786e82b0736dc4735f1bd6e552'] = 'Facebook Seite URL';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_381e99d9115db381c11785957d9e508d'] = 'Die URL der Facebook-Seite für LikeBox';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_32954654ac8fe66a1d09be19001de2d4'] = 'Breite';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9cddcd63ac79b2d3a082816b7f63f2a5'] = 'Die Breite des LikeBox Plugin';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_eec6c4bdbd339edf8cbea68becb85244'] = 'Höhe';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_623d21d65296ba114e9869f19750fd04'] = 'Die Höhe des LikeBox Plugin';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_6761e135fa31a256983cc0de4ff8d7d9'] = 'Farbschema';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_a82fd95db10ff25dfad39f07372ebe37'] = 'dunkle Farben';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_2ac43aa43bf473f9a9c09b4b608619d3'] = 'Lichtfarben';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_96a5b485a34b99798846a5106214bead'] = 'Das Farbschema des LikeBox Plugin. Beachten Sie, dass Hintergrund immer transparent ist Ihre Hintergrundfarbe entsprechen. Diese Einstellung ändert die Vordergrundfarbe für die Arbeit gut auf hellen oder dunklen Hintergründen';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_83cccf4d0f83339c027ad7395fa4d0b9'] = 'Show Flächen (Profilbilder)';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_82432be27dcfce6316adae8964c64677'] = 'Profil anzeigen Fotos im LikeBox plugin';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9df092bf9043e0783aa7a950eef6427d'] = 'Randfarbe:';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_071e98b48cf92976a3e9c78358ca4b5c'] = 'Die Rahmenfarbe des LikeBox Plugin. Klicken Sie auf und prüfen Sie Farbe';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_2e9864c4cae842d71fc0b5ffe1d9d7d2'] = 'Anzeigen \"Profil stream\"';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_f2f74c24b7138f32c05a4dc259600b88'] = 'Anzeigen \"Profil stream\" (an der Wand) in der LikeBox plugin';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_b796c5bd7ecdb3f4a130bafbe46579d1'] = 'Zeige header';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_a436543a292ec5bdd53083bcb1f4889f'] = 'Zeigen \"Sie finden uns auf facebook\" bar an der Spitze. Nur wenn entweder Strom oder Flächen vorhanden sind';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9daf1fb753b42c3cdc8f1d01669cd6d8'] = 'Einstellungen speichern';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_701ce215fb238c7cd5b9aa57b08d79b0'] = 'LikeBox Vorschau';

@@ -1,0 +1,1 @@
+Limit below which the price will not be decreased anymore on the base price indicated above

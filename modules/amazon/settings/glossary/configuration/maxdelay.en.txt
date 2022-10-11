@@ -1,0 +1,2 @@
+This is the delay, in business days, the order has been placed and shipped.
+Over this delay, the incentive mail will not be sent.

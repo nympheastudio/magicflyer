@@ -1,0 +1,4 @@
+Puede usar los Servicios de Regalo para ofrecer a sus clientes un servicio de envoltura para regalo y servicio de mensaje de regalo. Los Servicios Regalo lo pueden ayudar a incrementar sus tasas de conversión de ventas al ofrecer a sus clientes una mejor experiencia de compra.
+
+La opción de regalo le permite a los clientes especificar que que la orden es un regalo. Usted puede también agregar opciones como mensaje del comprador y un paquete de regalo. Por definición, cuando un comprador indica que la orden es un regalo, el precio del producto no está indicado en la lista de empaque, pero pueden escoger dejarlo visible. La elección de su comprador será indicada en la lista de empaque que está disponible en la Herramienta de Administración de Orden.
+

@@ -1,0 +1,8 @@
+Manchmal zwingt Sie Amazon eine Liste gültiger Werte zu benutzen.
+
+Die Zuordnung mit Einschränkung gibt Ihnen Sicherheit beim Anpassen Ihrer Werte in Prestashop mit den möglichen Werten auf Amazon.
+
+Nichts desto trotz, wie der Name schon sagt, zwingt es Sie eine Liste von vorgegebenen Werten zu benutzen.
+
+Hier ist ein gut ausgefülltes Beispiel von Zuordnung mit Einschränkung:
+<img src="views/img/tips/fr/constrained_mapping.jpg" />

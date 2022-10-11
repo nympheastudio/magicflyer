@@ -1,0 +1,12 @@
+2016-11-05 09:39:34 1478335174 DEBUG: URL to check 2
+2016-11-05 09:39:34 1478335174 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-05 09:39:34 1478335174 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-11-05 09:39:34 1478335174 DEBUG: Cart 4372: Redirecting customer to Paybox (CARTE, CB).
+2016-11-05 09:41:10 1478335270 DEBUG: Call params: M=3400&R=4372%20-%20Magalie%20Carre&T=664097333&A=725442&B=0&C=Visa&D=1903&E=00000&F=Y&G=O&I=FRA&J=17&N=497490&O=Y&P=3DSECURE&Q=09%3A39%3A34&S=663624360&W=05112016&Y=FRA&K=yqceE9KBYhWOfKyc6Salmbyv7Peor%2B2sENYU0%2BLQxqnbqh3nTQogEdLi2Mcb5Zvsr2%2BtxFrwNl1RvMNvBEAmrN%2BbAGM19q4qkxmzWd%2BH%2Bydn%2F8xjxS%2Bj49XcfywtqpoCU89QSnax2B7CBNCWf3%2F81a9%2B72p8aUxkVxkDpCLc7e4%3D
+2016-11-05 09:41:10 1478335270 DEBUG: Cart 4372: Standard IPN
+2016-11-05 09:41:10 1478335270 DEBUG: Cart 4372: Validating order
+2016-11-05 09:41:11 1478335271 DEBUG: Cart 4372: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-05 09:41:12 1478335272 DEBUG: Cart 4372: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-05 09:41:14 1478335274 DEBUG: Cart 4372: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-11-05 09:41:14 1478335270 DEBUG: Cart 4372: Order 465 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-05 09:41:15 1478335275 DEBUG: Cart 4372: Customer is back from Paybox payment page. Payment success.

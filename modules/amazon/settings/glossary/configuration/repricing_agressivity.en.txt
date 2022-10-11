@@ -1,0 +1,10 @@
+Strategy aggressivity :
+
+Your offers are analyzed and subject to a scoring.
+Offers from your competitors too.
+
+The module compare scores, aggressivity is divided by the score gap.
+
+The more score gap will be low, the more price gap will be reduced in proportion to the aggressivity.
+
+Specify 30 if you do not master this configuration.

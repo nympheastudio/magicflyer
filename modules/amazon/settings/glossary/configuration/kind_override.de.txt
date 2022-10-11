@@ -1,0 +1,2 @@
+Zusatz: Falls Sie neben den bereits auf Amazon konfigurierten Versandkosten weitere Gebühren erheben möchten. Über Funktion werden zusätzliche Gebühren hinzugefügt.
+Exklusiv ersetzt die bereits auf Amazon konfigurierten Versandkosten. Exklusive setzt die Gesamtversandkosten.

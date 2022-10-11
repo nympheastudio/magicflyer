@@ -1,0 +1,14 @@
+2016-06-03 22:28:53 1464985733 DEBUG: URL to check 2
+2016-06-03 22:28:53 1464985733 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-03 22:28:53 1464985733 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-03 22:28:53 1464985733 DEBUG: Cart 1279: Redirecting customer to Paybox (CARTE, CB).
+2016-06-03 22:45:59 1464986759 DEBUG: URL to check 2
+2016-06-03 22:45:59 1464986759 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-03 22:45:59 1464986759 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-03 22:45:59 1464986759 DEBUG: Cart 1280: Redirecting customer to Paybox (CARTE, CB).
+2016-06-03 22:46:45 1464986805 DEBUG: Call params: M=1700&R=1280%20-%20severine%20lucchinacci&T=631493505&A=756658&B=0&C=Visa&D=1812&E=00000&G=D&H=2C74283CB0D1FAA7D14EAE2A75AFA5AE6FF0D891&I=FRA&J=&N=&P=CARTE&Q=22%3A46%3A01&S=627436185&W=03062016&Y=FRA&K=3Em%2F0Vz9HpFYDpEQUo4Pr4v2Lg88eYzKBDfQsUjHOvmc7uKML%2BjkJ%2BcNulO2ZYg6PaUpM21eWhAQu9DEqbpB6Mi2pJbuI4d2GH8E7x4%2Fr9MOe5892px%2FyExbcptaPLmAeq7Phln2CjetMK3OSlVKDoZWG4GgQEXK5BSmTnUwfEQ%3D
+2016-06-03 22:46:45 1464986805 DEBUG: Cart 1280: Standard IPN
+2016-06-03 22:46:45 1464986805 DEBUG: Cart 1280: Validating order (PS1.5+)
+2016-06-03 22:46:45 1464986805 DEBUG: Cart 1280: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-06-03 22:46:46 1464986805 DEBUG: Cart 1280: Order 214 / Le paiement a été autorisé et capturé par Paybox.
+2016-06-03 22:46:47 1464986807 DEBUG: Cart 1280: Customer is back from Paybox payment page. Payment success.

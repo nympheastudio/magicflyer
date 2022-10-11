@@ -1,0 +1,14 @@
+2016-11-19 19:06:05 1479578765 DEBUG: URL to check 2
+2016-11-19 19:06:05 1479578765 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-19 19:06:05 1479578765 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-19 19:06:05 1479578765 DEBUG: Cart 4759: Redirecting customer to Paybox (CARTE, CB).
+2016-11-19 19:09:33 1479578973 DEBUG: Call params: M=1900&R=4759%20-%20Anais%20Leroy&T=667046091&A=510226&B=0&C=MasterCard&D=1709&E=00000&F=Y&G=O&I=FRA&J=33&N=513239&O=Y&P=3DSECURE&Q=19%3A06%3A06&S=666463111&W=19112016&Y=FRA&K=bLHhXUXobeg3zaNvMed6Uj76b%2FJ7YFilU3KGxzPbJvsAGjyVrqqXm2G%2FlrX009uEFCfhuu7TZ6KuKZ%2FGliuUqv3TPKjb%2FE597w2b7StmFfN9%2FWEw9GEsWCdWaI3cUuSkSTIEfHLAzuyyGsziGsP49r4U0WyMEonbDovhCuaUH7k%3D
+2016-11-19 19:09:34 1479578973 DEBUG: Cart 4759: Standard IPN
+2016-11-19 19:09:34 1479578973 DEBUG: Cart 4759: Validating order
+2016-11-19 19:09:34 1479578974 DEBUG: Cart 4759: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-19 19:09:36 1479578976 DEBUG: Cart 4759: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-19 19:09:37 1479578977 DEBUG: Cart 4759: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-11-19 19:09:39 1479578978 DEBUG: Cart 4759: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2016-11-19 19:09:40 1479578980 DEBUG: Cart 4759: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2016-11-19 19:09:41 1479578973 DEBUG: Cart 4759: Order 485 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-19 19:09:41 1479578981 DEBUG: Cart 4759: Customer is back from Paybox payment page. Payment success.

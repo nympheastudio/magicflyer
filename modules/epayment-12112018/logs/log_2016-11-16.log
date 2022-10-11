@@ -1,0 +1,12 @@
+2016-11-16 12:43:17 1479296597 DEBUG: URL to check 2
+2016-11-16 12:43:17 1479296597 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-16 12:43:17 1479296597 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-16 12:43:17 1479296597 DEBUG: Cart 4722: Redirecting customer to Paybox (CARTE, CB).
+2016-11-16 12:45:04 1479296704 DEBUG: Call params: M=6591&R=4722%20-%20Helene%20Brillant&T=666449901&A=509129&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=32&N=456282&O=Y&P=3DSECURE&Q=12%3A43%3A18&S=665868133&W=16112016&Y=FRA&K=3DACOYE6PlG38tzbx%2B36DTJwUbGH4UDUbJuc%2F%2F3hbsODw9ODnbukXU467LBzDWIQs4W%2FSkQ7a3vEE1Hwxh7yvVfx2EBe8QZl4EyhuN%2FloruRfb3AWqMSAdFFgszPWvUGHyhThgpp8TRyEeMv8bD6KzZ4zvd%2Fnxqr9XUTRH3QYjM%3D
+2016-11-16 12:45:04 1479296704 DEBUG: Cart 4722: Standard IPN
+2016-11-16 12:45:04 1479296704 DEBUG: Cart 4722: Validating order
+2016-11-16 12:45:04 1479296704 DEBUG: Cart 4722: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-16 12:45:06 1479296706 DEBUG: Cart 4722: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-16 12:45:08 1479296708 DEBUG: Cart 4722: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-11-16 12:45:08 1479296704 DEBUG: Cart 4722: Order 480 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-16 12:45:09 1479296709 DEBUG: Cart 4722: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,1 @@
+Elegir el estado por defecto para los pedidos enviados.

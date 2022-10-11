@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<profile title="Header 5" profile_type="header" class_suffix="header-5">
+<row title="Header left" class="header-left" fullwidth="0">
+<position title="Logo" class_suffix="navbar-logo" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Logo" block_type="logo" module_name="" hook_name="top" show_title="0" />
+</position>
+<position title="Megamenu" class_suffix="main-menu top-nav" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Megamenu" block_type="module" module_name="jmsdropmegamenu" hook_name="top" show_title="0" />
+</position>
+<position title="Language" class_suffix="language-block" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Languages" block_type="module" module_name="blocklanguages" hook_name="top" show_title="0" />
+</position>
+<position title="Currencies" class_suffix="currencies-block" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Currencies" block_type="module" module_name="blockcurrencies" hook_name="top" show_title="0" />
+</position>
+</row>
+<row title="Header right" class="header-right" fullwidth="0">
+<position title="Cart" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Cart" block_type="module" module_name="blockcart" hook_name="top" show_title="0" />
+</position>
+<position title="Search" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Search" block_type="module" module_name="jmsajaxsearch" hook_name="top" show_title="0" />
+</position>
+<position title="Account" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Account" block_type="module" module_name="blockuserinfo" hook_name="top" show_title="0" />
+</position>
+<position title="Social" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Social" block_type="module" module_name="jmssocial" hook_name="top" show_title="0" />
+</position>
+</row>
+</profile>
+<profile title="Home 5" profile_type="homebody" class_suffix="home-5">
+<row title="Slideshow" class="slideshow-section" fullwidth="1">
+<position title="Slideshow" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Slideshow" block_type="module" module_name="jmssliderlayer" hook_name="top" show_title="0" />
+</position>
+</row>
+<row title="Home banner" class="home-banner" fullwidth="1">
+<position title="Home banner" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Home banner" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<div class="homebanner-content">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+<div class="wrapper-content"><img class="img-responsive" src="themes/jms_hera/img/demo/banner-1.jpg" alt="Model for her" /><a href="#" title="Model for her"><span>Model for her</span></a></div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+<div class="wrapper-content"><img class="img-responsive" src="themes/jms_hera/img/demo/banner-2.jpg" alt="Kid's style" /><a href="#" title="Kid's style"><span>Kid's style</span></a></div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+<div class="wrapper-content"><img class="img-responsive" src="themes/jms_hera/img/demo/banner-3.jpg" alt="Men's collection" /><a href="#" title="Men's collection"><span>Men's collection</span></a></div>
+</div>
+</div>
+</div>]]></htmlData>
+			</block>
+</position>
+</row>
+<row title="Featured product" class="featured-product" fullwidth="1">
+<position title="Featured product" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Featured products" block_type="module" module_name="homefeatured" hook_name="home" show_title="0" />
+</position>
+</row>
+</profile>
+<profile title="Footer 5" profile_type="footer" class_suffix="footer-5 footer-2">
+<row title="Footer menu" class="" fullwidth="1">
+<position title="Footer menu" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Footer menu" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<ul><li><a href="#" title="About us">About us</a></li>
+<li><a href="#" title="Size map">Size map</a></li>
+<li><a href="#" title="Returns">Returns</a></li>
+<li><a href="#" title="Search tems">Search tems</a></li>
+<li><a href="#" title="Help &amp; FAQ">Help &amp; FAQ</a></li>
+</ul>]]></htmlData>
+			</block>
+</position>
+</row>
+<row title="Coppy right" class="coppy-right" fullwidth="1">
+<position title="Coppy right" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Coppy right" block_type="custom_html" module_name="" hook_name="top" show_title="0">
+				<htmlData><![CDATA[<p>© 2015 Design by <a href="#" title="Joommasters.com">Joommasters.com</a> Power by Prestashop</p>]]></htmlData>
+			</block>
+</position>
+</row>
+<row title="Newletters" class="newletters-section" fullwidth="1">
+<position title="Newletters" class_suffix="" col_lg="12" col_sm="12" col_md="12" col_xs="12">
+<block title="Newletter" block_type="module" module_name="blocknewsletter" hook_name="footer" show_title="0" />
+</position>
+</row>
+</profile>
+</entity_profile>

@@ -1,0 +1,3 @@
+Exportieren Specials Preise, wenn auf Ja gesetzt. Wenn Nein die ermäßigten Preisen werden dann ignoriert
+
+Documentation: http://documentation.common-services.com/amazonv4/gestion-des-promotions-et-soldes/?lang=de

@@ -1,0 +1,3 @@
+Attivare o disattivare la revisione del prezzo per questa strategia
+
+Il profilo associato a questa strategia di revisione del prezzo non sarà più trattato per la revisione stessa

@@ -1,0 +1,10 @@
+2016-04-10 13:23:11 1460287391 DEBUG: URL to check 2
+2016-04-10 13:23:11 1460287391 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-10 13:23:11 1460287391 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-10 13:23:11 1460287391 DEBUG: Cart 738: Redirecting customer to Paybox (CARTE, CB).
+2016-04-10 13:24:53 1460287493 DEBUG: Call params: M=2614&R=738%20-%20Jack%20PRECOURT&T=623861072&A=392874&B=0&C=MasterCard&D=1702&E=00000&G=D&H=DDFBD8E8A3C9188D97FE45E6E4C33733487993F3&I=REU&J=&N=&P=CARTE&Q=13%3A23%3A17&S=619977242&W=10042016&Y=FRA&K=hrzICdcijn4HMBpowFRQemSc1dJnOW4tbpHiaOQE7PZzwrk1IZ4P7wOX%2F132IWys1Pvk0Bp%2B8QyzMCmGFnVA%2FL8S1yi4pSGs%2BbEJRhS0ZHBC1vtI8UCcy930bcr6EmtbRwDNR%2FYiZi6f1ud0%2B1ewQupVeKINF3SgBTpESILpnkw%3D
+2016-04-10 13:24:53 1460287493 DEBUG: Cart 738: Standard IPN
+2016-04-10 13:24:53 1460287493 DEBUG: Cart 738: Validating order (PS1.5+)
+2016-04-10 13:24:54 1460287494 DEBUG: Cart 738: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-10 13:24:55 1460287493 DEBUG: Cart 738: Order 156 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-10 13:24:56 1460287496 DEBUG: Cart 738: Customer is back from Paybox payment page. Payment success.

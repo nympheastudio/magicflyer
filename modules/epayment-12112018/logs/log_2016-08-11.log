@@ -1,0 +1,40 @@
+2016-08-11 12:53:39 1470912819 DEBUG: URL to check 2
+2016-08-11 12:53:39 1470912819 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-11 12:53:39 1470912819 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-11 12:53:39 1470912819 DEBUG: Cart 2304: Redirecting customer to Paybox (CARTE, CB).
+2016-08-11 12:54:59 1470912899 DEBUG: Call params: M=2014&R=2304%20-%20Rob%20van%20der%20Sloot&T=640404775&A=146498&B=0&C=MasterCard&D=1712&E=00000&F=%20&G=N&H=48F97C29A85CB3C9E55DB4DF05547D75690E2767&I=NLD&J=&N=&O=U&P=3DSECURE&Q=12%3A53%3A40&S=636489472&W=11082016&Y=NLD&K=qp%2F9ra1N%2FfPQve8RFAY22SziDU9JgHM9MPFdQBVrtHa4OFmcOlCmWvs%2BftDBiBwd7a9b3A2665MYai3CBmkN2XcKuvPff2nXyMsMRwRjZF5SAg%2FaQ3wF8ZjhYjBqulnvpT6x9cp9Z0vKb24pQ%2Bxiu5ZfyBKs4SK97jXyZg5paFc%3D
+2016-08-11 12:54:59 1470912899 DEBUG: Cart 2304: Standard IPN
+2016-08-11 12:54:59 1470912899 DEBUG: Cart 2304: Validating order (PS1.5+)
+2016-08-11 12:54:59 1470912899 DEBUG: Cart 2304: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-11 12:55:01 1470912901 DEBUG: Cart 2304: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-11 12:55:02 1470912899 DEBUG: Cart 2304: Order 314 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-11 12:55:02 1470912902 DEBUG: Cart 2304: Customer is back from Paybox payment page. Payment success.
+2016-08-11 14:24:09 1470918249 DEBUG: URL to check 2
+2016-08-11 14:24:09 1470918249 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-11 14:24:09 1470918249 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-11 14:24:09 1470918249 DEBUG: Cart 2223: Redirecting customer to Paybox (CARTE, CB).
+2016-08-11 14:26:34 1470918394 DEBUG: Call params: M=7244&R=2223%20-%20Melanie%20Hennequart&T=640415345&A=326955&B=0&C=Visa&D=1808&E=00000&F=Y&G=O&H=39409FC6BEF0C058A120837CD8575DB0D09FC489&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=14%3A24%3A12&S=636499810&W=11082016&Y=FRA&K=FjSzxWIgK3Nq5%2BYneaTjpq%2Bv1lLQ%2F56uQrBHAPGx%2BgqOyXfrHXZbKvyf%2B9tS0joyd7prTpnPzI%2BNbU6tfALBcdCvx66xt2fdQeslmhCdf39BKZwACf%2FLkPigjq6h91LGifZvBaj42QbjO9nKBUulN8Ahp%2Fct65VZoyruhrLxIps%3D
+2016-08-11 14:26:34 1470918394 DEBUG: Cart 2223: Standard IPN
+2016-08-11 14:26:34 1470918394 DEBUG: Cart 2223: Validating order (PS1.5+)
+2016-08-11 14:26:35 1470918395 DEBUG: Cart 2223: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-11 14:26:36 1470918396 DEBUG: Cart 2223: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-11 14:26:36 1470918394 DEBUG: Cart 2223: Order 315 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-11 14:26:38 1470918398 DEBUG: Cart 2223: Customer is back from Paybox payment page. Payment success.
+2016-08-11 21:35:26 1470944126 DEBUG: URL to check 2
+2016-08-11 21:35:26 1470944126 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-11 21:35:26 1470944126 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-08-11 21:35:26 1470944126 DEBUG: Cart 2315: Redirecting customer to Paybox (CARTE, CB).
+2016-08-11 21:37:49 1470944269 DEBUG: Call params: M=5342&R=2315%20-%20Alexandra%20Surtmann&T=640464180&B=0&C=MasterCard&D=1809&E=00105&F=%20&G=N&H=94246BAF3D5CCC1EF144C92D0E227F26B4CD4EBA&I=AUT&J=&N=&O=U&P=3DSECURE&Q=21%3A35%3A27&S=636547785&W=11082016&Y=AUT&K=JY6CyLp0zjEg44TMuRWOOZNlJ1AhKMFuHWxPKpq9Vj5ML6155Y0chj1xq07wO1zAjz5epOTb0FKzx9BRjJ5Jfyf%2F7b4DrAIcPBrJmgKeacSmgpthV9f1cORqV0YMH3Q%2F64yqQLsowu3RAdgmXFtpKilA7agGgrssBYl02yOzemU%3D
+2016-08-11 21:37:49 1470944269 DEBUG: Cart 2315: (IPN) Payment was refused by Paybox (105).
+2016-08-11 21:39:05 1470944345 DEBUG: Cart 2315: Payment was canceled by user on Paybox payment page.
+2016-08-11 21:39:39 1470944379 DEBUG: URL to check 2
+2016-08-11 21:39:39 1470944379 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-11 21:39:39 1470944379 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-08-11 21:39:39 1470944379 DEBUG: Cart 2315: Redirecting customer to Paybox (CARTE, CB).
+2016-08-11 21:40:48 1470944448 DEBUG: Call params: M=5342&R=2315%20-%20Alexandra%20Surtmann&T=640464180&A=766750&B=0&C=MasterCard&D=1909&E=00000&F=%20&G=N&H=18947D31F9915EAF6A0CEEBCB055207A4FB6B1FF&I=AUT&J=&N=&O=U&P=3DSECURE&Q=21%3A35%3A27&S=636548034&W=11082016&Y=AUT&K=xxrMtp1d8wzyDctPAkemfTOStavcbwsrH0ELcyZGSIyA%2Fovlu9VG399e4GbTeO5ltnLEMPf%2Fy9DNKhblbk1Cj5Cn6qDdCMA0cMpFJ7TCem69%2Bae6od4pdW4zDIpajVarmuppihz7Sy7Whpby3QCKwf3jIBn6vPehSLcz71rlo4w%3D
+2016-08-11 21:40:48 1470944448 DEBUG: Cart 2315: Standard IPN
+2016-08-11 21:40:48 1470944448 DEBUG: Cart 2315: Validating order (PS1.5+)
+2016-08-11 21:40:48 1470944448 DEBUG: Cart 2315: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-11 21:40:50 1470944450 DEBUG: Cart 2315: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-11 21:40:50 1470944448 DEBUG: Cart 2315: Order 316 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-11 21:40:51 1470944451 DEBUG: Cart 2315: Customer is back from Paybox payment page. Payment success.

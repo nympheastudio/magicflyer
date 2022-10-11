@@ -1,0 +1,18 @@
+Hej! Tak for indsendelse af formularen, vil vi kontakte dig s&aring; hurtigt som muligt.
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Language
+{lang_name}
+
+Formel Felt
+
+V&aelig;rdi
+
+{form_data} 
+
+{shop_name} powered by PrestaShop

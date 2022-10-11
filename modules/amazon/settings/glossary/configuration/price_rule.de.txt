@@ -1,0 +1,3 @@
+Sie sollten eine Preisregel nach Wert oder  Prozentsatz für eine oder mehrere Preisspannen konfigurieren.
+
+Documentation : http://documentation.common-services.com/amazonv4/regeln-fuer-preisgestaltung/?lang=de

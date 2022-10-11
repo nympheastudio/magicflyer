@@ -1,0 +1,7 @@
+Lorsque vous décrivez votre produit, vous pouvez utiliser certaines des caractéristiques clés indiqués dans vos listes. Mais allez cependant au-delà d'une description simple et du mot-à-mot. Des descriptions de produits bien rédigées aident les clients à imaginer l'expérience qu'ils auront en possédant ou en manipulant votre produit. 
+
+Mettez-vous à leur place : qu'est-ce qu'ils pourraient ressentir, toucher, penser ou souhaiter ? Vous pouvez attiser leur imagination en décrivant la sensation, l'utilisation et les avantages de votre produit. C'est ce qui les rapprochera le plus d'une expérience dans un magasin physique.
+
+Voici comment sont elles sont visibles sur Amazon :
+
+<img src="views/img/tips/fr/bullet_point_example.jpg" />

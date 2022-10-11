@@ -1,0 +1,65 @@
+#olea_promo_extra_right {
+	background: #f1f2f4 repeat-x top left;
+	font-size: 1.1em;
+	padding: 0.7em;
+	color: #374853;
+	border: 1px #d0d3d8 solid;
+	margin-top: 1.5em
+}
+#olea_promo_extra_right.olea_ps16 {
+	padding: 0.7em;
+	color: #777;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+	border: 1px solid #d6d4d4;
+  	background: #fbfbfb;
+	font-size:1em;
+}
+
+#olea_promo_extra_right p {
+	padding: 0;
+	margin-top: 0;
+	clear: both
+}
+
+#olea_promo_extra_right > ul {
+	list-style-type: none;
+}
+#olea_promo_extra_right > ul > li {
+	margin-top:0.7em;
+}
+#olea_promo_extra_right > ul > li.first_item {
+	margin-top:0;
+}
+
+#olea_promo_product_footer {
+	background: #f1f2f4  repeat-x top left;
+	font-size: 1.1em;
+	padding: 0.7em;
+	color: #374853;
+	border: 1px #d0d3d8 solid;
+	margin-top: 1.5em;
+}
+#olea_promo_product_footer.olea_ps16 {
+	padding: 0.7em;
+	color: #777;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+	border: 1px solid #d6d4d4;
+  	background: #fbfbfb;
+	font-size:1em;
+}
+#olea_promo_product_footer p {
+	padding: 0;
+	margin-top: 0;
+	clear: both
+}
+#olea_promo_product_footer > ul {
+	list-style-type: none;
+}
+#olea_promo_product_footer > ul > li {
+	margin-top:0.7em;
+}
+#olea_promo_product_footer > ul > li.first_item {
+	margin-top:0;
+}

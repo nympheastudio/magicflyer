@@ -1,0 +1,23 @@
+Hej,
+
+"{form_name}" En formular er netop blevet indsendt af {customer_name} 
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Report number
+{id_report}
+
+Language
+{lang_name}
+
+Formel Felt
+
+V&aelig;rdi
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 

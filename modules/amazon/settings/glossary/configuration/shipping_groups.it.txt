@@ -1,0 +1,7 @@
+Questo è il nome che hai dato ai tuoi template di spedizione.
+
+Sarà possibile utilizzare i template di spedizione nella configurazione del profilo,
+
+e anche nella scheda di estensione del prodotto.
+
+Qua, è possibile solo ricercare la lista.

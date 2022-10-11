@@ -1,0 +1,4 @@
+Anular Browse Node:
+
+Este valor reemplazara para este producto el ID del browse node que usted configuro en la configuración de perfil
+Por este medio, usted tiene un browse node global para un perfil y crea excepciones por producto

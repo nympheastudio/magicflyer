@@ -1,0 +1,19 @@
+2017-12-02 13:42:44 1512218563 DEBUG: URL to check 2
+2017-12-02 13:42:44 1512218563 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-12-02 13:42:44 1512218563 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-12-02 13:42:44 1512218563 DEBUG: Cart 19777: Redirecting customer to Paybox (CARTE, CB).
+2017-12-02 13:44:09 1512218649 DEBUG: Call params: M=29106&R=19777%20-%20Christiane%20Feron&T=771303734&A=401111&B=0&C=MasterCard&D=1712&E=00000&F=Y&G=O&I=FRA&J=29&N=513162&O=Y&P=3DSECURE&Q=13%3A42%3A45&S=754977034&W=02122017&Y=FRA&K=bN8%2FtHKmwbeYOjJmVY2vRxgdrsDygisPxPtDH%2F44vW4tUTlT1Kb7kUuE3tByEupCqQdHSoqeLD7JX4Gg2%2FOCe2TOrWTQDVOfaaB9a3sRyr4%2BluqND9xkiHrh38SX9syLBN%2B520z6jkMPIygKJRFpVNlgmBAyV0I71UmFjTncdxI%3D
+2017-12-02 13:44:09 1512218649 DEBUG: Cart 19777: Standard IPN
+2017-12-02 13:44:09 1512218649 DEBUG: Cart 19777: Validating order
+2017-12-02 13:44:09 1512218649 DEBUG: Cart 19777: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-12-02 13:44:10 1512218650 DEBUG: Cart 19777: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-12-02 13:44:11 1512218651 DEBUG: Cart 19777: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-12-02 13:44:12 1512218652 DEBUG: Cart 19777: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2017-12-02 13:44:14 1512218654 DEBUG: Cart 19777: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2017-12-02 13:44:15 1512218655 DEBUG: Cart 19777: Customer is back from Paybox payment page. Waiting order validation (loop 5).
+2017-12-02 13:44:16 1512218656 DEBUG: Cart 19777: Customer is back from Paybox payment page. Waiting order validation (loop 6).
+2017-12-02 13:44:17 1512218657 DEBUG: Cart 19777: Customer is back from Paybox payment page. Waiting order validation (loop 7).
+2017-12-02 13:44:18 1512218649 DEBUG: Cart 19777: Order 1801 / Le paiement a été autorisé et capturé par Paybox.
+2017-12-02 13:44:18 1512218658 DEBUG: Call params: M=29106&R=19777%20-%20Christiane%20Feron&T=771303734&A=401111&B=0&C=MasterCard&D=1712&E=00000&F=Y&G=O&I=FRA&J=29&N=513162&O=Y&P=3DSECURE&Q=13%3A42%3A45&S=754977034&W=02122017&Y=FRA&K=bN8%2FtHKmwbeYOjJmVY2vRxgdrsDygisPxPtDH%2F44vW4tUTlT1Kb7kUuE3tByEupCqQdHSoqeLD7JX4Gg2%2FOCe2TOrWTQDVOfaaB9a3sRyr4%2BluqND9xkiHrh38SX9syLBN%2B520z6jkMPIygKJRFpVNlgmBAyV0I71UmFjTncdxI%3D
+2017-12-02 13:44:18 1512218658 DEBUG: Cart 19777: (IPN) Cart already being validated as order.
+2017-12-02 13:44:18 1512218658 DEBUG: Cart 19777: Customer is back from Paybox payment page. Payment success.

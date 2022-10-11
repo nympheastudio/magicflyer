@@ -1,0 +1,18 @@
+2017-08-13 12:12:52 1502619172 DEBUG: URL to check 2
+2017-08-13 12:12:52 1502619172 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-13 12:12:52 1502619172 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-08-13 12:12:52 1502619172 DEBUG: Cart 16436: Redirecting customer to Paybox (CARTE, CB).
+2017-08-13 12:14:27 1502619267 DEBUG: Call params: M=3100&R=16436%20-%20Justine%20Lechien&T=738540671&A=500162&B=0&C=Visa&D=1812&E=00000&F=Y&G=O&I=FRA&J=93&N=497040&O=Y&P=3DSECURE&Q=12%3A12%3A53&S=727702282&W=13082017&Y=FRA&K=k1BXNo6pfciaRHuOC28AvtWnEcHyZcF5g73nqAL2p12T8Bsln%2FBfs39gqSz7wuwsLJRv2AQv8TcQ%2FnVcBl50QNqqV%2Fc5rH1YJUtR%2FQGEGZRu6uOfsDFK7D1Fs1Zv%2BsEqvfLKr7ESo1cM5RKJ65G1yHW9XIB6906nTLhsSLVu%2BbI%3D
+2017-08-13 12:14:27 1502619267 DEBUG: Cart 16436: Standard IPN
+2017-08-13 12:14:27 1502619267 DEBUG: Cart 16436: Validating order
+2017-08-13 12:14:27 1502619267 DEBUG: Cart 16436: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-08-13 12:14:29 1502619269 DEBUG: Cart 16436: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-08-13 12:14:29 1502619267 DEBUG: Cart 16436: Order 1545 / Le paiement a été autorisé et capturé par Paybox.
+2017-08-13 12:14:30 1502619270 DEBUG: Cart 16436: Customer is back from Paybox payment page. Payment success.
+2017-08-13 22:13:48 1502655227 DEBUG: URL to check 2
+2017-08-13 22:13:48 1502655227 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-13 22:13:48 1502655227 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-08-13 22:13:48 1502655227 DEBUG: Cart 16470: Redirecting customer to Paybox (CARTE, CB).
+2017-08-13 22:15:15 1502655315 DEBUG: Call params: M=1770&R=16470%20-%20Pauline%20Holshouser&T=738601557&B=0&C=Visa&D=2005&E=00105&F=A&G=O&I=USA&J=--&N=431307&O=Y&P=3DSECURE&Q=22%3A13%3A49&S=727767642&W=13082017&Y=USA&K=sEe3RZIn6l7DqSo8Y1eYbtyQyKT6xDFXmu9al52yVvYCQTjEXjpj5GVV5zqUtS%2FBh6%2BDKTmWahkExDaej1ggNDmO1WpG7nbNPEUzwqqeYYmeSZLOGhCW1aPpuXP7CaW3Qvy1ihafG%2BQrz4QKaLhqtlifTPQKeO3WwQG28LMMvc4%3D
+2017-08-13 22:15:15 1502655315 DEBUG: Cart 16470: (IPN) Payment was refused by Paybox (105).
+2017-08-13 22:16:54 1502655414 DEBUG: Cart 16470: Payment was canceled by user on Paybox payment page.

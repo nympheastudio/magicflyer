@@ -1,0 +1,191 @@
+/******************************************************************************
+						Home Page Slider
+*******************************************************************************/
+#homepage-slider {
+  padding: 0;
+  max-width: 100%;
+  max-height: 100vh;
+  overflow: hidden;
+  position: relative;min-height: 0 !important;
+  z-index: 1;
+  float: left; 
+  max-height: 99.9vh !important;
+}
+  @media (max-width: 767px) {
+    #homepage-slider {
+      width: 100%;
+      max-width: 100%;
+      padding-top: 20px; } }
+  #homepage-slider #homeslider {
+    margin: 0 auto;
+    padding: 0; }
+  #homepage-slider .homeslider-description {
+    padding: 50px 50px;
+    cursor: pointer; }
+    #homepage-slider .homeslider-description h2 {
+      font-size: 2em;line-height: 1em;font-weight: 400;
+      color: #59595b;
+      margin: 0;
+      padding: 0; }
+    #homepage-slider .homeslider-description p {
+      width: 100%;
+      font-size: 1em;
+      line-height: 1.3em;}
+    #homepage-slider .homeslider-description button {
+      /*! font-size: 1em; */background: none;border: 1px solid #59595b;
+      text-transform: uppercase; }
+#homepage-slider .homeslider-description button:hover {background: #59595b; color: #fff}
+    @media (max-width: 1200px) {
+      #homepage-slider .homeslider-description {
+        padding: 20px;
+        font-size: 0.8em; } }
+    @media (max-width: 768px) {
+      #homepage-slider .homeslider-description {
+        padding: 30px;
+        font-size: 0.7em; }
+        #homepage-slider .homeslider-description p {
+          font-size: 1.5em; } }
+    @media (max-width: 480px) {
+      #homepage-slider .homeslider-description {
+        padding: 30px;
+        font-size: 0.5em; }
+        #homepage-slider .homeslider-description p {
+          font-size: 1.7em; } }
+
+/*****************************************************************************
+						BXSlider Styles
+********************************************************************************/
+#homepage-slider .homeslider-container {
+  position: relative; }
+#homepage-slider .homeslider-image {
+  position: absolute;
+  left: 0;
+  top: 0; }
+#homepage-slider .homeslider-description {
+  position: absolute;
+  right: 0;width: 100%;z-index: 99999;
+  bottom: 0px;text-align: center; color: #59595b;
+
+}
+#homepage-slider .bx-wrapper {
+  position: relative;max-width: 100% !important;
+  padding: 0;
+  *zoom: 1; }
+  #homepage-slider .bx-wrapper a {
+    /*display: block;*/
+	display: inline-block;
+	margin: 5px;}
+  #homepage-slider .bx-wrapper img {
+    display: block;
+    max-width: 100%;
+    height: auto; }
+#homepage-slider .bx-wrapper .bx-viewport {
+  width: 100%;
+  direction: ltr !important; }
+#homepage-slider .bx-wrapper .bx-pager,
+#homepage-slider .bx-wrapper .bx-controls-auto {
+  position: absolute;
+  bottom: -30px;
+  width: 100%; }
+#homepage-slider .bx-wrapper .bx-loading {
+  min-height: 50px;
+  background: url(images/bx_loader.gif) center center no-repeat white;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2000; }
+#homepage-slider .bx-wrapper .bx-pager {
+  text-align: center;
+  font-size: .85em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #666;
+  padding-top: 0px; bottom: 10px;}
+#homepage-slider .bx-wrapper .bx-pager .bx-pager-item,
+#homepage-slider .bx-wrapper .bx-controls-auto .bx-controls-auto-item {
+  display: inline-block;
+  *zoom: 1;*display: inline; }
+#homepage-slider .bx-wrapper .bx-pager.bx-default-pager a {
+  background: none;
+  text-indent: -9999px;
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  outline: 0;
+  border: 1px solid #59595b;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; z-index: 99999; position: relative}
+#homepage-slider .bx-wrapper .bx-pager.bx-default-pager a:hover,
+#homepage-slider .bx-wrapper .bx-pager.bx-default-pager a.active {
+  background: #59595b; }
+
+
+/* AJOUTS NYMPHEA
+||||||||||||||||||||||||||| */
+#homepage-slider .bx-controls .bx-controls-direction {display: none}
+#homepage-slider .bx-wrapper .bx-viewport, #homepage-slider #homeslider, #homepage-slider #homeslider li, 
+#homepage-slider .bx-wrapper img {
+width: 100% !important; height: 100vh;
+}
+ #homepage-slider .bx-wrapper img {
+ min-width: inherit !important;  height: auto !important; width: auto !important; min-height: 100vh !important;
+}
+
+@media (max-width: 768px){
+  #homepage-slider .homeslider-container {display: none}  
+  #homepage-slider .mobile {display: block}
+}
+
+
+
+@media (max-width: 360px){
+#homepage-slider .homeslider-description {width: 100%; margin-bottom: 30px; }
+  #homepage-slider .homeslider-description > div {padding: 20px !important;}
+  #homepage-slider .homeslider-description button {font-size: 12px;white-space: inherit}
+}
+
+/* KEN BURNS */
+@media (min-width: 1024px){
+  #homepage-slider .bx-wrapper a {
+    /*display: block;*/
+	display: inline-block; }
+
+  #homepage-slider .bx-wrapper img {
+    height: auto;animation: kenburns 40s infinite;-webkit-animation: kenburns 40s infinite;  }
+
+  @keyframes kenburns {
+      0% { opacity: 0;}
+      25% { opacity: 1;}
+      75% {
+          transform: scale3d(1.2, 1.2, 1.2) translate3d(-100px, -50px, 0px);
+          animation-timing-function: ease-in;
+          opacity: 1;
+      }
+      100% {
+          transform: scale3d(1.5, 1.5, 1.5) translate3d(-150px, -100px, 0px);
+          opacity: 0;
+      }
+  }
+	
+	 -webkit-@keyframes kenburns {
+		  0% { opacity: 0;}
+		  25% { opacity: 1;}
+		  75% {
+			  transform: scale3d(1.2, 1.2, 1.2) translate3d(-100px, -50px, 0px);
+			  animation-timing-function: ease-in;
+			  opacity: 1;
+		  }
+		  100% {
+			  transform: scale3d(1.5, 1.5, 1.5) translate3d(-150px, -100px, 0px);
+			  opacity: 0;
+		  }
+	  }	
+	
+	
+	
+	
+}

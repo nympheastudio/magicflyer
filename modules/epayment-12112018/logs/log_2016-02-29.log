@@ -1,0 +1,10 @@
+2016-02-29 16:03:25 1456758205 DEBUG: URL to check 2
+2016-02-29 16:03:25 1456758205 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-02-29 16:03:25 1456758205 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-02-29 16:03:25 1456758205 DEBUG: Cart 495: Redirecting customer to Paybox (CARTE, CB).
+2016-02-29 16:05:19 1456758319 DEBUG: Call params: M=1293&R=495%20-%20agnes%20boulogne&T=610453742&A=445744&B=0&C=MasterCard&D=1810&E=00000&G=D&H=577A0B95045EB179C54A7B29C6D425136EB634DE&I=FRA&J=&N=&P=CARTE&Q=16%3A03%3A26&S=608997546&W=29022016&Y=FRA&K=CZuUtUWPaYQx4y2SDbN0K7CM8mB99mgofBpuTlrWcCrHS7WEYxK9yTkBv7fktsnZ4%2FlxQ3wPOlRr%2Bu6RE98cG312ga2DMlkL40U3zXGKknX%2FOtia%2BIGc%2ByBW%2BXTTLY5C3F3EENrSqHaULyg0bWR23A%2BtGkyQotMVOTknZkDWUzg%3D
+2016-02-29 16:05:19 1456758319 DEBUG: Cart 495: Standard IPN
+2016-02-29 16:05:19 1456758319 DEBUG: Cart 495: Validating order (PS1.5+)
+2016-02-29 16:05:20 1456758320 DEBUG: Cart 495: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-02-29 16:05:21 1456758319 DEBUG: Cart 495: Order 118 / Le paiement a été autorisé et capturé par Paybox.
+2016-02-29 16:05:21 1456758321 DEBUG: Cart 495: Customer is back from Paybox payment page. Payment success.

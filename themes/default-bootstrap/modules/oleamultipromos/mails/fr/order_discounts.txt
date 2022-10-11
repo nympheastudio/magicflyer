@@ -1,0 +1,9 @@
+Bonjour {firstname} {lastname}, 
+
+Grâce à votre commande {order_name} du {date}, vous avez obtenus les bons de réduction suivants :
+
+{discounts_txt}
+
+Ils sont utilisables lors de vos prochaines commandes sur notre site.
+
+{shop_url} réalisé par PrestaShop™

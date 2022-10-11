@@ -1,0 +1,17 @@
+2017-07-26 16:40:08 1501080008 DEBUG: URL to check 2
+2017-07-26 16:40:08 1501080008 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-26 16:40:08 1501080008 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-26 16:40:08 1501080008 DEBUG: Cart 15567: Redirecting customer to Paybox (CARTE, CB).
+2017-07-26 21:16:31 1501096591 DEBUG: URL to check 2
+2017-07-26 21:16:31 1501096591 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-26 21:16:31 1501096591 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-26 21:16:31 1501096591 DEBUG: Cart 15585: Redirecting customer to Paybox (CARTE, CB).
+2017-07-26 21:18:37 1501096717 DEBUG: Call params: M=17600&R=15585%20-%20yohann%20marchive&T=734635295&A=522449&B=0&C=MasterCard&D=1805&E=00000&F=Y&G=O&I=FRA&J=97&N=513854&O=Y&P=3DSECURE&Q=21%3A16%3A32&S=724056009&W=26072017&Y=FRA&K=H%2FjFKuNe4macXPj%2BjNVi2DICkR70aTsSpapwKA9%2B2cq3s46KoMwwfGD9Ngl%2FC6owHoBlsylRS39LQzuwQ5RgZyDFm08B98DYCaZ2JlHPE%2FgSJIm%2BunoZBUc47mBMpVQShHX%2B5mfTqTWMFMZint3AAFpg%2FwbFPHqZpytm1f9%2FMTQ%3D
+2017-07-26 21:18:37 1501096717 DEBUG: Cart 15585: Standard IPN
+2017-07-26 21:18:37 1501096717 DEBUG: Cart 15585: Validating order
+2017-07-26 21:18:37 1501096717 DEBUG: Cart 15585: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-07-26 21:18:38 1501096718 DEBUG: Cart 15585: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-07-26 21:18:39 1501096717 DEBUG: Cart 15585: Order 1458 / Le paiement a été autorisé et capturé par Paybox.
+2017-07-26 21:18:39 1501096719 DEBUG: Cart 15585: Customer is back from Paybox payment page. Payment success.
+2017-07-26 21:18:57 1501096737 DEBUG: Call params: M=17600&R=15585%20-%20yohann%20marchive&T=734635295&A=522449&B=0&C=MasterCard&D=1805&E=00000&F=Y&G=O&I=FRA&J=97&N=513854&O=Y&P=3DSECURE&Q=21%3A16%3A32&S=724056009&W=26072017&Y=FRA&K=H%2FjFKuNe4macXPj%2BjNVi2DICkR70aTsSpapwKA9%2B2cq3s46KoMwwfGD9Ngl%2FC6owHoBlsylRS39LQzuwQ5RgZyDFm08B98DYCaZ2JlHPE%2FgSJIm%2BunoZBUc47mBMpVQShHX%2B5mfTqTWMFMZint3AAFpg%2FwbFPHqZpytm1f9%2FMTQ%3D
+2017-07-26 21:18:57 1501096737 DEBUG: Cart 15585: (IPN) Cart already being validated as order.

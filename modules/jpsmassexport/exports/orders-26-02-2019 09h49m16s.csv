@@ -1,0 +1,158 @@
+Order State;Total payé réel;Total transport;Facture n°;Date de facture;Adresse de facturation;Code postal de facturation;Ville de facturation;Prénomde facturation;Nom de facturation;Code pays de livraison
+Livré;94.110000;8.110000;2562;2018-09-01 11:53:38;38 avenue du Commandanf Barré;91170;VIRY CHATILLON ;Samia ;BOUGTOB ;FR
+Livré;94.110000;8.110000;2562;2018-09-01 11:53:38;38 avenue du Commandanf Barré;91170;VIRY CHATILLON ;Samia ;BOUGTOB ;FR
+Livré;94.110000;8.110000;2562;2018-09-01 11:53:38;38 avenue du Commandanf Barré;91170;VIRY CHATILLON ;Samia ;BOUGTOB ;FR
+Livré;94.110000;8.110000;2562;2018-09-01 11:53:38;38 avenue du Commandanf Barré;91170;VIRY CHATILLON ;Samia ;BOUGTOB ;FR
+Livré;328.360000;7.060000;2563;2018-09-01 13:02:44;30 rue rogert robert;33140;VILLENAVE D ORNON;perrine;martin;FR
+Livré;328.360000;7.060000;2563;2018-09-01 13:02:44;30 rue rogert robert;33140;VILLENAVE D ORNON;perrine;martin;FR
+Livré;328.360000;7.060000;2563;2018-09-01 13:02:44;30 rue rogert robert;33140;VILLENAVE D ORNON;perrine;martin;FR
+Livré;328.360000;7.060000;2563;2018-09-01 13:02:44;30 rue rogert robert;33140;VILLENAVE D ORNON;perrine;martin;FR
+Livré;328.360000;7.060000;2563;2018-09-01 13:02:44;30 rue rogert robert;33140;VILLENAVE D ORNON;perrine;martin;FR
+Livré;328.360000;7.060000;2563;2018-09-01 13:02:44;30 rue rogert robert;33140;VILLENAVE D ORNON;perrine;martin;FR
+Livré;328.360000;7.060000;2563;2018-09-01 13:02:44;30 rue rogert robert;33140;VILLENAVE D ORNON;perrine;martin;FR
+Annulé;0.000000;10.730000;0;0000-00-00 00:00:00;Fabienne Monnet 19 rue des Ecoussons;25300;pontarlier;nico;pero;FR
+Annulé;0.000000;10.730000;0;0000-00-00 00:00:00;Fabienne Monnet 19 rue des Ecoussons;25300;pontarlier;nico;pero;FR
+Annulé;0.000000;10.730000;0;0000-00-00 00:00:00;Fabienne Monnet 19 rue des Ecoussons;25300;pontarlier;nico;pero;FR
+Annulé;0.000000;10.730000;0;0000-00-00 00:00:00;Fabienne Monnet 19 rue des Ecoussons;25300;pontarlier;nico;pero;FR
+Annulé;65.580000;33.080000;2567;2018-09-03 16:19:46;Fabienne Monnet 19 rue des Ecoussons;25300;pontarlier;nico;pero;US
+Annulé;65.580000;33.080000;2567;2018-09-03 16:19:46;Fabienne Monnet 19 rue des Ecoussons;25300;pontarlier;nico;pero;US
+Annulé;0.000000;33.080000;0;0000-00-00 00:00:00;SEVAR, 75, rue Cuvier;83150;BANDOL;nicolas;perodo;US
+Annulé;0.000000;33.080000;0;0000-00-00 00:00:00;SEVAR, 75, rue Cuvier;83150;BANDOL;nicolas;perodo;US
+Annulé;35.100000;15.600000;2568;2018-09-03 16:28:17;Fabienne Monnet 19 rue des Ecoussons;25300;pontarlier;nico;pero;IT
+Livré;59.760000;30.590000;2570;2018-09-05 00:32:13;Cumhuriyet mh. Incirlidede cd. ;34360;Istanbul/?i?li;meric ;celik;TR
+Livré;83.190000;31.360000;2571;2018-09-05 11:34:16;Route de Vuarat 149;1616;Attalens;Stéphanie;Ruchet;CH
+Livré;83.190000;31.360000;2571;2018-09-05 11:34:16;Route de Vuarat 149;1616;Attalens;Stéphanie;Ruchet;CH
+Livré;135.580000;33.080000;2572;2018-09-05 18:30:22;3781 W. 2270 S.;84120;Salt Lake City;Rod;Hadean;US
+Annulé;0.000000;13.000000;0;0000-00-00 00:00:00;1094 chemin;97232;LAMENTIN;Stephanie;Dobua;MQ
+Annulé;0.000000;13.000000;0;0000-00-00 00:00:00;1094 chemin;97232;LAMENTIN;Stephanie;Dobua;MQ
+Annulé;0.000000;13.000000;0;0000-00-00 00:00:00;1094 chemin;97232;LAMENTIN;Stephanie;Dobua;MQ
+Annulé;0.000000;23.000000;0;0000-00-00 00:00:00;1094 chemin;97232;LAMENTIN;Stephanie;Dobua;MQ
+Annulé;0.000000;23.000000;0;0000-00-00 00:00:00;1094 chemin;97232;LAMENTIN;Stephanie;Dobua;MQ
+Annulé;0.000000;23.000000;0;0000-00-00 00:00:00;1094 chemin;97232;LAMENTIN;Stephanie;Dobua;MQ
+Annulé;0.000000;23.000000;0;0000-00-00 00:00:00;1094 chemin;97232;LAMENTIN;Stephanie;Dobua;MQ
+Annulé;0.000000;23.900000;0;0000-00-00 00:00:00;1 rue du port aux vins;95220;herblay;choura;sayed;FR
+Annulé;0.000000;23.900000;0;0000-00-00 00:00:00;1 rue du port aux vins;95220;herblay;choura;sayed;FR
+Annulé;0.000000;23.900000;0;0000-00-00 00:00:00;1 rue du port aux vins;95220;herblay;choura;sayed;FR
+Annulé;169.670000;23.470000;2575;2018-09-06 17:11:25;1 rue du port aux vins;95220;herblay;choura;sayed;FR
+Annulé;169.670000;23.470000;2575;2018-09-06 17:11:25;1 rue du port aux vins;95220;herblay;choura;sayed;FR
+Annulé;169.670000;23.470000;2575;2018-09-06 17:11:25;1 rue du port aux vins;95220;herblay;choura;sayed;FR
+Annulé;104.750000;33.080000;2578;2018-09-07 09:25:39;1 place des lilas;10000;new york;test;nico;US
+Annulé;104.750000;33.080000;2578;2018-09-07 09:25:39;1 place des lilas;10000;new york;test;nico;US
+Livré;385.060000;7.060000;2580;2018-09-07 11:12:51;10 impasse lous trays;43700;Coubon;Alexandre;Farget;FR
+Livré;385.060000;7.060000;2580;2018-09-07 11:12:51;10 impasse lous trays;43700;Coubon;Alexandre;Farget;FR
+Livré;385.060000;7.060000;2580;2018-09-07 11:12:51;10 impasse lous trays;43700;Coubon;Alexandre;Farget;FR
+Livré;178.250000;6.250000;2581;2018-09-07 11:43:16;5 résidence le clos du chateau;91160;BALLAINVILLIERS;Ludivine;Joinet;FR
+Livré;178.250000;6.250000;2581;2018-09-07 11:43:16;5 résidence le clos du chateau;91160;BALLAINVILLIERS;Ludivine;Joinet;FR
+Livré;178.250000;6.250000;2581;2018-09-07 11:43:16;5 résidence le clos du chateau;91160;BALLAINVILLIERS;Ludivine;Joinet;FR
+Livré;178.250000;6.250000;2581;2018-09-07 11:43:16;5 résidence le clos du chateau;91160;BALLAINVILLIERS;Ludivine;Joinet;FR
+Livré;178.250000;6.250000;2581;2018-09-07 11:43:16;5 résidence le clos du chateau;91160;BALLAINVILLIERS;Ludivine;Joinet;FR
+Livré;178.250000;6.250000;2581;2018-09-07 11:43:16;5 résidence le clos du chateau;91160;BALLAINVILLIERS;Ludivine;Joinet;FR
+Livré;178.250000;6.250000;2581;2018-09-07 11:43:16;5 résidence le clos du chateau;91160;BALLAINVILLIERS;Ludivine;Joinet;FR
+Livré;105.720000;4.920000;2582;2018-09-09 12:17:28;44 rue des lilas;59630;BOURBOURG;Sophie;SEGOND;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;236.330000;23.330000;2583;2018-09-09 13:14:52;31 rue lacroix sur meuse;67110;gundershoffen;mehmet;ozdemir;FR
+Livré;119.590000;5.590000;2584;2018-09-10 10:34:35;8 rue du Rabodeau ;54320;Maxéville;Anaelle;Le Port;FR
+Livré;119.590000;5.590000;2584;2018-09-10 10:34:35;8 rue du Rabodeau ;54320;Maxéville;Anaelle;Le Port;FR
+Livré;110.590000;17.590000;2585;2018-09-10 12:50:57;101 Gresham Drive;RM6 4TR;Romford;Denise;Roberts;GB
+Livré;110.590000;17.590000;2585;2018-09-10 12:50:57;101 Gresham Drive;RM6 4TR;Romford;Denise;Roberts;GB
+Livré;110.590000;17.590000;2585;2018-09-10 12:50:57;101 Gresham Drive;RM6 4TR;Romford;Denise;Roberts;GB
+Livré;110.590000;17.590000;2585;2018-09-10 12:50:57;101 Gresham Drive;RM6 4TR;Romford;Denise;Roberts;GB
+Livré;172.000000;12.190000;2586;2018-09-10 16:15:33;16 rue de la mignonne;84140;Montfavet;anthony;barneoud;FR
+Livré;172.000000;12.190000;2586;2018-09-10 16:15:33;16 rue de la mignonne;84140;Montfavet;anthony;barneoud;FR
+Livré;172.000000;12.190000;2586;2018-09-10 16:15:33;16 rue de la mignonne;84140;Montfavet;anthony;barneoud;FR
+Livré;172.000000;12.190000;2586;2018-09-10 16:15:33;16 rue de la mignonne;84140;Montfavet;anthony;barneoud;FR
+Livré;97.920000;4.920000;2587;2018-09-10 18:18:05;9 rue des albizzias;34340;marseillan;mathias;lesage;FR
+Livré;182.590000;5.590000;2591;2018-09-12 14:54:39;18 boulevard castellane;69580;Sathonay camp;Marine;Zaalouni;FR
+Livré;182.590000;5.590000;2591;2018-09-12 14:54:39;18 boulevard castellane;69580;Sathonay camp;Marine;Zaalouni;FR
+Livré;182.590000;5.590000;2591;2018-09-12 14:54:39;18 boulevard castellane;69580;Sathonay camp;Marine;Zaalouni;FR
+Livré;182.590000;5.590000;2591;2018-09-12 14:54:39;18 boulevard castellane;69580;Sathonay camp;Marine;Zaalouni;FR
+Livré;182.590000;5.590000;2591;2018-09-12 14:54:39;18 boulevard castellane;69580;Sathonay camp;Marine;Zaalouni;FR
+Livré;182.590000;5.590000;2591;2018-09-12 14:54:39;18 boulevard castellane;69580;Sathonay camp;Marine;Zaalouni;FR
+Livré;182.590000;5.590000;2591;2018-09-12 14:54:39;18 boulevard castellane;69580;Sathonay camp;Marine;Zaalouni;FR
+Livré;111.170000;4.920000;2592;2018-09-12 15:49:26;44 bis chemin des canteces;77250;moret sur loing;Gaëlle;RENAULT-PRIN;FR
+Livré;111.170000;4.920000;2592;2018-09-12 15:49:26;44 bis chemin des canteces;77250;moret sur loing;Gaëlle;RENAULT-PRIN;FR
+Livré;111.170000;4.920000;2592;2018-09-12 15:49:26;44 bis chemin des canteces;77250;moret sur loing;Gaëlle;RENAULT-PRIN;FR
+Livré;87.590000;17.590000;2593;2018-09-12 17:23:15;154, glasgow road;EH12 8LS;edinburgh;wendy;thomson;GB
+Livré;172.190000;12.190000;2596;2018-09-14 00:19:25;159;01420;Corbonod;Madoussou;keita;FR
+Annulé;0.000000;13.000000;0;0000-00-00 00:00:00;12 Rue Nationale;13570;barbentane;Stephanie;Dubois;FR
+Annulé;0.000000;13.000000;0;0000-00-00 00:00:00;12 Rue Nationale;13570;barbentane;Stephanie;Dubois;FR
+Annulé;0.000000;13.000000;0;0000-00-00 00:00:00;12 Rue Nationale;13570;barbentane;Stephanie;Dubois;FR
+Annulé;0.000000;13.000000;0;0000-00-00 00:00:00;12 Rue Nationale;13570;barbentane;Stephanie;Dubois;FR
+Livré;179.060000;7.060000;2600;2018-09-17 10:53:33;190 rue du lavoir;24110;Saint Astier;Valérie;Andraud;FR
+Livré;179.060000;7.060000;2600;2018-09-17 10:53:33;190 rue du lavoir;24110;Saint Astier;Valérie;Andraud;FR
+Livré;179.060000;7.060000;2600;2018-09-17 10:53:33;190 rue du lavoir;24110;Saint Astier;Valérie;Andraud;FR
+Livré;184.310000;12.310000;2602;2018-09-17 22:41:46;Agence GuyHoquet 2 avenue de la liberté;40990;Saint Paul les dax;Aurelie;Paterck;FR
+Livré;184.310000;12.310000;2602;2018-09-17 22:41:46;Agence GuyHoquet 2 avenue de la liberté;40990;Saint Paul les dax;Aurelie;Paterck;FR
+Livré;184.310000;12.310000;2602;2018-09-17 22:41:46;Agence GuyHoquet 2 avenue de la liberté;40990;Saint Paul les dax;Aurelie;Paterck;FR
+Livré;185.050000;55.050000;2605;2018-09-18 18:26:00;62 B rue des Prunes;97480;saint Joseph;audrey;lebon;RE
+Livré;34.420000;5.050000;2606;2018-09-18 20:26:12;32 rue du commandant berge ;77100;Meaux;Dorothee;Hamoniez;FR
+Livré;34.420000;5.050000;2606;2018-09-18 20:26:12;32 rue du commandant berge ;77100;Meaux;Dorothee;Hamoniez;FR
+Livré;88.300000;12.300000;2608;2018-09-20 09:06:50;35bis rue de la bourcilliere;92140;CLAMART ;martine;decobert;FR
+Livré;88.300000;12.300000;2608;2018-09-20 09:06:50;35bis rue de la bourcilliere;92140;CLAMART ;martine;decobert;FR
+Livré;88.300000;12.300000;2608;2018-09-20 09:06:50;35bis rue de la bourcilliere;92140;CLAMART ;martine;decobert;FR
+Livré;293.890000;9.890000;2609;2018-09-20 11:08:20;146 chemin des prud'hommes;13010;Marseille;josiane;cesana;FR
+Livré;293.890000;9.890000;2609;2018-09-20 11:08:20;146 chemin des prud'hommes;13010;Marseille;josiane;cesana;FR
+Livré;172.960000;12.190000;2610;2018-09-20 12:18:56;6, allée de chur;14390;Cabourg ;Neuville;Emilie ;FR
+Livré;172.960000;12.190000;2610;2018-09-20 12:18:56;6, allée de chur;14390;Cabourg ;Neuville;Emilie ;FR
+Livré;172.960000;12.190000;2610;2018-09-20 12:18:56;6, allée de chur;14390;Cabourg ;Neuville;Emilie ;FR
+Livré;153.210000;5.590000;2612;2018-09-21 10:39:09;110 impasse sérénité;42210;UNIAS;christophe;parra;FR
+Livré;153.210000;5.590000;2612;2018-09-21 10:39:09;110 impasse sérénité;42210;UNIAS;christophe;parra;FR
+Livré;26.410000;6.910000;2614;2018-09-21 21:43:49;51 G;79260;La creche ;Marie;Richard;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;247.250000;6.250000;2615;2018-09-22 00:03:36;215 avenue de Boufflers;54000;Nancy;Ariane;Despringre;FR
+Livré;104.210000;22.510000;2626;2018-09-27 08:53:17;Kareelstraat 10;1850;Grimbergen;Lilian;T?Sas ;BE
+Livré;104.210000;22.510000;2626;2018-09-27 08:53:17;Kareelstraat 10;1850;Grimbergen;Lilian;T?Sas ;BE
+Livré;104.210000;22.510000;2626;2018-09-27 08:53:17;Kareelstraat 10;1850;Grimbergen;Lilian;T?Sas ;BE
+Livré;91.590000;5.590000;2616;2018-09-22 13:39:05;2 villa des merisiers;95390;Saint-Prix;anne-marie;layotte;FR
+Livré;91.590000;5.590000;2616;2018-09-22 13:39:05;2 villa des merisiers;95390;Saint-Prix;anne-marie;layotte;FR
+Livré;91.590000;5.590000;2616;2018-09-22 13:39:05;2 villa des merisiers;95390;Saint-Prix;anne-marie;layotte;FR
+Livré;91.590000;5.590000;2616;2018-09-22 13:39:05;2 villa des merisiers;95390;Saint-Prix;anne-marie;layotte;FR
+Livré;43.920000;4.920000;2617;2018-09-22 19:51:15;2 boulevard de la république;04300;FORCALQUIER;Laetitia;AYMES;FR
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;203.850000;41.240000;2619;2018-09-24 15:34:51;Bd Louis Mettewie 91/59;1080;Molenbeek;Sarah;Gödert;BE
+Livré;67.920000;4.920000;2620;2018-09-24 16:01:08;Rue de Banneux 27;4141;Louveigné;Claudine;Radermecker;BE
+Livré;67.920000;4.920000;2620;2018-09-24 16:01:08;Rue de Banneux 27;4141;Louveigné;Claudine;Radermecker;BE
+Livré;67.920000;4.920000;2620;2018-09-24 16:01:08;Rue de Banneux 27;4141;Louveigné;Claudine;Radermecker;BE
+Livré;113.190000;4.920000;2622;2018-09-25 08:21:17;59, rue de diekirch ;9355;Bettendorf;Silva ;Regina;LU
+Livré;113.190000;4.920000;2622;2018-09-25 08:21:17;59, rue de diekirch ;9355;Bettendorf;Silva ;Regina;LU
+Livré;113.190000;4.920000;2622;2018-09-25 08:21:17;59, rue de diekirch ;9355;Bettendorf;Silva ;Regina;LU
+Annulé;693.860000;18.860000;2623;2018-09-25 10:35:55;EHRENBERGSTRASSE 7;10245;Berlin;mathias ;merkel;DE
+Annulé;693.860000;18.860000;2623;2018-09-25 10:35:55;EHRENBERGSTRASSE 7;10245;Berlin;mathias ;merkel;DE
+Annulé;693.860000;18.860000;2623;2018-09-25 10:35:55;EHRENBERGSTRASSE 7;10245;Berlin;mathias ;merkel;DE
+Annulé;693.860000;18.860000;2623;2018-09-25 10:35:55;EHRENBERGSTRASSE 7;10245;Berlin;mathias ;merkel;DE
+Annulé;693.860000;18.860000;2623;2018-09-25 10:35:55;EHRENBERGSTRASSE 7;10245;Berlin;mathias ;merkel;DE
+Livré;54.490000;4.920000;2624;2018-09-25 22:18:00;1 impasse des Fauvettes ;44119;Grand champ des Fontaines;Amandine;Boumard;FR
+Livré;92.880000;22.630000;2630;2018-09-27 21:40:49;Vicolo S. Antonio 8f;28021;Borgomanero;Giulia;Antonioli;IT
+Livré;92.880000;22.630000;2630;2018-09-27 21:40:49;Vicolo S. Antonio 8f;28021;Borgomanero;Giulia;Antonioli;IT
+Livré;173.590000;5.590000;2632;2018-09-28 20:14:31;47 Rue Cortambert ;75116;PARIS;SIRAIT FREDDY;JULIANUS;FR
+Livré;173.590000;5.590000;2632;2018-09-28 20:14:31;47 Rue Cortambert ;75116;PARIS;SIRAIT FREDDY;JULIANUS;FR
+Livré;173.590000;5.590000;2632;2018-09-28 20:14:31;47 Rue Cortambert ;75116;PARIS;SIRAIT FREDDY;JULIANUS;FR
+Livré;173.590000;5.590000;2632;2018-09-28 20:14:31;47 Rue Cortambert ;75116;PARIS;SIRAIT FREDDY;JULIANUS;FR
+Livré;173.590000;5.590000;2632;2018-09-28 20:14:31;47 Rue Cortambert ;75116;PARIS;SIRAIT FREDDY;JULIANUS;FR
+Livré;173.590000;5.590000;2632;2018-09-28 20:14:31;47 Rue Cortambert ;75116;PARIS;SIRAIT FREDDY;JULIANUS;FR
+Livré;173.590000;5.590000;2632;2018-09-28 20:14:31;47 Rue Cortambert ;75116;PARIS;SIRAIT FREDDY;JULIANUS;FR
+Livré;37.160000;4.920000;2633;2018-09-30 20:47:29;83 chemin guyot;27500;corneville sur risle;sandrine;Duparc;FR
+Livré;37.160000;4.920000;2633;2018-09-30 20:47:29;83 chemin guyot;27500;corneville sur risle;sandrine;Duparc;FR
+Livré;28.320000;4.920000;2634;2018-09-30 22:59:19;Résidence Parc Victoria II ;56400;Auray;Anne;Perrien;FR

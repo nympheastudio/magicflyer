@@ -1,0 +1,10 @@
+2016-11-28 21:05:58 1480363558 DEBUG: URL to check 2
+2016-11-28 21:05:58 1480363558 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-28 21:05:58 1480363558 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-28 21:05:58 1480363558 DEBUG: Cart 4549: Redirecting customer to Paybox (CARTE, CB).
+2016-11-28 21:09:34 1480363774 DEBUG: Call params: M=2297&R=4549%20-%20GUYONY%20ANNE&T=669291406&A=720224&B=0&C=Visa&D=1706&E=00000&F=Y&G=O&I=FRA&J=34&N=497401&O=Y&P=3DSECURE&Q=21%3A05%3A59&S=668445368&W=28112016&Y=FRA&K=es7peVdqlWiKHKeJ4hnzvPegxZiwpMByQy9rGYxStjtnhxcsG%2Fn23uoDCUnVohauycC%2FabVxXXJaId5C5qp8maxydaoL03Q%2B0yZo6Ke6RCTQUJasbVXCdERsDMcUdiC%2FQNbsZtBY98sKgcRLEEqsIu9%2FR4pPB8CKAA42DEUmoI4%3D
+2016-11-28 21:09:34 1480363774 DEBUG: Cart 4549: Standard IPN
+2016-11-28 21:09:34 1480363774 DEBUG: Cart 4549: Validating order
+2016-11-28 21:09:34 1480363774 DEBUG: Cart 4549: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-28 21:09:35 1480363774 DEBUG: Cart 4549: Order 494 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-28 21:09:35 1480363775 DEBUG: Cart 4549: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,1 @@
+Mostrar pestaña idioma incluso cuando estan inactivas. Esto se utiliza si no quiere activar idiomas pero si usarlos para Amazon.

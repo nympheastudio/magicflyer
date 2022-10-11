@@ -1,0 +1,9 @@
+Vous avez configuré des Modèles d'Expédition dans votre compte Seller Central.
+
+Ainsi vous pouvez choisir ici un Modèle d'Expédition à appliquer pour ce profil.
+
+Tous les produits concernés par ce profil se verront appliquer par défaut ce modèle Modèle d'Expédition 
+
+Si sur l'extension fiche produit, un Modèle d'Expédition est aussi indiqué, alors celui ci sera utilisé.
+
+Si vous n'indiquez nulle part de Modèle d'Expédition, alors, votre configuration par défaut faite sur Seller Central sera utilisée.

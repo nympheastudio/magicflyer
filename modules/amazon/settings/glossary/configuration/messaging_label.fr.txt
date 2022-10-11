@@ -1,0 +1,5 @@
+Libellés que vous devrez créer sur GMail (Imap Labels)
+
+<img src="views/img/tips/fr/labels.jpg" />
+
+Note: Les libellés sont sensibles à la casse (Majuscules, minuscules)

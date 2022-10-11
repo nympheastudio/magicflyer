@@ -1,0 +1,4 @@
+Sinistra, la massima percentuale bassa
+Destra, la massima percentuale alta
+
+Il prezzo base utilizzato è il prezzo regolare del modulo, come per esempio il prezzo che il modulo invia solitamente ad Amazon.

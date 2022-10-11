@@ -1,0 +1,109 @@
+/**
+* 2007-2014 PrestaShop
+*
+* Jms Drop Mega menu module
+*
+*  @author    Joommasters <joommasters@gmail.com>
+*  @copyright 2007-2014 Joommasters
+*  @license   license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+*  @Website: http://www.joommasters.com
+*/
+#off-canvas-menu-toggle span {
+	color:#FFF;
+	font-size:32px;
+	line-height:70px;
+	margin-right:10px;
+}
+#off-canvas-menu #jms-megamenu > li {
+	float:left;
+	width:100%;
+	border-bottom:1px solid #333;
+}
+#off-canvas-menu li a {
+	color:#999;	
+	display:block;
+}
+#off-canvas-menu li a:hover {
+	color:#e4410d;	
+	display:block;
+}
+#off-canvas-menu .mod-content {
+	color:#999;
+}
+#off-canvas-menu #jms-megamenu > li > a {
+	text-transform:uppercase;	
+}
+#off-canvas-menu #jms-megamenu > li ul {
+	margin-left:15px;
+}
+#off-canvas-menu .mega-child-icon {
+	background:url(../img/open.png) no-repeat 4px 5px;
+	display:block;
+	float:right;
+	width:20px;
+	height:20px;
+}
+#off-canvas-menu .ov-open .mega-child-icon {
+	background:url(../img/close.png) no-repeat 4px 13px;
+	
+}
+#off-canvas-menu .icon-arrow-down-4:before {
+	content:none;
+}
+#off-canvas-menu .dropdown-menu {
+	display:none;
+	opacity:1!important;
+	position:relative!important;
+	visibility:visible!important;
+	top:0px!important;
+	box-shadow:none;
+	border:none;
+	border-radius:0px;
+	width:100%;
+	background:#333;
+}
+#off-canvas-menu .dropdown-inner {
+	padding:0px 15px;			
+}
+#off-canvas-menu #jms-megamenu > li.ov-open > a {
+	font-weight:500; 
+}
+#off-canvas-menu .mega-nav > li a {
+	line-height:35px;
+	padding-left:10px;
+}
+#off-canvas-menu .mega-nav > li.group  > a {
+	color:#e4410d;
+	text-transform:uppercase;
+}
+.responsive #off-canvas-menu-title {
+    background: none repeat scroll 0 0 #F5F5F5;
+    border-bottom: 1px solid #E7E7E7;
+    display: block;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 46px;
+    padding-left: 15px;
+    font-weight:bold;
+}
+.responsive #off-canvas-menu-close {
+    color: #707070;
+    cursor: pointer;
+    float: right;
+    font-size: 20px;
+    padding: 12px 12px 0 0;
+}
+#off-canvas-menu .col-sm-1,
+#off-canvas-menu .col-sm-2,
+#off-canvas-menu .col-sm-3,
+#off-canvas-menu .col-sm-4,
+#off-canvas-menu .col-sm-5,
+#off-canvas-menu .col-sm-6,
+#off-canvas-menu .col-sm-7,
+#off-canvas-menu .col-sm-8,
+#off-canvas-menu .col-sm-9,
+#off-canvas-menu .col-sm-10,
+#off-canvas-menu .col-sm-11,
+#off-canvas-menu .col-sm-12 {
+	width:100%;
+}

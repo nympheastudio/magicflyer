@@ -1,0 +1,17 @@
+Cher {firstname} {lastname},
+
+Les évaluations vous guident dans vos achats sur Amazon Marketplace mais aussi
+votre évaluation sera également utile aux futurs acheteurs de la Marketplace.
+
+Ainsi, nous vous saurions reconnaissant de bien vouloir évaluer notre prestation.
+
+Vous pouvez le faire en quelques instants, en vous rendant sur votre compte à l'adresse :
+{amazon_review_url}
+
+Suivez simplement les instructions.
+
+Nous vous remercions de nous avoir accordé votre confiance, et souhaitons vous revoir très bientôt sur Amazon Marketplace.
+
+Cordialement,
+Le Service Client
+{shop_name}

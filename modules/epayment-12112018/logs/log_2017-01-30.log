@@ -1,0 +1,13 @@
+2017-01-30 13:42:53 1485780173 DEBUG: URL to check 2
+2017-01-30 13:42:53 1485780173 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-30 13:42:53 1485780173 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-30 13:42:53 1485780173 DEBUG: Cart 7846: Redirecting customer to Paybox (CARTE, CB).
+2017-01-30 13:45:14 1485780314 DEBUG: Call params: M=8900&R=7846%20-%20Noemie%20%20Michelo&T=684716637&A=412658&B=0&C=Visa&D=1709&E=00000&F=Y&G=O&I=FRA&J=90&N=453307&O=Y&P=3DSECURE&Q=13%3A42%3A57&S=682331847&W=30012017&Y=FRA&K=gy4yLijazMKlf2iDLatNSi5AFqMVOXwne%2FgO6wtVwaDzXGbSrbKnRZWVSb8aUQAzcT1bNFe%2BLdDahaXSdlSnAISCg6U5ohP4MhqsnYOLkRq95SWfd0jD4m2h8OovIsWY%2BmbphkfV0TbTKqnQeFEdvSNXxygLlDn%2FOalpSkhFxdE%3D
+2017-01-30 13:45:14 1485780314 DEBUG: Cart 7846: Standard IPN
+2017-01-30 13:45:14 1485780314 DEBUG: Cart 7846: Validating order
+2017-01-30 13:45:14 1485780314 DEBUG: Cart 7846: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-01-30 13:45:15 1485780314 DEBUG: Cart 7846: Order 610 / Le paiement a été autorisé et capturé par Paybox.
+2017-01-30 13:45:15 1485780315 DEBUG: Cart 7846: Customer is back from Paybox payment page. Payment success.
+2017-01-30 15:26:40 1485786400 DEBUG: Cart 7694: Order 606 / Order amount changed : 140.900000 => 110.650000
+2017-01-30 15:32:20 1485786739 DEBUG: Cart 7694: Order 606 / Order amount changed : 140.900000 => 135.100000
+2017-01-30 15:32:40 1485786760 DEBUG: Cart 7694: Order 606 / Order amount changed : 140.900000 => 126.100000

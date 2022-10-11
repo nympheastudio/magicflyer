@@ -1,0 +1,24 @@
+2017-09-27 10:04:54 1506499494 DEBUG: URL to check 2
+2017-09-27 10:04:54 1506499494 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-27 10:04:55 1506499494 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-27 10:04:55 1506499494 DEBUG: Cart 18176: Redirecting customer to Paybox (CARTE, CB).
+2017-09-27 10:07:22 1506499642 DEBUG: Call params: M=17000&R=18176%20-%20marie%20jo%20Garcia&T=751423239&A=666034&B=0&C=Visa&D=1902&E=00000&F=Y&G=O&I=FRA&J=64&N=497992&O=Y&P=3DSECURE&Q=10%3A04%3A57&S=738426094&W=27092017&Y=FRA&K=0i97xmtbWi9XC4GNiEx6OoIUZ5kg3tY3wBDtBHdAMB9qNm43mCke4NvR%2Fyc%2Fw0MNa%2BqjdS%2Fs3bxSZXIVekeyZ1dUPyXPNd91AnvRtW2wKZ7oPbQufvmYp4uVaPKuXK3%2BVf4Db67teh5E7KsLzRXi17VLMu6E6Ddbv4DNvwRvmpo%3D
+2017-09-27 10:07:22 1506499642 DEBUG: Cart 18176: Standard IPN
+2017-09-27 10:07:22 1506499642 DEBUG: Cart 18176: Validating order
+2017-09-27 10:07:24 1506499642 DEBUG: Cart 18176: Order 1693 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-27 10:07:24 1506499644 DEBUG: Call params: M=17000&R=18176%20-%20marie%20jo%20Garcia&T=751423239&A=666034&B=0&C=Visa&D=1902&E=00000&F=Y&G=O&I=FRA&J=64&N=497992&O=Y&P=3DSECURE&Q=10%3A04%3A57&S=738426094&W=27092017&Y=FRA&K=0i97xmtbWi9XC4GNiEx6OoIUZ5kg3tY3wBDtBHdAMB9qNm43mCke4NvR%2Fyc%2Fw0MNa%2BqjdS%2Fs3bxSZXIVekeyZ1dUPyXPNd91AnvRtW2wKZ7oPbQufvmYp4uVaPKuXK3%2BVf4Db67teh5E7KsLzRXi17VLMu6E6Ddbv4DNvwRvmpo%3D
+2017-09-27 10:07:24 1506499644 DEBUG: Cart 18176: (IPN) Cart already being validated as order.
+2017-09-27 11:06:27 1506503187 DEBUG: URL to check 2
+2017-09-27 11:06:27 1506503187 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-27 11:06:27 1506503187 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-27 11:06:27 1506503187 DEBUG: Cart 18178: Redirecting customer to Paybox (CARTE, CB).
+2017-09-27 11:07:12 1506503232 DEBUG: Call params: M=6450&R=18178%20-%20Jean%20Marc%20LAMBLIN&T=751446256&A=456573&B=0&C=Visa&D=1905&E=00000&F=Y&G=O&I=FRA&J=67&N=456299&O=Y&P=3DSECURE&Q=11%3A06%3A29&S=738445679&W=27092017&Y=FRA&K=WvJgtAGtv0GkFFBe4PwA7D4dgBp%2FFF%2B05V7PUGhn%2Fogq4FuhRVOrDFyX8O8ig8bgD8jwL3zV9W6jlxB9Bumz5yD43%2BV3JQe4sjw8yfG%2FKJArf1CJHrxrB92p3HixVXdWpygoFUq9zqO9xuwhiYI%2BdycXbnP8lkg1Ygyip%2Br33g0%3D
+2017-09-27 11:07:12 1506503232 DEBUG: Cart 18178: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-09-27 11:07:13 1506503232 DEBUG: Cart 18178: Standard IPN
+2017-09-27 11:07:13 1506503232 DEBUG: Cart 18178: Validating order
+2017-09-27 11:07:13 1506503233 DEBUG: Cart 18178: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-09-27 11:07:14 1506503234 DEBUG: Cart 18178: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-09-27 11:07:15 1506503232 DEBUG: Cart 18178: Order 1694 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-27 11:07:15 1506503235 DEBUG: Call params: M=6450&R=18178%20-%20Jean%20Marc%20LAMBLIN&T=751446256&A=456573&B=0&C=Visa&D=1905&E=00000&F=Y&G=O&I=FRA&J=67&N=456299&O=Y&P=3DSECURE&Q=11%3A06%3A29&S=738445679&W=27092017&Y=FRA&K=WvJgtAGtv0GkFFBe4PwA7D4dgBp%2FFF%2B05V7PUGhn%2Fogq4FuhRVOrDFyX8O8ig8bgD8jwL3zV9W6jlxB9Bumz5yD43%2BV3JQe4sjw8yfG%2FKJArf1CJHrxrB92p3HixVXdWpygoFUq9zqO9xuwhiYI%2BdycXbnP8lkg1Ygyip%2Br33g0%3D
+2017-09-27 11:07:15 1506503235 DEBUG: Cart 18178: (IPN) Cart already being validated as order.
+2017-09-27 11:07:16 1506503236 DEBUG: Cart 18178: Customer is back from Paybox payment page. Payment success.

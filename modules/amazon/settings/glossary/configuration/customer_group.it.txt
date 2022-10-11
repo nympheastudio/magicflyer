@@ -1,0 +1,5 @@
+Gruppi Clienti
+Su PrestShop è possibile creare un gruppo personalizzato per le tue esportazioni su Amazon su Clienti>Gruppi
+In questo modo sarà possibile applicare promozioni specifiche per le esportazioni di Amazon
+
+Anche i clienti creati durante l'importazione dell'ordine appartengono a questo gruppo.

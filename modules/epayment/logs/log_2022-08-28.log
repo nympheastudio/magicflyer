@@ -1,0 +1,25 @@
+2022-08-28 17:20:29 1661700029 DEBUG: URL to check 2
+2022-08-28 17:20:29 1661700029 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-08-28 17:20:29 1661700029 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-08-28 17:20:29 1661700029 DEBUG: Cart 66096: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-08-28 17:21:13 1661700073 DEBUG: Call params: M=19527&R=66096%20-%20CHRISTINE%20TANGUY&T=1075706071&A=954564&B=0&C=CB&D=2409&E=00000&F=Y&G=O&I=FRA&J=16&N=497988&O=Y&P=3DSECURE&Q=17%3A21%3A14&S=930181909&W=28082022&Y=FRA&Z=0-0&K=WloBnGhQaAcTgBeGeGrodubpBfnIzF%2B1qNP8GuKAnSxdRNkW5n4zWSwPi0NDkJmqa9wQohydcYSl6lD6Z%2F4LcsdSUEGTjXBNyLqimnNCzRkjf1NrcEl%2Bwy1txPpq6nAXzxBiNM2fnfZFtwO%2BfIdFFE6uiXi7u9A7th%2FzK0t71Ac%3D
+2022-08-28 17:21:13 1661700073 DEBUG: Cart 66096: Standard IPN
+2022-08-28 17:21:13 1661700073 DEBUG: Cart 66096: Validating order
+2022-08-28 17:21:13 1661700073 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-08-28 17:21:15 1661700075 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-08-28 17:21:17 1661700077 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-08-28 17:21:18 1661700078 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-08-28 17:21:19 1661700079 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-08-28 17:21:20 1661700080 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2022-08-28 17:21:21 1661700081 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 6).
+2022-08-28 17:21:22 1661700082 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 7).
+2022-08-28 17:21:23 1661700083 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 8).
+2022-08-28 17:21:25 1661700085 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 9).
+2022-08-28 17:21:26 1661700086 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 10).
+2022-08-28 17:21:27 1661700087 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 11).
+2022-08-28 17:21:29 1661700089 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 12).
+2022-08-28 17:21:30 1661700090 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 13).
+2022-08-28 17:21:31 1661700091 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 14).
+2022-08-28 17:21:31 1661700073 DEBUG: Cart 66096: Order 6062 validated, creating details
+2022-08-28 17:21:32 1661700073 DEBUG: Cart 66096: Order 6062 / Le paiement a été autorisé et capturé par Paybox.
+2022-08-28 17:21:32 1661700092 DEBUG: Cart 66096: Customer is back from Verifone e-commerce payment page. Payment success.

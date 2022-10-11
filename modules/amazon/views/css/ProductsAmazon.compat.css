@@ -1,0 +1,22 @@
+.hint {
+    display: none;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    width: 850px;
+    border: 1px solid #00529B;
+    padding: 15px 5px 15px 40px;
+    color: #00529B;
+    background-color: #BDE5F8;
+    border-radius: 3px;
+    min-height: 15px;
+    z-index: 10;
+}
+#amazon-synchronize-result.conf, #amazon-creation-result.conf {
+    width: 850px;
+}
+.error {
+    background-color: #FFBABA;
+    border: 1px solid #C00;
+    color: #D8000C;
+    padding: 20px;
+}

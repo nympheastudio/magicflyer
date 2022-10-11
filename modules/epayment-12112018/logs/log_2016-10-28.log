@@ -1,0 +1,10 @@
+2016-10-28 10:50:12 1477644612 DEBUG: URL to check 2
+2016-10-28 10:50:12 1477644612 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-28 10:50:12 1477644612 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-28 10:50:12 1477644612 DEBUG: Cart 4228: Redirecting customer to Paybox (CARTE, CB).
+2016-10-28 10:51:54 1477644714 DEBUG: Call params: M=2297&R=4228%20-%20jessica%20lombardi&T=662726583&A=653824&B=0&C=MasterCard&D=1712&E=00000&F=Y&G=O&I=FRA&J=17&N=513379&O=Y&P=3DSECURE&Q=10%3A50%3A18&S=662224817&W=28102016&Y=FRA&K=At9MOSFQpoXNdidDvuGmn82DmG88HeNGkLD8ogVCmC8uoXhK%2BAXWHGiOLWly6FBpI2Lb2kx%2BC8DsxBO%2BTbVxQPasishcyebdg3nk3Yl7D0D6uZa47sKUuBAhm0%2B2OfFqvmN8micn3DJncDD1hukFlg3UxYz4LPHJvn3XSBby4CA%3D
+2016-10-28 10:51:54 1477644714 DEBUG: Cart 4228: Standard IPN
+2016-10-28 10:51:54 1477644714 DEBUG: Cart 4228: Validating order
+2016-10-28 10:51:54 1477644714 DEBUG: Cart 4228: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-28 10:51:56 1477644714 DEBUG: Cart 4228: Order 457 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-28 10:51:56 1477644716 DEBUG: Cart 4228: Customer is back from Paybox payment page. Payment success.

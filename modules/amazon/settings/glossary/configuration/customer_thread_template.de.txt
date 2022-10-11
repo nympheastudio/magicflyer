@@ -1,0 +1,2 @@
+Bitte wählen Sie hier die E-Mail-Vorlage für Kunden > Kundenservice-Reiter.
+Normalerweise ist die Vorlage "reply_msg". Verändern Sie diesen Wert nicht, wenn Sie unsicher sind.

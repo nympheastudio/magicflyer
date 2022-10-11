@@ -1,0 +1,3 @@
+AWS Schlüssel ID - AWS Zugang zur Schlüsselnummer
+
+<img src="views/img/tips/en/awskeyid.jpg" />

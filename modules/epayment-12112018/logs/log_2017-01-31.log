@@ -1,0 +1,27 @@
+2017-01-31 15:20:22 1485872422 DEBUG: URL to check 2
+2017-01-31 15:20:22 1485872422 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-31 15:20:22 1485872422 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-01-31 15:20:22 1485872422 DEBUG: Cart 7897: Redirecting customer to Paybox (CARTE, CB).
+2017-01-31 15:21:27 1485872487 DEBUG: Call params: M=8050&R=7897%20-%20Delphine%20ROLAND&T=685164940&A=465856&B=0&C=Visa&D=1804&E=00000&F=Y&G=O&I=FRA&J=56&N=497203&O=Y&P=3DSECURE&Q=15%3A20%3A23&S=682682026&W=31012017&Y=FRA&K=deScUn5XpyjT0pnIOwj46JQVtNy73Ul6p1YIcziN2xvocwi%2BuCPuxaURzvUOFKdBRRJ%2Bml5vSCqY93yM6UJl3VuaDKA%2BR%2FJYdspmxoJ2xltj2saJetNmMyhbf4hXQMzXXaMqPOEpDDzh7%2FKaBcv5YhT%2B%2FWhrJu59ajmxspTWxq8%3D
+2017-01-31 15:21:27 1485872487 DEBUG: Cart 7897: Standard IPN
+2017-01-31 15:21:27 1485872487 DEBUG: Cart 7897: Validating order
+2017-01-31 15:21:27 1485872487 DEBUG: Cart 7897: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-01-31 15:21:28 1485872487 DEBUG: Cart 7897: Order 611 / Le paiement a été autorisé et capturé par Paybox.
+2017-01-31 15:21:28 1485872488 DEBUG: Cart 7897: Customer is back from Paybox payment page. Payment success.
+2017-01-31 21:09:23 1485893362 DEBUG: URL to check 2
+2017-01-31 21:09:23 1485893362 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-31 21:09:23 1485893362 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-31 21:09:23 1485893362 DEBUG: Cart 7904: Redirecting customer to Paybox (CARTE, CB).
+2017-01-31 21:09:46 1485893386 DEBUG: URL to check 2
+2017-01-31 21:09:46 1485893386 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-31 21:09:46 1485893386 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-31 21:09:46 1485893386 DEBUG: Cart 7904: Redirecting customer to Paybox (CARTE, CB).
+2017-01-31 21:11:48 1485893508 DEBUG: Call params: M=1325&R=7904%20-%20Priscilla%20Ohling&T=685249225&A=015655&B=0&C=Visa&D=1912&E=00000&F=Y&G=O&I=FRA&J=27&N=497641&O=Y&P=3DSECURE&Q=21%3A09%3A23&S=682757537&W=31012017&Y=FRA&K=JRnz8bVndh4BxvPq0wu85OWx9F5pqhLIqy9WZw3qdJrWZF04O7a4V%2BOtQjhSnjNGrSNflbsMoq1U1%2F0Zn6kYM2J7LHkv6U2X6NaHQvS7vmgmoC8Hj8flEcfO3wOvUJST8mporgAYpTRVAZiGWGMp%2BNKb26cGBaIfFz36Rf3CSic%3D
+2017-01-31 21:11:48 1485893508 DEBUG: Cart 7904: Standard IPN
+2017-01-31 21:11:48 1485893508 DEBUG: Cart 7904: Validating order
+2017-01-31 21:11:49 1485893508 DEBUG: Cart 7904: Order 612 / Le paiement a été autorisé et capturé par Paybox.
+n (loop 0).
+2017-01-31 21:11:49 1485893509 DEBUG: Cart 7904: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-01-31 21:11:51 1485893511 DEBUG: Cart 7904: Customer is back from Paybox payment page. Payment success.
+2017-01-31 21:12:08 1485893528 DEBUG: Call params: M=1325&R=7904%20-%20Priscilla%20Ohling&T=685249225&A=015655&B=0&C=Visa&D=1912&E=00000&F=Y&G=O&I=FRA&J=27&N=497641&O=Y&P=3DSECURE&Q=21%3A09%3A23&S=682757537&W=31012017&Y=FRA&K=JRnz8bVndh4BxvPq0wu85OWx9F5pqhLIqy9WZw3qdJrWZF04O7a4V%2BOtQjhSnjNGrSNflbsMoq1U1%2F0Zn6kYM2J7LHkv6U2X6NaHQvS7vmgmoC8Hj8flEcfO3wOvUJST8mporgAYpTRVAZiGWGMp%2BNKb26cGBaIfFz36Rf3CSic%3D
+2017-01-31 21:12:08 1485893528 DEBUG: Cart 7904: (IPN) Cart already being validated as order.

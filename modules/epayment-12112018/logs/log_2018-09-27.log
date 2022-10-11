@@ -1,0 +1,15 @@
+2018-09-27 14:11:50 1538050310 DEBUG: URL to check 2
+2018-09-27 14:11:50 1538050310 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-27 14:11:50 1538050310 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-27 14:11:50 1538050310 DEBUG: Cart 28195: Redirecting customer to Paybox (CARTE, CB).
+2018-09-27 14:13:59 1538050439 DEBUG: Call params: M=12837&R=28195%20-%20Sabrina%20Sablon&T=430322205&A=916522&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=GLP&J=46&N=499001&O=Y&P=3DSECURE&Q=14%3A11%3A48&S=440067572&W=27092018&Y=FRA&K=rkQHh%2FjGLiHCEo1EHxhvLWxL%2Bwdqboysgx1vi0d690CPdWtRf9tsDIKm2yNdF5ej0vkQRahTmn5dFXhS96F9qCpjKbzaMhDTmxNtUQ8AClRi%2FCjL5LPm9fJgxsFQscm9VsECWyhFPhSSfcfJpVv%2FSMqJ6AaWAJinTSZmuFfepAc%3D
+2018-09-27 14:13:59 1538050439 DEBUG: Cart 28195: Standard IPN
+2018-09-27 14:13:59 1538050439 DEBUG: Cart 28195: Validating order
+2018-09-27 14:14:00 1538050439 DEBUG: Cart 28195: Order 3328 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-27 14:14:00 1538050440 DEBUG: Cart 28195: Customer is back from Paybox payment page. Payment success.
+2018-09-27 18:47:27 1538066847 DEBUG: URL to check 2
+2018-09-27 18:47:27 1538066847 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-27 18:47:27 1538066847 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-27 18:47:27 1538066847 DEBUG: Cart 28318: Redirecting customer to Paybox (CARTE, CB).
+2018-09-27 18:52:17 1538067137 DEBUG: Call params: M=9288&R=28318%20-%20Giulia%20Antonioli&T=430405322&B=0&C=CB&D=1809&E=00040&F=N&G=N&I=ITA&J=48&N=525500&O=Y&P=3DSECURE&Q=18%3A47%3A22&S=440140437&W=27092018&K=NsSVBF1OU3LBtn%2F%2FtutfKidKnsvu%2BZQkGD8JlWEsTpQGorlW0dRgNdpEnk%2BRWoU%2BmOP9gCdPuexdIb6K0bUakJlHI3vqgO59%2BCymM7SjrFZc7rUYb9TDEIXHYRXHK%2FrBYP4O1H79JpvVUY56FNsEdmx8jd6K%2FFYd0Xwb4IY7Tbc%3D
+2018-09-27 18:52:17 1538067137 DEBUG: Cart 28318: (IPN) Payment was refused by Paybox (40).

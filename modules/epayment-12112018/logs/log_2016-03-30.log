@@ -1,0 +1,16 @@
+2016-03-30 16:47:34 1459349254 DEBUG: URL to check 2
+2016-03-30 16:47:34 1459349254 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-30 16:47:34 1459349254 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-30 16:47:34 1459349254 DEBUG: Cart 673: Redirecting customer to Paybox (CARTE, CB).
+2016-03-30 22:40:41 1459370441 DEBUG: URL to check 2
+2016-03-30 22:40:41 1459370441 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-30 22:40:41 1459370441 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-30 22:40:41 1459370441 DEBUG: Cart 676: Redirecting customer to Paybox (CARTE, CB).
+2016-03-30 22:41:22 1459370482 DEBUG: Call params: M=9888&R=676%20-%20CHRISTELLE%20GAY&T=620414080&B=0&C=CB&D=1709&E=00004&H=908736103F129B9F0412A85A32A746AD11E6B6DC&I=FRA&J=&N=&P=CARTE&Q=22%3A40%3A42&S=617139314&W=30032016&K=2fEmjfrl%2BgOCrtEGaam%2ByMWsSKDiqPa6pIkE4RjeIqC%2FfeL55dpOPINUDdv9We%2FFFfoAr7TPZuBlk80xcyjC2FjzXwzCji6V8lJEMvu%2B12UCGe85AViUInOIjseCUFN3a4MjTQxIteDEMOZIxi2hypqrBWHfK0hlC%2FCrmb%2FmaXU%3D
+2016-03-30 22:41:22 1459370482 DEBUG: Cart 676: (IPN) Payment was refused by Paybox (4).
+2016-03-30 22:41:50 1459370510 DEBUG: Call params: M=9888&R=676%20-%20CHRISTELLE%20GAY&T=620414080&A=442341&B=0&C=MasterCard&D=1709&E=00000&G=D&H=225A101D50F0D3D88495AAB4713F88BA8471C7B2&I=FRA&J=&N=&P=CARTE&Q=22%3A40%3A42&S=617139397&W=30032016&Y=FRA&K=JAt5IGBsq7dzu%2FcNUXcnfY4ktsjxOPX9klsUhEocildf1W20peZ6bPLiRQ3SWdtkszq3hFEDZyAmIVfbrmm0sNKnkNQZicYdOvx3KxxM0OEdimMTGjOo%2FGgnPVmyS8CWmJJi5C7SNajnAbQzeCPYP9yY7BkelI3Fx2EceEsaHeA%3D
+2016-03-30 22:41:50 1459370510 DEBUG: Cart 676: Standard IPN
+2016-03-30 22:41:50 1459370510 DEBUG: Cart 676: Validating order (PS1.5+)
+2016-03-30 22:41:50 1459370510 DEBUG: Cart 676: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-30 22:41:51 1459370510 DEBUG: Cart 676: Order 144 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-30 22:41:52 1459370512 DEBUG: Cart 676: Customer is back from Paybox payment page. Payment success.

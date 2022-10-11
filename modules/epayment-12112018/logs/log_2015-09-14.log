@@ -1,0 +1,11 @@
+2015-09-14 10:39:48 1442219987 DEBUG: URL to check 2
+2015-09-14 10:39:48 1442219987 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-14 10:39:48 1442219987 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-14 10:39:48 1442219987 DEBUG: Cart 62: Redirecting customer to Paybox (CARTE, CB).
+2015-09-14 10:40:33 1442220033 DEBUG: Call params: M=3400&R=62%20-%20Maud%20Bonhomme&T=280291277&A=536629&B=0&C=Visa&D=1801&E=00000&G=D&H=E5AA0E6C03A94B13ADC4A4FB77940BC1FFDC816E&I=FRA&J=&N=&P=CARTE&Q=10%3A39%3A51&S=285726426&W=14092015&Y=FRA&K=pzgU%2BpL60SRUD9DQ8QzE1wT%2F8%2Bdpc%2B0arNQJO%2BwISZDSpVCSRD9IHFkfgexvDcB7%2F9%2FGLPRj6v4zaDHtEcJ22E5X%2B%2BaumdklkrGlu1B00YbVD6tPaq0IIxipqfbQWFez7BV25Y4C1PVVmGQYsSTkt%2BBYRzL8Z3PFmHpfYYW9b4w%3D
+2015-09-14 10:40:33 1442220033 DEBUG: Cart 62: Standard IPN
+2015-09-14 10:40:33 1442220033 DEBUG: Cart 62: Validating order (PS1.5+)
+2015-09-14 10:40:35 1442220033 DEBUG: Cart 62: Order 22 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-09-14 10:40:35 1442220035 DEBUG: Cart 62: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-09-14 10:40:36 1442220036 DEBUG: Cart 62: Customer is back from Paybox payment page. Payment success.

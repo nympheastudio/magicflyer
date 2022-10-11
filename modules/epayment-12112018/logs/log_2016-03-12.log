@@ -1,0 +1,16 @@
+2016-03-12 12:18:08 1457781487 DEBUG: URL to check 2
+2016-03-12 12:18:08 1457781487 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-12 12:18:08 1457781487 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-12 12:18:08 1457781487 DEBUG: Cart 567: Redirecting customer to Paybox (CARTE, CB).
+2016-03-12 12:19:02 1457781542 DEBUG: URL to check 2
+2016-03-12 12:19:02 1457781542 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-12 12:19:02 1457781542 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-12 12:19:02 1457781542 DEBUG: Cart 567: Redirecting customer to Paybox (CARTE, CB).
+2016-03-12 12:20:27 1457781627 DEBUG: Call params: M=6250&R=567%20-%20corinne%20VIGNE&T=614614257&A=253370&B=0&C=Visa&D=1704&E=00000&G=D&H=CF1F1489C8BA94424110F25777C0DECB95DDB868&I=FRA&J=&N=&P=CARTE&Q=12%3A18%3A09&S=612393141&W=12032016&Y=FRA&K=uY7qbe4L3ChZzXggSJpZQxXVS10DUGlYT7YZ7Y050DwRs5NG0C%2FCrJo3jYH8AptOLUCD%2FF%2Bw6Rv%2F9VWiiKB4A2EeGXPcnf21I7ELNN5DmiNM5gx8VDISfgaBTVa0FLeSvPrIpRmkf6vV0GdIXS0jwftLFxchA30PJ1vsHs%2BHitA%3D
+2016-03-12 12:20:27 1457781627 DEBUG: Cart 567: Standard IPN
+2016-03-12 12:20:27 1457781627 DEBUG: Cart 567: Validating order (PS1.5+)
+2016-03-12 12:20:27 1457781627 DEBUG: Cart 567: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-12 12:20:28 1457781628 DEBUG: Cart 567: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-03-12 12:20:29 1457781629 DEBUG: Cart 567: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-03-12 12:20:31 1457781627 DEBUG: Cart 567: Order 129 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-12 12:20:31 1457781631 DEBUG: Cart 567: Customer is back from Paybox payment page. Payment success.

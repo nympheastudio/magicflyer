@@ -1,0 +1,5 @@
+Si prega di aggiungere un breve commento per descrivere meglio le condizioni del vostro oggetto. Il limite è di 2000 caratteri.
+
+Esempio su Amazon:
+
+<img src="views/img/tips/en/condition_note_example.jpg" />

@@ -1,0 +1,12 @@
+2015-10-04 22:43:13 1443991393 DEBUG: URL to check 2
+2015-10-04 22:43:13 1443991393 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-04 22:43:13 1443991393 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-10-04 22:43:13 1443991393 DEBUG: Cart 158: Redirecting customer to Paybox (CARTE, CB).
+2015-10-04 22:44:20 1443991460 DEBUG: Call params: M=2297&R=158%20-%20severine%20lucchinacci&T=283080513&A=656569&B=0&C=Visa&D=1802&E=00000&G=D&H=AD948ECF103C7CFEBEE1E81F4C5EEBF5AA30E92A&I=FRA&J=&N=&P=CARTE&Q=22%3A43%3A15&S=288364417&W=04102015&Y=FRA&K=r2mdPqsb7CfpwJsq3%2FKtXyBva0eNGFhGfBvDQ6qQ4OimZRix6XZpPdJLBeWZAOzux1HJxPz66QVkSU%2BL9VVDodVw2wpQZn1I003eqkAxHYFbY6cN5X5wu96tFdEY3LHnDeC7MiFdXEhl6YMQopng8%2F%2BEQc8NUKwv9OWTVxxdU8o%3D
+2015-10-04 22:44:20 1443991460 DEBUG: Cart 158: Standard IPN
+2015-10-04 22:44:20 1443991460 DEBUG: Cart 158: Validating order (PS1.5+)
+2015-10-04 22:44:20 1443991460 DEBUG: Cart 158: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-10-04 22:44:22 1443991462 DEBUG: Cart 158: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-10-04 22:44:23 1443991463 DEBUG: Cart 158: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-10-04 22:44:24 1443991460 DEBUG: Cart 158: Order 39 / Le paiement a été autorisé et capturé par Paybox.
+2015-10-04 22:44:24 1443991464 DEBUG: Cart 158: Customer is back from Paybox payment page. Payment success.

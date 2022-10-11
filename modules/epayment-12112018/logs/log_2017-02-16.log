@@ -1,0 +1,7 @@
+2017-02-16 17:14:54 1487261694 DEBUG: URL to check 2
+2017-02-16 17:14:54 1487261694 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-16 17:14:54 1487261694 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-16 17:14:54 1487261694 DEBUG: Cart 9220: Redirecting customer to Paybox (CARTE, CB).
+2017-02-16 17:16:15 1487261775 DEBUG: Call params: M=14100&R=9220%20-%20Joeri%20Van%20den%20Borne&T=689090255&B=0&C=CB&D=2006&E=00040&F=N&G=N&I=BEL&J=12&N=445482&O=Y&P=3DSECURE&Q=17%3A14%3A55&S=686304676&W=16022017&K=GTChGSPISlIl1Un5nfd5%2FomweWCW7iDuTt6ZXNlZZw0ZUzZDJRi7PYjDQ2mSjFtd2xvYi5d58LA0StduGo575tGL9bRHqQ3drhENWjVSawyQecyEd%2Bk6DK70UVZezjsgCxGlf16sw9Srp2rQKyykbyXhT8JOXTvjqOJlh5AMthk%3D
+2017-02-16 17:16:15 1487261775 DEBUG: Cart 9220: (IPN) Payment was refused by Paybox (40).
+2017-02-16 17:16:20 1487261780 DEBUG: Cart 9220: Payment was canceled by user on Paybox payment page.

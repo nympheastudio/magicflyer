@@ -1,0 +1,9 @@
+Usted deberá crear un filtro para aplicar automáticamente la etiqueta apropiada.
+
+Por ejemplo: todos los mensajes que ingresan desde Amazon.co.uk, aplicar la etiqueta Amazon-UK, como se muestra en la imagen
+
+<img src="views/img/tips/en/filter.jpg" />
+
+Por favor tome en cuenta la presencia el asterisco (*@amazon.co.uk)
+
+Usted repetirá la operación para cada marketplace (.fr, .de, etc.)

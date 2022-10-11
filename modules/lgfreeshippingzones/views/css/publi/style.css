@@ -1,0 +1,67 @@
+#banner-lg.panel {
+    border: 1px solid #e6e6e6;
+    border-collapse: separate;
+    border-radius: 3px;
+    box-shadow: 0 2px rgba(0, 0, 0, 0.1), 0 0 0 3px #fff inset;
+    margin: 0 auto;
+    padding: 20px;
+    width: auto;
+	background-color:#FFFFFF;
+}
+a{
+	text-decoration:none;
+}
+.enlaceverde{
+	color:#67aa1c;
+}
+.enlacenegro{
+	color:#000000;
+}
+
+
+#logo{
+	width:16%;
+	text-align:center;
+}
+#titulo{
+	width:16%;
+	font-size:10px;
+	color:#67aa1c;
+	font-family:arial;
+	font-weight:bold; 
+	text-align:center;
+}
+.logos{
+	width:5%;
+	height:60px;
+	text-align:center;
+}
+.modulos{
+	width:6%;
+	height:60px;
+	font-size:9px;
+	font-family:arial;
+}
+#boton{
+	width:7%;
+	text-align:center;
+
+}
+#opinion, #video, #guia, #soporte{
+	width:6%;
+	text-align:center;
+}
+
+#iframe{
+	width:100%;
+	height:60px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+@media screen and (max-width: 800px) {
+    #titulo, .logos, .modulos, #boton, #logo {
+        display:none;
+    }
+}

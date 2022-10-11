@@ -1,0 +1,5 @@
+ Please select a value only if you would like to use the module's "smart shipping" configuration facility.
+ The default method is displayed only in Orders &gt; Amazon, in the order list, when you have new incoming orders.
+ It is displayed as "Shipment" in this list.
+  <b>This is the only easy way to find this information. </b>
+                    

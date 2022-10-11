@@ -1,0 +1,21 @@
+2022-01-27 07:12:29 1643263949 DEBUG: URL to check 2
+2022-01-27 07:12:29 1643263949 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-01-27 07:12:29 1643263949 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-01-27 07:12:29 1643263949 DEBUG: Cart 57891: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-01-27 07:14:11 1643264051 DEBUG: Call params: M=2428&R=57891%20-%20Audrey%20CHATEAU&T=1588004400&A=686953&B=0&C=CB&D=2411&E=00000&F=Y&G=O&I=FRA&J=88&N=499001&O=Y&P=CARTE&Q=07%3A14%3A10&S=939078&W=27012022&Y=FRA&Z=0-0&K=wVvOaTFUlhQaIiVojasdPRP%2B%2BA9BosxhEaSbQJrmPn8nSilNzP1wJcaGRz9BvAorYE6eHwzL5dBh1zRP34VyopWBK0SwjGxT7r1wDtHhYpkY%2BGjuPJ6wYI8P%2FjUAS2I3WRPqGu%2BWo83KWX8GomL%2F6TQn%2F4ultIid%2FwfrvcdPl4o%3D
+2022-01-27 07:14:11 1643264051 DEBUG: Cart 57891: Standard IPN
+2022-01-27 07:14:11 1643264051 DEBUG: Cart 57891: Validating order
+2022-01-27 07:14:11 1643264051 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-01-27 07:14:12 1643264052 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-01-27 07:14:13 1643264053 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-01-27 07:14:14 1643264054 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-01-27 07:14:16 1643264056 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-01-27 07:14:17 1643264057 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2022-01-27 07:14:18 1643264058 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 6).
+2022-01-27 07:14:19 1643264059 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 7).
+2022-01-27 07:14:20 1643264060 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 8).
+2022-01-27 07:14:22 1643264062 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 9).
+2022-01-27 07:14:23 1643264063 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 10).
+2022-01-27 07:14:23 1643264051 DEBUG: Cart 57891: Order 5675 validated, creating details
+2022-01-27 07:14:23 1643264051 DEBUG: Cart 57891: Order 5675 / Le paiement a été autorisé et capturé par Paybox.
+2022-01-27 07:14:24 1643264064 DEBUG: Cart 57891: Customer is back from Verifone e-commerce payment page. Payment success.

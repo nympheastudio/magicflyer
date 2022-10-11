@@ -1,0 +1,11 @@
+2016-05-04 15:38:16 1462369096 DEBUG: URL to check 2
+2016-05-04 15:38:16 1462369096 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-04 15:38:16 1462369096 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-04 15:38:16 1462369096 DEBUG: Cart 896: Redirecting customer to Paybox (CARTE, CB).
+2016-05-04 15:38:56 1462369136 DEBUG: Call params: M=9900&R=896%20-%20corinne%20VOSSION&T=627722864&A=214665&B=0&C=Visa&D=1610&E=00000&G=D&H=1DA76A96FDE2B9863A6B0581BD30B811EC65F612&I=FRA&J=&N=&P=CARTE&Q=15%3A38%3A17&S=623653051&W=04052016&Y=FRA&K=eFAm7KojudSFp2%2B%2BCGfZn%2FHmjpsQ%2F7e5BSu01VCX8TRvmsdo04Qh7%2BnuJWD7WJuPKi8N8odgWp600AlXUvD97NsdbdjPuw3kuO7p%2FkDYa6KSz1Xpjzp6BvXU2HgsVcw7cHKNV31V3KE7BRModx6I1h%2FTvkGT5%2F00A%2F%2B5%2BWd37PA%3D
+2016-05-04 15:38:56 1462369136 DEBUG: Cart 896: Standard IPN
+2016-05-04 15:38:56 1462369136 DEBUG: Cart 896: Validating order (PS1.5+)
+2016-05-04 15:38:56 1462369136 DEBUG: Cart 896: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-04 15:38:57 1462369137 DEBUG: Cart 896: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-04 15:38:58 1462369136 DEBUG: Cart 896: Order 179 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-04 15:38:58 1462369138 DEBUG: Cart 896: Customer is back from Paybox payment page. Payment success.

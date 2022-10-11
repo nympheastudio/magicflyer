@@ -1,0 +1,2 @@
+Consente di configurare l\'override di spedizione del prodotto.
+Questa opzione aggiunge una sezione "Shipping Override" in ogni scheda marketplace.

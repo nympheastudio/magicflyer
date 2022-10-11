@@ -1,0 +1,20 @@
+2016-08-16 00:16:21 1471299381 DEBUG: URL to check 2
+2016-08-16 00:16:21 1471299381 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-16 00:16:21 1471299381 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-16 00:16:21 1471299381 DEBUG: Cart 2426: Redirecting customer to Paybox (CARTE, CB).
+2016-08-16 07:01:25 1471323685 DEBUG: URL to check 2
+2016-08-16 07:01:25 1471323685 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-16 07:01:25 1471323685 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-16 07:01:25 1471323685 DEBUG: Cart 2429: Redirecting customer to Paybox (CARTE, CB).
+2016-08-16 07:02:53 1471323773 DEBUG: Call params: M=1700&R=2429%20-%20Magali%20Sabatier&T=640805965&A=363514&B=0&C=Visa&D=1901&E=00000&F=Y&G=O&H=162F1336383DF9631FC66672A3591876AD605756&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=07%3A01%3A26&S=636890903&W=16082016&Y=FRA&K=tQeC5H0rzVrCCjeYpol1D7u2bLaFknqHqboOZ6I7jNrFOsdJ6f4Db30MaWN0mrQRJ7%2FaHXCGBn80lbfZJtx6jGo9W8KhQMvsAXNFWJc5%2Bhw5Mh85cfULBDQbzeigzaOpE0E0Q%2F9BlUP2F6L8W61zfFqu1Ko28L7YsAiPxtCFNKE%3D
+2016-08-16 07:02:53 1471323773 DEBUG: Cart 2429: Standard IPN
+2016-08-16 07:02:53 1471323773 DEBUG: Cart 2429: Validating order (PS1.5+)
+2016-08-16 07:02:53 1471323773 DEBUG: Cart 2429: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-16 07:02:55 1471323774 DEBUG: Cart 2429: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-16 07:02:55 1471323773 DEBUG: Cart 2429: Order 322 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-16 07:02:56 1471323776 DEBUG: Cart 2429: Customer is back from Paybox payment page. Payment success.
+2016-08-16 10:09:29 1471334968 DEBUG: URL to check 2
+2016-08-16 10:09:29 1471334968 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-16 10:09:29 1471334968 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-16 10:09:29 1471334968 DEBUG: Cart 2426: Redirecting customer to Paybox (CARTE, CB).
+2016-08-16 10:11:38 1471335098 DEBUG: Cart 2426: Customer is back from Paybox payment page. Payment refused by Paybox (30).

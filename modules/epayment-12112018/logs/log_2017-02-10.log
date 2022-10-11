@@ -1,0 +1,54 @@
+2017-02-10 00:32:09 1486683129 DEBUG: URL to check 2
+2017-02-10 00:32:09 1486683129 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-10 00:32:09 1486683129 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-02-10 00:32:09 1486683129 DEBUG: Cart 8049: Redirecting customer to Paybox (CARTE, CB).
+2017-02-10 00:33:55 1486683235 DEBUG: Call params: M=4500&R=8049%20-%20Delphine%20Ferjule&T=687503121&A=138839&B=0&C=MasterCard&D=1806&E=00000&F=Y&G=O&I=FRA&J=12&N=513770&O=Y&P=3DSECURE&Q=00%3A32%3A09&S=684844429&W=10022017&Y=FRA&K=LW1ktdN0OvAXq3smNei91KCEXENurcRk7%2BQrSpb7Jzg1jJMx0bNMjqPf5FHb1Lx7S1YN6CJrtjgQWkaacqGF3uk0Pu941mc2YLnDT8q5q37cbPWoDqWzAtrOmErmWk7gRlN94B0pKwB3a6JZ4NGVgC7j26Log3uVQ9tUYucdvRw%3D
+2017-02-10 00:33:55 1486683235 DEBUG: Cart 8049: Standard IPN
+2017-02-10 00:33:55 1486683235 DEBUG: Cart 8049: Validating order
+2017-02-10 00:33:56 1486683236 DEBUG: Cart 8049: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-02-10 00:33:56 1486683235 DEBUG: Cart 8049: Order 656 / Le paiement a été autorisé et capturé par Paybox.
+2017-02-10 00:33:57 1486683237 DEBUG: Cart 8049: Customer is back from Paybox payment page. Payment success.
+2017-02-10 09:30:44 1486715444 DEBUG: URL to check 2
+2017-02-10 09:30:44 1486715444 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-10 09:30:45 1486715444 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-10 09:30:45 1486715444 DEBUG: Cart 8771: Redirecting customer to Paybox (CARTE, CB).
+2017-02-10 09:36:53 1486715813 DEBUG: Call params: M=4200&R=8771%20-%20Cecile%20BOCHOT&T=687550619&B=0&C=CB&D=1909&E=00040&F=N&G=N&I=FRA&J=03&N=497886&O=Y&P=3DSECURE&Q=09%3A30%3A46&S=684884520&W=10022017&K=f3Wnb4S03LqxB%2FUcARhAKgJKdFY6UQ2xYCL0IEf%2BQlGFBdyYSuJqd0uSLC3XfPlB%2FzYsXG5xpl7PNDqUPUg67DMxxIxwSHWIITcVWIZOKvGkvh3cEf4xN84SeTkFqjA4QjbkB%2BkK6NM%2FWqahIxBtl%2BllT2om157DxEo9fus0hDo%3D
+2017-02-10 09:36:53 1486715813 DEBUG: Cart 8771: (IPN) Payment was refused by Paybox (40).
+2017-02-10 09:54:02 1486716842 DEBUG: Cart 8771: Customer is back from Paybox payment page. Payment refused by Paybox (30).
+2017-02-10 09:57:26 1486717046 DEBUG: URL to check 2
+2017-02-10 09:57:26 1486717046 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-10 09:57:26 1486717046 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-10 09:57:26 1486717046 DEBUG: Cart 8771: Redirecting customer to Paybox (CARTE, CB).
+2017-02-10 09:57:33 1486717053 DEBUG: Cart 8771: Customer is back from Paybox payment page. Payment refused by Paybox (30).
+2017-02-10 09:58:24 1486717103 DEBUG: URL to check 2
+2017-02-10 09:58:24 1486717103 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-10 09:58:24 1486717103 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-10 09:58:24 1486717103 DEBUG: Cart 8771: Redirecting customer to Paybox (CARTE, CB).
+2017-02-10 09:58:36 1486717116 DEBUG: Cart 8771: Customer is back from Paybox payment page. Payment refused by Paybox (30).
+2017-02-10 10:08:12 1486717692 DEBUG: URL to check 2
+2017-02-10 10:08:13 1486717692 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-10 10:08:13 1486717692 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-10 10:08:13 1486717692 DEBUG: Cart 8771: Redirecting customer to Paybox (CARTE, CB).
+2017-02-10 10:10:12 1486717812 DEBUG: Call params: M=2250&R=8771%20-%20Cecile%20BOCHOT&T=687566037&A=428231&B=0&C=Visa&D=1909&E=00000&F=Y&G=O&I=FRA&J=03&N=497886&O=Y&P=3DSECURE&Q=10%3A08%3A13&S=684897876&W=10022017&Y=FRA&K=u1tFIqRT6aGEQ3jpLK9Ti0FnkJZYXnXOQJfan3qNLB2Kp5gfhj3cu3vU4hkA0CIIwsDykWJSKw14Wlwe%2Fm5NtJO1bZn0K0Sf%2BffyCqpWiz57H6EDjJ1aBId8w0K%2FJJ5QNmzHprJ8zFqrMRsgqnGz%2FcVbyWqNMnzPbP9sF1tWy0g%3D
+2017-02-10 10:10:12 1486717812 DEBUG: Cart 8771: Standard IPN
+2017-02-10 10:10:12 1486717812 DEBUG: Cart 8771: Validating order
+2017-02-10 10:10:13 1486717813 DEBUG: Cart 8771: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-02-10 10:10:14 1486717814 DEBUG: Cart 8771: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-02-10 10:10:14 1486717812 DEBUG: Cart 8771: Order 657 / Le paiement a été autorisé et capturé par Paybox.
+2017-02-10 10:10:15 1486717815 DEBUG: Cart 8771: Customer is back from Paybox payment page. Payment success.
+2017-02-10 13:55:56 1486731356 DEBUG: URL to check 2
+2017-02-10 13:55:56 1486731356 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-10 13:55:57 1486731356 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-10 13:55:57 1486731356 DEBUG: Cart 8787: Redirecting customer to Paybox (CARTE, CB).
+2017-02-10 14:01:39 1486731699 DEBUG: Call params: M=2550&R=8787%20-%20nicole%20soury&T=687667588&B=0&C=CB&D=1805&E=00040&F=N&G=N&I=FRA&J=09&N=456188&O=Y&P=3DSECURE&Q=13%3A55%3A58&S=684984734&W=10022017&K=JPAPr8YXjt5HtT2RP5XQkxttVouf%2BZnkEB9EVuc7l85ZRdFCjkXZ16EUox4vGQNVgpQi4K1R%2FfNxs8H7cmV3zoe3vBQ1tFw1XvFDx2EBn2Czerinipun8huQyhgMxjTiMfsQNCyZtbMhu%2Bh%2Bzd%2BVXZ1fGCbCnXmGsu2jwSq29qo%3D
+2017-02-10 14:01:39 1486731699 DEBUG: Cart 8787: (IPN) Payment was refused by Paybox (40).
+2017-02-10 14:06:26 1486731986 DEBUG: Call params: M=2550&R=8787%20-%20nicole%20soury&T=687667588&B=0&C=CB&D=1805&E=00040&F=N&G=N&I=FRA&J=09&N=456188&O=Y&P=3DSECURE&Q=13%3A55%3A58&S=684987725&W=10022017&K=NbzZf%2BQ32Os2V1cUcXa5CzBAUNlulNh61F91Xo4UVFudU5tL6OfK03jCZ6RaYyTRpeLyi%2FLZ9nGExr0TRcscY%2BE3QnYRxOglEK09dDF492ptFkdzOMvV25ohSwaZgrdDwHqzeWI%2F6BiSZNi1MP%2FBxY42%2B447HOD%2Bm4UeSzjMD84%3D
+2017-02-10 14:06:26 1486731986 DEBUG: Cart 8787: (IPN) Payment was refused by Paybox (40).
+2017-02-10 14:08:48 1486732128 DEBUG: Cart 8787: Payment was canceled by user on Paybox payment page.
+2017-02-10 14:09:23 1486732163 DEBUG: URL to check 2
+2017-02-10 14:09:23 1486732163 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-02-10 14:09:23 1486732163 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-02-10 14:09:23 1486732163 DEBUG: Cart 8787: Redirecting customer to Paybox (CARTE, CB).
+2017-02-10 14:14:58 1486732498 DEBUG: Call params: M=2550&R=8787%20-%20nicole%20soury&T=687667588&B=0&C=CB&D=1805&E=00040&F=N&G=N&I=FRA&J=09&N=456188&O=Y&P=3DSECURE&Q=13%3A55%3A58&S=684989049&W=10022017&K=SjN83jXS66q7fDSUopZW0gTurxKZjzn5JLwX9aOpLLt7SU6L3Vd1b1Vz%2FIlFoax0iPPfXpRDFulN3ZTLXX8dB3zOLBcZ6ce8ZwEoI2OfkHPQwjVzEmv2NvVNnhBcEq1xYOZfxQNXWO53zu1GFjodWv30S%2F%2FCX1MeObZrbwNULHU%3D
+2017-02-10 14:14:58 1486732498 DEBUG: Cart 8787: (IPN) Payment was refused by Paybox (40).
+2017-02-10 14:15:01 1486732501 DEBUG: Cart 8787: Customer is back from Paybox payment page. Payment refused by Paybox (40).

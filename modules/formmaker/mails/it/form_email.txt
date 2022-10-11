@@ -1,0 +1,23 @@
+Salve,
+{form_name} forma è appena stato presentato da {customer_name} 
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Report number
+{id_report}
+
+Language
+{lang_name}
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 
+
+
+
+
+

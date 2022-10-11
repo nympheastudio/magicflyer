@@ -1,0 +1,10 @@
+2016-04-04 18:41:57 1459788117 DEBUG: URL to check 2
+2016-04-04 18:41:57 1459788117 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-04 18:41:57 1459788117 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-04 18:41:57 1459788117 DEBUG: Cart 708: Redirecting customer to Paybox (CARTE, CB).
+2016-04-04 18:42:42 1459788162 DEBUG: Call params: M=2597&R=708%20-%20NATHALIE%20LAFON&T=621949200&A=656354&B=0&C=Visa&D=1702&E=00000&G=D&H=D2A03F4BA587DA85BAA062ACAC7F4048AC16BA51&I=FRA&J=&N=&P=CARTE&Q=18%3A41%3A58&S=618384926&W=04042016&Y=FRA&K=Fg2epR%2Biyq39wmfabpCkg6sDs3M8TY%2BjRviwxLhsrd4T8qWnX3o%2FvKViyGEEE%2FIcBNXdGePe5s5Lcd5hptla3r66%2FC%2Bk%2FLtu0E9ayhjuiQfPlu9HYuWpSP55%2B%2BLWuc4%2BDdj%2FnAzKSRhj22lLJA9kNhgKGQvrtj%2BxtGwrusRzp%2BA%3D
+2016-04-04 18:42:42 1459788162 DEBUG: Cart 708: Standard IPN
+2016-04-04 18:42:42 1459788162 DEBUG: Cart 708: Validating order (PS1.5+)
+2016-04-04 18:42:42 1459788162 DEBUG: Cart 708: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-04 18:42:43 1459788162 DEBUG: Cart 708: Order 148 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-04 18:42:43 1459788163 DEBUG: Cart 708: Customer is back from Paybox payment page. Payment success.

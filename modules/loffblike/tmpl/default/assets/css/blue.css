@@ -1,0 +1,23 @@
+
+.lof-wrapper.blue{
+	background:url(../images/blue.png) repeat-x scroll 0 -60px transparent;
+}
+.lof-wrapper.blue .lof-logo {
+    background: url(../images/blue.png) no-repeat scroll 0 0 transparent;
+}
+.lof-wrapper.blue .lof-fadeleft {
+    background: url(../images/blue.png) no-repeat scroll 0 -120px transparent;
+}
+.lof-wrapper.blue .lof-faderight {
+    background: url(../images/blue.png) no-repeat scroll -85px -120px transparent;
+}
+.lof-wrapper.blue ul.newsticker{
+	font:normal 10px Verdana;
+}
+.lof-wrapper.blue ul.newsticker li{
+	color:#333333;
+}
+.lof-wrapper.blue .tickercontainer{
+	background:none;
+	border:0px solid;
+}

@@ -1,0 +1,9 @@
+Per applicare automaticamente l'apposita etichetta, è necessario creare un filtro:
+
+Per esempio, a tutti i messaggi provenienti da Amazon.co.uk, verrà applicata l'etichetta Amazon-Uk, come mostrato nell'immagine sottostante.
+
+<img src="views/img/tips/en/filter.jpg" />
+
+Si prega di notare la presenza di un asterisco (*@amazon.co.uk)
+
+Ripeterai questa operazione per ogni mercato (.fr, .de, ecc.)

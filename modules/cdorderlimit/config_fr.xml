@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cdorderlimit</name>
+	<displayName><![CDATA[Limiter ou autoriser des commandes sous conditions]]></displayName>
+	<version><![CDATA[2.1.0]]></version>
+	<description><![CDATA[Module pour refuser/accepter des commandes sous certaines conditions (le prix, la quantit&eacute; dans le panier...) ]]></description>
+	<author><![CDATA[CleanPresta]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to delete this module? This removes the files and tables related modules.]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

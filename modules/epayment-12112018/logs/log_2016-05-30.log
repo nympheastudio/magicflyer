@@ -1,0 +1,11 @@
+2016-05-30 19:51:49 1464630709 DEBUG: URL to check 2
+2016-05-30 19:51:49 1464630709 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-30 19:51:49 1464630709 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-30 19:51:49 1464630709 DEBUG: Cart 1154: Redirecting customer to Paybox (CARTE, CB).
+2016-05-30 19:52:25 1464630745 DEBUG: Call params: M=6291&R=1154%20-%20sophie%20boyer&T=630926030&A=351632&B=0&C=Visa&D=1805&E=00000&G=D&H=7B01E7CFB858307E0F8643F5BF3F6D7F695D505E&I=FRA&J=&N=&P=CARTE&Q=19%3A51%3A50&S=626860579&W=30052016&Y=FRA&K=igTKIq7Chu7elo62x7zl6qwJpHC0AQ5P1MYp1674fTqulNeHdbovwC8ogqeYOtu464TamBMhcjqbWnlQVaQMOvUNvNRzylf5B%2BYfKNiUxxnhwVcHUxYFJsST0Ms%2BHOCWHv%2BaIvW%2FIliFUKdbbaQyZMrI2rGfi2Fy%2B%2BqeJcUNR8I%3D
+2016-05-30 19:52:25 1464630745 DEBUG: Cart 1154: Standard IPN
+2016-05-30 19:52:25 1464630745 DEBUG: Cart 1154: Validating order (PS1.5+)
+2016-05-30 19:52:25 1464630745 DEBUG: Cart 1154: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-30 19:52:27 1464630747 DEBUG: Cart 1154: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-30 19:52:27 1464630745 DEBUG: Cart 1154: Order 209 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-30 19:52:28 1464630748 DEBUG: Cart 1154: Customer is back from Paybox payment page. Payment success.

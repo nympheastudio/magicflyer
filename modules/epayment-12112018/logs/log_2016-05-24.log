@@ -1,0 +1,10 @@
+2016-05-24 14:41:12 1464093672 DEBUG: URL to check 2
+2016-05-24 14:41:12 1464093672 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-24 14:41:12 1464093672 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-24 14:41:12 1464093672 DEBUG: Cart 1064: Redirecting customer to Paybox (CARTE, CB).
+2016-05-24 14:41:44 1464093704 DEBUG: Call params: M=2597&R=1064%20-%20saida%20sehil&T=630188534&A=511159&B=0&C=Visa&D=1612&E=00000&G=D&H=38D90BF2D86CF782253E8128808497199290F6CA&I=FRA&J=&N=&P=CARTE&Q=14%3A41%3A14&S=626118314&W=24052016&Y=FRA&K=yduNhs53VvlAWk58D%2Bhre8g8OvSvi5D8ccM6DzvXxEFM9jICuMmzJKE5yqbwwXOrQnMOF8Lbrf7vwXUEcM4PHU%2BTOpWlsWWxVeX7EhXebaDKJfgsp1IYRCRVu5ll3uEsq4McxwYU1LA3pmPJqON65EJ6aZejSHmN014yIqaq7Fk%3D
+2016-05-24 14:41:44 1464093704 DEBUG: Cart 1064: Standard IPN
+2016-05-24 14:41:44 1464093704 DEBUG: Cart 1064: Validating order (PS1.5+)
+2016-05-24 14:41:44 1464093704 DEBUG: Cart 1064: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-24 14:41:45 1464093704 DEBUG: Cart 1064: Order 201 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-24 14:41:46 1464093706 DEBUG: Cart 1064: Customer is back from Paybox payment page. Payment success.

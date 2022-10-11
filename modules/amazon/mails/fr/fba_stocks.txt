@@ -1,0 +1,9 @@
+Bonjour,
+
+Des mouvements de stocks FBA ont été enregistré sur Amazon, voici le détail : 
+
+{events}
+
+----
+
+{errors}

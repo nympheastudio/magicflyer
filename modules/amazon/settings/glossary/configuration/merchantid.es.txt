@@ -1,0 +1,3 @@
+Identificación de Vendedor (Identificación de Comerciante)
+
+<img src="views/img/tips/en/merchantid.jpg" />

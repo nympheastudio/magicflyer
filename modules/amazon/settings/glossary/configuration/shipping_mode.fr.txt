@@ -1,0 +1,3 @@
+Veuillez sélectionner une valeur uniquement si vous souhaitez utiliser la facilité de configuration du module « Smart Shipping ». 
+La méthode par défaut est affichée seulement dans Commandes > Amazon, dans la liste des commandes quand vous recevez des nouvelles commandes 
+Il est indiqué comme "Shipment" dans cette liste <b>C'est le seul moyen facile et rapide de trouver cette information.</b>

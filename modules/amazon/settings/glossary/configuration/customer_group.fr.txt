@@ -1,0 +1,5 @@
+Groupes Clients
+Vous pouvez créer dans PrestaShop un groupe personnalisé pour vos exports Amazon dans Clients > Groupes
+Ainsi, vous pourrez appliquer des promotions spécifiquement pour vos exports Amazon.
+
+Les clients créés lors de l'import des commandes appartiendront également à ce groupe.

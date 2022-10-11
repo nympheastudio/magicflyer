@@ -1,0 +1,20 @@
+Guten Tag,
+"{form_name}" wurde eben von {customer_name} ausgefüllt und versandt.
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Report number
+{id_report}
+
+Language
+{lang_name}
+
+Feld
+Wert
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 

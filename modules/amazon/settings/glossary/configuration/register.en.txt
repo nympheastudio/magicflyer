@@ -1,0 +1,8 @@
+Log on Seller Central
+
+Then go here:
+
+UK: https://sellercentral.amazon.co.uk/gp/mws/index.html
+USA: Please change .co.uk to .com
+
+<img src="views/img/tips/en/register1.jpg" />

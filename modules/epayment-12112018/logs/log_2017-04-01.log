@@ -1,0 +1,16 @@
+2017-04-01 16:48:25 1491058105 DEBUG: URL to check 2
+2017-04-01 16:48:25 1491058105 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-01 16:48:25 1491058105 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-04-01 16:48:25 1491058105 DEBUG: Cart 10793: Redirecting customer to Paybox (CARTE, CB).
+2017-04-01 17:35:57 1491060957 DEBUG: URL to check 2
+2017-04-01 17:35:57 1491060957 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-01 17:35:57 1491060957 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-01 17:35:57 1491060957 DEBUG: Cart 11497: Redirecting customer to Paybox (CARTE, CB).
+2017-04-01 17:36:51 1491061011 DEBUG: Call params: M=17166&R=11497%20-%20Claudia%20Barbuto&T=702321376&A=014241&B=0&C=Visa&D=1812&E=00000&F=Y&G=O&I=CHE&J=14&N=495000&O=Y&P=3DSECURE&Q=17%3A35%3A59&S=696960340&W=01042017&Y=CHE&K=nmAIpaystW50v7Lr%2FMYGqFxgNQr7JR8q8EUOyXV3VgPUMfOmYzGdhZo6DdHCutgrMJVrG%2FQ1GgWR89sAEy3%2BZZ%2FEf1wsKpV8DAfhyAfbvQj%2BF0TVDsD3Wet0eTTEZHd4uNJspNKCvOMxReXSYytX%2BdHStTEBFoSedZqPzQ96sgE%3D
+2017-04-01 17:36:51 1491061011 DEBUG: Cart 11497: Standard IPN
+2017-04-01 17:36:51 1491061011 DEBUG: Cart 11497: Validating order
+2017-04-01 17:36:51 1491061011 DEBUG: Cart 11497: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-04-01 17:36:52 1491061011 DEBUG: Cart 11497: Order 865 / Le paiement a été autorisé et capturé par Paybox.
+2017-04-01 17:36:52 1491061012 DEBUG: Call params: M=17166&R=11497%20-%20Claudia%20Barbuto&T=702321376&A=014241&B=0&C=Visa&D=1812&E=00000&F=Y&G=O&I=CHE&J=14&N=495000&O=Y&P=3DSECURE&Q=17%3A35%3A59&S=696960340&W=01042017&Y=CHE&K=nmAIpaystW50v7Lr%2FMYGqFxgNQr7JR8q8EUOyXV3VgPUMfOmYzGdhZo6DdHCutgrMJVrG%2FQ1GgWR89sAEy3%2BZZ%2FEf1wsKpV8DAfhyAfbvQj%2BF0TVDsD3Wet0eTTEZHd4uNJspNKCvOMxReXSYytX%2BdHStTEBFoSedZqPzQ96sgE%3D
+2017-04-01 17:36:52 1491061012 DEBUG: Cart 11497: (IPN) Cart already being validated as order.
+2017-04-01 17:36:52 1491061012 DEBUG: Cart 11497: Customer is back from Paybox payment page. Payment success.

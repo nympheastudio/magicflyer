@@ -1,0 +1,1 @@
+Add taxes to products and calculate order's taxes if sets to yes

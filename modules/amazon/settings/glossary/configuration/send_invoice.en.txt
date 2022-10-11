@@ -1,0 +1,1 @@
+Activate invoice per email automation. The module will send the email to the customers with the invoice as an attached document (PDF)

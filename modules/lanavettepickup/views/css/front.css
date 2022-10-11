@@ -1,0 +1,196 @@
+#pickup_carrier {
+    background-color: #FFF;
+    border: 1px solid #d6d4d4;
+}
+
+#pickup_carrier_sms {
+    border-bottom: 1px solid #d6d4d4;
+    margin-bottom: 10px;
+    padding: 18px 0 30px 24px;
+}
+
+#pickup_carrier_sms div {
+    float: left;
+    margin-right: 10px;
+}
+
+#pickup_carrier_map {
+    margin: 10px;
+}
+
+.delivery_option_pickup_checkbox_holder {
+    width: 54px !important;
+}
+
+#pickup_sms_option {
+    display: none;
+}
+
+.delivery_option_pickup_price {
+    width: 162px !important;
+    text-align: left !important;
+}
+
+.pickup_list_search_and_map {
+    margin-bottom: 32px !important;
+}
+
+/* List */
+.pickup_list {
+    box-sizing: border-box !important;
+    height: 515px !important;
+    overflow-y: scroll !important;
+    float: left !important;
+    padding-left: 0 !important;
+    padding-right: 15px !important;
+}
+
+@media (max-width: 767px) {
+    .pickup_list {
+        padding-left: 15px !important;
+    }
+}
+
+.pickup_list_item {
+    position: relative;
+    list-style-type: none !important;
+    border-bottom: 1px solid #afafaf !important;
+    /*min-height: 100px !important;*/
+    max-width: 100% !important;
+    overflow: hidden !important;
+    cursor: pointer !important;
+    color: black !important;
+}
+
+.pickup_list_item:hover,
+.pickup_list_item:hover:before,
+.pickup_list_item.hover,
+.pickup_list_item.hover:before {
+    transition: all 0s;
+    background-color: #f9cdd0;
+}
+
+.pickup_list_item.unavailable,
+.pickup_list_item.unavailable:before {
+    background-color: #d0d0d0 !important;
+    color: #777777 !important;
+    transition: background-color 0s !important;
+}
+
+.pickup_list_item.unavailable.hover,
+.pickup_list_item.unavailable.hover:before,
+.pickup_list_item.unavailable:hover,
+.pickup_list_item.unavailable:hover:before {
+    background-color: #777777 !important;
+    color: #ffffff !important;
+    transition: background-color 0s !important;
+}
+
+.pickup_list_item:before {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 4px;
+    height: 100%;
+    background-color: #ffffff;
+    /*transition: background-color 0.3s;*/
+}
+
+.pickup_list_item.checked:hover,
+.pickup_list_item.checked.hover {
+    background-color: #c6ecc6; 
+}
+
+.pickup_list_item.selected:before,
+.pickup_list_item.selected:hover:before {
+    transition: background-color 0.3s;
+    background-color: #be0312;
+}
+
+.pickup_list_item.checked:before,
+.pickup_list_item.checked:hover:before {
+    transition: background-color 0s;
+    background-color: green;
+}
+
+.pudo_name {
+    display: block;
+    float: left;
+    font-size: 14px;
+}
+
+.pudo_distance {
+    display: block;
+    float: right;
+    font-size: 14px;
+}
+
+.pudo_schedule {
+    color: #be0312;
+    font-size: 12px;
+}
+
+/*.pickup_list_item_checkbox_holder {
+    box-sizing: border-box !important;
+    float: left !important;
+    width: 41px !important;
+    text-align: center !important;
+    padding-top: 12px !important;
+    height: 100px !important;
+
+    background: rgba(226, 226, 226, 1) !important;
+    background: -moz-linear-gradient(top, rgba(209, 209, 209, 1) 0%, rgba(254, 254, 254, 1) 100%) !important;
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(209, 209, 209, 1)), color-stop(100%, rgba(254, 254, 254, 1))) !important;
+    background: -webkit-linear-gradient(top, rgba(209, 209, 209, 1) 0%, rgba(254, 254, 254, 1) 100%) !important;
+    background: -o-linear-gradient(top, rgba(209, 209, 209, 1) 0%, rgba(254, 254, 254, 1) 100%) !important;
+    background: -ms-linear-gradient(top, rgba(209, 209, 209, 1) 0%, rgba(254, 254, 254, 1) 100%) !important;
+    background: linear-gradient(to bottom, rgba(209, 209, 209, 1) 0%, rgba(254, 254, 254, 1) 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e2e2e2', endColorstr='#fefefe', GradientType=0) !important;
+
+}
+
+.pickup_list_item_checkbox {
+    display: block !important;
+    margin: 0 auto !important;
+    background: url(../img/bullet-map-liste-off.png) left top no-repeat !important;
+    width: 20px !important;
+    height: 20px !important;
+    cursor: pointer !important;
+}
+
+.pickup_list_item_checkbox.selected {
+    background: url(../img/bullet-map-liste-on.png) left top no-repeat !important;
+}*/
+
+.pickup_list_item_content {
+    float: left !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 17px !important;
+
+    background-size: 32px auto !important;
+
+    font-size: 10px !important;
+    line-height: 14px !important;
+}
+/*
+.pickup_list_item_content.unavailable {
+    background-image: url('../img/pickupGrey.png') !important;
+}*/
+
+/* RIGHT COLUMN */
+
+.pickup_list_right_col {
+    box-sizing: border-box !important;
+    float: left !important;
+    padding-right: 0 !important;
+    margin: 0 !important;
+    background: none;
+}
+
+@media (max-width: 767px) {
+    .pickup_list {
+        padding-right: 15px !important;
+    }
+}

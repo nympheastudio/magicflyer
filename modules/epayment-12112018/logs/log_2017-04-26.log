@@ -1,0 +1,38 @@
+2017-04-26 15:21:52 1493212912 DEBUG: URL to check 2
+2017-04-26 15:21:52 1493212912 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-26 15:21:52 1493212912 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-26 15:21:52 1493212912 DEBUG: Cart 11874: Redirecting customer to Paybox (CARTE, CB).
+2017-04-26 15:24:17 1493213057 DEBUG: Call params: M=31698&R=11874%20-%20osilda%20crausaz&T=708637440&B=0&C=MasterCard&D=1906&E=00151&F=Y&G=O&I=CHE&J=--&N=513659&O=Y&P=3DSECURE&Q=15%3A22%3A02&S=702252488&W=26042017&Y=CHE&K=Hb7uiDhfiogWhWR5bBozT6MjN%2BseGVhFYqTEScpOUzaVnheL1JmNJqILxGMTtJja2dNtwM87rIJ9NtckGWxntwaRKYpWpuBT537lfFQSmnwkM22lRQNre9iZTHgPPh94Tm8XJHFSQH0553lQlSi83cELDqNlUC5jaaJ5C7B2geE%3D
+2017-04-26 15:24:17 1493213057 DEBUG: Cart 11874: (IPN) Payment was refused by Paybox (151).
+2017-04-26 16:40:35 1493217635 DEBUG: URL to check 2
+2017-04-26 16:40:35 1493217635 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-26 16:40:35 1493217635 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-26 16:40:35 1493217635 DEBUG: Cart 12236: Redirecting customer to Paybox (CARTE, CB).
+2017-04-26 16:40:56 1493217655 DEBUG: URL to check 2
+2017-04-26 16:40:56 1493217655 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-26 16:40:56 1493217655 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-26 16:40:56 1493217655 DEBUG: Cart 12236: Redirecting customer to Paybox (CARTE, CB).
+2017-04-26 16:41:35 1493217695 DEBUG: Call params: M=4890&R=12236%20-%20elodie%20promsy&T=708668095&A=121647&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=FRA&J=81&N=497424&O=Y&P=3DSECURE&Q=16%3A40%3A36&S=702277012&W=26042017&Y=FRA&K=YPf1bj8kFJ226xBk8uuEunGhCAHAyFW%2F87CKKtOVUCLrZgXhvmlMD2333GAc3U%2FnKRQoZDS%2BqoI%2BY22UFqotvKUge4Mjav7gwvMjQcZerIw0KRkeTd9YAtc489L%2FOU9Tw2DKlr387SQ6bxdo8ImgqgToL3StLxxdWyw0LuAvaaQ%3D
+2017-04-26 16:41:35 1493217695 DEBUG: Cart 12236: Standard IPN
+2017-04-26 16:41:35 1493217695 DEBUG: Cart 12236: Validating order
+2017-04-26 16:41:36 1493217696 DEBUG: Cart 12236: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-04-26 16:41:37 1493217697 DEBUG: Cart 12236: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-04-26 16:41:37 1493217695 DEBUG: Cart 12236: Order 976 / Le paiement a été autorisé et capturé par Paybox.
+2017-04-26 16:41:38 1493217698 DEBUG: Cart 12236: Customer is back from Paybox payment page. Payment success.
+2017-04-26 17:34:07 1493220847 DEBUG: URL to check 2
+2017-04-26 17:34:07 1493220847 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-26 17:34:07 1493220847 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-26 17:34:07 1493220847 DEBUG: Cart 2591: Redirecting customer to Paybox (CARTE, CB).
+2017-04-26 17:35:48 1493220948 DEBUG: Cart 2591: Payment was canceled by user on Paybox payment page.
+2017-04-26 17:42:40 1493221359 DEBUG: URL to check 2
+2017-04-26 17:42:40 1493221359 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-04-26 17:42:40 1493221359 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-04-26 17:42:40 1493221359 DEBUG: Cart 2591: Redirecting customer to Paybox (CARTE, CB).
+2017-04-26 17:45:16 1493221516 DEBUG: Call params: M=27000&R=2591%20-%20Anais%20Quinteiro&T=708690620&A=635516&B=0&C=Visa&D=1906&E=00000&F=Y&G=O&I=FRA&J=13&N=497886&O=Y&P=3DSECURE&Q=17%3A34%3A08&S=702296784&W=26042017&Y=FRA&K=O6ce1eF0PY3uZ0Oe%2BjNjW1Evsqkaexvd9jXhF%2BpQN2U9CUZOJfiDHLSSPj%2FUoDLaaY8fusiuOQjZ%2Bz3ATG4e6PV5SRNgdSVcxXNs8WAjiE%2BnjHqU%2FMgimaOql7SPiW%2B0P4kPPODZ2MoerRUZIQgz6OnOAj%2FrW6CRTzXO8DYnedQ%3D
+2017-04-26 17:45:16 1493221516 DEBUG: Cart 2591: Standard IPN
+2017-04-26 17:45:16 1493221516 DEBUG: Cart 2591: Validating order
+2017-04-26 17:45:16 1493221516 DEBUG: Cart 2591: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-04-26 17:45:17 1493221516 DEBUG: Cart 2591: Order 977 / Le paiement a été autorisé et capturé par Paybox.
+2017-04-26 17:45:17 1493221517 DEBUG: Cart 2591: Customer is back from Paybox payment page. Payment success.
+2017-04-26 17:45:17 1493221517 DEBUG: Call params: M=27000&R=2591%20-%20Anais%20Quinteiro&T=708690620&A=635516&B=0&C=Visa&D=1906&E=00000&F=Y&G=O&I=FRA&J=13&N=497886&O=Y&P=3DSECURE&Q=17%3A34%3A08&S=702296784&W=26042017&Y=FRA&K=O6ce1eF0PY3uZ0Oe%2BjNjW1Evsqkaexvd9jXhF%2BpQN2U9CUZOJfiDHLSSPj%2FUoDLaaY8fusiuOQjZ%2Bz3ATG4e6PV5SRNgdSVcxXNs8WAjiE%2BnjHqU%2FMgimaOql7SPiW%2B0P4kPPODZ2MoerRUZIQgz6OnOAj%2FrW6CRTzXO8DYnedQ%3D
+2017-04-26 17:45:17 1493221517 DEBUG: Cart 2591: (IPN) Cart already being validated as order.

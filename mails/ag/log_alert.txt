@@ -1,0 +1,14 @@
+
+[/{shop_url}] 
+
+Hola {firstname} {lastname}, 
+
+ATENCIÓN: has recibido una nueva alerta de registro en tu Back
+Office.
+
+Puedes comprobarlo en la sección "HERRAMIENTAS"> "REGISTROS" del
+Back Office de tu tienda. 		 
+
+{shop_name} [/{shop_url}] creado por PrestaShop(tm)
+[http://www.prestashop.com/] 
+

@@ -1,0 +1,4 @@
+La función de Ajuste de Precios requiere un Amazon AWS
+
+Por favor, vaya a esta URL para abrir la cuenta
+https://aws.amazon.com/es/free/

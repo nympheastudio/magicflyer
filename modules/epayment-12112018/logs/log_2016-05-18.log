@@ -1,0 +1,10 @@
+2016-05-18 17:03:32 1463583812 DEBUG: URL to check 2
+2016-05-18 17:03:32 1463583812 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-18 17:03:32 1463583812 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-18 17:03:32 1463583812 DEBUG: Cart 984: Redirecting customer to Paybox (CARTE, CB).
+2016-05-18 17:04:10 1463583850 DEBUG: Call params: M=1700&R=984%20-%20sylvette%20gouchon&T=629476242&A=114261&B=0&C=Visa&D=1709&E=00000&G=D&H=6437B24FEB06525604221F19E7CFCD547A0B510C&I=FRA&J=&N=&P=CARTE&Q=17%3A03%3A33&S=625405226&W=18052016&Y=FRA&K=Edj1mOw2UPWocG14%2B%2B8QsIrbXSdA8wpZoeg7tZvU%2FqFH2VFQGGb2SRfpD07G8GFrn5Oj1tAl7EEsvbuqvNaPb5U3hBzk5lfZtPXhPZ3dkHOBNPAvzLQvIq3nYdbTbaUm%2BzruSn9o8Fu%2B8Ov1EGM85J39icofbyqUI8lx%2Fhh3p4o%3D
+2016-05-18 17:04:10 1463583850 DEBUG: Cart 984: Standard IPN
+2016-05-18 17:04:10 1463583850 DEBUG: Cart 984: Validating order (PS1.5+)
+2016-05-18 17:04:10 1463583850 DEBUG: Cart 984: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-18 17:04:11 1463583850 DEBUG: Cart 984: Order 193 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-18 17:04:11 1463583851 DEBUG: Cart 984: Customer is back from Paybox payment page. Payment success.

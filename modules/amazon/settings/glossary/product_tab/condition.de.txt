@@ -1,0 +1,5 @@
+Bitte fügen Sie einen kurzen Kommentar hinzu, um den Zusatnd Ihres Artikels zu beschreiben. Sie sind begrenzt auf 2000 Zeichen.
+
+Bespiel auf Amazon:
+
+<img src="views/img/tips/en/condition_note_example.jpg" />

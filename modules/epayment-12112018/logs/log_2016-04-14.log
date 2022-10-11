@@ -1,0 +1,31 @@
+2016-04-14 16:28:51 1460644130 DEBUG: URL to check 2
+2016-04-14 16:28:51 1460644130 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-14 16:28:51 1460644130 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-14 16:28:51 1460644130 DEBUG: Cart 755: Redirecting customer to Paybox (CARTE, CB).
+2016-04-14 16:39:11 1460644751 DEBUG: URL to check 2
+2016-04-14 16:39:11 1460644751 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-14 16:39:11 1460644751 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-14 16:39:11 1460644751 DEBUG: Cart 755: Redirecting customer to Paybox (CARTE, CB).
+2016-04-14 16:39:52 1460644792 DEBUG: Cart 755: Payment was canceled by user on Paybox payment page.
+2016-04-14 16:40:32 1460644832 DEBUG: URL to check 2
+2016-04-14 16:40:32 1460644832 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-14 16:40:32 1460644832 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-14 16:40:32 1460644832 DEBUG: Cart 755: Redirecting customer to Paybox (CARTE, CB).
+2016-04-14 16:41:41 1460644901 DEBUG: Call params: M=53907&R=755%20-%20Eleonora%20Vignando&T=624916313&B=0&C=Visa&D=1812&E=00105&G=D&H=5D0AE734F61C3FF721AC5197AEE95F61DF90F451&I=ITA&J=&N=&P=CARTE&Q=16%3A28%3A52&S=620898302&W=14042016&Y=ITA&K=pvk3dHPwk1hTOLWmD6MiGih5wYdwAzbJtEZRlWT6xxKN6r0dmzCp7ltCPjfzRH3Wgo0SmoXaQexDGLoFkOnpohFlxX1NspswhMeZg403W30RaIYCo%2FFTfetgKO5EEmyqbsDXiVSHmIYXq4FyNa2WlHgqj0HV2ok%2FVF0%2Fl3%2Fdf7k%3D
+2016-04-14 16:41:41 1460644901 DEBUG: Cart 755: (IPN) Payment was refused by Paybox (105).
+2016-04-14 16:55:31 1460645731 DEBUG: URL to check 2
+2016-04-14 16:55:31 1460645731 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-14 16:55:31 1460645731 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-14 16:55:31 1460645731 DEBUG: Cart 755: Redirecting customer to Paybox (CARTE, CB).
+2016-04-14 17:01:54 1460646113 DEBUG: URL to check 2
+2016-04-14 17:01:54 1460646113 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-14 17:01:54 1460646113 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-14 17:01:54 1460646113 DEBUG: Cart 755: Redirecting customer to Paybox (CARTE, CB).
+2016-04-14 17:02:21 1460646141 DEBUG: Call params: M=37138&R=755%20-%20Eleonora%20Vignando&T=624921975&A=461341&B=0&C=MasterCard&D=1810&E=00000&G=D&H=A1794E1A26E5D9CA140F20A3595C95B55CE97359&I=ITA&J=&N=&P=CARTE&Q=17%3A01%3A55&S=620901551&W=14042016&Y=ITA&K=AiLzbzieGdzbTQvQEosNAA3uhPPh5EsVSutgxpH0%2F1ltHArHEQQPKGMY1FXBiUMaM8m6CPhvsrSVV%2FbDOwkzj76ocu8to%2FPFdW37H%2BK1Apa9Z3GABD6UuTlGM%2FzUYkV%2BqBB5B9ALt7Mpj0eYHn7rX6GWpIhUJ1vVmDmBM3gR%2B8o%3D
+2016-04-14 17:02:21 1460646141 DEBUG: Cart 755: Standard IPN
+2016-04-14 17:02:21 1460646141 DEBUG: Cart 755: Validating order (PS1.5+)
+2016-04-14 17:02:22 1460646142 DEBUG: Cart 755: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-14 17:02:23 1460646143 DEBUG: Cart 755: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-04-14 17:02:24 1460646144 DEBUG: Cart 755: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-04-14 17:02:24 1460646141 DEBUG: Cart 755: Order 159 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-14 17:02:26 1460646146 DEBUG: Cart 755: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,29 @@
+.hint {
+    display: none;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    width: 850px;
+    border: 1px solid #00529B;
+    padding: 15px 5px 15px 40px;
+    color: #00529B;
+    background-color: #BDE5F8;
+    border-radius: 3px;
+    min-height: 15px;
+    z-index: 10;
+}
+
+#amazon-import-result.conf, #amazon-import-result.conf {
+    width: 800px;
+
+}
+
+#amazon-import-error {
+    width: 800px;
+}
+
+.error {
+    background-color: #FFBABA;
+    border: 1px solid #C00;
+    color: #D8000C;
+    padding: 20px;
+}

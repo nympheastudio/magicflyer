@@ -1,0 +1,17 @@
+2022-06-15 09:21:45 1655277705 DEBUG: URL to check 2
+2022-06-15 09:21:45 1655277705 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-06-15 09:21:45 1655277705 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-06-15 09:21:45 1655277705 DEBUG: Cart 62605: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-06-15 14:06:54 1655294814 DEBUG: URL to check 2
+2022-06-15 14:06:54 1655294814 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-06-15 14:06:54 1655294814 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-06-15 14:06:54 1655294814 DEBUG: Cart 62622: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-06-15 14:09:08 1655294948 DEBUG: Call params: M=4279&R=62622%20-%20samantha%20munoz&T=1064398954&A=115123&B=0&C=CB&D=2411&E=00000&F=Y&G=O&I=FRA&J=20&N=499001&O=Y&P=CARTE&Q=14%3A09%3A06&S=919089326&W=15062022&Y=FRA&Z=0-0&K=w27968w9A70E6t7os7fSvqm84dThFoGe0ylucTio0ho2wY13yar%2B1e9CTWc9LD1JgswkBPDNAEvr3NDomZq77IBlIW8BEWoN5RSIe7abikKmzbVgPydUbXiGSufOXthyvTPYuZmWAc7sZLc46VgqtXlzESUvCWIcKYXtp0MvGFM%3D
+2022-06-15 14:09:08 1655294948 DEBUG: Cart 62622: Standard IPN
+2022-06-15 14:09:08 1655294948 DEBUG: Cart 62622: Validating order
+2022-06-15 14:09:08 1655294948 DEBUG: Cart 62622: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-06-15 14:09:09 1655294949 DEBUG: Cart 62622: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-06-15 14:09:10 1655294950 DEBUG: Cart 62622: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-06-15 14:09:11 1655294948 DEBUG: Cart 62622: Order 5922 validated, creating details
+2022-06-15 14:09:11 1655294948 DEBUG: Cart 62622: Order 5922 / Le paiement a été autorisé et capturé par Paybox.
+2022-06-15 14:09:11 1655294951 DEBUG: Cart 62622: Customer is back from Verifone e-commerce payment page. Payment success.

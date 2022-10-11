@@ -1,0 +1,9 @@
+2016-04-29 15:46:37 1461937597 DEBUG: URL to check 2
+2016-04-29 15:46:37 1461937597 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-29 15:46:37 1461937597 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-29 15:46:37 1461937597 DEBUG: Cart 870: Redirecting customer to Paybox (CARTE, CB).
+2016-04-29 15:47:28 1461937648 DEBUG: Call params: M=3040&R=870%20-%20Jean-Pierre%20DUBRET&T=627009544&A=369143&B=0&C=MasterCard&D=1711&E=00000&G=D&H=564A83F1BD9536D4FB69A3FA3CB1041624A5214F&I=FRA&J=&N=&P=CARTE&Q=15%3A46%3A53&S=622939151&W=29042016&Y=FRA&K=TQzv%2BoZDPxIx%2Fiighwzy15ffn%2FoWWo%2Fa2S70hKQIjg%2FgsZZ93tX%2BokZFi693bzZETEOpKwkqR6P8QRUbuZt79DMI9cJlBQcRCzp1OziTa5YMkBzfjby16JBl0FpCl%2F2PLdi%2FVYdK3bVFpEmisfVOrnK3itMbYRlV3c61rTvloMo%3D
+2016-04-29 15:47:28 1461937648 DEBUG: Cart 870: Standard IPN
+2016-04-29 15:47:28 1461937648 DEBUG: Cart 870: Validating order (PS1.5+)
+2016-04-29 15:47:29 1461937648 DEBUG: Cart 870: Order 175 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-29 15:47:30 1461937650 DEBUG: Cart 870: Customer is back from Paybox payment page. Payment success.

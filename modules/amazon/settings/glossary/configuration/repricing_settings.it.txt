@@ -1,0 +1,4 @@
+La funzione di Revisione del prezzo necessita di Amazon AWS.
+
+Per aprire un account, si prega di utilizzare questo URL:
+https://aws.amazon.com/it/free/

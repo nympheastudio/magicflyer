@@ -1,0 +1,7 @@
+A gauche:
+Sélectionnez le transporteur de votre boutique qui sera utilisé pour la commande traitée.
+Pour des raisons d'incompatibilité, les transporteurs modules ne sont pas affichés.
+
+A droite:
+Sélectionnez le transporteur Amazon associé à utiliser pour notifier Amazon.
+Cette liste est fournie par Amazon et, est fixe.

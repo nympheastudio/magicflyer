@@ -1,0 +1,9 @@
+2016-12-10 21:09:20 1481400560 DEBUG: URL to check 2
+2016-12-10 21:09:20 1481400560 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-12-10 21:09:20 1481400560 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-12-10 21:09:20 1481400560 DEBUG: Cart 5462: Redirecting customer to Paybox (CARTE, CB).
+2016-12-10 21:10:55 1481400655 DEBUG: Call params: M=1700&R=5462%20-%20SERGE%20POLEGGI&T=672739825&A=362173&B=0&C=E_CARD&D=1703&E=00000&F=Y&G=O&I=FRA&J=88&N=415059&O=Y&P=3DSECURE&Q=21%3A09%3A22&S=671614124&W=10122016&Y=FRA&K=yDTmhCYz8LKRQBYHQZRGOj90vlJwk%2BexNYcvUcGeplMdQ8FiTjMnEnwxRO1YthFfDHRJpDK7XxUlJME6J3tSZzNMX%2BsmcbiWzZCGP9flWjibiGAVwDLqyxZA%2FUBC3Nc0xm0M4bW0zq4Yyqpx9Jnj49ghdLGQf8Iu9Nk6krGqGtg%3D
+2016-12-10 21:10:56 1481400655 DEBUG: Cart 5462: Standard IPN
+2016-12-10 21:10:56 1481400655 DEBUG: Cart 5462: Validating order
+2016-12-10 21:10:59 1481400655 DEBUG: Cart 5462: Order 512 / Le paiement a été autorisé et capturé par Paybox.
+2016-12-10 21:11:02 1481400662 DEBUG: Cart 5462: Customer is back from Paybox payment page. Payment success.

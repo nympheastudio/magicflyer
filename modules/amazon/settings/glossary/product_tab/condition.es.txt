@@ -1,0 +1,6 @@
+Por favor, agregue un pequeño comentario para describir mejor la condición de su artículo. El comentario debería estar limitado a 2000 caracteres.
+
+Ejemplo en Amazon:
+
+
+<img src="views/img/tips/en/condition_note_example.jpg" />

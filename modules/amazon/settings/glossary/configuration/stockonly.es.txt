@@ -1,0 +1,1 @@
+Sincronizar únicamente el stock, no los precios.

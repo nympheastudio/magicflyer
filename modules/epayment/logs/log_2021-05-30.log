@@ -1,0 +1,21 @@
+2021-05-30 22:30:48 1622406648 DEBUG: URL to check 2
+2021-05-30 22:30:48 1622406648 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-05-30 22:30:48 1622406648 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-05-30 22:30:48 1622406648 DEBUG: Cart 52921: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-05-30 22:32:44 1622406764 DEBUG: Call params: M=30381&R=52921%20-%20DURAME%20Anais&T=999405846&B=0&C=Visa&D=2201&E=00105&F=Y&G=O&I=FRA&J=--&N=456188&O=Y&P=3DSECURE&Q=22%3A30%3A49&S=254838435&W=30052021&Y=FRA&Z=0-0&K=IvUQGMYI4VGXWKqBHzUybWR4W4zGDfrHwO0TwSBqiKbUC5afvJ8PrewwmeFKGA6soibYi3T02BKWzwZ15xwbyXDZUfgl9QWZ3FjSOOyDYpvH3YnxCPVJb5r%2BYndqU%2BQDU1iSmi4ar%2BbwDLRuTKr0gRne3F92V0hzhzQN0aVVxGk%3D
+2021-05-30 22:32:44 1622406764 DEBUG: Cart 52921: (IPN) Payment was refused by Verifone e-commerce (105).
+2021-05-30 22:42:57 1622407377 DEBUG: Call params: M=30381&R=52921%20-%20DURAME%20Anais&T=999405846&B=0&C=Visa&D=2201&E=00105&F=Y&G=O&I=FRA&J=--&N=456188&O=Y&P=3DSECURE&Q=22%3A30%3A49&S=254839446&W=30052021&Y=FRA&Z=0-0&K=hFaCc%2BjNkp5H5uGezQZ%2FEnPArd9SkHgqmEis24cF8y3dI2SfZwCnRdV7ziydSJoUljlgONiah8ALXqo3prxCEy1mmwopp6hlJDlnnjun64bTt17%2BWCFwP18MTc0OfHdlEw4d%2B%2Fv6%2Fukqr05UYT8Lj2b1xVdVZcy7Uc1uWIVkmoM%3D
+2021-05-30 22:42:57 1622407377 DEBUG: Cart 52921: (IPN) Payment was refused by Verifone e-commerce (105).
+2021-05-30 22:44:22 1622407462 DEBUG: Call params: M=30381&R=52921%20-%20DURAME%20Anais&T=999405846&B=0&C=Visa&D=2201&E=00105&F=Y&G=O&I=FRA&J=--&N=456188&O=Y&P=3DSECURE&Q=22%3A30%3A49&S=254839541&W=30052021&Y=FRA&Z=0-0&K=3Nq2GOesZoWkgMe2mWRfrvFIy3MzCEPfcLqQ0bFniJsEmLoI1feopzPqU9598XA%2BW82NgG%2BFtP8ndudgqqJrhN1Xk6yMVsWEEs%2FPAiKrtrxy01wsidjZA46VZDIfAKrc5rCMLG1hLLrCsZheWdnnOMtPd3V6Ah9B%2FRBW37%2B8oAk%3D
+2021-05-30 22:44:22 1622407462 DEBUG: Cart 52921: (IPN) Payment was refused by Verifone e-commerce (105).
+2021-05-30 22:44:26 1622407466 DEBUG: Cart 52921: Customer is back from Verifone e-commerce payment page. Payment refused by Verifone e-commerce (105).
+2021-05-30 22:47:30 1622407649 DEBUG: URL to check 2
+2021-05-30 22:47:30 1622407649 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-05-30 22:47:30 1622407649 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-05-30 22:47:30 1622407649 DEBUG: Cart 52921: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-05-30 22:47:52 1622407672 DEBUG: Cart 52921: Customer is back from Verifone e-commerce payment page. Payment refused by Verifone e-commerce (105).
+2021-05-30 23:13:19 1622409199 DEBUG: URL to check 2
+2021-05-30 23:13:19 1622409199 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-05-30 23:13:19 1622409199 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-05-30 23:13:19 1622409199 DEBUG: Cart 52921: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-05-30 23:13:24 1622409204 DEBUG: Cart 52921: Customer is back from Verifone e-commerce payment page. Payment refused by Verifone e-commerce (105).

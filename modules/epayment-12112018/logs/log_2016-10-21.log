@@ -1,0 +1,10 @@
+2016-10-21 10:53:40 1477040020 DEBUG: URL to check 2
+2016-10-21 10:53:40 1477040020 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-21 10:53:41 1477040020 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-21 10:53:41 1477040020 DEBUG: Cart 4071: Redirecting customer to Paybox (CARTE, CB).
+2016-10-21 10:56:47 1477040207 DEBUG: Call params: M=1774&R=4071%20-%20Paolo%20Mancini&T=661285114&A=R06182&B=0&C=MasterCard&D=1903&E=00000&F=Y&G=O&I=ITA&J=48&N=510020&O=Y&P=3DSECURE&Q=10%3A53%3A41&S=660905542&W=21102016&Y=ITA&K=n6V8wBrdrhwuGKv7rkMvdpaS49WPiOmHVfFCNwyDa52FJp%2Fs0nviZw6PNRUalNmrR7%2F7AjiB3QRGKmMktv016YLiAPiKm0%2BQcs4r6G3whSdhvUe7V9gAHBJbCBXO2LxjrL4m3ENQqH4ZlD04ABx8yJQFTr77XGlMk9sZcRd9QRg%3D
+2016-10-21 10:56:47 1477040207 DEBUG: Cart 4071: Standard IPN
+2016-10-21 10:56:47 1477040207 DEBUG: Cart 4071: Validating order
+2016-10-21 10:56:48 1477040208 DEBUG: Cart 4071: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-21 10:56:49 1477040207 DEBUG: Cart 4071: Order 444 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-21 10:56:49 1477040209 DEBUG: Cart 4071: Customer is back from Paybox payment page. Payment success.

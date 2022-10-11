@@ -1,0 +1,13 @@
+2015-12-07 22:02:26 1449522146 DEBUG: URL to check 2
+2015-12-07 22:02:26 1449522146 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-12-07 22:02:26 1449522146 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-12-07 22:02:26 1449522146 DEBUG: Cart 340: Redirecting customer to Paybox (CARTE, CB).
+2015-12-07 22:03:01 1449522181 DEBUG: Call params: M=16900&R=340%20-%20Pierre%20Gaudechoux&T=289293432&A=252348&B=0&C=Visa&D=1704&E=00000&G=D&H=1C91EFA54516D7548232EC8EF3A075AED744C1E3&I=FRA&J=&N=&P=CARTE&Q=22%3A02%3A28&S=294603747&W=07122015&Y=FRA&K=lkxSNsbqICvDi41icbSN94eTfHieKYCbjJg%2BKeCdreQFpkpK5FdJqZT9pHqpX8p%2BWmkbr5U3XE8oYjiyJjX31ESNtQckFWnBQ6%2BPIU8Y7PyTLnobXawnlkZUvj3yX3%2FWdSxbiohrYg6v%2Fz7rW9wCLLRpI9wwwp%2FefaqSnO1kde8%3D
+2015-12-07 22:03:01 1449522181 DEBUG: Cart 340: Standard IPN
+2015-12-07 22:03:01 1449522181 DEBUG: Cart 340: Validating order (PS1.5+)
+2015-12-07 22:03:06 1449522181 DEBUG: Cart 340: Order 97 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-12-07 22:03:02 1449522182 DEBUG: Cart 340: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-12-07 22:03:03 1449522183 DEBUG: Cart 340: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-12-07 22:03:05 1449522185 DEBUG: Cart 340: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2015-12-07 22:03:06 1449522186 DEBUG: Cart 340: Customer is back from Paybox payment page. Payment success.

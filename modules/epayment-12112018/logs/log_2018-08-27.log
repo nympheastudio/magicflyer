@@ -1,0 +1,13 @@
+2018-08-27 10:07:34 1535357254 DEBUG: URL to check 2
+2018-08-27 10:07:34 1535357254 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-27 10:07:34 1535357254 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-08-27 10:07:34 1535357254 DEBUG: Cart 27289: Redirecting customer to Paybox (CARTE, CB).
+2018-08-27 11:10:32 1535361032 DEBUG: URL to check 2
+2018-08-27 11:10:32 1535361032 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-27 11:10:32 1535361032 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-08-27 11:10:32 1535361032 DEBUG: Cart 27291: Redirecting customer to Paybox (CARTE, CB).
+2018-08-27 11:11:42 1535361102 DEBUG: Call params: M=3992&R=27291%20-%20Marianna%20Karttunen&T=41742518&A=168639&B=0&C=Visa&D=2005&E=00000&F=Y&G=O&I=FRA&J=23&N=497940&O=Y&P=3DSECURE&Q=11%3A10%3A32&S=921074916&W=27082018&Y=FRA&K=yDVADmdxF1kD4tdf8ThwqIavuXpwMD0id96JpWDo4n4PIbNjqp8zXvNnV8ZBgilCymtvvKDKNudMjRW36YBGryVZmrpxe93FyUl%2FFMErZBkXUwV7ZeCVR4ReFGD95ZHmo9ENOCrWyvLAYtWIukJ2pghbJ06KfS5QA69zkbsRTEY%3D
+2018-08-27 11:11:42 1535361102 DEBUG: Cart 27291: Standard IPN
+2018-08-27 11:11:42 1535361102 DEBUG: Cart 27291: Validating order
+2018-08-27 11:11:43 1535361102 DEBUG: Cart 27291: Order 3234 / Le paiement a été autorisé et capturé par Paybox.
+2018-08-27 11:11:44 1535361104 DEBUG: Cart 27291: Customer is back from Paybox payment page. Payment success.

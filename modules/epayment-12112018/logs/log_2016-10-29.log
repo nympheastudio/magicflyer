@@ -1,0 +1,25 @@
+2016-10-29 08:48:22 1477723702 DEBUG: URL to check 2
+2016-10-29 08:48:22 1477723702 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-29 08:48:22 1477723702 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-29 08:48:22 1477723702 DEBUG: Cart 4235: Redirecting customer to Paybox (CARTE, CB).
+2016-10-29 08:49:55 1477723795 DEBUG: Call params: M=2597&R=4235%20-%20Vanessa%20Maillet&T=662869503&A=337210&B=0&C=MasterCard&D=1612&E=00000&F=Y&G=O&I=FRA&J=83&N=513283&O=Y&P=3DSECURE&Q=08%3A48%3A28&S=662365347&W=29102016&Y=FRA&K=KB2%2FxRKj6u2ZYRuvtgseq8yd4K%2FVZ1feRgzYv3SmA%2FyijBb2Ghi3gB8NirE%2FSOTNgW7rOyqU9YpoSEKwPmBtmh598pCRzBvT51ZIRviN4dxWzLsuqOvlbr4U39WOKsu4uLP7bS5hknqOhVS0ocqZGbraTa52wbjx4wJrtjy%2Bv58%3D
+2016-10-29 08:49:55 1477723795 DEBUG: Cart 4235: Standard IPN
+2016-10-29 08:49:55 1477723795 DEBUG: Cart 4235: Validating order
+2016-10-29 08:49:55 1477723795 DEBUG: Cart 4235: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-29 08:49:57 1477723797 DEBUG: Cart 4235: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-10-29 08:49:57 1477723795 DEBUG: Cart 4235: Order 458 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-29 08:49:58 1477723798 DEBUG: Cart 4235: Customer is back from Paybox payment page. Payment success.
+2016-10-29 08:53:44 1477724024 DEBUG: URL to check 2
+2016-10-29 08:53:44 1477724024 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-29 08:53:45 1477724024 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-29 08:53:45 1477724024 DEBUG: Cart 4236: Redirecting customer to Paybox (CARTE, CB).
+2016-10-29 16:01:23 1477749682 DEBUG: URL to check 2
+2016-10-29 16:01:23 1477749682 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-29 16:01:23 1477749682 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-29 16:01:23 1477749682 DEBUG: Cart 4240: Redirecting customer to Paybox (CARTE, CB).
+2016-10-29 16:02:57 1477749777 DEBUG: Call params: M=2597&R=4240%20-%20Cathy%20Olive&T=662934582&A=193548&B=0&C=E_CARD&D=1701&E=00000&F=Y&G=O&I=FRA&J=42&N=415060&O=Y&P=3DSECURE&Q=16%3A01%3A23&S=662439314&W=29102016&Y=FRA&K=Hafz4eEEAvlU%2BWLCTGikC0mz6vknMJRtWgTsO1KC8p7u%2FQfTksDZnfS0tBsmNiA91FWXw7YzEy999coBMqwCNOWgjtMqdIMFedkmsvoc92rqeUH%2F3Pg9H4VumU4zfffz9cg5aBZajUcBp0gHO8q2TtL7eJmPlK0Mf%2Fbmu2VU%2BME%3D
+2016-10-29 16:02:57 1477749777 DEBUG: Cart 4240: Standard IPN
+2016-10-29 16:02:57 1477749777 DEBUG: Cart 4240: Validating order
+2016-10-29 16:02:57 1477749777 DEBUG: Cart 4240: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-29 16:02:59 1477749777 DEBUG: Cart 4240: Order 459 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-29 16:02:59 1477749779 DEBUG: Cart 4240: Customer is back from Paybox payment page. Payment success.

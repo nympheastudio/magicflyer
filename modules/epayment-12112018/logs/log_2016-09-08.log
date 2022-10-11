@@ -1,0 +1,10 @@
+2016-09-08 17:53:43 1473350023 DEBUG: URL to check 2
+2016-09-08 17:53:43 1473350023 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-08 17:53:43 1473350023 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-08 17:53:43 1473350023 DEBUG: Cart 3137: Redirecting customer to Paybox (CARTE, CB).
+2016-09-08 17:55:19 1473350119 DEBUG: Call params: M=2000&R=3137%20-%20Valentin%20VEYRARD&T=643920302&B=0&C=CB&D=1705&E=00040&F=N&G=O&H=E197BF1535189E2B53883E142B9A9C6485485976&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=17%3A53%3A45&S=640066991&W=08092016&K=dgQ9PaZSV9QyZX0P%2F44iTQJJ2sK3%2FTuLChviEQkxhDTavxJaKry3QnmGe1Ctcfi%2F6EYphFpEtXxfnnGT2SS4k51MgnmuZGnbOdHPck5bcXpAughav6Bnxlnu%2BI83M8DGslnyGhNV5UnAEYJPHIOWFRFnpG6skkNhf1NfO0J2I0k%3D
+2016-09-08 17:55:19 1473350119 DEBUG: Cart 3137: (IPN) Payment was refused by Paybox (40).
+2016-09-08 17:57:36 1473350256 DEBUG: URL to check 2
+2016-09-08 17:57:36 1473350256 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-08 17:57:36 1473350256 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-08 17:57:36 1473350256 DEBUG: Cart 3142: Redirecting customer to Paybox (CARTE, CB).

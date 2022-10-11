@@ -1,0 +1,33 @@
+2016-10-24 08:57:10 1477292230 DEBUG: URL to check 2
+2016-10-24 08:57:10 1477292230 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-24 08:57:10 1477292230 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-24 08:57:10 1477292230 DEBUG: Cart 4121: Redirecting customer to Paybox (CARTE, CB).
+2016-10-24 08:57:25 1477292245 DEBUG: URL to check 2
+2016-10-24 08:57:25 1477292245 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-24 08:57:25 1477292245 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-24 08:57:25 1477292245 DEBUG: Cart 4121: Redirecting customer to Paybox (CARTE, CB).
+2016-10-24 08:57:56 1477292276 DEBUG: URL to check 2
+2016-10-24 08:57:56 1477292276 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-24 08:57:56 1477292276 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-24 08:57:56 1477292276 DEBUG: Cart 4121: Redirecting customer to Paybox (CARTE, CB).
+2016-10-24 08:59:10 1477292350 DEBUG: Call params: M=12282&R=4121%20-%20Legal%20Laurent&T=661838392&B=0&C=CB&D=1803&E=00004&I=FRA&J=26&N=497936&P=3DSECURE&Q=08%3A57%3A11&S=661395143&W=24102016&K=0p%2BQnIbTTel3JwHeCyW3LEPqabF0MXhnJShbjwc5RSCEv%2FLnkeW7C96%2BEP%2Bj7MOPzsZrL3xQYaNZSiqkUktpP2iy4yRCiRtnEkGfU7HlB9yoNZWUN6VKcxex4TpYQiS2OMgVJYdAgHzs4CH8NqBjjd%2FxVNXbxTzjPhMyUIzcnOs%3D
+2016-10-24 08:59:10 1477292350 DEBUG: Cart 4121: (IPN) Payment was refused by Paybox (4).
+2016-10-24 09:01:32 1477292492 DEBUG: Call params: M=12282&R=4121%20-%20Legal%20Laurent&T=661838392&A=541518&B=0&C=Visa&D=1803&E=00000&F=Y&G=O&I=FRA&J=26&N=497436&O=Y&P=3DSECURE&Q=08%3A57%3A11&S=661395287&W=24102016&Y=FRA&K=LrWjNm5MQ31eAohUHbgKb4QXr87UT8FgWPqLJvLxioDrBUQc0SmQW1ceSpAEMWRibDz3slJLm4d7TfglYfnATjche2pWDkAoDMFfK%2Fygw6aqr5LswUlAfXEALDMgFKthDlaebCi7M1JpPu55cbG0K1iQ%2BAqD250a0iGFYwWoWRY%3D
+2016-10-24 09:01:32 1477292492 DEBUG: Cart 4121: Standard IPN
+2016-10-24 09:01:32 1477292492 DEBUG: Cart 4121: Validating order
+2016-10-24 09:01:32 1477292492 DEBUG: Cart 4121: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-24 09:01:33 1477292492 DEBUG: Cart 4121: Order 448 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-24 09:01:33 1477292493 DEBUG: Cart 4121: Customer is back from Paybox payment page. Payment success.
+2016-10-24 15:31:15 1477315875 DEBUG: Checking Paybox update to version 3.0.0
+2016-10-24 15:31:15 1477315875 DEBUG:  Paybox version check answer: {"version":"3.0.0","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.0.zip","message":"Mise \u00e0 jour MAJEURE: suppression des v\u00e9rifications ip superflues pour l'IPN, diverses corrections de bugs mineurs."}
+2016-10-24 21:44:01 1477338241 DEBUG: URL to check 2
+2016-10-24 21:44:01 1477338241 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-24 21:44:01 1477338241 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-24 21:44:01 1477338241 DEBUG: Cart 4161: Redirecting customer to Paybox (CARTE, CB).
+2016-10-24 21:45:12 1477338312 DEBUG: Call params: M=4294&R=4161%20-%20aude%20marius&T=662032947&A=423432&B=0&C=Visa&D=1701&E=00000&F=Y&G=O&I=FRA&J=69&N=497380&O=Y&P=3DSECURE&Q=21%3A44%3A03&S=661563712&W=24102016&Y=FRA&K=3CffngvbESE0T8kqF0KoREErJ4rv2ZoWaKq0VjnHR%2FI4lA%2BZ0sNNEynNcjfxfmhHrvS8u6EC%2BbnXFf5sHel0fNPsLKekaYgPcJCWjgNfTchqPnFKCy2WDLeAK37E66um4zHsSrB95ft1%2FCrngemgVLhzAF%2B6pACPX%2BoKLAcQcjc%3D
+2016-10-24 21:45:12 1477338312 DEBUG: Cart 4161: Standard IPN
+2016-10-24 21:45:12 1477338312 DEBUG: Cart 4161: Validating order
+2016-10-24 21:45:12 1477338312 DEBUG: Cart 4161: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-24 21:45:13 1477338313 DEBUG: Cart 4161: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-10-24 21:45:14 1477338312 DEBUG: Cart 4161: Order 450 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-24 21:45:15 1477338315 DEBUG: Cart 4161: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,5 @@
+Labels you will have to create on Gmail (Imap Labels)
+
+<img src="views/img/tips/en/labels.jpg" />
+
+Notice: Labels are case sensitive ; small caps, BIG caps.

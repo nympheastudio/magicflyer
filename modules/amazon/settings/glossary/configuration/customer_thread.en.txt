@@ -1,0 +1,1 @@
+This feature allows to receive customers messages from Amazon and answer directly from Customers > Customer Service tab

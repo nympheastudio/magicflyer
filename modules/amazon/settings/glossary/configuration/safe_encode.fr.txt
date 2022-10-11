@@ -1,0 +1,1 @@
+Activer l'encodage sûr pour les titres des produits et les descriptions afin d'éviter les problèmes d'encodage de caractères, d'éliminer le bruit et les caractères mal encodés.

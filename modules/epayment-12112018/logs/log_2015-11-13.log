@@ -1,0 +1,12 @@
+2015-11-13 17:28:19 1447432098 DEBUG: URL to check 2
+2015-11-13 17:28:19 1447432098 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-13 17:28:19 1447432098 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2015-11-13 17:28:19 1447432098 DEBUG: Cart 278: Redirecting customer to Paybox (CARTE, CB).
+2015-11-13 17:28:42 1447432122 DEBUG: Call params: M=4294&R=278%20-%20spa%20charline%20bianchi&T=287607224&A=664133&B=0&C=MasterCard&D=1606&E=00000&G=D&H=11F0E72229C0460900EA1FD9406458BD3410AB93&I=FRA&J=&N=&P=CARTE&Q=17%3A28%3A19&S=292933648&W=13112015&Y=FRA&K=QVVGlWAN00q1iNqcleejGvQLIgmDW9lrHKAMbL96dP8BtZAhvUeppzEjhs7dl%2FKKh2HTZOOowaCWEwEMCioSeqG8e4KCHZMnlyWwvo4oKq%2FItJqHtOjyI51gJZbSZ9aaT9TG8ps31us%2B8bmx4lr5DkpWhMx8i%2F2vRkAEgtxJGpA%3D
+2015-11-13 17:28:42 1447432122 DEBUG: Cart 278: Standard IPN
+2015-11-13 17:28:42 1447432122 DEBUG: Cart 278: Validating order (PS1.5+)
+2015-11-13 17:28:46 1447432122 DEBUG: Cart 278: Order 72 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-11-13 17:28:43 1447432123 DEBUG: Cart 278: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-13 17:28:45 1447432125 DEBUG: Cart 278: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-11-13 17:28:46 1447432126 DEBUG: Cart 278: Customer is back from Paybox payment page. Payment success.

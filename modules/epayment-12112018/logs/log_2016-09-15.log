@@ -1,0 +1,48 @@
+2016-09-15 16:30:42 1473949842 DEBUG: URL to check 2
+2016-09-15 16:30:42 1473949842 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-15 16:30:42 1473949842 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-15 16:30:42 1473949842 DEBUG: Cart 3331: Redirecting customer to Paybox (CARTE, CB).
+2016-09-15 16:31:52 1473949912 DEBUG: Call params: M=13680&R=3331%20-%20oana%20stoican&T=652062293&A=559511&B=0&C=Visa&D=1909&E=00000&F=Y&G=O&H=E8AC294CA48B8F5022FF1CB75164F6AA3E1A0A7D&I=BEL&J=&N=&O=Y&P=3DSECURE&Q=16%3A30%3A42&S=652868458&W=15092016&Y=BEL&K=B2iBRxcdkir3XUGrC0HLqFJHocKgOfQ4IdAE7sLVjgyKL5Epp9y9VfDljF5Djv5rUwNZA4QwjScfnq9%2FC46pyxaXV14cR2UwXyZQL5Q%2FmI3bkq28Nrgd2t865fmQ%2Bvw5BTFWWbXdAALoVDG23H0FW3%2FEkmqUjneCq5K8P36ypa0%3D
+2016-09-15 16:31:52 1473949912 DEBUG: Cart 3331: (IPN) Appel IPN depuis 194.2.122.190 non autorisé.
+2016-09-15 16:31:52 1473949912 DEBUG: (IPN) Exception Appel IPN depuis 194.2.122.190 non autorisé. (/home/magicflyr/www/modules/epayment/classes/PayboxController.php 137).
+2016-09-15 16:31:52 1473949912 DEBUG: Call params: M=13680&R=3331%20-%20oana%20stoican&T=652062293&A=559511&B=0&C=Visa&D=1909&E=00000&F=Y&G=O&H=E8AC294CA48B8F5022FF1CB75164F6AA3E1A0A7D&I=BEL&J=&N=&O=Y&P=3DSECURE&Q=16%3A30%3A42&S=652868458&W=15092016&Y=BEL&K=B2iBRxcdkir3XUGrC0HLqFJHocKgOfQ4IdAE7sLVjgyKL5Epp9y9VfDljF5Djv5rUwNZA4QwjScfnq9%2FC46pyxaXV14cR2UwXyZQL5Q%2FmI3bkq28Nrgd2t865fmQ%2Bvw5BTFWWbXdAALoVDG23H0FW3%2FEkmqUjneCq5K8P36ypa0%3D
+2016-09-15 16:31:52 1473949912 DEBUG: Cart 3331: (IPN) Appel IPN depuis 194.2.122.190 non autorisé.
+2016-09-15 16:31:52 1473949912 DEBUG: (IPN) Exception Appel IPN depuis 194.2.122.190 non autorisé. (/home/magicflyr/www/modules/epayment/classes/PayboxController.php 137).
+2016-09-15 16:31:52 1473949912 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-15 16:31:52 1473949912 DEBUG: Call params: M=13680&R=3331%20-%20oana%20stoican&T=652062293&A=559511&B=0&C=Visa&D=1909&E=00000&F=Y&G=O&H=E8AC294CA48B8F5022FF1CB75164F6AA3E1A0A7D&I=BEL&J=&N=&O=Y&P=3DSECURE&Q=16%3A30%3A42&S=652868458&W=15092016&Y=BEL&K=B2iBRxcdkir3XUGrC0HLqFJHocKgOfQ4IdAE7sLVjgyKL5Epp9y9VfDljF5Djv5rUwNZA4QwjScfnq9%2FC46pyxaXV14cR2UwXyZQL5Q%2FmI3bkq28Nrgd2t865fmQ%2Bvw5BTFWWbXdAALoVDG23H0FW3%2FEkmqUjneCq5K8P36ypa0%3D
+2016-09-15 16:31:52 1473949912 DEBUG: Cart 3331: (IPN) Appel IPN depuis 194.2.122.190 non autorisé.
+2016-09-15 16:31:52 1473949912 DEBUG: (IPN) Exception Appel IPN depuis 194.2.122.190 non autorisé. (/home/magicflyr/www/modules/epayment/classes/PayboxController.php 137).
+2016-09-15 16:31:53 1473949913 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-09-15 16:31:55 1473949915 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-09-15 16:31:56 1473949916 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2016-09-15 16:31:57 1473949917 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2016-09-15 16:31:58 1473949918 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 5).
+2016-09-15 16:31:59 1473949919 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 6).
+2016-09-15 16:32:00 1473949920 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 7).
+2016-09-15 16:32:02 1473949922 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 8).
+2016-09-15 16:32:03 1473949923 DEBUG: Cart 3331: Customer is back from Paybox payment page. Waiting order validation (loop 9).
+2016-09-15 16:32:04 1473949924 DEBUG: Cart 3331: Customer is back from Paybox payment page. Order not validated.
+2016-09-15 16:41:12 1473950472 DEBUG: URL to check 2
+2016-09-15 16:41:12 1473950472 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-15 16:41:12 1473950472 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-15 16:41:12 1473950472 DEBUG: Cart 357: Redirecting customer to Paybox (CARTE, CB).
+2016-09-15 17:05:13 1473951913 DEBUG: Checking Paybox update to version 3.0.0
+2016-09-15 17:05:13 1473951913 DEBUG:  Paybox version check answer: {"version":"3.0.0","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.0.zip","message":"Mise \u00e0 jour MAJEURE: suppression des v\u00e9rifications ip superflues pour l'IPN, diverses corrections de bugs mineurs."}
+2016-09-15 17:05:40 1473951940 DEBUG: Checking Paybox update to version 3.0.0
+2016-09-15 17:05:40 1473951940 DEBUG:  Paybox version check answer: {"version":"3.0.0","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.0.zip","message":"Mise \u00e0 jour MAJEURE: suppression des v\u00e9rifications ip superflues pour l'IPN, diverses corrections de bugs mineurs."}
+2016-09-15 17:06:40 1473952000 DEBUG: Checking Paybox update to version 3.0.0
+2016-09-15 17:06:40 1473952000 DEBUG:  Paybox version check answer: {"version":"3.0.0","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.0.zip","message":"Mise \u00e0 jour MAJEURE: suppression des v\u00e9rifications ip superflues pour l'IPN, diverses corrections de bugs mineurs."}
+2016-09-15 17:07:34 1473952054 DEBUG: URL to check 2
+2016-09-15 17:07:34 1473952054 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-15 17:07:34 1473952054 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-15 17:07:34 1473952054 DEBUG: Cart 3319: Redirecting customer to Paybox (CARTE, CB).
+2016-09-15 17:08:51 1473952131 DEBUG: URL to check 2
+2016-09-15 17:08:51 1473952131 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-15 17:08:51 1473952131 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-15 17:08:51 1473952131 DEBUG: Cart 3319: Redirecting customer to Paybox (CARTE, CB).
+2016-09-15 17:10:21 1473952221 DEBUG: Call params: M=831&R=3319%20-%20Stef%20Dubois&T=652075183&A=122654&B=0&C=MasterCard&D=1709&E=00000&F=Y&G=O&I=FRA&J=48&N=513770&O=Y&P=3DSECURE&Q=17%3A08%3A51&S=652878611&W=15092016&Y=FRA&K=cfQy%2FODuYxPhfKoPUnPc%2BnfhnYbO3ZjpxefHA4kCXvgMyVa%2BLolMkAv7kHhFl89GEtXYZmRKpGH2Gj%2Fj%2Bhu1aVFay8PNYCbNTvK8Po8cHX6Futy%2FqRAqEsCR1fK%2FBRdAGsb2mylVxqpHmdBfvlGThtS9frKEUbOwjQOzgyatq0o%3D
+2016-09-15 17:10:21 1473952221 DEBUG: Cart 3319: Standard IPN
+2016-09-15 17:10:21 1473952221 DEBUG: Cart 3319: Validating order
+2016-09-15 17:10:22 1473952222 DEBUG: Cart 3319: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-15 17:10:22 1473952221 DEBUG: Cart 3319: Order 384 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-15 17:10:23 1473952223 DEBUG: Cart 3319: Customer is back from Paybox payment page. Payment success.

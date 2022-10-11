@@ -1,0 +1,1 @@
+Añadir la región (FR, UK, US…) al título del método de pago.

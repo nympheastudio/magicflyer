@@ -1,0 +1,10 @@
+2018-09-19 22:31:02 1537389061 DEBUG: URL to check 2
+2018-09-19 22:31:02 1537389061 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-19 22:31:02 1537389061 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-19 22:31:02 1537389061 DEBUG: Cart 28079: Redirecting customer to Paybox (CARTE, CB).
+2018-09-19 22:33:31 1537389211 DEBUG: Call params: M=15751&R=28079%20-%20segolene%20michel&T=50788656&A=373447&B=0&C=Visa&D=1904&E=00000&F=Y&G=O&I=FRA&J=85&N=456122&O=Y&P=3DSECURE&Q=22%3A30%3A54&S=928075382&W=19092018&Y=FRA&K=RXow7pKkJw%2Bs3mSjtZ898y9dh0pVdgSecNs%2B6rjHIPvgVevZQ7zNrzwpe6PMy%2FIbY0OI8DVJ5BvdsqwpZ8idLdVmLlKIkl94xNQmAf42geQojSH%2Fo7vdtWCNgIduNzuniLDZqM0AUJxWxcLLSX%2Bc8gq%2FKjrNv0aMqxTAbOr5PuE%3D
+2018-09-19 22:33:31 1537389211 DEBUG: Cart 28079: Standard IPN
+2018-09-19 22:33:31 1537389211 DEBUG: Cart 28079: Validating order
+2018-09-19 22:33:31 1537389211 DEBUG: Cart 28079: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-09-19 22:33:32 1537389211 DEBUG: Cart 28079: Order 3304 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-19 22:33:32 1537389212 DEBUG: Cart 28079: Customer is back from Paybox payment page. Payment success.

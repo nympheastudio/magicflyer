@@ -1,0 +1,2 @@
+Tiempo en días laborables desde que se realizó el pedido y el envío del mismo
+Transcurrido este período no se enviará el correo para la solicitud de evaluación

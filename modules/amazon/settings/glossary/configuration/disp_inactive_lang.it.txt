@@ -1,0 +1,1 @@
+Mostrare l'etichetta della lingua anche quando inattivi. Da utilizzare se non si vugliono attivare le lingue ma se si vogliono utilizzare su Amazon.

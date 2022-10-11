@@ -1,0 +1,40 @@
+Commande n°;Order State;Product Quantity;Mode de paiement;Total payé;Total payé réel;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Email;Pays de livraison;Nom de la compagnie de facturation;Code pays de livraison
+62;Expédié;1;Paybox - Epayment;22.970000;22.970000;3.000000;49;2015-11-01 22:08:33;1;laure;stamboulian;laure.stamboulian@laposte.net;8;;FR
+63;Expédié;1;Bank wire;42.940000;42.940000;3.000000;54;2015-11-06 12:42:21;1;Pascaline;SEME;pascaline.seme@orange.fr;8;;FR
+63;Expédié;1;Bank wire;42.940000;42.940000;3.000000;54;2015-11-06 12:42:21;1;Pascaline;SEME;pascaline.seme@orange.fr;8;;FR
+64;Expédié;3;Paybox - Epayment;43.230000;43.230000;3.000000;50;2015-11-02 15:44:41;1;stephanie;Debeaumont;stephanie.debeaumont@wanadoo.fr;8;;FR
+65;Expédié;5;Paybox - Epayment;82.850000;82.850000;3.000000;51;2015-11-03 10:53:39;1;rémi;rollland;remi.rolland@yahoo.fr;8;id2 loisirs;FR
+66;Expédié;1;Paybox - Epayment;30.660000;30.660000;4.000000;52;2015-11-04 10:06:08;1;Thierry;STAMPFLER;lnersissian@gmail.com;242;;PF
+66;Expédié;1;Paybox - Epayment;30.660000;30.660000;4.000000;52;2015-11-04 10:06:08;1;Thierry;STAMPFLER;lnersissian@gmail.com;242;;PF
+66;Expédié;1;Paybox - Epayment;30.660000;30.660000;4.000000;52;2015-11-04 10:06:08;1;Thierry;STAMPFLER;lnersissian@gmail.com;242;;PF
+66;Expédié;1;Paybox - Epayment;30.660000;30.660000;4.000000;52;2015-11-04 10:06:08;1;Thierry;STAMPFLER;lnersissian@gmail.com;242;;PF
+67;Expédié;6;Paybox - Epayment;98.820000;98.820000;3.000000;53;2015-11-04 16:46:48;1;marie;baron-lemaire;myrna.lemaire@mairie-boulogne-billancourt.fr;8;;FR
+68;Expédié;1;PayPal;22.970000;22.970000;3.000000;55;2015-11-08 15:08:34;1;Philippe;ESCUDIÉ;philescud@yahoo.fr;8;;FR
+69;Expédié;1;PayPal;36.780000;36.780000;3.500000;56;2015-11-11 03:36:32;1;Brenda;Moses;guise1@people.net.au;24;;AU
+69;Expédié;1;PayPal;36.780000;36.780000;3.500000;56;2015-11-11 03:36:32;1;Brenda;Moses;guise1@people.net.au;24;;AU
+70;Expédié;4;Paybox - Epayment;82.880000;82.880000;3.000000;57;2015-11-11 16:59:07;1;marie line ;criquet;mamaayloya@hotmail.fr;8;;FR
+71;Expédié;3;Paybox - Epayment;56.920000;56.920000;3.000000;58;2015-11-12 14:28:16;1;Julie;Gosset;maximejulie@hotmail.com;8;;FR
+72;Expédié;2;Paybox - Epayment;42.940000;42.940000;3.000000;59;2015-11-13 17:28:45;1;spa charline;bianchi;charline69100@hotmail.fr;8;;FR
+73;Expédié;3;PayPal;62.910000;62.910000;3.000000;60;2015-11-16 18:34:15;1;sylvie;ALVARESSE;sylviealvaresse@sfr.fr;8;;FR
+74;Expédié;6;Paybox - Epayment;101.820000;101.820000;6.000000;61;2015-11-17 09:34:08;1;Patricia;Bony;kairos.studio@orange.fr;8;Kairos Studio Graphique;FR
+75;Expédié;7;Paybox - Epayment;111.790000;111.790000;6.000000;62;2015-11-17 09:39:33;1;Patricia;Bony;kairos.studio@orange.fr;8;Kairos Studio Graphique;FR
+76;Expédié;1;PayPal;12.930000;12.930000;3.000000;63;2015-11-17 18:56:48;1;hassina;amirouche;badis47@yahoo.fr;8;;FR
+77;Expédié;3;Paybox - Epayment;62.910000;62.910000;3.000000;64;2015-11-19 15:49:15;1;LE BRAS;Séverine;crapule63@yahoo.fr;8;;FR
+78;Expédié;2;Paybox - Epayment;36.780000;36.780000;3.500000;65;2015-11-19 21:19:50;1;Belinda ;Delport ;b.delport@hotmail.com;30;Feedstone ;ZA
+79;Expédié;1;Paybox - Epayment;22.970000;22.970000;6.000000;66;2015-11-22 17:06:17;1;jacques ;willem;isabellefrognet@gmail.com;8;;FR
+80;Expédié;4;Paybox - Epayment;59.000000;59.000000;3.000000;67;2015-11-22 20:08:16;1;chrystel;vitalis;chrystel.perez@orange.fr;8;;FR
+81;Expédié;5;PayPal;226.270000;226.270000;0.000000;68;2015-11-24 08:12:11;1;Jamela;David;davidjamela@hotmail.com;21;;US
+81;Expédié;5;PayPal;226.270000;226.270000;0.000000;68;2015-11-24 08:12:11;1;Jamela;David;davidjamela@hotmail.com;21;;US
+81;Expédié;5;PayPal;226.270000;226.270000;0.000000;68;2015-11-24 08:12:11;1;Jamela;David;davidjamela@hotmail.com;21;;US
+81;Expédié;5;PayPal;226.270000;226.270000;0.000000;68;2015-11-24 08:12:11;1;Jamela;David;davidjamela@hotmail.com;21;;US
+82;Expédié;5;Paybox - Epayment;82.850000;82.850000;3.000000;69;2015-11-24 11:00:55;1;jessica;bali;angelys60@Hotmail.fr;8;;FR
+84;Expédié;1;PayPal;62.910000;62.910000;3.000000;70;2015-11-25 13:56:50;1;valerie;Boisgelot;valerieboisgelot@hotmail.com;8;;FR
+84;Expédié;1;PayPal;62.910000;62.910000;3.000000;70;2015-11-25 13:56:50;1;valerie;Boisgelot;valerieboisgelot@hotmail.com;8;;FR
+84;Expédié;1;PayPal;62.910000;62.910000;3.000000;70;2015-11-25 13:56:50;1;valerie;Boisgelot;valerieboisgelot@hotmail.com;8;;FR
+85;Expédié;1;Paybox - Epayment;42.940000;42.940000;3.000000;71;2015-11-26 02:39:56;1;ANNE;BARBIER;annebarbier@orange.fr;8;;FR
+85;Expédié;1;Paybox - Epayment;42.940000;42.940000;3.000000;71;2015-11-26 02:39:56;1;ANNE;BARBIER;annebarbier@orange.fr;8;;FR
+86;Expédié;1;Paybox - Epayment;22.970000;22.970000;3.000000;72;2015-11-26 20:32:55;1;celine;SAINT-JEAN;celine.saintjean@laposte.net;8;au petit monde de celine;FR
+87;Expédié;1;Paybox - Epayment;17.000000;17.000000;3.000000;73;2015-11-27 17:40:12;1;Marie;FRANCHETEAU;marie.france.francheteau@gmail.com;8;;FR
+88;Expédié;1;PayPal;17.000000;17.000000;3.000000;74;2015-11-27 21:04:08;1;Anne-Sophie;Lalau;as.lalau@amiens-metropole.com;8;;FR
+89;Expédié;1;Paybox - Epayment;22.970000;22.970000;3.000000;75;2015-11-28 15:58:35;1;Ouiceme;Ben Ali;Ouiceme.b@gmail.com;8;;FR
+90;Expédié;5;Paybox - Epayment;62.500000;62.500000;3.000000;76;2015-11-29 14:44:59;1;clemence;clemence;clemence.gabriel@gmail.com;8;;FR

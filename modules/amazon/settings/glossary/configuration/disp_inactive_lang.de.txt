@@ -1,0 +1,1 @@
+Zeigt die Reiter für Sprachen an, auch wenn diese inaktiv sind. Wird benutzt, wenn Sie die Sprachen nicht aktivieren wollen und die von Amazon nutzen.

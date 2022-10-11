@@ -1,0 +1,1 @@
+Ajouter l'origine du paiement (FR, UK, US...) au titre de la méthode de paiement.

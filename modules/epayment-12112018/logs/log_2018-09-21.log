@@ -1,0 +1,14 @@
+2018-09-21 16:31:14 1537540274 DEBUG: URL to check 2
+2018-09-21 16:31:14 1537540274 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-21 16:31:14 1537540274 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-09-21 16:31:14 1537540274 DEBUG: Cart 28142: Redirecting customer to Paybox (CARTE, CB).
+2018-09-21 21:42:31 1537558951 DEBUG: URL to check 2
+2018-09-21 21:42:31 1537558951 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-21 21:42:31 1537558951 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-21 21:42:31 1537558951 DEBUG: Cart 28142: Redirecting customer to Paybox (CARTE, CB).
+2018-09-21 21:43:48 1537559028 DEBUG: Call params: M=2641&R=28142%20-%20Marie%20Richard&T=51318168&A=171621&B=0&C=Visa&D=2001&E=00000&F=Y&G=O&I=FRA&J=66&N=497599&O=Y&P=3DSECURE&Q=21%3A42%3A25&S=928522938&W=21092018&Y=FRA&K=Xl41Hn676nL6EY538h3FTEN%2ByFTIzklm7oHKiTjW5JUnF1nSTuSS8OUZ326Z%2FLcH%2BQEh9rQwoGMhRoYevgklAZ0ZbOqMXtUSGzRaNvE8ECocRxx7%2B22Uj17AkOYsIis0glp9F6dUCRvBKxMYJHUBq%2FJLFWw%2Fcnip0HjgDy6hE1A%3D
+2018-09-21 21:43:48 1537559028 DEBUG: Cart 28142: Standard IPN
+2018-09-21 21:43:48 1537559028 DEBUG: Cart 28142: Validating order
+2018-09-21 21:43:49 1537559029 DEBUG: Cart 28142: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-09-21 21:43:49 1537559028 DEBUG: Cart 28142: Order 3311 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-21 21:43:50 1537559030 DEBUG: Cart 28142: Customer is back from Paybox payment page. Payment success.

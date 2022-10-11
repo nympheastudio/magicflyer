@@ -1,0 +1,21 @@
+/**
+ * @package Jms Advance Footer
+ * @version 1.0
+ * @Copyright (C) 2009 - 2013 Joommasters.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ * @Website: http://www.joommasters.com
+**/
+
+.footer-position .footer-block {
+	clear:both;
+	margin-bottom:20px;
+}
+.footer-position .footer-block:last-child {
+	margin-bottom:0px;
+}
+@media (max-width: 768px) {	
+	.footer-block {
+		width:100%!important;
+	}
+}
+

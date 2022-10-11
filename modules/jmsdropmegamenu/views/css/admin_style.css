@@ -1,0 +1,86 @@
+/**
+ * @package Jms Drop Megamenu
+ * @version 1.0
+ * @Copyright (C) 2009 - 2013 Joommasters.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ * @Website: http://www.joommasters.com
+**/
+
+#jms-toolbar {
+	position:fixed;
+	right:0px;
+	top:30%;
+	width:50px;
+	z-index:1000;
+}
+.jms-tool {	
+    cursor: pointer;
+    display: inline-block;
+    height: 50px;
+    line-height: 44px;
+    margin: 2px 0px;
+    padding: 5px;
+    text-align: center;
+    width: 50px;
+	background: #FFF none repeat scroll 0 0;
+	box-shadow:0 2px 3px #999;
+}
+.jms-tool. {
+}
+.jms-tool i {
+	color: #FFF;
+	font-size:17px;
+}
+a {
+	cursor:pointer;
+}
+.lvl1 {
+	margin-left:25px;
+}
+.lvl2 {
+	margin-left:50px;
+}
+.lvl3 {
+	margin-left:75px;
+}
+.lvl4 {
+	margin-left:100px;
+}
+#menus .panel {
+	padding:7px 50px 7px 20px!important;
+	margin-bottom:10px!important;
+	border-radius:0px!important;
+	line-height:30px;
+	cursor: move;
+}
+#menus .panel .btn {
+	border-radius:0px!important;
+	padding:4px 7px;
+	margin-right:6px;
+}
+a.collapse-expand,
+a.collapse-expand:hover {
+	color:#333;
+	text-decoration:none;
+}
+#menus > div {
+	overflow:hidden;
+}
+.jms-submenu  {
+	transition: all 0.5s ease 0s;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+}
+.collapse-expand-all {
+	margin-right:50px;
+	cursor:pointer;
+}	
+.check-all {
+	margin-right:50px;
+}
+.note i {
+    color: #00aff0;
+    margin-right: 10px;
+}	
+	

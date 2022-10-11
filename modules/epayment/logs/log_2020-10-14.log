@@ -1,0 +1,33 @@
+2020-10-14 21:33:53 1602704033 DEBUG: URL to check 2
+2020-10-14 21:33:53 1602704033 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-10-14 21:33:53 1602704033 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2020-10-14 21:33:53 1602704033 DEBUG: Cart 48385: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-10-14 21:34:30 1602704070 DEBUG: Call params: M=5805&R=48385%20-%20Sunny%20Gill&T=1507807797&A=636277&B=0&C=Visa&D=2010&E=00000&F=Y&G=O&I=GBR&J=40&N=475129&O=Y&P=3DSECURE&Q=21%3A33%3A52&S=357136375&W=14102020&Y=GBR&Z=0-0&K=PiQRmfryJnONpdUDQ8KEGasJQfF7FtgQWGxqROCydN0NK6lp94nw9iheVb0tsULjW5rRJMdQFoE1JEA6kAEIgdceMZK7Nu70iRC5kclbV4p7jIwK%2B6V41rfeqy6zNy5ysPmddkoh6jiDgRouYTKt2cTQ1k%2FhqfzU4obXd7PPPJA%3D
+2020-10-14 21:34:30 1602704070 DEBUG: Cart 48385: Standard IPN
+2020-10-14 21:34:30 1602704070 DEBUG: Cart 48385: Validating order
+2020-10-14 21:34:30 1602704070 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2020-10-14 21:34:31 1602704070 FATAL: Cart 48385: Error validating PrestaShop order:
+2020-10-14 21:34:31 1602704070 FATAL: Cart 48385: Unable to validate PrestaShop order
+2020-10-14 21:34:31 1602704070 DEBUG: (IPN) Exception Unable to validate order (/home/magicflyer/public_html/modules/epayment/epayment.php 885).
+2020-10-14 21:34:31 1602704071 DEBUG: Call params: M=5805&R=48385%20-%20Sunny%20Gill&T=1507807797&A=636277&B=0&C=Visa&D=2010&E=00000&F=Y&G=O&I=GBR&J=40&N=475129&O=Y&P=3DSECURE&Q=21%3A33%3A52&S=357136375&W=14102020&Y=GBR&Z=0-0&K=PiQRmfryJnONpdUDQ8KEGasJQfF7FtgQWGxqROCydN0NK6lp94nw9iheVb0tsULjW5rRJMdQFoE1JEA6kAEIgdceMZK7Nu70iRC5kclbV4p7jIwK%2B6V41rfeqy6zNy5ysPmddkoh6jiDgRouYTKt2cTQ1k%2FhqfzU4obXd7PPPJA%3D
+2020-10-14 21:34:31 1602704071 DEBUG: Cart 48385: (IPN) Cart already being validated as order with the transaction 357136375.
+2020-10-14 21:34:32 1602704072 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2020-10-14 21:34:33 1602704073 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2020-10-14 21:34:34 1602704074 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2020-10-14 21:34:35 1602704075 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2020-10-14 21:34:36 1602704076 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2020-10-14 21:34:37 1602704077 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 6).
+2020-10-14 21:34:38 1602704078 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 7).
+2020-10-14 21:34:40 1602704080 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 8).
+2020-10-14 21:34:41 1602704081 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 9).
+2020-10-14 21:34:42 1602704082 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 10).
+2020-10-14 21:34:43 1602704083 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 11).
+2020-10-14 21:34:44 1602704084 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 12).
+2020-10-14 21:34:45 1602704085 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 13).
+2020-10-14 21:34:47 1602704087 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 14).
+2020-10-14 21:34:48 1602704088 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 15).
+2020-10-14 21:34:49 1602704089 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 16).
+2020-10-14 21:34:50 1602704090 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 17).
+2020-10-14 21:34:51 1602704091 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 18).
+2020-10-14 21:34:52 1602704092 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 19).
+2020-10-14 21:34:53 1602704093 DEBUG: Cart 48385: Customer is back from Verifone e-commerce payment page. Order not validated.

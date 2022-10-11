@@ -1,0 +1,14 @@
+2017-10-29 22:43:41 1509313421 DEBUG: URL to check 2
+2017-10-29 22:43:41 1509313421 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-29 22:43:41 1509313421 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-10-29 22:43:41 1509313421 DEBUG: Cart 19329: Redirecting customer to Paybox (CARTE, CB).
+2017-10-29 22:45:02 1509313502 DEBUG: Call params: M=5186&R=19329%20-%20maria%20adelina%20%20santos&T=759941411&B=0&C=CB&D=1912&E=00040&F=N&G=O&I=CHE&J=33&N=526750&O=Y&P=3DSECURE&Q=22%3A43%3A42&S=745484586&W=29102017&K=X812vhHEEPQjtCjlZ9x4GAa0xMpwMmoN5%2B3QDZ5q3VJDL52GB8XoPUcLqvmNSNUVKplDPk%2FfM%2FboAWbCozyxTOr0TlXO6CiwDoX0EJVqQ511Zcbva%2FXbt7vxMn9QO0DsswRPUgpI4jOyEksbyGV2QgZotZMpweAeWVXHkV5Af0M%3D
+2017-10-29 22:45:02 1509313502 DEBUG: Cart 19329: (IPN) Payment was refused by Paybox (40).
+2017-10-29 22:46:24 1509313584 DEBUG: Cart 19329: Payment was canceled by user on Paybox payment page.
+2017-10-29 22:48:17 1509313696 DEBUG: URL to check 2
+2017-10-29 22:48:17 1509313696 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-29 22:48:17 1509313696 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-10-29 22:48:17 1509313696 DEBUG: Cart 19329: Redirecting customer to Paybox (CARTE, CB).
+2017-10-29 22:49:20 1509313760 DEBUG: Call params: M=3556&R=19329%20-%20maria%20adelina%20%20santos&T=759942154&B=0&C=CB&D=1912&E=00040&F=N&G=O&I=CHE&J=33&N=526750&O=Y&P=3DSECURE&Q=22%3A48%3A18&S=745485057&W=29102017&K=JiNmtnXcG6HrepaqrD4MoKQG7VaYuTlW6cubLPwkoFCt0CrpQsfOc5P3zg7xpfzCBUS25EgNxo%2BIt6dXc%2B2aCQd%2F2nY7Jk6LjHEtTXvxv32ke9h0QRlPsFe7cdgXtcDpr9sNcr5bdpB9kYyJaz8F1kaHoCu5eH2wOF65YFEH9ZI%3D
+2017-10-29 22:49:20 1509313760 DEBUG: Cart 19329: (IPN) Payment was refused by Paybox (40).
+2017-10-29 22:49:33 1509313773 DEBUG: Cart 19329: Payment was canceled by user on Paybox payment page.

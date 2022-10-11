@@ -1,0 +1,11 @@
+2016-09-03 12:02:10 1472896930 DEBUG: URL to check 2
+2016-09-03 12:02:10 1472896930 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-03 12:02:10 1472896930 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-03 12:02:10 1472896930 DEBUG: Cart 2985: Redirecting customer to Paybox (CARTE, CB).
+2016-09-03 12:02:51 1472896971 DEBUG: Call params: M=6591&R=2985%20-%20charleen%20Gaudin&T=643158791&A=102919&B=0&C=MasterCard&D=1704&E=00000&F=%20&G=N&H=F2C0D7299BD604C05AB1F81C36674AE65151EDBA&I=FRA&J=&N=&O=U&P=3DSECURE&Q=12%3A02%3A11&S=639291253&W=03092016&Y=FRA&K=NftMwc%2BkVZyr8%2BkE2tozz7PK9cDXSNrSD7l4%2BcodMs2UjdgKUTRZ%2FZoy%2BeDHeLnvxAJHIdJRoG2CqOWQPjK9ezz0S%2Bq207nID5buWs%2B7TVh%2F3b8GnhoMkCkiKUmHIX5rypcq1lyuodHvRyHybm4pcAii9n%2FCvyX43A5HvntzdOk%3D
+2016-09-03 12:02:51 1472896971 DEBUG: Cart 2985: Standard IPN
+2016-09-03 12:02:51 1472896971 DEBUG: Cart 2985: Validating order (PS1.5+)
+2016-09-03 12:02:51 1472896971 DEBUG: Cart 2985: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-09-03 12:02:52 1472896972 DEBUG: Cart 2985: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-09-03 12:02:52 1472896971 DEBUG: Cart 2985: Order 350 / Le paiement a été autorisé et capturé par Paybox.
+2016-09-03 12:02:53 1472896973 DEBUG: Cart 2985: Customer is back from Paybox payment page. Payment success.

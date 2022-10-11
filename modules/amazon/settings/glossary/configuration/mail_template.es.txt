@@ -1,0 +1,2 @@
+Fichero plantilla de e-mail que será utilizado para anunciar la factura en archivo adjunto
+Puede editar o añadir estos ficheros en el directorio modules/amazon/mail

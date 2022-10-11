@@ -1,0 +1,8 @@
+Izquierda, máximo porcentaje bajo
+
+Derecha, máximo porcentaje alto
+
+
+
+El precio base utilizado es el precio regular del módulo. ej.: El precio que el
+módulo envía usualmente a Amazon 

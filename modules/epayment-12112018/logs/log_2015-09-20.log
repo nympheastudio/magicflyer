@@ -1,0 +1,11 @@
+2015-09-20 19:29:37 1442770177 DEBUG: URL to check 2
+2015-09-20 19:29:37 1442770177 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-20 19:29:37 1442770177 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-20 19:29:37 1442770177 DEBUG: Cart 107: Redirecting customer to Paybox (CARTE, CB).
+2015-09-20 19:30:44 1442770244 DEBUG: Call params: M=1550&R=107%20-%20Annick%20PEKALA&T=281457934&A=452414&B=0&C=E_CARD&D=1512&E=00000&G=D&H=B0472AE9331E0CE8CBB5584EAE0A121F42CA142C&I=FRA&J=&N=&P=CARTE&Q=19%3A29%3A40&S=286744365&W=20092015&Y=FRA&K=RJL%2Ft4gNGUiHuKdk0kd8zVFaTZWIrWZTFxJMGzAgZQ6fsCN73he94tisSbg%2BGp9FZmTWs%2Bbd1IeGwfS5ofYKXkB%2B1xUZt8BPEMdWI3T%2BmHZNi0vDDroYmUR0Gc1fitKxYjGLRrt1n0wmHZbfqlZ%2Bw23jFfWomq4Unr4%2FJcsJF%2FA%3D
+2015-09-20 19:30:44 1442770244 DEBUG: Cart 107: Standard IPN
+2015-09-20 19:30:44 1442770244 DEBUG: Cart 107: Validating order (PS1.5+)
+2015-09-20 19:30:46 1442770244 DEBUG: Cart 107: Order 28 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-09-20 19:30:46 1442770246 DEBUG: Cart 107: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-09-20 19:30:47 1442770247 DEBUG: Cart 107: Customer is back from Paybox payment page. Payment success.

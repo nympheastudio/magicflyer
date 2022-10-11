@@ -1,0 +1,9 @@
+Hi,
+
+There were stocks moves on Amazon, here are the details :
+
+{events}
+
+----
+
+{errors}

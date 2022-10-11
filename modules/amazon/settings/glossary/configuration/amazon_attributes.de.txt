@@ -1,0 +1,10 @@
+
+Zuordnung und Eigenschaften
+
+Sie werden in diesem Bereich Ihre Prestashop Werte mit den Eigenschaften auf Amazon anpassen.
+
+Je mehr Felder Sie ausfüllen, umso besser wird Ihr Produkt hervorgehoben und umso mehr Verkauf können Sie erzielen, da einige dieser Felder auf Amazon als überlagerte Navigation genutzt werden und somit den Verbrauchern mehr Chancen, Ihr Produkt zu finden, bieten.
+
+Diese Felder dienen auch der Information der technischen Beschreibung auf dem Produktblatt:
+
+<img src = "../modules/amazon/views/img/tips/fr/attributes.jpg" />

@@ -1,0 +1,10 @@
+2016-03-07 16:05:01 1457363101 DEBUG: URL to check 2
+2016-03-07 16:05:01 1457363101 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-07 16:05:01 1457363101 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-07 16:05:01 1457363101 DEBUG: Cart 544: Redirecting customer to Paybox (CARTE, CB).
+2016-03-07 16:05:40 1457363140 DEBUG: Call params: M=2297&R=544%20-%20drolatic%20industry&T=612907813&A=466206&B=0&C=MasterCard&D=1612&E=00000&G=D&H=4390E99F5E9A9E6B1BB85FA902A1262049DF11AC&I=FRA&J=&N=&P=CARTE&Q=16%3A05%3A03&S=611001979&W=07032016&Y=FRA&K=3Zo4r7imORFPcDd24I5Kq%2BnFJ0wCN2Woc%2FcY81x42TeTrwpBInHmr5%2BL5%2FPdKvQrt9B%2BycIw0UQ%2B14KzRrDIGQrTVrImbh9TRn8gnuOL5cs3mNV9u83QqUZGzusuwtLRJjDAsRvIz5WGr53AFGt210IBOxC%2Fsu5QBA5%2BNRIpfU8%3D
+2016-03-07 16:05:40 1457363140 DEBUG: Cart 544: Standard IPN
+2016-03-07 16:05:40 1457363140 DEBUG: Cart 544: Validating order (PS1.5+)
+2016-03-07 16:05:40 1457363140 DEBUG: Cart 544: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-07 16:05:41 1457363140 DEBUG: Cart 544: Order 124 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-07 16:05:41 1457363141 DEBUG: Cart 544: Customer is back from Paybox payment page. Payment success.

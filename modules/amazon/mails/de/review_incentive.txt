@@ -1,0 +1,17 @@
+Guten {firstname} {lastname},
+
+Bewertungen informieren Sie bei Ihren Einkäufen auf Amazon Marketplace und auch Ihre Bewertung wird für zukünftige Käufer im Marketplace nützlich und hilfreich sein.
+
+Wir wären Ihnen daher sehr dankbar, wenn Sie unsere Leistung bewerten würden.
+
+Sie können dies in nur wenigen Augenblicken tun, wenn Sie bitte folgende Adresse besuchen:
+{amazon_review_url}
+
+Folgen Sie bitte einfach den Anweisungen.
+
+Wir danken Ihnen für das uns entgegengebrachte Vertrauen und hoffen, Sie schon bald im Amazon Marketplace wiederzusehen.
+
+Herzliche Grüße,
+Ihr Kundenservice
+{shop_name}
+

@@ -1,0 +1,2 @@
+Use individual or global account method (default is global)
+The individual account create one account per custome

@@ -1,0 +1,23 @@
+2016-10-09 14:58:58 1476017937 DEBUG: URL to check 2
+2016-10-09 14:58:58 1476017937 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-09 14:58:58 1476017937 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-09 14:58:58 1476017937 DEBUG: Cart 3822: Redirecting customer to Paybox (CARTE, CB).
+2016-10-09 15:00:22 1476018021 DEBUG: Call params: M=3100&R=3822%20-%20Christophe%20Muller&T=658540150&A=261603&B=0&C=Visa&D=1811&E=00000&F=Y&G=O&I=FRA&J=03&N=497887&O=Y&P=3DSECURE&Q=14%3A58%3A59&S=658400174&W=09102016&Y=FRA&K=c5KwEB%2B9dfDZxhsQk309dcIdDbRSurmuwVo%2F7z%2BR2qhzpI3FNegu6f28NAZtfkaMBPvx2vcQ5%2FEinccR8xz%2F5VoNwNpqYCFEuudI5mwcIW9CvGqhjswKLWNlB%2FUWmndSZwRh2RU%2FgLaiOYbG1rUzbSNm%2F%2B9eJrDmWJScEjKxAtM%3D
+2016-10-09 15:00:22 1476018021 DEBUG: Cart 3822: Standard IPN
+2016-10-09 15:00:22 1476018021 DEBUG: Cart 3822: Validating order
+2016-10-09 15:00:22 1476018022 DEBUG: Cart 3822: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-09 15:00:23 1476018023 DEBUG: Cart 3822: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-10-09 15:00:23 1476018021 DEBUG: Cart 3822: Order 426 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-09 15:00:24 1476018024 DEBUG: Cart 3822: Customer is back from Paybox payment page. Payment success.
+2016-10-09 23:22:36 1476048156 DEBUG: URL to check 2
+2016-10-09 23:22:36 1476048156 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-09 23:22:36 1476048156 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-09 23:22:36 1476048156 DEBUG: Cart 3829: Redirecting customer to Paybox (CARTE, CB).
+2016-10-09 23:23:38 1476048218 DEBUG: Call params: M=17400&R=3829%20-%20Philippe%20SICARD&T=658637148&A=435869&B=0&C=Visa&D=1812&E=00000&F=Y&G=O&I=FRA&J=23&N=497582&O=Y&P=3DSECURE&Q=23%3A22%3A36&S=658488768&W=09102016&Y=FRA&K=vOyGpCjTMSB1%2BNiMhdgf9wGT9vTVJAI%2BeL8w2CM8h4eV3%2Fn0u7zOzsKtmhh8WVYLcx%2FDgWgRQcpHxNlRHmjlcTauJD1EMmk4xPbJXrTyUhVECL1DDtKP68ilQXuzX2B6CMKSdanNqbWULuP24yMEKFk4w0r6AAVVSq2z%2BFirjlE%3D
+2016-10-09 23:23:38 1476048218 DEBUG: Cart 3829: Standard IPN
+2016-10-09 23:23:38 1476048218 DEBUG: Cart 3829: Validating order
+2016-10-09 23:23:38 1476048218 DEBUG: Cart 3829: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-09 23:23:39 1476048218 DEBUG: Cart 3829: Order 427 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-09 23:23:39 1476048219 DEBUG: Cart 3829: Customer is back from Paybox payment page. Payment success.
+2016-10-09 23:23:58 1476048238 DEBUG: Call params: M=17400&R=3829%20-%20Philippe%20SICARD&T=658637148&A=435869&B=0&C=Visa&D=1812&E=00000&F=Y&G=O&I=FRA&J=23&N=497582&O=Y&P=3DSECURE&Q=23%3A22%3A36&S=658488768&W=09102016&Y=FRA&K=vOyGpCjTMSB1%2BNiMhdgf9wGT9vTVJAI%2BeL8w2CM8h4eV3%2Fn0u7zOzsKtmhh8WVYLcx%2FDgWgRQcpHxNlRHmjlcTauJD1EMmk4xPbJXrTyUhVECL1DDtKP68ilQXuzX2B6CMKSdanNqbWULuP24yMEKFk4w0r6AAVVSq2z%2BFirjlE%3D
+2016-10-09 23:23:58 1476048238 DEBUG: Cart 3829: (IPN) Cart already being validated as order.

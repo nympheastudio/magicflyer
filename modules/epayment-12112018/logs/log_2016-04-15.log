@@ -1,0 +1,11 @@
+2016-04-15 23:14:08 1460754848 DEBUG: URL to check 2
+2016-04-15 23:14:08 1460754848 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-15 23:14:08 1460754848 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-15 23:14:08 1460754848 DEBUG: Cart 770: Redirecting customer to Paybox (CARTE, CB).
+2016-04-15 23:14:51 1460754891 DEBUG: Call params: M=2297&R=770%20-%20Arnaud%20Pierru&T=625131061&A=944743&B=0&C=Visa&D=1710&E=00000&G=D&H=816624A51C211FD68125502E4D8818C1CA106777&I=FRA&J=&N=&P=CARTE&Q=23%3A14%3A09&S=621095929&W=15042016&Y=FRA&K=kqcrXZKFWqtWihVVUIIYz2Bmui51acYbRgLcQgYDnitOcr2TJNzEdv9eNhxT6nxqFCIyaA6vFMfGnAAqOyZ%2FOp%2B0rNEeUkXonsavnwiYY8s%2Bck%2F7KzN7I1MsWnrLakvNIecsvMXpygt3bv%2FqD3%2BMrW0sJCLh5G4NR0vWnmaAG%2FE%3D
+2016-04-15 23:14:51 1460754891 DEBUG: Cart 770: Standard IPN
+2016-04-15 23:14:51 1460754891 DEBUG: Cart 770: Validating order (PS1.5+)
+2016-04-15 23:14:51 1460754891 DEBUG: Cart 770: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-15 23:14:53 1460754893 DEBUG: Cart 770: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-04-15 23:14:53 1460754891 DEBUG: Cart 770: Order 160 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-15 23:14:54 1460754894 DEBUG: Cart 770: Customer is back from Paybox payment page. Payment success.

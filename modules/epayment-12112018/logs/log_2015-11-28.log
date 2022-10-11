@@ -1,0 +1,11 @@
+2015-11-28 15:57:29 1448722649 DEBUG: URL to check 2
+2015-11-28 15:57:29 1448722649 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-11-28 15:57:29 1448722649 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2015-11-28 15:57:29 1448722649 DEBUG: Cart 317: Redirecting customer to Paybox (CARTE, CB).
+2015-11-28 15:58:34 1448722714 DEBUG: Call params: M=2297&R=317%20-%20Ouiceme%20Ben%20Ali&T=1179827754&A=664336&B=0&C=Visa&D=1806&E=00000&G=D&H=885F9438CA68188F3098AF5392D2F65E36FDF301&I=FRA&J=&N=&P=CARTE&Q=15%3A57%3A30&S=78255600&W=28112015&Y=FRA&K=NErscAgJsMh871pjLHjht2mH5OYk%2F%2FLCsZL4Hi%2FVA2lsxK7w99%2BWw1x16KSA2ddVWcbsEyzVePG113bwEyKZFMaeGJuhK%2FHnIAbR8wtFcNmrVLgbXJCeVaRPcymMBheGHmHXs7k4nUxIds0qwXq4MawG%2BrbszDp1pARi%2FxOtzfc%3D
+2015-11-28 15:58:34 1448722714 DEBUG: Cart 317: Standard IPN
+2015-11-28 15:58:34 1448722714 DEBUG: Cart 317: Validating order (PS1.5+)
+2015-11-28 15:58:36 1448722714 DEBUG: Cart 317: Order 89 / Le paiement a été autorisé et capturé par Paybox.
+on (loop 0).
+2015-11-28 15:58:36 1448722716 DEBUG: Cart 317: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-11-28 15:58:37 1448722717 DEBUG: Cart 317: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,21 @@
+Commande n°;Order State;Mode de paiement;Total payé;Total payé réel;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Email;Pays de livraison;Nom de la compagnie de facturation;Code pays de livraison
+103;Expédié;Paybox - Epayment;62.500000;62.500000;3.000000;147;2016-02-09 11:12:52;1;aurelie;lemaire;aurelemaire@aliceadsl.fr;8;;FR
+104;Expédié;Paybox - Epayment;75.200000;75.200000;6.000000;148;2016-02-09 11:12:59;1;Katarina;Lima;katglima@gmail.com;8;;FR
+105;Expédié;Paybox - Epayment;59.000000;59.000000;3.000000;149;2016-02-17 10:16:32;1;Marlène;BOULANGER;boulanger.marlene@orange.fr;8;;FR
+105;Expédié;Paybox - Epayment;59.000000;59.000000;3.000000;149;2016-02-17 10:16:32;1;Marlène;BOULANGER;boulanger.marlene@orange.fr;8;;FR
+106;Expédié;PayPal;22.970000;22.970000;3.000000;150;2016-02-17 13:48:12;1;carole;RUFFIER;ruffiercarole@orange.fr;8;;FR
+107;Expédié;Paybox - Epayment;20.140000;20.140000;3.500000;151;2016-02-17 14:32:19;1;Jodi;Edwards;edwards.jodi@gmail.com;21;;US
+108;Expédié;PayPal;82.820000;82.820000;16.000000;152;2016-02-19 08:18:21;1;Jennifer Catherine;Spirito;Luckyjcortez@gmail.com;4;Heaven Scent Flowers;CA
+108;Expédié;PayPal;82.820000;82.820000;16.000000;152;2016-02-19 08:18:21;1;Jennifer Catherine;Spirito;Luckyjcortez@gmail.com;4;Heaven Scent Flowers;CA
+108;Expédié;PayPal;82.820000;82.820000;16.000000;152;2016-02-19 08:18:21;1;Jennifer Catherine;Spirito;Luckyjcortez@gmail.com;4;Heaven Scent Flowers;CA
+109;Expédié;Paybox - Epayment;23.470000;23.470000;3.500000;153;2016-02-19 22:24:04;1;Rune;Klan;tryllespasser@me.com;20;;DK
+110;Expédié;PayPal;82.850000;82.850000;3.000000;154;2016-02-20 17:33:15;1;Virginie;Talet;virginietalet@gmail.com;8;;FR
+111;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;155;2016-02-20 19:11:40;1;Valérie;VERSINI;v.versini@orange.fr;8;;FR
+112;Expédié;Paybox - Epayment;31.000000;31.000000;3.000000;156;2016-02-22 22:16:10;1;muriel;dietrich;mkapp@wanadoo.fr;8;;FR
+113;Expédié;PayPal;207.610000;207.610000;0.000000;157;2016-02-23 15:37:16;1;Werner;Kroess;werner@sonnberg3.at;2;sonnberg3;AT
+113;Expédié;PayPal;207.610000;207.610000;0.000000;157;2016-02-23 15:37:16;1;Werner;Kroess;werner@sonnberg3.at;2;sonnberg3;AT
+114;Expédié;Paybox - Epayment;17.500000;17.500000;3.500000;158;2016-02-24 16:15:52;1;Marta;Riservato;mr@molinorosenkranz.it;10;Molino Rosenkranz;IT
+115;Expédié;PayPal;45.940000;45.940000;6.000000;159;2016-02-26 00:04:01;1;vincent;frossard;vincent@lucamoros.com;8;compagnie lucamoros;FR
+116;Expédié;Paybox - Epayment;22.970000;22.970000;3.000000;160;2016-02-26 23:46:57;1;muriel;reboul;reboulm@yahoo.fr;8;atelier terre odyssée;FR
+117;Expédié;Paybox - Epayment;85.850000;85.850000;6.000000;161;2016-02-28 18:50:08;1;Frédéric;GIAI-PRON;frederic.giaipron80@free.fr;8;;FR
+118;Expédié;Paybox - Epayment;12.930000;12.930000;3.000000;162;2016-02-29 16:05:20;1;agnes;boulogne;agnes.68@neuf.fr;8;;FR

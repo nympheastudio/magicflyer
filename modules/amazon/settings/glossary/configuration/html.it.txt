@@ -1,0 +1,1 @@
+Esportare le descrizioni in HTML anziché in testo semplice.

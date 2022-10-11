@@ -1,0 +1,38 @@
+<?php
+
+class perso_papillonController extends FrontController
+{
+
+    /**
+     *  Initialize controller
+     * @see FrontController::init()
+     */
+    public function init()
+    {
+        parent::init();
+		$this->page_name = 'perso_papillon'; // page_name and body id
+		$this->display_column_left = false;
+		$this->display_column_right = false;
+    }
+
+    /**
+     *  Assign template vars related to page content
+     * @see FrontController::initContent()
+     */
+    public function initContent()
+    {
+        parent::initContent();
+
+		$products_partial = Product::getProducts($this->context->language->id, 0, 100, 'name', 'asc');
+		$products = Product::getProductsProperties($this->context->language->id, $products_partial);
+ 
+    	$this->context->smarty->assign(array(
+			'products' => $products,
+			'homeSize' => Image::getSize('home_default')
+		));	
+
+		
+		$this->setTemplate(_PS_THEME_DIR_ . 'perso_papillon.tpl');
+    }
+
+}

@@ -1,0 +1,8 @@
+Amazon sometimes forces you to a list of valid values.
+A volte Amazon può richiedere obbligatoriamente una lista di valori validi.
+La mappatura obbligata vi offre la sicurezza di combinare il vostro valore in Prestashop con il possibile valore su Amazon.
+Comunque, come suggerisce il nome, la mappatura obbligata vi costringe ad una serie di valori stabiliti.
+
+Ecco un esempio di mappatura obbligata ben compilata:
+
+<img src="views/img/tips/fr/constrained_mapping.jpg" />

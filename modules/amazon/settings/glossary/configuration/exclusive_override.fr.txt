@@ -1,0 +1,2 @@
+Permettre la configuration des écrasements de frais de port par produit.
+Cette option ajoutera une section « Ecrasement des frais de port » dans chaque onglet marketplace.

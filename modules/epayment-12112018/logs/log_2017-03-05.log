@@ -1,0 +1,25 @@
+2017-03-05 19:25:46 1488738346 DEBUG: URL to check 2
+2017-03-05 19:25:46 1488738346 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-05 19:25:46 1488738346 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-05 19:25:46 1488738346 DEBUG: Cart 10331: Redirecting customer to Paybox (CARTE, CB).
+2017-03-05 19:28:29 1488738509 DEBUG: Call params: M=3101&R=10331%20-%20ALLEMAN%20Justine&T=693689097&A=253186&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=34&N=497535&O=Y&P=3DSECURE&Q=19%3A25%3A47&S=690249519&W=05032017&Y=FRA&K=o70DKf77ygYaBdrvuQPbLYBixTB3duK7cwBzjJ4Xj8EsOYQM0N1KLjzHogzNoxuKsUlIvTXkwz5jVq7ojnikN2%2BPX83wc1XrsQ7ZX9xUUYn16QStrrInQAOLF%2B0O7eBIuoApJQ4igzOlwANs2U2g9%2BidFwSJBOorq9hkaPd9Pmw%3D
+2017-03-05 19:28:29 1488738509 DEBUG: Cart 10331: Standard IPN
+2017-03-05 19:28:29 1488738509 DEBUG: Cart 10331: Validating order
+2017-03-05 19:28:29 1488738509 DEBUG: Cart 10331: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-05 19:28:31 1488738509 DEBUG: Cart 10331: Order 755 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-05 19:28:31 1488738511 DEBUG: Cart 10331: Customer is back from Paybox payment page. Payment success.
+2017-03-05 21:07:42 1488744462 DEBUG: URL to check 2
+2017-03-05 21:07:42 1488744462 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-05 21:07:42 1488744462 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-05 21:07:42 1488744462 DEBUG: Cart 10341: Redirecting customer to Paybox (CARTE, CB).
+2017-03-05 21:08:54 1488744534 DEBUG: Call params: M=11870&R=10341%20-%20christelle%20GUERRIER&T=693714127&A=155531&B=0&C=MasterCard&D=1710&E=00000&F=Y&G=O&I=FRA&J=44&N=513771&O=Y&P=3DSECURE&Q=21%3A07%3A43&S=690270429&W=05032017&Y=FRA&K=fLpp%2FWZuUoksZfUbkX1ZCUntBgRoGw76k7oXbO9l0ef8Mxuqt%2FbPcvr1CsGNOlyxVgSXU%2BcIoPjYiA0rzNj11tHqscW8eajNvM0orc8nZMWaGq%2FIFZA5abNRcdfT1KH9GUXJIC03G2YK1J6IhN9utg1%2FFXyr9OuBSnyIVj9M0BA%3D
+2017-03-05 21:08:54 1488744534 DEBUG: Cart 10341: Standard IPN
+2017-03-05 21:08:54 1488744534 DEBUG: Cart 10341: Validating order
+2017-03-05 21:08:54 1488744534 DEBUG: Cart 10341: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-05 21:08:55 1488744534 DEBUG: Cart 10341: Order 757 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-05 21:08:56 1488744536 DEBUG: Cart 10341: Customer is back from Paybox payment page. Payment success.
+2017-03-05 23:21:14 1488752474 DEBUG: URL to check 2
+2017-03-05 23:21:14 1488752474 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-05 23:21:14 1488752474 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-05 23:21:14 1488752474 DEBUG: Cart 10356: Redirecting customer to Paybox (CARTE, CB).
+2017-03-05 23:26:25 1488752785 DEBUG: Cart 10356: Payment was canceled by user on Paybox payment page.

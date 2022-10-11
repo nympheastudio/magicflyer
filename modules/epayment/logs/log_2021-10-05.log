@@ -1,0 +1,12 @@
+2021-10-05 15:07:48 1633439268 DEBUG: URL to check 2
+2021-10-05 15:07:48 1633439268 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-10-05 15:07:48 1633439268 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-10-05 15:07:48 1633439268 DEBUG: Cart 55918: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-10-05 15:09:17 1633439357 DEBUG: Call params: M=2756&R=55918%20-%20sophie%20ballanger&T=1023437521&B=0&C=CB&D=2310&E=00040&F=N&G=N&I=FRA&J=32&N=513277&O=Y&P=3DSECURE&Q=15%3A09%3A17&S=278158524&W=05102021&Y=FRA&Z=0-0&K=HfYTYRTOu4W%2FRRpCtb8zOo7%2B6o2j%2FL6bS3W0g8eBv1TbgDFG%2Fbu7BhhVwckyUXLVqVc%2B%2BCp%2FBSGNR8D9kvakRn7Z7fx7zWwpzZFoOyfRAtlsK3b3Ku6pFyNPwDu4WwMBzMnAE2PMSKhjSkzjuuk1BpyBDQPXptBpZ88kieXU9bc%3D
+2021-10-05 15:09:18 1633439357 DEBUG: Cart 55918: (IPN) Payment was refused by Verifone e-commerce (40).
+2021-10-05 15:10:39 1633439439 DEBUG: Call params: M=2756&R=55918%20-%20sophie%20ballanger&T=1023437521&B=0&C=CB&D=2310&E=00040&F=N&G=N&I=FRA&J=32&N=513277&O=Y&P=3DSECURE&Q=15%3A10%3A38&S=278158867&W=05102021&Y=FRA&Z=0-0&K=FuVNrV5JcUksg5M4IvIilk%2BSUhmMAVmZIbkGbZYnGvpVwou%2FJWzSBSSobwyg3lDwDnEemHwE7GQkee%2BFqw2LqCXeLWyLoXIJtLgwN1n5p9wuqkml05y9Va9pdg0uHLRqhPp8uvo12Djm4DjcDJvEXZ%2Bpnod1xBGLi122K4S3H3A%3D
+2021-10-05 15:10:39 1633439439 DEBUG: Cart 55918: (IPN) Payment was refused by Verifone e-commerce (40).
+2021-10-05 16:01:12 1633442471 DEBUG: URL to check 2
+2021-10-05 16:01:12 1633442471 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-10-05 16:01:12 1633442471 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-10-05 16:01:12 1633442471 DEBUG: Cart 55918: Redirecting customer to Verifone e-commerce (CARTE, CB).

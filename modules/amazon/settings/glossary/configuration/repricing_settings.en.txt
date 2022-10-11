@@ -1,0 +1,4 @@
+Repricing feature requires an Amazon AWS.
+
+Please go to this URL to open an account:
+https://aws.amazon.com/free/

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pm_modalcart3</name>
+	<displayName><![CDATA[Modal Cart 3]]></displayName>
+	<version><![CDATA[3.0.10]]></version>
+	<description><![CDATA[Affiche une fen&ecirc;tre de confirmation d&#039;ajout au panier]]></description>
+	<author><![CDATA[Presta-Module]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

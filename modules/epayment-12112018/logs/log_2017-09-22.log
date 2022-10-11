@@ -1,0 +1,23 @@
+2017-09-22 15:53:39 1506088418 DEBUG: URL to check 2
+2017-09-22 15:53:39 1506088418 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-22 15:53:39 1506088418 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-22 15:53:39 1506088418 DEBUG: Cart 18008: Redirecting customer to Paybox (CARTE, CB).
+2017-09-22 15:54:50 1506088490 DEBUG: Call params: M=2250&R=18008%20-%20Isabelle%20Almeras-Heyraud&T=750172756&A=704524&B=0&C=MasterCard&D=1905&E=00000&F=Y&G=O&I=FRA&J=22&N=513770&O=Y&P=3DSECURE&Q=15%3A53%3A39&S=737390808&W=22092017&Y=FRA&K=YiG3CBI%2BqY%2FqxC%2B4bct%2FsV77sk49Eg5pgue4IaX%2FdaqFmoM5GxuXPZimks8hoYJOxavZ%2B%2BQH3%2BHFRmBbvdYQBBg2XxF6Wrt8cUKnpsUV%2FksRit5CFoBRqQ0WyFZ%2FL87Ak3TKlTaCbR6eCDir6U2f01KdVA1HlkMdlMBALZZKjV0%3D
+2017-09-22 15:54:50 1506088490 DEBUG: Cart 18008: Standard IPN
+2017-09-22 15:54:50 1506088490 DEBUG: Cart 18008: Validating order
+2017-09-22 15:54:50 1506088490 DEBUG: Cart 18008: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-09-22 15:54:51 1506088491 DEBUG: Cart 18008: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-09-22 15:54:51 1506088490 DEBUG: Cart 18008: Order 1677 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-22 15:54:52 1506088492 DEBUG: Cart 18008: Customer is back from Paybox payment page. Payment success.
+2017-09-22 19:36:20 1506101780 DEBUG: URL to check 2
+2017-09-22 19:36:20 1506101780 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-22 19:36:20 1506101780 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-09-22 19:36:20 1506101780 DEBUG: Cart 17682: Redirecting customer to Paybox (CARTE, CB).
+2017-09-22 19:37:50 1506101870 DEBUG: Call params: M=30000&R=17682%20-%20Marie%20Balmat&T=750242469&A=338464&B=0&C=Visa&D=1906&E=00000&F=Y&G=O&I=FRA&J=09&N=497402&O=Y&P=3DSECURE&Q=19%3A36%3A21&S=737446475&W=22092017&Y=FRA&K=EFF65TOimNZ%2B1o0W7tvX5bVZr5ILJlx2o915A5k8YJGraTZgJiNK4pgHXhvzDRQmf0FyDJOGtY%2BXgjEGt3%2F4wlZKcm9YmCNke%2BGXCx2lCay8EJd2%2B6DKzN56neaH0cPl1Pdq9ub%2BbK2hVB6BY2oh2OvjwqNbGATvN8jcnqRceWM%3D
+2017-09-22 19:37:50 1506101870 DEBUG: Cart 17682: Standard IPN
+2017-09-22 19:37:50 1506101870 DEBUG: Cart 17682: Validating order
+2017-09-22 19:37:50 1506101870 DEBUG: Cart 17682: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-09-22 19:37:51 1506101870 DEBUG: Cart 17682: Order 1678 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-22 19:37:51 1506101871 DEBUG: Call params: M=30000&R=17682%20-%20Marie%20Balmat&T=750242469&A=338464&B=0&C=Visa&D=1906&E=00000&F=Y&G=O&I=FRA&J=09&N=497402&O=Y&P=3DSECURE&Q=19%3A36%3A21&S=737446475&W=22092017&Y=FRA&K=EFF65TOimNZ%2B1o0W7tvX5bVZr5ILJlx2o915A5k8YJGraTZgJiNK4pgHXhvzDRQmf0FyDJOGtY%2BXgjEGt3%2F4wlZKcm9YmCNke%2BGXCx2lCay8EJd2%2B6DKzN56neaH0cPl1Pdq9ub%2BbK2hVB6BY2oh2OvjwqNbGATvN8jcnqRceWM%3D
+2017-09-22 19:37:51 1506101871 DEBUG: Cart 17682: (IPN) Cart already being validated as order.
+2017-09-22 19:37:52 1506101872 DEBUG: Cart 17682: Customer is back from Paybox payment page. Payment success.

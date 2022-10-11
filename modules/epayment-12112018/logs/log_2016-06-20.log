@@ -1,0 +1,26 @@
+2016-06-20 14:54:47 1466427287 DEBUG: URL to check 2
+2016-06-20 14:54:47 1466427287 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-20 14:54:47 1466427287 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-20 14:54:47 1466427287 DEBUG: Cart 1540: Redirecting customer to Paybox (CARTE, CB).
+2016-06-20 14:56:39 1466427399 DEBUG: Call params: M=4294&R=1540%20-%20elodie%20degroutte&T=633560807&A=645898&B=0&C=E_CARD&D=1609&E=00000&G=D&H=52A4280B4D1D1D55E012FD098037AC7357848293&I=FRA&J=&N=&P=CARTE&Q=14%3A54%3A48&S=629536679&W=20062016&Y=FRA&K=EiKvDBRbDIJA97rmQVvCZekjBwP3Z3ZCMOzeMrNalmmWjwQXB18w%2F35s%2B6Rx0FqvvpDQhcpBaIhm6FOBPs71FsrwhZQQMR1sUwF1RM2BHXeG8zl%2BsU%2BZZpha6kxhJaFHOdzxZd5zr2GYWlvznOSn9qwGqMV%2FJSGIIZBoubYi6Bg%3D
+2016-06-20 14:56:39 1466427399 DEBUG: Cart 1540: Standard IPN
+2016-06-20 14:56:39 1466427399 DEBUG: Cart 1540: Validating order (PS1.5+)
+2016-06-20 14:56:41 1466427399 DEBUG: Cart 1540: Order 242 / Le paiement a été autorisé et capturé par Paybox.
+n (loop 0).
+2016-06-20 14:56:40 1466427400 DEBUG: Cart 1540: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-06-20 14:56:41 1466427401 DEBUG: Cart 1540: Customer is back from Paybox payment page. Payment success.
+2016-06-20 17:18:03 1466435883 DEBUG: URL to check 2
+2016-06-20 17:18:03 1466435883 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-20 17:18:03 1466435883 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-20 17:18:03 1466435883 DEBUG: Cart 1389: Redirecting customer to Paybox (CARTE, CB).
+2016-06-20 18:28:44 1466440124 DEBUG: URL to check 2
+2016-06-20 18:28:44 1466440124 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-06-20 18:28:44 1466440124 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-06-20 18:28:44 1466440124 DEBUG: Cart 1509: Redirecting customer to Paybox (CARTE, CB).
+2016-06-20 18:29:48 1466440188 DEBUG: Call params: M=4294&R=1509%20-%20julia%20battini&T=633594768&A=950285&B=0&C=MasterCard&D=1704&E=00000&G=D&H=487DD840F01D8BB70D59DF3C7D4688B1B9B196CE&I=FRA&J=&N=&P=CARTE&Q=18%3A28%3A46&S=629570153&W=20062016&Y=FRA&K=nxKwPCHbkl46%2BoOW22zm0hX03sOD8Mq1rxWRjTAQiUccd3VW5nSjbDWtUlslwIUiaGtk2K0OqS%2BrJobPRwxX2GiS26KJ8D1hx3ifro%2BP8OdoXUT6RbjMBRR5yJeP27WHF66oXM9P35i3QTlyOfjO4BHf4Bj9lSaCLXt%2FuCSEG7k%3D
+2016-06-20 18:29:48 1466440188 DEBUG: Cart 1509: Standard IPN
+2016-06-20 18:29:48 1466440188 DEBUG: Cart 1509: Validating order (PS1.5+)
+2016-06-20 18:29:48 1466440188 DEBUG: Cart 1509: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-06-20 18:29:49 1466440189 DEBUG: Cart 1509: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-06-20 18:29:50 1466440188 DEBUG: Cart 1509: Order 243 / Le paiement a été autorisé et capturé par Paybox.
+2016-06-20 18:29:51 1466440191 DEBUG: Cart 1509: Customer is back from Paybox payment page. Payment success.

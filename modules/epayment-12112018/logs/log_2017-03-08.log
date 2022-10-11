@@ -1,0 +1,34 @@
+2017-03-08 20:23:33 1489001013 DEBUG: URL to check 2
+2017-03-08 20:23:33 1489001013 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-08 20:23:33 1489001013 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-08 20:23:33 1489001013 DEBUG: Cart 10419: Redirecting customer to Paybox (CARTE, CB).
+2017-03-08 20:24:54 1489001094 DEBUG: Call params: M=6302&R=10419%20-%20Katia%20FERREIRA&T=694494547&A=973171&B=0&C=Visa&D=1910&E=00000&F=Y&G=O&I=FRA&J=01&N=497587&O=Y&P=3DSECURE&Q=20%3A23%3A34&S=690987658&W=08032017&Y=FRA&K=NgiFkNoprwOJYZp92rieqopKk6QYLs0QEeSyPgvuke%2FIHOnv%2FDT0FmFGVhrl6tyMZsbVBFzINHaJ2FKrSBalGFkIQXgq8h%2BPKCudGp4ltnqwFuA%2BeX9A0DF2BWuYPpDFdsggDxPbR8ByNPV%2BtIAl2dHWtb44%2Bn55lFSkYmrZgCM%3D
+2017-03-08 20:24:54 1489001094 DEBUG: Cart 10419: Standard IPN
+2017-03-08 20:24:54 1489001094 DEBUG: Cart 10419: Validating order
+2017-03-08 20:24:55 1489001095 DEBUG: Cart 10419: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-08 20:24:55 1489001094 DEBUG: Cart 10419: Order 767 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-08 20:24:56 1489001096 DEBUG: Cart 10419: Customer is back from Paybox payment page. Payment success.
+2017-03-08 20:47:44 1489002464 DEBUG: URL to check 2
+2017-03-08 20:47:44 1489002464 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-08 20:47:44 1489002464 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-08 20:47:44 1489002464 DEBUG: Cart 10498: Redirecting customer to Paybox (CARTE, CB).
+2017-03-08 20:50:27 1489002627 DEBUG: Call params: M=25500&R=10498%20-%20Catherine%20BRICE&T=694500393&A=260117&B=0&C=Visa&D=1903&E=00000&F=Y&G=O&I=FRA&J=38&N=497678&O=Y&P=3DSECURE&Q=20%3A47%3A47&S=690992623&W=08032017&Y=FRA&K=R6zp%2FO0XCJreWFyk801MCFmcWf5xqVySWkE0vOzLg0nJTCUyJAQGKcZmmeuqbAlwaPgnQPiYt8EY1TBHajx8xaDFKTLCqkc0UOPiKgajn5EwYRZx7mbq7A57L6hHpKv%2FDwDuMkfztDXYfynPfYOsshuk6JK0ltry%2FX1WTx5BwHY%3D
+2017-03-08 20:50:27 1489002627 DEBUG: Cart 10498: Standard IPN
+2017-03-08 20:50:27 1489002627 DEBUG: Cart 10498: Validating order
+2017-03-08 20:50:28 1489002628 DEBUG: Cart 10498: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-08 20:50:28 1489002627 DEBUG: Cart 10498: Order 768 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-08 20:50:29 1489002629 DEBUG: Cart 10498: Customer is back from Paybox payment page. Payment success.
+2017-03-08 21:38:25 1489005505 DEBUG: URL to check 2
+2017-03-08 21:38:25 1489005505 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-08 21:38:25 1489005505 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-08 21:38:25 1489005505 DEBUG: Cart 10501: Redirecting customer to Paybox (CARTE, CB).
+2017-03-08 21:41:39 1489005699 DEBUG: URL to check 2
+2017-03-08 21:41:39 1489005699 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-08 21:41:39 1489005699 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-08 21:41:39 1489005699 DEBUG: Cart 10501: Redirecting customer to Paybox (CARTE, CB).
+2017-03-08 21:45:59 1489005959 DEBUG: Call params: M=5998&R=10501%20-%20Mesa%20Boyer%20M%20Cinta&T=694512880&A=455857&B=0&C=Visa&D=1910&E=00000&F=Y&G=O&I=ESP&J=13&N=450797&O=Y&P=3DSECURE&Q=21%3A38%3A26&S=691003479&W=08032017&Y=ESP&K=nIR3AosMKwUAHOwgCUg6MWYdpTS4sbTa16La27HUUV5lzRpWXIuXewPyA87gLCmr7LnLCJgkix5Af2lW%2FbMrBQVyl4xbrwCeD%2Fh8Z%2FkjxntKhZkk0x1vdzBP0A73s1IG1zDm4pqrP5MibrBOEM7P4lALIzIhRZYaB4prkKxmnAk%3D
+2017-03-08 21:45:59 1489005959 DEBUG: Cart 10501: Standard IPN
+2017-03-08 21:45:59 1489005959 DEBUG: Cart 10501: Validating order
+2017-03-08 21:45:59 1489005959 DEBUG: Cart 10501: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-08 21:46:00 1489005959 DEBUG: Cart 10501: Order 770 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-08 21:46:01 1489005960 DEBUG: Cart 10501: Customer is back from Paybox payment page. Payment success.

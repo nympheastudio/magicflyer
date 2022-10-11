@@ -1,0 +1,2 @@
+File template which will be used to announce the invoice.
+You can add or edit files from the modules/amazon/mail directory

@@ -1,0 +1,24 @@
+2016-11-06 16:43:56 1478447036 DEBUG: URL to check 2
+2016-11-06 16:43:56 1478447036 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-06 16:43:56 1478447036 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-11-06 16:43:56 1478447036 DEBUG: Cart 4392: Redirecting customer to Paybox (CARTE, CB).
+2016-11-06 16:45:18 1478447118 DEBUG: Call params: M=2597&R=4392%20-%20Nicolas%20Viard&T=664368258&A=216512&B=0&C=Visa&D=1808&E=00000&F=Y&G=O&I=FRA&J=09&N=497401&O=Y&P=3DSECURE&Q=16%3A43%3A56&S=663895858&W=06112016&Y=FRA&K=QzZY9miSdmUgBMl5tZaDGVjOyL%2BQOaU%2FGStlHxSHOMByx%2BzucN3t%2FeAbdV3wR6s8SZ5crp%2Fts%2FY5J%2F1SJKroN1107qJcF%2B35Nu3S9QoU8mthqbz0TlNcJBTNgOP4TcIZb5kXjrCz2rrjBqkOaMZpqiJcPJ%2FIeaz1%2FDHBOSPE%2BSU%3D
+2016-11-06 16:45:18 1478447118 DEBUG: Cart 4392: Standard IPN
+2016-11-06 16:45:18 1478447118 DEBUG: Cart 4392: Validating order
+2016-11-06 16:45:19 1478447119 DEBUG: Cart 4392: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-06 16:45:20 1478447120 DEBUG: Cart 4392: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-06 16:45:20 1478447118 DEBUG: Cart 4392: Order 466 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-06 16:45:21 1478447121 DEBUG: Cart 4392: Customer is back from Paybox payment page. Payment success.
+2016-11-06 21:03:43 1478462623 DEBUG: URL to check 2
+2016-11-06 21:03:43 1478462623 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-06 21:03:43 1478462623 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-11-06 21:03:43 1478462623 DEBUG: Cart 4397: Redirecting customer to Paybox (CARTE, CB).
+2016-11-06 21:06:34 1478462794 DEBUG: Call params: M=8883&R=4397%20-%20Laetitia%20El%20Baqqaly&T=664427299&A=586362&B=0&C=MasterCard&D=1612&E=00000&F=Y&G=O&I=CHE&J=44&N=550022&O=Y&P=3DSECURE&Q=21%3A03%3A44&S=663950020&W=06112016&Y=CHE&K=jTfEiDe53xO2HCIUjC6Io0lewkdW%2FKLHxf0iNH71n3Yd%2FilmqRqheLn6M0Zp8nCa6BZ26BzC8sj7QN4AWYY%2Bvt%2FF%2FgqYy4TX11TN41B8FYf8iSfBYoNiEf2hXGYQNSbn%2B6s%2FzmRsFfrbbZVmlCoPSgDQTPBJTk1d04MY4eS8f6U%3D
+2016-11-06 21:06:34 1478462794 DEBUG: Cart 4397: Standard IPN
+2016-11-06 21:06:34 1478462794 DEBUG: Cart 4397: Validating order
+2016-11-06 21:06:34 1478462794 DEBUG: Cart 4397: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-06 21:06:35 1478462795 DEBUG: Cart 4397: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-06 21:06:36 1478462794 DEBUG: Cart 4397: Order 467 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-06 21:06:36 1478462796 DEBUG: Cart 4397: Customer is back from Paybox payment page. Payment success.
+2016-11-06 21:06:54 1478462814 DEBUG: Call params: M=8883&R=4397%20-%20Laetitia%20El%20Baqqaly&T=664427299&A=586362&B=0&C=MasterCard&D=1612&E=00000&F=Y&G=O&I=CHE&J=44&N=550022&O=Y&P=3DSECURE&Q=21%3A03%3A44&S=663950020&W=06112016&Y=CHE&K=jTfEiDe53xO2HCIUjC6Io0lewkdW%2FKLHxf0iNH71n3Yd%2FilmqRqheLn6M0Zp8nCa6BZ26BzC8sj7QN4AWYY%2Bvt%2FF%2FgqYy4TX11TN41B8FYf8iSfBYoNiEf2hXGYQNSbn%2B6s%2FzmRsFfrbbZVmlCoPSgDQTPBJTk1d04MY4eS8f6U%3D
+2016-11-06 21:06:54 1478462814 DEBUG: Cart 4397: (IPN) Cart already being validated as order.

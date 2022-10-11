@@ -1,0 +1,2 @@
+Datei des E-Mailformulars, das für die Verkäuferbewertung seitens des Kunden verwendet wird.
+Sie können diese Dateien in Module/Amazon/Mail bearbeiten oder einfügen

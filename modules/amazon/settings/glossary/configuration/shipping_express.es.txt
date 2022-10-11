@@ -1,0 +1,2 @@
+Método de expedición Amazon para la sobrescritura de los gastos de envío 
+Consulte la documentación Amazon para conocer el valor apropiado

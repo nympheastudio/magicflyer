@@ -1,0 +1,1 @@
+Description field to send to Amazon, short or long.

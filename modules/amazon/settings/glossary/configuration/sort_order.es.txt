@@ -1,0 +1,34 @@
+Como usted sabe, durante el proceso de registro de cliente, Amazon
+almacena el nombre completo sin diferenciar entre primer nombre y apellido ,
+como se muestra en la imagen que se encentra 
+
+<img src = "../modules/amazon/views/img/tips/en/amazon-registration.png" />
+
+Usted también sabe, que Prestashop tiene dos campos para el Primer Nombre y el
+Apellido, y ambos campos son obligatorios. Si uno de ellos no fue introducido, será
+imposible importar la orden.
+
+Por ende, es imposible recrear el nombre y el apellido utilizando un algoritmo,
+basado en la información provista por Amazon, especialmente debido a que la
+vida en que el campo es llenado depende del país, como es usado en ese país y
+la disciplina general
+
+Por ejemplo, para feeds americanos, es muy fácil de recrear el nombre y el
+apellido porque las personas son disciplinadas y aplican las reglas que les son
+ensenadas, así que introducen los nombres empezando por el primer nombre, como
+John F. Kennedy.
+
+Esto es imposible para todos los países. Así que usted inevitablemente tiene
+una parte de los campos de nombre y apellido, las cuales están reservadas. 
+
+
+Nosotros estamos acostumbrados a la siguiente respuesta: bueno, entonces
+reserve los campos...y no! Si usted observa una muestra representativa de sus órdenes,
+vera que el porcentaje de nombres en el orden completo es conclusivo. 
+
+Sin embargo, si no sería el caso para usted, usted puede intercambiar aquí por
+el campo país el nombre y apellido!
+
+
+
+Este parámetro será considerado cuando las órdenes sean importadas.

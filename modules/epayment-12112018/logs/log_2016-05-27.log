@@ -1,0 +1,11 @@
+2016-05-27 11:39:55 1464341995 DEBUG: URL to check 2
+2016-05-27 11:39:55 1464341995 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-27 11:39:55 1464341995 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-27 11:39:55 1464341995 DEBUG: Cart 956: Redirecting customer to Paybox (CARTE, CB).
+2016-05-27 11:42:01 1464342121 DEBUG: Call params: M=12580&R=956%20-%20elodie%20martin&T=630533638&A=233465&B=0&C=Visa&D=1809&E=00000&G=D&H=A22C7D4A4EE0CE019AFB7FE08E841EF1F78F7149&I=FRA&J=&N=&P=CARTE&Q=11%3A40%3A01&S=626465810&W=27052016&Y=FRA&K=Fk%2FumqKZ6w9xo1uAVU%2BGmffo4Urc%2F%2F4Yd8WVZBO9aX3YC%2BpjM3s8psKZBeP2Lxe8CXTysy57JlofBMwar9gtmqEb4S3i%2B5lFJCVLGGJZSd9JgNJvHjTNnGrN3a0yAjimFTnAOTpfdffL1vYIgrCcuL%2Fya8HyxurgCXV3Ad3dmCU%3D
+2016-05-27 11:42:01 1464342121 DEBUG: Cart 956: Standard IPN
+2016-05-27 11:42:01 1464342121 DEBUG: Cart 956: Validating order (PS1.5+)
+2016-05-27 11:42:01 1464342121 DEBUG: Cart 956: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-27 11:42:03 1464342123 DEBUG: Cart 956: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-27 11:42:03 1464342121 DEBUG: Cart 956: Order 206 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-27 11:42:04 1464342124 DEBUG: Cart 956: Customer is back from Paybox payment page. Payment success.

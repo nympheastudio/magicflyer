@@ -1,0 +1,31 @@
+2017-03-27 09:16:31 1490598991 DEBUG: URL to check 2
+2017-03-27 09:16:31 1490598991 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-27 09:16:32 1490598991 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-27 09:16:32 1490598991 DEBUG: Cart 11335: Redirecting customer to Paybox (CARTE, CB).
+2017-03-27 09:17:50 1490599070 DEBUG: Call params: M=8475&R=11335%20-%20Bettina%20Spichiger&T=700363523&A=820012&B=0&C=Visa&D=1709&E=00000&F=Y&G=O&I=CHE&J=11&N=462722&O=Y&P=3DSECURE&Q=09%3A16%3A45&S=695478271&W=27032017&Y=CHE&K=cz2nzamANHw%2B%2FSQa4FOYiTm9QZmU90SBAdjusJARHNbI6CdAjD%2Bb%2Fx1Cs0y4DyARjrcNcUKxfAF3CIWFhjq855mxRyc5Wkc7AY8kILzTGPoU%2F97FJiDeCFv3cIm%2FpSE4F036eaAy3tPANLukHp5HYH%2BrWHEn57vYMkqDBOp9IuM%3D
+2017-03-27 09:17:50 1490599070 DEBUG: Cart 11335: Standard IPN
+2017-03-27 09:17:50 1490599070 DEBUG: Cart 11335: Validating order
+2017-03-27 09:17:50 1490599070 DEBUG: Cart 11335: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-27 09:17:51 1490599071 DEBUG: Cart 11335: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-03-27 09:17:52 1490599070 DEBUG: Cart 11335: Order 847 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-27 09:17:52 1490599072 DEBUG: Cart 11335: Customer is back from Paybox payment page. Payment success.
+2017-03-27 09:49:56 1490600996 DEBUG: URL to check 2
+2017-03-27 09:49:56 1490600996 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-27 09:49:56 1490600996 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-27 09:49:56 1490600996 DEBUG: Cart 11336: Redirecting customer to Paybox (CARTE, CB).
+2017-03-27 09:53:11 1490601191 DEBUG: Call params: M=9100&R=11336%20-%20Naho%20COLLIN&T=700375577&A=410281&B=0&C=Visa&D=1710&E=00000&F=Y&G=O&I=FRA&J=43&N=497836&O=Y&P=3DSECURE&Q=09%3A49%3A57&S=695488388&W=27032017&Y=FRA&K=XAp8IWqHczVaGglpa6RLz%2FBTCh1IV%2FH6tkJZszSXII811xAvJUwhObPWL6U6%2ByOwv2EVD27lUJRtRlG%2BdHknNZexQRJC4sFHl3QG4s5HH9GfJy68uYHdFJG%2Buta457Z5uoVFXnj7pimo%2Fd%2BHuvoSPx6MCRhwK5uJ7UfdqTMC4HM%3D
+2017-03-27 09:53:11 1490601191 DEBUG: Cart 11336: Standard IPN
+2017-03-27 09:53:11 1490601191 DEBUG: Cart 11336: Validating order
+2017-03-27 09:53:12 1490601192 DEBUG: Cart 11336: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-27 09:53:13 1490601191 DEBUG: Cart 11336: Order 848 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-27 09:53:13 1490601193 DEBUG: Cart 11336: Customer is back from Paybox payment page. Payment success.
+2017-03-27 16:45:48 1490625948 DEBUG: URL to check 2
+2017-03-27 16:45:48 1490625948 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-03-27 16:45:48 1490625948 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-03-27 16:45:48 1490625948 DEBUG: Cart 11351: Redirecting customer to Paybox (CARTE, CB).
+2017-03-27 16:46:44 1490626004 DEBUG: Call params: M=2250&R=11351%20-%20Gwenola%20Corvaisier&T=700550608&A=336115&B=0&C=Visa&D=1704&E=00000&F=Y&G=O&I=FRA&J=12&N=497562&O=Y&P=3DSECURE&Q=16%3A45%3A49&S=695606818&W=27032017&Y=FRA&K=wQ39b9x6DnvhqeQ1iYbv2CkZA%2Fh31w%2BhUIS99maxwVRW6PnkHg4zL6a9P6Tbg%2FBlowweKAWmfI0K04oY2i9jyyfQgeWoFPqkOCSraP9BEilRy7L6s2WVaLYgCtFXfT3%2FeOc%2B%2FMXUbm8OgkWxJ5FZ7hmJ3yKZOy%2F4senb2rpntcQ%3D
+2017-03-27 16:46:44 1490626004 DEBUG: Cart 11351: Standard IPN
+2017-03-27 16:46:44 1490626004 DEBUG: Cart 11351: Validating order
+2017-03-27 16:46:45 1490626005 DEBUG: Cart 11351: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-03-27 16:46:46 1490626004 DEBUG: Cart 11351: Order 851 / Le paiement a été autorisé et capturé par Paybox.
+2017-03-27 16:46:46 1490626006 DEBUG: Cart 11351: Customer is back from Paybox payment page. Payment success.

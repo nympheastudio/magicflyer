@@ -1,0 +1,5 @@
+Whether you configured shipping template in Seller Central you can use them in the module ;
+
+You can apply a template, whether to a profile, a product or a combination on the product sheet extension
+
+If not specified, nowhere, then, your default shipping settings configured in Seller Central will be used.

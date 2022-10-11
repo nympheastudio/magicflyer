@@ -1,0 +1,17 @@
+2017-11-08 17:20:16 1510158015 DEBUG: URL to check 2
+2017-11-08 17:20:16 1510158015 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-11-08 17:20:16 1510158015 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-11-08 17:20:16 1510158015 DEBUG: Cart 19510: Redirecting customer to Paybox (CARTE, CB).
+2017-11-08 17:22:41 1510158160 DEBUG: URL to check 2
+2017-11-08 17:22:41 1510158160 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-11-08 17:22:41 1510158160 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-11-08 17:22:41 1510158160 DEBUG: Cart 19510: Redirecting customer to Paybox (CARTE, CB).
+2017-11-08 17:22:43 1510158163 DEBUG: Cart 19510: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-11-08 17:22:43 1510158163 DEBUG: Call params: M=21192&R=19510%20-%20Adelaide%20%20Bazzoni&T=763672126&A=862562&B=0&C=MasterCard&D=1712&E=00000&F=Y&G=O&I=BEL&J=72&N=520697&O=Y&P=3DSECURE&Q=17%3A20%3A17&S=748308010&W=08112017&Y=BEL&K=eJWcQcKvMRFM4tj31oMNnc4n9svhNtAFpaoBfuHfpRapHabc%2BQhm7mLJUTEqqXYaYAu2zT%2Fe2I968NpT39j%2FZoghLhjzInlxrG%2FxHYsulMtznQqKZkjxo0l5XCEy8RujiA%2BVYRT14DviKytKbPc9Jsa4lvoswRIMzk2PXctUTcA%3D
+2017-11-08 17:22:43 1510158163 DEBUG: Cart 19510: Standard IPN
+2017-11-08 17:22:43 1510158163 DEBUG: Cart 19510: Validating order
+2017-11-08 17:22:44 1510158164 DEBUG: Cart 19510: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-11-08 17:22:45 1510158163 DEBUG: Cart 19510: Order 1769 / Le paiement a été autorisé et capturé par Paybox.
+2017-11-08 17:22:45 1510158165 DEBUG: Call params: M=21192&R=19510%20-%20Adelaide%20%20Bazzoni&T=763672126&A=862562&B=0&C=MasterCard&D=1712&E=00000&F=Y&G=O&I=BEL&J=72&N=520697&O=Y&P=3DSECURE&Q=17%3A20%3A17&S=748308010&W=08112017&Y=BEL&K=eJWcQcKvMRFM4tj31oMNnc4n9svhNtAFpaoBfuHfpRapHabc%2BQhm7mLJUTEqqXYaYAu2zT%2Fe2I968NpT39j%2FZoghLhjzInlxrG%2FxHYsulMtznQqKZkjxo0l5XCEy8RujiA%2BVYRT14DviKytKbPc9Jsa4lvoswRIMzk2PXctUTcA%3D
+2017-11-08 17:22:45 1510158165 DEBUG: Cart 19510: (IPN) Cart already being validated as order.
+2017-11-08 17:22:46 1510158166 DEBUG: Cart 19510: Customer is back from Paybox payment page. Payment success.

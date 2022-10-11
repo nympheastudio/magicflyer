@@ -1,0 +1,77 @@
+Commande n°;Order State;Mode de paiement;Total payé;Total payé réel;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Email;Pays de livraison;Nom de la compagnie de facturation;Code pays de livraison
+1345;Expédié;Paybox by Verifone;81.000000;81.000000;3.000000;1348;2017-07-01 11:11:36;1;Alexandra;DE JESUS;alexandra_de_jesus@yahoo.fr;8;;FR
+1345;Expédié;Paybox by Verifone;81.000000;81.000000;3.000000;1348;2017-07-01 11:11:36;1;Alexandra;DE JESUS;alexandra_de_jesus@yahoo.fr;8;;FR
+1346;Expédié;PayPal;34.800000;34.800000;6.000000;1349;2017-07-01 11:39:56;1;Tina;Fitzgibbon ;Islandflowers@hotmail.com;26;Island flowers;IE
+1351;Expédié;Paybox by Verifone;136.500000;136.500000;12.000000;1354;2017-07-02 21:28:10;1;Sybille;Gisler;sybillegisler@hotmail.com;19;;CH
+1353;Expédié;Paybox by Verifone;42.000000;42.000000;3.000000;1358;2017-07-03 14:38:36;1;SYLVIE;PLUQUET;spluquet@hotmail.fr;8;;FR
+1353;Expédié;Paybox by Verifone;42.000000;42.000000;3.000000;1358;2017-07-03 14:38:36;1;SYLVIE;PLUQUET;spluquet@hotmail.fr;8;;FR
+1358;Expédié;Paybox by Verifone;25.500000;25.500000;6.000000;1363;2017-07-04 12:09:30;1;Kim;McDonald;kh_227@hotmail.com;17;;GB
+1360;Expédié;PayPal;61.500000;61.500000;3.000000;1365;2017-07-04 20:03:28;1;pointereau;Sylvaine;sylvaine.anna@free.fr;8;;FR
+1360;Expédié;PayPal;61.500000;61.500000;3.000000;1365;2017-07-04 20:03:28;1;pointereau;Sylvaine;sylvaine.anna@free.fr;8;;FR
+1361;Expédié;Paybox by Verifone;22.500000;22.500000;3.000000;1366;2017-07-04 23:44:55;1;aude;marius;audelaine.marius@gmail.com;8;;FR
+1365;Expédié;Paybox by Verifone;61.500000;61.500000;3.000000;1370;2017-07-05 23:24:13;1;Eva;Julhe;eva.julhe@gmail.com;8;Macassar Production- Fragrance July 17;FR
+1365;Expédié;Paybox by Verifone;61.500000;61.500000;3.000000;1370;2017-07-05 23:24:13;1;Eva;Julhe;eva.julhe@gmail.com;8;Macassar Production- Fragrance July 17;FR
+1368;Expédié;Paybox by Verifone;73.000000;73.000000;3.000000;1373;2017-07-06 14:59:09;1;barbara;le tiec;famille-le-tiec@hotmail.fr;8;;FR
+1369;Expédié;Paybox by Verifone;41.000000;41.000000;6.000000;1374;2017-07-06 15:53:36;1;Eva;Julhe;eva.julhe@gmail.com;8;Macassar Production- Fragrance July 17;FR
+1371;Expédié;Paybox by Verifone;80.500000;80.500000;3.000000;1375;2017-07-06 16:44:03;1;Elodie;Perrotte;perrotte.elodie@outlook.fr;8;;FR
+1372;Expédié;Paybox by Verifone;36.600000;36.600000;4.000000;1376;2017-07-07 00:20:37;1;Véronique;HIPPOCRATE;v.hippocrate@gmail.com;141;;MQ
+1372;Expédié;Paybox by Verifone;36.600000;36.600000;4.000000;1376;2017-07-07 00:20:37;1;Véronique;HIPPOCRATE;v.hippocrate@gmail.com;141;;MQ
+1373;Expédié;PayPal;22.500000;22.500000;3.000000;1377;2017-07-07 02:11:33;1;gladys;voyer;gparts@live.com;8;;FR
+1376;Expédié;PayPal;139.000000;139.000000;6.000000;1380;2017-07-07 18:11:38;1;Sandra;Cardamone-Binninger;sandracardamone@yahoo.de;1;;DE
+1379;Expédié;Virement bancaire;50.500000;50.500000;3.000000;1429;2017-07-15 09:35:36;1;CLAIRE;RIOU;riou.claire@yahoo.fr;8;;FR
+1379;Expédié;Virement bancaire;50.500000;50.500000;3.000000;1429;2017-07-15 09:35:36;1;CLAIRE;RIOU;riou.claire@yahoo.fr;8;;FR
+1379;Expédié;Virement bancaire;50.500000;50.500000;3.000000;1429;2017-07-15 09:35:36;1;CLAIRE;RIOU;riou.claire@yahoo.fr;8;;FR
+1380;Expédié;Paybox by Verifone;124.000000;124.000000;5.000000;1383;2017-07-08 23:34:39;1;remy;alison;voltigeur8@gmail.com;8;;FR
+1380;Expédié;Paybox by Verifone;124.000000;124.000000;5.000000;1383;2017-07-08 23:34:39;1;remy;alison;voltigeur8@gmail.com;8;;FR
+1381;Expédié;Paybox by Verifone;91.000000;91.000000;6.000000;1384;2017-07-09 09:19:06;1;Marion;Thomas;marionthomas@orange.fr;8;;FR
+1382;Expédié;PayPal;20.300000;20.300000;4.000000;1385;2017-07-09 14:22:07;1;Florence;GIRONCEL;larousse.flo@hotmail.fr;176;;RE
+1387;Expédié;Paybox by Verifone;31.450000;120.280000;7.000000;1390;2017-07-09 20:27:08;1;Elisabetta;Udry;elisabetta.ferilli@gmail.com;19;;CH
+1388;Expédié;Paybox by Verifone;45.000000;45.000000;3.000000;1391;2017-07-10 12:02:54;1;angelica;schiapparelli;p55tuc@yahoo.fr;8;;FR
+1388;Expédié;Paybox by Verifone;45.000000;45.000000;3.000000;1391;2017-07-10 12:02:54;1;angelica;schiapparelli;p55tuc@yahoo.fr;8;;FR
+1391;Expédié;Paybox by Verifone;22.500000;22.500000;3.000000;1394;2017-07-10 14:30:13;1;siham;SENECHAL;chebisiham@live.com;8;;FR
+1393;Expédié;Paybox by Verifone;17.900000;17.900000;3.000000;1395;2017-07-10 20:19:19;1;Sandra;MASSIP;sandra0182@hotmail.com;8;Chez Mr et Mme Michel DUFOURCQ;FR
+1394;Expédié;Paybox by Verifone;25.500000;25.500000;6.000000;1396;2017-07-10 20:54:54;1;Makno;Bischoff ;Kema68@hotmail.fr;8;;FR
+1395;Expédié;Paybox by Verifone;136.500000;136.500000;12.000000;1399;2017-07-11 11:37:11;1;Christina;Tonning Øvland;christina@slettvoll.no;23;Slettvoll Ålesund;NO
+1396;Expédié;PayPal;300.000000;300.000000;0.000000;1402;2017-07-11 16:25:56;1;Marina;Moschetta;moschetta.marina@gmail.com;10;;IT
+1401;Expédié;Paybox by Verifone;68.870000;68.870000;3.000000;1405;2017-07-11 18:38:38;1;Toulliou;Amandine;nrv29@hotmail.fr;8;;FR
+1403;Expédié;Paybox by Verifone;135.600000;135.600000;12.000000;1407;2017-07-11 21:10:30;1;Élodie;Morisod;elodie.morisod@hotmail.com;19;Madame;CH
+1405;Expédié;PayPal;61.500000;61.500000;3.000000;1409;2017-07-12 10:10:12;1;orlane;dano;orlane.dano@hotmail.fr;8;;FR
+1405;Expédié;PayPal;61.500000;61.500000;3.000000;1409;2017-07-12 10:10:12;1;orlane;dano;orlane.dano@hotmail.fr;8;;FR
+1406;Expédié;PayPal;25.200000;25.200000;6.000000;1410;2017-07-12 15:41:57;1;George;Attard;Georatta@gmail.com;139;;MT
+1407;Expédié;Paybox by Verifone;73.000000;73.000000;3.000000;1411;2017-07-12 15:47:05;1;Patricia;Jakubiak;christophejakubiak@sfr.fr;8;;FR
+1408;Expédié;Paybox by Verifone;52.720000;52.720000;3.000000;1412;2017-07-12 22:39:35;1;Anaïs;LEVESQUE;anais.clenet@orange.fr;8;;FR
+1408;Expédié;Paybox by Verifone;52.720000;52.720000;3.000000;1412;2017-07-12 22:39:35;1;Anaïs;LEVESQUE;anais.clenet@orange.fr;8;;FR
+1410;Expédié;Paybox by Verifone;100.500000;100.500000;3.000000;1414;2017-07-13 14:45:08;1;Marine-Sophie;Mazurier;claire.raymond@live.fr;8;Trablit;FR
+1410;Expédié;Paybox by Verifone;100.500000;100.500000;3.000000;1414;2017-07-13 14:45:08;1;Marine-Sophie;Mazurier;claire.raymond@live.fr;8;Trablit;FR
+1410;Expédié;Paybox by Verifone;100.500000;100.500000;3.000000;1414;2017-07-13 14:45:08;1;Marine-Sophie;Mazurier;claire.raymond@live.fr;8;Trablit;FR
+1414;Expédié;Paybox by Verifone;42.000000;42.000000;3.000000;1418;2017-07-14 14:08:46;1;mathieu;jolly;mathieu.jolly@hotmail.fr;8;;FR
+1414;Expédié;Paybox by Verifone;42.000000;42.000000;3.000000;1418;2017-07-14 14:08:46;1;mathieu;jolly;mathieu.jolly@hotmail.fr;8;;FR
+1417;Expédié;PayPal;23.300000;23.300000;7.000000;1421;2017-07-14 21:40:09;1;Eva Helen ;Rognskog;eva.helen.edvardsen@gmail.com;23;;NO
+1419;Expédié;Paybox by Verifone;25.700000;25.700000;6.000000;1423;2017-07-15 09:38:23;1;Lieve;Van den Eeckhout;Lieve_van_den_eeckhout@hotmail.com;3;;BE
+1420;Expédié;PayPal;34.000000;34.000000;6.000000;1424;2017-07-15 10:54:15;1;victoria;franklin;bookings@vickybutterfly.net;17;;GB
+1420;Expédié;PayPal;34.000000;34.000000;6.000000;1424;2017-07-15 10:54:15;1;victoria;franklin;bookings@vickybutterfly.net;17;;GB
+1425;Expédié;PayPal;25.700000;25.700000;6.000000;1430;2017-07-17 14:44:24;1;E.J.;Polder;elsjepolder@zonnet.nl;13;;NL
+1426;Expédié;Paybox by Verifone;22.500000;22.500000;3.000000;1431;2017-07-17 14:48:46;1;Géraldine;Pierret;geraldine.pierret@gmail.com;8;;FR
+1428;Expédié;Paybox by Verifone;42.000000;42.000000;3.000000;1432;2017-07-17 18:52:09;1;Maïwenn;Barret-Marhic;maiwenn.barret-marhic@hotmail.fr;8;;FR
+1434;Expédié;Paybox by Verifone;84.000000;84.000000;6.000000;1438;2017-07-20 08:20:49;1;Killian ;Poynton;info@greenbirdcompany.com;8;Greenbird;FR
+1434;Expédié;Paybox by Verifone;84.000000;84.000000;6.000000;1438;2017-07-20 08:20:49;1;Killian ;Poynton;info@greenbirdcompany.com;8;Greenbird;FR
+1434;Expédié;Paybox by Verifone;84.000000;84.000000;6.000000;1438;2017-07-20 08:20:49;1;Killian ;Poynton;info@greenbirdcompany.com;8;Greenbird;FR
+1434;Expédié;Paybox by Verifone;84.000000;84.000000;6.000000;1438;2017-07-20 08:20:49;1;Killian ;Poynton;info@greenbirdcompany.com;8;Greenbird;FR
+1435;Expédié;PayPal;25.800000;25.800000;6.000000;1440;2017-07-20 16:13:33;1;Lorenzo;Spada;lorenzspa@gmail.com;10;EQUA Srl;IT
+1436;Expédié;Paybox by Verifone;54.600000;54.600000;22.000000;1441;2017-07-20 21:34:08;1;Julie;Nault;julynault@hotmail.com;4;;CA
+1441;Expédié;PayPal;185.740000;185.740000;20.000000;1446;2017-07-21 18:40:49;1;elisa;bargiela;elisa_bargiela@hotmail.com;12;;LU
+1443;Expédié;Virement bancaire;25.300000;25.300000;6.000000;1460;2017-07-25 18:04:10;1;Cornelia;Teuscher;c.teuscher1@gmail.com;1;;DE
+1444;Expédié;Paybox by Verifone;55.500000;55.500000;3.000000;1448;2017-07-23 01:02:35;1;Elodie;Barbet;elodie.barbet@orange.fr;8;;FR
+1448;Expédié;Paybox by Verifone;302.520000;302.520000;0.000000;1452;2017-07-24 13:16:47;1;Jonathan;Dumas;jonathan.dumas@live.com;3;;BE
+1449;Expédié;Paybox by Verifone;31.000000;31.000000;3.000000;1453;2017-07-24 13:43:52;1;Céline;Toulemonde;campomoro@hotmail.com;8;;FR
+1449;Expédié;Paybox by Verifone;31.000000;31.000000;3.000000;1453;2017-07-24 13:43:52;1;Céline;Toulemonde;campomoro@hotmail.com;8;;FR
+1451;Expédié;Paybox by Verifone;50.600000;50.600000;3.000000;1455;2017-07-24 17:12:13;1;Léonie;GRAS;titeleo42@hotmail.fr;8;;FR
+1451;Expédié;Paybox by Verifone;50.600000;50.600000;3.000000;1455;2017-07-24 17:12:13;1;Léonie;GRAS;titeleo42@hotmail.fr;8;;FR
+1452;Expédié;Paybox by Verifone;25.300000;25.300000;6.000000;1456;2017-07-24 17:22:22;1;Daniel;Stöckel;stoeckel@arago-consulting.de;1;arago Consulting  GmbH;DE
+1460;Expédié;PayPal;22.500000;22.500000;3.000000;1465;2017-07-27 09:27:22;1;Cedric;Philippo;8mars1973@gmail.com;8;;FR
+1465;Expédié;Paybox by Verifone;81.000000;81.000000;3.000000;1470;2017-07-28 23:42:23;1;Ulitzsch ;Violaine ;violaine.u@free.fr;8;;FR
+1465;Expédié;Paybox by Verifone;81.000000;81.000000;3.000000;1470;2017-07-28 23:42:23;1;Ulitzsch ;Violaine ;violaine.u@free.fr;8;;FR
+1467;Expédié;Paybox by Verifone;42.000000;42.000000;3.000000;1472;2017-07-29 20:48:55;1;Frédérique ;Capet du Potet ;dupotetf@yahoo.fr;8;;FR
+1467;Expédié;Paybox by Verifone;42.000000;42.000000;3.000000;1472;2017-07-29 20:48:55;1;Frédérique ;Capet du Potet ;dupotetf@yahoo.fr;8;;FR
+1469;Expédié;Paybox by Verifone;177.500000;177.500000;5.000000;1474;2017-07-30 14:16:25;1;Géraldine;EMERAS;geraldine.emeras@laposte.net;8;;FR
+1472;Expédié;Paybox by Verifone;22.500000;22.500000;3.000000;1477;2017-07-31 15:30:32;1;siham;SENECHAL;chebisiham@live.com;8;;FR

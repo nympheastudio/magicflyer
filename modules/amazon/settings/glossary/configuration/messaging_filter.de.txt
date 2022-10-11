@@ -1,0 +1,9 @@
+Sie müssen einen Filter erstellen, um das angebrachte Label automatisch anzuwenden:
+
+Zum Beispiel für alle Nachrichten, die von Amazon.co.uk kommen, wenden Sie das Label Amazon-UK, wie im Bild unten angezeigt, an:
+
+<img src="views/img/tips/en/filter.jpg" />
+
+Bitte beachten Sie das Sternchen (*@amazon.co.uk)
+
+Sie wiederholen den Vorgang für jeden Marktplatz (.fr, .de, usw.)

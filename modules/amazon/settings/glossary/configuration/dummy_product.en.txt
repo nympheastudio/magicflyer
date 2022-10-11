@@ -1,0 +1,1 @@
+Import unknown products as a dummy/fake product.

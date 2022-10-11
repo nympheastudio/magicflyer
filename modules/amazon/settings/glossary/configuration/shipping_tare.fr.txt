@@ -1,0 +1,2 @@
+Poids à déduire du poids initial du colis.
+Le poids initial du colis est le poids indiqué dans l'onglet Livraison de la fiche produit.

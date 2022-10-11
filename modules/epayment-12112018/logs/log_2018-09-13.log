@@ -1,0 +1,31 @@
+2018-09-13 00:01:58 1536789718 DEBUG: URL to check 2
+2018-09-13 00:01:58 1536789718 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-13 00:01:58 1536789718 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-09-13 00:01:58 1536789718 DEBUG: Cart 27832: Redirecting customer to Paybox (CARTE, CB).
+2018-09-13 00:02:44 1536789763 DEBUG: URL to check 2
+2018-09-13 00:02:44 1536789763 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-13 00:02:44 1536789763 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-09-13 00:02:44 1536789763 DEBUG: Cart 27832: Redirecting customer to Paybox (CARTE, CB).
+2018-09-13 00:05:04 1536789904 DEBUG: URL to check 2
+2018-09-13 00:05:04 1536789904 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-13 00:05:04 1536789904 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-09-13 00:05:04 1536789904 DEBUG: Cart 27832: Redirecting customer to Paybox (CARTE, CB).
+2018-09-13 00:06:44 1536790004 DEBUG: Call params: M=6092&R=27832%20-%20Estelle%20Delville&T=48244915&A=827526&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=FRA&J=12&N=497887&O=Y&P=CARTE&Q=00%3A02%3A35&S=926175561&W=13092018&Y=FRA&K=ErxGoqKzDqHop5DX2aGPHJpfRKeaUoYuJaCJjajfBL5wZEKB37uSJZsaSx6Vb0AKTkzJOiB%2B5aeMk9S9SZuQn5N9JDRCnp1BRrHGim%2BnPLlSRqqeOQ%2FMOHnIpW163q%2FaOrYsdAq%2BTVfVwJ1%2BDiPC3RGy7rUdUtP83QNNiLTRUFI%3D
+2018-09-13 00:06:44 1536790004 DEBUG: Cart 27832: Standard IPN
+2018-09-13 00:06:44 1536790004 DEBUG: Cart 27832: Validating order
+2018-09-13 00:06:45 1536790004 DEBUG: Cart 27832: Order 3290 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-13 00:06:45 1536790005 DEBUG: Cart 27832: Customer is back from Paybox payment page. Payment success.
+2018-09-13 10:08:53 1536826132 DEBUG: URL to check 2
+2018-09-13 10:08:53 1536826132 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-13 10:08:53 1536826132 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-09-13 10:08:53 1536826132 DEBUG: Cart 27835: Redirecting customer to Paybox (CARTE, CB).
+2018-09-13 10:10:47 1536826247 DEBUG: Call params: M=3727&R=27835%20-%20Sophie%20Martin&T=48331709&A=801506&B=0&C=MasterCard&D=1912&E=00000&F=Y&G=O&I=FRA&J=17&N=513162&O=Y&P=CARTE&Q=10%3A08%3A51&S=926234381&W=13092018&Y=FRA&K=2jhwPMDcbYxiWgofuL3UqkNChEBcifQ4c%2BKJc28QFZ1oWo3x9jhMHTNVWdSkZsyVcYOZAqfZpFMGsm6DZo30lrl9Q4LEqhKE7CY46PwjPPs9BpR6oDbUTEfFfOUdlVD4i55kLG6ltIMPnMdKDeA9TnATF2e5szJXz0MUk7hSLk0%3D
+2018-09-13 10:10:47 1536826247 DEBUG: Cart 27835: Standard IPN
+2018-09-13 10:10:47 1536826247 DEBUG: Cart 27835: Validating order
+2018-09-13 10:10:47 1536826247 DEBUG: Cart 27835: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-09-13 10:10:48 1536826247 DEBUG: Cart 27835: Order 3291 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-13 10:10:48 1536826248 DEBUG: Cart 27835: Customer is back from Paybox payment page. Payment success.
+2018-09-13 18:51:58 1536857517 DEBUG: URL to check 2
+2018-09-13 18:51:58 1536857517 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-13 18:51:58 1536857517 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-09-13 18:51:58 1536857517 DEBUG: Cart 27847: Redirecting customer to Paybox (CARTE, CB).

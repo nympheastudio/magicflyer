@@ -1,0 +1,32 @@
+<p>It seems your module was updated from a previous version.</p>
+<p>Up to v3.5.1, the module was installing some overrides that are now unusefull and can be deleted.</p>
+<p>Through FTP, open and edit the file /override/classes/CartRules.php :
+<ol>
+<li>Delete the line<br>
+	public $oleamultipromo_id_cart_generatingNotUsed;
+<br><br></li>
+<li>In the method __contruct(), delete the line<br>
+self::$definition['fields']['oleamultipromo_id_cart_generating'] = array('type' => self::TYPE_INT, 'validate' => 'isUnsignedId');
+<br><br></li>
+<li>Delete all the method __Contruct() if it only has the following lines:<br>
+	public function __construct($id = null, $id_lang = null, $id_shop = null)<br>
+	{<br>
+		return parent::__construct($id, $id_lang, $id_shop);<br>
+	}
+<br><br></li>
+<li>In the method checkValidity(), delete the 2 lines:<br>
+		if ($this->is_for_oleamultipromo && isset($this->oleamultipromo_id_cart_generating) && $this->oleamultipromo_id_cart_generating <> 0 && $this->oleamultipromo_id_cart_generating <> $context->cart->id)<br>
+			return (!$display_error) ? false : Tools::displayError('This voucher is disabled');
+<br><br></li>
+<li>Delete all the method checkValidity() if it only has the following lines:<br>
+	public function checkValidityNotUsed(Context $context, $alreadyInCart = false, $display_error = true, $check_carrier = true)<br>
+	{<br>
+		if (!CartRule::isFeatureActive())<br>
+			return false;<br>
+		return parent::checkValidity($context, $alreadyInCart, $display_error, $check_carrier);<br>
+	}
+</li>
+</ol>
+</p>
+<p>Save the file after these modifications.</p>
+<p>Finally, delete the file /cache/class_index.php</p>

@@ -1,0 +1,3 @@
+The cancellation feed allows you to establish exceptions in shipping charges for a given SKU.
+
+This feature is sometimes used for heavy items, oversized or abnormal size such as a kayak or car bumper.

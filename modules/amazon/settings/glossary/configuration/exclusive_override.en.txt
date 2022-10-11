@@ -1,0 +1,2 @@
+Allows to configure per product shipping overrides.
+This option will add a "Shipping Override" section in each marketplace tab.

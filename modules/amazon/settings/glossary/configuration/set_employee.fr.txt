@@ -1,0 +1,1 @@
+Choisir un employé autorisé à effectuer les tâches automatisées (ie: tâches planifiées)

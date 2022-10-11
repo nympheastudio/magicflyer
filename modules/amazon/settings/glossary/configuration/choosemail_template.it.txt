@@ -1,0 +1,2 @@
+File del modello di e-mail che verrà utilizzato per richiedere la Valutazione Venditore al cliente     
+Potete modificare o aggiungere questi files nella directory modules/amazon/mail

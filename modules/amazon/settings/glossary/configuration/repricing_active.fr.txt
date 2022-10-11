@@ -1,0 +1,3 @@
+Active ou désactive le repricing pour cette stratégie
+
+Le profil associé à cette stratégie de repricing ne sera plus traité par le repricing

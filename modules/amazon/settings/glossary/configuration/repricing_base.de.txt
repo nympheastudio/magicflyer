@@ -1,0 +1,1 @@
+Basispreis nach welchem der Mindestpreis, der durch die Abgrenzung gebildet wird, bestimmt wird.

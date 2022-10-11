@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{likebox}prestashop>likebox_2b62199221c97720ac900ba9d6f52c47'] = 'Fanpage Likebox';
+$_MODULE['<{likebox}prestashop>likebox_9b9b30cc5124cb38a0b4f37bb3d2f0bb'] = 'Moduł dodaje specjalny blok z LikeBoxem Twojej strony fanpage na facebooku. Od teraz każdy może polubić Twoją stronę fanpage bezpośrednio ze stron sklepu!';
+$_MODULE['<{likebox}prestashop>likebox_f4d1ea475eaa85102e2b4e6d95da84bd'] = 'Potwierdzenie';
+$_MODULE['<{likebox}prestashop>likebox_c888438d14855d7d96a2724ee9c306bd'] = 'Ustawienia zapisane';
+$_MODULE['<{likebox}prestashop>likebox_7a7d57029c0de7a52035f23f44e94b38'] = 'Konfiguracja LikeBoxa';
+$_MODULE['<{likebox}prestashop>likebox_265bc69afdaf77a2b20642a84cb2b129'] = 'Ustawienia  Wizualne LikeBoxa';
+$_MODULE['<{likebox}prestashop>likebox_c19a11786e82b0736dc4735f1bd6e552'] = 'Facebook Page URL';
+$_MODULE['<{likebox}prestashop>likebox_381e99d9115db381c11785957d9e508d'] = 'Wprowadź adres do Twojej strony fanpage na facebooku';
+$_MODULE['<{likebox}prestashop>likebox_32954654ac8fe66a1d09be19001de2d4'] = 'Długość';
+$_MODULE['<{likebox}prestashop>likebox_9cddcd63ac79b2d3a082816b7f63f2a5'] = 'Długość okna z LikeBoxem';
+$_MODULE['<{likebox}prestashop>likebox_eec6c4bdbd339edf8cbea68becb85244'] = 'Wysokość';
+$_MODULE['<{likebox}prestashop>likebox_623d21d65296ba114e9869f19750fd04'] = 'Wysokość okna z LikeBoxem';
+$_MODULE['<{likebox}prestashop>likebox_6761e135fa31a256983cc0de4ff8d7d9'] = 'Kolor LikeBoxa (motyw)';
+$_MODULE['<{likebox}prestashop>likebox_a82fd95db10ff25dfad39f07372ebe37'] = 'Dark';
+$_MODULE['<{likebox}prestashop>likebox_2ac43aa43bf473f9a9c09b4b608619d3'] = 'Light';
+$_MODULE['<{likebox}prestashop>likebox_96a5b485a34b99798846a5106214bead'] = 'Ustaw kolor LikeBoxa. Zauważ, że tło LikeBoxa jest zawsze przeźroczyste - co pozwala na ustawienie tła takiego jak na Twojej stronie. Ustawienie motywu zmienia kolor napisów oraz pozostałych elementów tak aby współgrało z jasnym tłem (motyw Light) oraz ciemnym tłem (motyw Dark)';
+$_MODULE['<{likebox}prestashop>likebox_83cccf4d0f83339c027ad7395fa4d0b9'] = 'Pokaż Twarze';
+$_MODULE['<{likebox}prestashop>likebox_82432be27dcfce6316adae8964c64677'] = 'Pokaż zdjęcia profilowe osób lubiących Twój fanpage wewnątrz LikeBoxa';
+$_MODULE['<{likebox}prestashop>likebox_9df092bf9043e0783aa7a950eef6427d'] = 'Kolor obramowania';
+$_MODULE['<{likebox}prestashop>likebox_071e98b48cf92976a3e9c78358ca4b5c'] = 'Kolor obramowania okna z LikeBoxem. Kliknij i wybierz kolor';
+$_MODULE['<{likebox}prestashop>likebox_2e9864c4cae842d71fc0b5ffe1d9d7d2'] = 'Pokaż stream';
+$_MODULE['<{likebox}prestashop>likebox_f2f74c24b7138f32c05a4dc259600b88'] = 'Pokaż zawartość tablicy Twojego fanpage wewnątrz LikeBoxa';
+$_MODULE['<{likebox}prestashop>likebox_b796c5bd7ecdb3f4a130bafbe46579d1'] = 'Pokaż Nagłówek';
+$_MODULE['<{likebox}prestashop>likebox_a436543a292ec5bdd53083bcb1f4889f'] = 'Pokaż napis ZNAJDŹ NAS NA FACEBOOKU w nagłówku wewnątrz LikeBoxa';
+$_MODULE['<{likebox}prestashop>likebox_9daf1fb753b42c3cdc8f1d01669cd6d8'] = 'Zapisz Ustawienia';
+$_MODULE['<{likebox}prestashop>likebox_701ce215fb238c7cd5b9aa57b08d79b0'] = 'Podgląd LikeBoxa';

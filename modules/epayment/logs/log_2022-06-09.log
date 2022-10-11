@@ -1,0 +1,15 @@
+2022-06-09 22:59:53 1654808392 DEBUG: URL to check 2
+2022-06-09 22:59:53 1654808392 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-06-09 22:59:53 1654808392 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-06-09 22:59:53 1654808392 DEBUG: Cart 62267: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-06-09 23:00:45 1654808445 DEBUG: URL to check 2
+2022-06-09 23:00:45 1654808445 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-06-09 23:00:45 1654808445 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-06-09 23:00:45 1654808445 DEBUG: Cart 62267: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-06-09 23:02:45 1654808565 DEBUG: Call params: M=9124&R=62267%20-%20GUILLAUME%20BOURGUIGNON&T=1610154967&A=297435&B=0&C=MasterCard&D=2412&E=00000&F=Y&G=O&I=FRA&J=19&N=513771&O=Y&P=CARTE&Q=23%3A02%3A43&S=25582272&W=09062022&Y=FRA&Z=0-0&K=TnZ8IBYJOIo1CrG5sAyZD3NcL%2FoHtCQTQ8IJRlmpEmXH6S8Vq7lOX0OBqyYyhcU%2F7yF49FCB3dFco3gDs36kxjgitM9M%2BNuMMoI9eA5Pb5jb34G38PcIURoLiE0FqJxbPYsKEyFMFe8P9DFsw7HccVqQOFGhEy%2Bsd8X%2BEzK0wYk%3D
+2022-06-09 23:02:45 1654808565 DEBUG: Cart 62267: Standard IPN
+2022-06-09 23:02:45 1654808565 DEBUG: Cart 62267: Validating order
+2022-06-09 23:02:45 1654808565 DEBUG: Cart 62267: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-06-09 23:02:46 1654808565 DEBUG: Cart 62267: Order 5914 validated, creating details
+2022-06-09 23:02:46 1654808565 DEBUG: Cart 62267: Order 5914 / Le paiement a été autorisé et capturé par Paybox.
+2022-06-09 23:02:47 1654808567 DEBUG: Cart 62267: Customer is back from Verifone e-commerce payment page. Payment success.

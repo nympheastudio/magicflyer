@@ -1,0 +1,2 @@
+Shipping overrides to be used when selected in product sheet.
+Please refer to the documentation to choose the appropriate value.

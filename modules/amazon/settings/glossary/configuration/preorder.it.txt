@@ -1,0 +1,3 @@
+Attiva vendite prenotate sugli ultimi prodotti disponibili
+
+Documentazione: http://documentation.common-services.com/amazonv4/precommande/?lang=it

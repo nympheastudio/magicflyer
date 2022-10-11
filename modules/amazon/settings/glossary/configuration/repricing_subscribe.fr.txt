@@ -1,0 +1,6 @@
+Vérifier/Souscrire au Service de Repricing:
+Cliquez sur ce bouton si vous souhaitez activer le repricing pour cette plate-forme.
+Vous pouvez également cliquer sur ce bouton pour vérifier que le service est fonctionnel et actif.
+
+Annuler la souscription:
+Cliquez sur ce bouton pour arrêter le service.

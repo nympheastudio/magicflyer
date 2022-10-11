@@ -1,0 +1,2 @@
+Stratégie globale à appliquer pour l'ensemble du catalogue
+Si aucune stratégie n'est définie pour le profil, ce sera alors la stratégie appliquée.

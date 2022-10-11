@@ -1,0 +1,13 @@
+2018-09-25 22:15:09 1537906508 DEBUG: URL to check 2
+2018-09-25 22:15:09 1537906508 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-25 22:15:09 1537906508 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-25 22:15:09 1537906508 DEBUG: Cart 28261: Redirecting customer to Paybox (CARTE, CB).
+2018-09-25 22:16:17 1537906577 DEBUG: URL to check 2
+2018-09-25 22:16:17 1537906577 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-25 22:16:17 1537906577 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-25 22:16:17 1537906577 DEBUG: Cart 28261: Redirecting customer to Paybox (CARTE, CB).
+2018-09-25 22:18:00 1537906680 DEBUG: Call params: M=5449&R=28261%20-%20Amandine%20Boumard&T=52412149&A=404112&B=0&C=MasterCard&D=1909&E=00000&F=Y&G=O&I=FRA&J=09&N=513130&O=Y&P=3DSECURE&Q=22%3A16%3A10&S=929414524&W=25092018&Y=FRA&K=NKRAyesaBH0Z%2Fp3OUulrB0nstj1FHx%2FnoBqGyD3O0BUEElEUMhOW6p2cXAKB7n2tMqLrmRA04McZqIqsEek5mUF2nD7CD0D4szGiEuPHpy2Axxds0esA7%2BskaofcuIh2UzcN6XjZYSy6TOgfKab6txFp4sPWeDb15sOTJ8SR%2F38%3D
+2018-09-25 22:18:00 1537906680 DEBUG: Cart 28261: Standard IPN
+2018-09-25 22:18:00 1537906680 DEBUG: Cart 28261: Validating order
+2018-09-25 22:18:00 1537906680 DEBUG: Cart 28261: Order 3325 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-25 22:18:14 1537906694 DEBUG: Cart 28261: Customer is back from Paybox payment page. Payment success.

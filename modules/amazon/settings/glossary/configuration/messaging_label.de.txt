@@ -1,0 +1,5 @@
+Labels müssen Sie in Gmail erstellen (Imap Labels)
+
+<img src="views/img/tips/en/labels.jpg" />
+
+Hinweis: Achten Sie auf die Groß- und Kleinschreibung bei den Labels: Small-Caps, Big-Caps.

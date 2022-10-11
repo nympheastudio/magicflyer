@@ -1,0 +1,5 @@
+E-Mail Provider. Für eine bessere Kompatibilität empfehlen wir Gmail.
+Sollten Sie einen anderen E-Mail Provider nutzen, kontaktieren Sie bitte unseren Support.
+IMAP-Support muss in den E-Mail-Eigenschaften konfiguriert werden.
+
+<img src="views/img/tips/en/imap.jpg" />

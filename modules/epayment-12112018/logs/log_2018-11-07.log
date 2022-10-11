@@ -1,0 +1,10 @@
+2018-11-07 12:18:54 1541589533 DEBUG: URL to check 2
+2018-11-07 12:18:54 1541589533 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-11-07 12:18:54 1541589533 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-11-07 12:18:54 1541589533 DEBUG: Cart 29183: Redirecting customer to Paybox (CARTE, CB).
+2018-11-07 12:20:29 1541589629 DEBUG: Call params: M=9092&R=29183%20-%20Noemy%20Ganne&T=65603931&A=485214&B=0&C=Visa&D=1904&E=00000&F=Y&G=O&I=FRA&J=18&N=497874&O=Y&P=3DSECURE&Q=12%3A18%3A51&S=940466558&W=07112018&Y=FRA&K=YA05JwoFngVFfEDmk0jS6KajdmZ%2FiaOjEK40%2FlvGP2almrvRcLeHsXqEK%2FfMG68bewTDQWiszzlUjdH%2BXWFgj9FUuXpe4aTFZgDgNI8yqkB3Snl3SzNIMiZEVGv%2BU2uPW4TQIX7mSBILC5R2bx2JNqnlpZcKodp%2BY6TOHmOl478%3D
+2018-11-07 12:20:29 1541589629 DEBUG: Cart 29183: Standard IPN
+2018-11-07 12:20:29 1541589629 DEBUG: Cart 29183: Validating order
+2018-11-07 12:20:29 1541589629 DEBUG: Cart 29183: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-11-07 12:20:30 1541589629 DEBUG: Cart 29183: Order 3394 / Le paiement a été autorisé et capturé par Paybox.
+2018-11-07 12:20:30 1541589630 DEBUG: Cart 29183: Customer is back from Paybox payment page. Payment success.

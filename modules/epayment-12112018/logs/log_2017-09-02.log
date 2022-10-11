@@ -1,0 +1,11 @@
+2017-09-02 08:15:04 1504332903 DEBUG: URL to check 2
+2017-09-02 08:15:04 1504332903 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-09-02 08:15:04 1504332903 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-09-02 08:15:04 1504332903 DEBUG: Cart 17335: Redirecting customer to Paybox (CARTE, CB).
+2017-09-02 08:17:41 1504333061 DEBUG: Call params: M=5175&R=17335%20-%20Muna%20Saba&T=744187934&A=421612&B=0&C=Visa&D=2002&E=00000&F=Y&G=O&I=FRA&J=81&N=497355&O=Y&P=3DSECURE&Q=08%3A15%3A04&S=732204076&W=02092017&Y=FRA&K=S5EWBgxRb%2BixBp2iPDOHZd643Zcq79FUqIsGoshEzSJUqsazhzQ%2BiihGjQmM2HyaoheVK2yV6PevaSEVsm%2Fxx43Ps019oV8hLwxSoBdIW7F3xEI2gLI6lrCLPPieDM6d%2BfXBfqukiTgPHWJuhXBR1pruMytnQvI9r6K571ZBvmw%3D
+2017-09-02 08:17:41 1504333061 DEBUG: Cart 17335: Standard IPN
+2017-09-02 08:17:41 1504333061 DEBUG: Cart 17335: Validating order
+2017-09-02 08:17:41 1504333061 DEBUG: Cart 17335: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-09-02 08:17:43 1504333063 DEBUG: Cart 17335: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-09-02 08:17:44 1504333061 DEBUG: Cart 17335: Order 1618 / Le paiement a été autorisé et capturé par Paybox.
+2017-09-02 08:17:44 1504333064 DEBUG: Cart 17335: Customer is back from Paybox payment page. Payment success.

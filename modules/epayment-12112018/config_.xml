@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>epayment</name>
+	<displayName><![CDATA[Paybox by Verifone]]></displayName>
+	<version><![CDATA[3.0.0]]></version>
+	<description><![CDATA[In one integration, offer many payment methods, get a customized secure payment page, multi-lingual and multi-currency and offer debit on delivery or in 3 installments without charges for your customers.]]></description>
+	<author><![CDATA[Paybox by Verifone]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,73 @@
+/**
+* 2007-2014 PrestaShop
+*
+* Slider Layer module for prestashop
+*
+*  @author    Joommasters <joommasters@gmail.com>
+*  @copyright 2007-2014 Joommasters
+*  @license   license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+*  @Website: http://www.joommasters.com
+*/
+
+#slide-preview {	
+	min-height:500px;
+}
+#img_preview img {
+	max-width:400px;
+}
+.text_preview {
+	min-height:70px;
+}
+#slide_img {
+	margin-bottom:20px;	
+	overflow:hidden;
+	text-align:center;
+}
+#slide_grid {
+	background-color:rgba(0,0,0,0.3);
+	display:inline-block;
+	position:relative;
+}
+#layer-tools {
+	margin-bottom:20px;
+}
+.tp-caption {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#content.bootstrap .panel {
+	padding:10px;
+	margin-bottom:10px;
+}
+#layer_params .form-wrapper  {	
+	display:none;
+}
+#layer_params .form-wrapper.active  {	
+	display:block;
+}
+.layer.active  {
+	border:1px dotted red!important;
+}
+.tp-caption.active {
+	border:2px dotted red!important;
+	z-index:1000!important;
+}
+.bootstrap .form-horizontal .control-label {
+	text-align:left;
+}
+#content.bootstrap h3:not(.modal-title), #content.bootstrap .panel-heading {
+	margin:-10px -9px 9px;
+}
+#layer-tools i {
+	margin-right:10px;
+}
+.tp-caption.fullscreenvideo iframe, .tp-caption.fullscreenvideo iframe video {
+	display:block!important;
+}
+.bootstrap .tooltip-inner{
+	max-width:600px;
+}
+.panel > .row > div {
+	line-height:30px;
+} 

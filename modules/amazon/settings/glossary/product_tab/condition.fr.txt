@@ -1,0 +1,5 @@
+Veuillez ajouter un bref commentaire pour mieux décrire l'état de votre article. Vous êtes limité à 2000 caractères.
+
+Exemple sur Amazon :
+
+<img src="views/img/tips/fr/condition_note_example.jpg" />

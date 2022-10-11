@@ -1,0 +1,1 @@
+Quantity to deduct to the actual stock to export the product

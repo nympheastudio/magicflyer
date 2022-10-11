@@ -1,0 +1,9 @@
+Hello {firstname} {lastname}, 
+
+Through your order {order_name} in date of {date}, you've obtained the following vouchers :
+
+{discounts_text}
+
+You can use them in your next order on our shop.
+
+{shop_url} realised with PrestaShop™

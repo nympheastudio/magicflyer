@@ -1,0 +1,32 @@
+2017-06-24 07:01:26 1498280486 DEBUG: URL to check 2
+2017-06-24 07:01:26 1498280486 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-06-24 07:01:26 1498280486 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-06-24 07:01:26 1498280486 DEBUG: Cart 14306: Redirecting customer to Paybox (CARTE, CB).
+2017-06-24 07:04:01 1498280641 DEBUG: Call params: M=5550&R=14306%20-%20Marlene%20BOULANGER&T=724923989&A=311326&B=0&C=MasterCard&D=1903&E=00000&F=Y&G=O&I=USA&J=12&N=513775&O=Y&P=3DSECURE&Q=07%3A01%3A29&S=715653006&W=24062017&Y=FRA&K=JQ%2BWrZ9a5KxqgdkCcAPoajIuM8j2UZairB83vQcWX%2BN4r5Hhh%2BXQlOd3NO1kXNrU5uhyHS1kXYF8p96w8dFc0fDc5pSTlp9D1ZUwcKUZJtyV0YEIDI5nRbTwq64QHFXkKMH9pw%2FtDRhe6PwRNmo3vt4GEPrn6jwE0dlz32auZxo%3D
+2017-06-24 07:04:02 1498280641 DEBUG: Cart 14306: Standard IPN
+2017-06-24 07:04:02 1498280641 DEBUG: Cart 14306: Validating order
+2017-06-24 07:04:02 1498280642 DEBUG: Cart 14306: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-06-24 07:04:03 1498280643 DEBUG: Cart 14306: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-06-24 07:04:04 1498280641 DEBUG: Cart 14306: Order 1302 / Le paiement a été autorisé et capturé par Paybox.
+2017-06-24 07:04:04 1498280644 DEBUG: Cart 14306: Customer is back from Paybox payment page. Payment success.
+2017-06-24 14:21:48 1498306908 DEBUG: URL to check 2
+2017-06-24 14:21:48 1498306908 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-06-24 14:21:48 1498306908 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-06-24 14:21:48 1498306908 DEBUG: Cart 12787: Redirecting customer to Paybox (CARTE, CB).
+2017-06-24 14:22:59 1498306979 DEBUG: Call params: M=3400&R=12787%20-%20lucie%20daniau&T=725031647&A=441392&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=43&N=497203&O=Y&P=3DSECURE&Q=14%3A21%3A49&S=715734871&W=24062017&Y=FRA&K=DslwD4xVVtF48FsdJ7XS9ElQDh0jABrwp3BekPIEv6npFgkWVp%2BreFOCFLAP%2Fmwc51XlPT%2BMUMpOLqKKcT1YV61xcog2EqsGPEGxZJBrQd4faa8JI4Hgh%2Fb%2F%2B4uxO6H1HiZFYD%2BKsloBidvgdV2jQUtPVaivO61jfLYW3TqLC28%3D
+2017-06-24 14:22:59 1498306979 DEBUG: Cart 12787: Standard IPN
+2017-06-24 14:22:59 1498306979 DEBUG: Cart 12787: Validating order
+2017-06-24 14:22:59 1498306979 DEBUG: Cart 12787: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-06-24 14:23:01 1498306981 DEBUG: Cart 12787: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-06-24 14:23:02 1498306979 DEBUG: Cart 12787: Order 1303 / Le paiement a été autorisé et capturé par Paybox.
+2017-06-24 14:23:02 1498306982 DEBUG: Cart 12787: Customer is back from Paybox payment page. Payment success.
+2017-06-24 16:31:12 1498314672 DEBUG: URL to check 2
+2017-06-24 16:31:12 1498314672 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-06-24 16:31:12 1498314672 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-06-24 16:31:12 1498314672 DEBUG: Cart 14323: Redirecting customer to Paybox (CARTE, CB).
+2017-06-24 16:37:01 1498315021 DEBUG: Call params: M=17850&R=14323%20-%20HOTEL%20LES%20FEUILLES%20DACANTHE&T=725067013&A=626693&B=0&C=MasterCard&D=1707&E=00000&F=%20&G=N&I=FRA&J=21&N=513029&O=U&P=3DSECURE&Q=16%3A31%3A22&S=715762156&W=24062017&Y=FRA&K=do5usaUthwXUfig8tWJ%2BSU6u7IgOjf%2BPtO7u6nUvqehM%2FIlXATfedNYqR40cGsz4SSaC4wpXfnvNvHyoSpotCePFlkurkPif2m8ve5w%2B3BcgEpmOveUpt42VXSJoTw5z%2FgiL3bVgCM1AF5yjK6YH4OcildGod3qzOG2vsn6YEm8%3D
+2017-06-24 16:37:01 1498315021 DEBUG: Cart 14323: Standard IPN
+2017-06-24 16:37:01 1498315021 DEBUG: Cart 14323: Validating order
+2017-06-24 16:37:02 1498315022 DEBUG: Cart 14323: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-06-24 16:37:03 1498315021 DEBUG: Cart 14323: Order 1304 / Le paiement a été autorisé et capturé par Paybox.
+2017-06-24 16:37:07 1498315027 DEBUG: Cart 14323: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,1 @@
+Synchronise only quantities, do not synchronise prices

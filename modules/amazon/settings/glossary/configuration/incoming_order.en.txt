@@ -1,0 +1,8 @@
+On the right, associated carrier when importing the order, perfect to display the correct name on your order page or invoice
+
+On the left:
+Select the carrier of your store to be used for the order when updating status, sending the package tracking number.
+For reasons of incompatibility, modules carriers are not displayed.
+
+
+<img src="views/img/tips/en/incoming_carriers.jpg" />

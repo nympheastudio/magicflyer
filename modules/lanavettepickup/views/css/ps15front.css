@@ -1,0 +1,28 @@
+/* so as to neutralize what bootstrap changed */
+body {
+    font: normal 11px/14px Arial, Verdana, sans-serif;
+    line-height: normal;
+}
+
+#header_nav a {
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+}
+
+.pickup_map_search {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.pickup_list {
+    padding-left: 0;
+}
+
+.pickup_list_right_col {
+    padding-right: 0;
+}
+
+.pickup_list_ul {
+    list-style-type: none;
+}

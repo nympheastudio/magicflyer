@@ -1,0 +1,11 @@
+Ciao {firstname} {lastname},
+
+in allegato troverai la fattura relativa al tuo ordine n°{amazon_order_id} del {amazon_order_date} su Amazon già pagato.
+
+La fattura è in formato universale PDF, per la sua visualizzazione è sufficiente utilizzare un programma di lettura PDF.
+
+Pensa all’ambiente e ricorda che puoi archiviare elettronicamente la fattura e stamparla solo in caso di necessità.
+
+Cordiali saluti,
+Servizio clienti
+{shop_name}

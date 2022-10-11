@@ -1,0 +1,17 @@
+2022-04-22 18:28:05 1650644885 DEBUG: URL to check 2
+2022-04-22 18:28:05 1650644885 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-22 18:28:05 1650644885 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-04-22 18:28:05 1650644885 DEBUG: Cart 60562: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-22 18:34:29 1650645269 DEBUG: Call params: M=9731&R=60562%20-%20Edith%20Plaut&T=1602522902&A=475652&B=0&C=CB&D=2309&E=00000&F=Y&G=O&I=FRA&J=44&N=453337&O=Y&P=3DSECURE&Q=18%3A34%3A28&S=17181924&W=22042022&Y=FRA&Z=0-0&K=Wc5VW24kJe0pX6wRrNt89GNsbpaR8ivfiRAl8CpGqcDeTsQBQ5um54QWnRzWF6tEH99zUIHeX2tcBmPQOrpt6iLPMOyz8mex6w5cec%2FW6rlVnvH%2FBkncRmb%2BCqh8WseQHAuFgvflwrMFP8k2LjxBVBZT3SoQJalbEGQfTO0RSf8%3D
+2022-04-22 18:34:29 1650645269 DEBUG: Cart 60562: Standard IPN
+2022-04-22 18:34:29 1650645269 DEBUG: Cart 60562: Validating order
+2022-04-22 18:34:29 1650645269 DEBUG: Cart 60562: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-04-22 18:34:30 1650645270 DEBUG: Cart 60562: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-04-22 18:34:31 1650645271 DEBUG: Cart 60562: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-04-22 18:34:32 1650645269 DEBUG: Cart 60562: Order 5797 validated, creating details
+2022-04-22 18:34:32 1650645269 DEBUG: Cart 60562: Order 5797 / Le paiement a été autorisé et capturé par Paybox.
+2022-04-22 18:34:33 1650645273 DEBUG: Cart 60562: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-04-22 20:47:19 1650653239 DEBUG: URL to check 2
+2022-04-22 20:47:19 1650653239 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-22 20:47:20 1650653239 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-04-22 20:47:20 1650653239 DEBUG: Cart 60571: Redirecting customer to Verifone e-commerce (CARTE, CB).

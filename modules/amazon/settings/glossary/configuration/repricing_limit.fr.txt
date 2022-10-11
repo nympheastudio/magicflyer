@@ -1,0 +1,1 @@
+Limite en deça de laquelle le prix ne sera plus diminué, sur le prix de base indiqué au dessus

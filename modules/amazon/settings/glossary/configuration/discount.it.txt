@@ -1,0 +1,3 @@
+Esportare i prezzi promozionali o scontati se spuntati. Altrimenti, i prezzi del negozio saranno esportati alla normale tariffa.
+
+Documentazione: http://documentation.common-services.com/amazonv4/gestion-des-promotions-et-soldes/?lang=it

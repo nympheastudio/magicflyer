@@ -1,0 +1,34 @@
+2016-11-04 15:38:48 1478270328 DEBUG: URL to check 2
+2016-11-04 15:38:48 1478270328 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-04 15:38:48 1478270328 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-04 15:38:48 1478270328 DEBUG: Cart 4356: Redirecting customer to Paybox (CARTE, CB).
+2016-11-04 15:39:24 1478270364 DEBUG: URL to check 2
+2016-11-04 15:39:24 1478270364 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-04 15:39:24 1478270364 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-04 15:39:24 1478270364 DEBUG: Cart 4360: Redirecting customer to Paybox (CARTE, CB).
+2016-11-04 15:40:50 1478270450 DEBUG: Call params: M=1700&R=4360%20-%20isabelle%20souhiard&T=663965980&A=542056&B=0&C=Maestro&D=1612&E=00000&F=Y&G=O&I=FRA&J=26&N=561257&O=Y&P=3DSECURE&Q=15%3A39%3A25&S=663493929&W=04112016&Y=FRA&K=3hA0poDz0fH%2Fte2cA1%2FEdVivVVf2mdM4EMogWLhhl%2FZPWPm%2FE6%2BJXPgdCzyhjDkrgx%2Fe1n3iwmos6rlFYZXspvgwBW59Lh59FXKSqfWeBJmiu3Ku9xBjKw4wpjmGfw557nToB8AQdzxujETqfgJeQFGKHyQz64i15hGlIHQmYzI%3D
+2016-11-04 15:40:50 1478270450 DEBUG: Cart 4360: Standard IPN
+2016-11-04 15:40:50 1478270450 DEBUG: Cart 4360: Validating order
+2016-11-04 15:40:50 1478270450 DEBUG: Cart 4360: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-04 15:40:51 1478270451 DEBUG: Cart 4360: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-04 15:40:52 1478270450 DEBUG: Cart 4360: Order 462 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-04 15:40:53 1478270453 DEBUG: Cart 4360: Customer is back from Paybox payment page. Payment success.
+2016-11-04 15:40:57 1478270457 DEBUG: Call params: M=25260&R=4356%20-%20Emilie%20%20Leroux&T=663965826&A=048456&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=CAN&J=21&N=453091&O=Y&P=3DSECURE&Q=15%3A38%3A50&S=663493756&W=04112016&Y=CAN&K=dH9ovExzOmGVPj1RNHSiNo9V3zbndfv6nBt0F%2FWHO9CyclxpzEqdve6WkbYhBKeg263V6Z%2FKRE%2FqryQL0R4XB2%2FMTcSo36u6ZwlunIpFaCvN6hukFhUNycxdLlOoyIFQmCGhUTM%2FoscplQyBITgGpKH5cXMsjVKN28p5fL6qqPo%3D
+2016-11-04 15:40:57 1478270457 DEBUG: Cart 4356: Standard IPN
+2016-11-04 15:40:57 1478270457 DEBUG: Cart 4356: Validating order
+2016-11-04 15:40:57 1478270457 DEBUG: Cart 4356: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-04 15:40:58 1478270458 DEBUG: Cart 4356: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-11-04 15:40:59 1478270457 DEBUG: Cart 4356: Order 463 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-04 15:41:00 1478270460 DEBUG: Cart 4356: Customer is back from Paybox payment page. Payment success.
+2016-11-04 15:41:17 1478270477 DEBUG: Call params: M=25260&R=4356%20-%20Emilie%20%20Leroux&T=663965826&A=048456&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=CAN&J=21&N=453091&O=Y&P=3DSECURE&Q=15%3A38%3A50&S=663493756&W=04112016&Y=CAN&K=dH9ovExzOmGVPj1RNHSiNo9V3zbndfv6nBt0F%2FWHO9CyclxpzEqdve6WkbYhBKeg263V6Z%2FKRE%2FqryQL0R4XB2%2FMTcSo36u6ZwlunIpFaCvN6hukFhUNycxdLlOoyIFQmCGhUTM%2FoscplQyBITgGpKH5cXMsjVKN28p5fL6qqPo%3D
+2016-11-04 15:41:17 1478270477 DEBUG: Cart 4356: (IPN) Cart already being validated as order.
+2016-11-04 21:16:01 1478290561 DEBUG: URL to check 2
+2016-11-04 21:16:01 1478290561 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-11-04 21:16:01 1478290561 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-11-04 21:16:01 1478290561 DEBUG: Cart 4366: Redirecting customer to Paybox (CARTE, CB).
+2016-11-04 21:18:34 1478290714 DEBUG: Call params: M=2297&R=4366%20-%20Blin%20Jerome&T=664037482&A=442629&B=0&C=Visa&D=1612&E=00000&F=Y&G=O&I=FRA&J=98&N=497040&O=Y&P=3DSECURE&Q=21%3A16%3A02&S=663560978&W=04112016&Y=FRA&K=2h7GdngMSt36qcvGgjbs56Hi0eCrY61XX%2FBe2keBn2%2FMWIaEp6Qbbuf3a7uLXoQUIDM4pZDq7TxqSuIgv2jL7R7h6%2FhVeibxjUo6YFcwrj%2FRqYt96T58%2BYKqP0C1dv%2BZT5Tlme0r%2Fwaj29oWA0k0xxdCJn2E0xbn438ySlwtgpI%3D
+2016-11-04 21:18:34 1478290714 DEBUG: Cart 4366: Standard IPN
+2016-11-04 21:18:34 1478290714 DEBUG: Cart 4366: Validating order
+2016-11-04 21:18:34 1478290714 DEBUG: Cart 4366: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-11-04 21:18:35 1478290714 DEBUG: Cart 4366: Order 464 / Le paiement a été autorisé et capturé par Paybox.
+2016-11-04 21:18:36 1478290716 DEBUG: Cart 4366: Customer is back from Paybox payment page. Payment success.

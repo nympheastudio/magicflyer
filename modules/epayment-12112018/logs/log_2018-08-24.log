@@ -1,0 +1,11 @@
+2018-08-24 08:23:22 1535091795 DEBUG: URL to check 2
+2018-08-24 08:23:22 1535091795 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-24 08:23:22 1535091795 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-08-24 08:23:22 1535091795 DEBUG: Cart 27176: Redirecting customer to Paybox (CARTE, CB).
+2018-08-24 21:55:36 1535140536 DEBUG: URL to check 2
+2018-08-24 21:55:36 1535140536 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-24 21:55:36 1535140536 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-08-24 21:55:36 1535140536 DEBUG: Cart 27203: Redirecting customer to Paybox (CARTE, CB).
+2018-08-24 21:57:38 1535140658 DEBUG: Call params: M=18174&R=27203%20-%20sarah%20centeleghe&T=41061859&B=0&C=CB&D=2004&E=00040&F=N&G=N&I=FRA&J=77&N=513770&O=Y&P=3DSECURE&Q=21%3A55%3A30&S=920571065&W=24082018&K=cPUV9pICPHMEYu6JMBEc76VZDrgaWox%2BtQW0vPs%2BDcmgJZjYasTKYZ1%2F8VNMI3hREQWiuFYXvhXrTtD68XeYpPsx5wBzYORPIW26VSS%2FVTpDa%2FiLj4aQa7QaFXqdvBAJ3u5sSlwI6f45P5amfC6CjOZV7z013ySunAc4omHUNxg%3D
+2018-08-24 21:57:38 1535140658 DEBUG: Cart 27203: (IPN) Payment was refused by Paybox (40).
+2018-08-24 21:57:43 1535140663 DEBUG: Cart 27203: Payment was canceled by user on Paybox payment page.

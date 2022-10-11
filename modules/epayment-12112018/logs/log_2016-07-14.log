@@ -1,0 +1,11 @@
+2016-07-14 22:46:05 1468529165 DEBUG: URL to check 2
+2016-07-14 22:46:05 1468529165 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-07-14 22:46:05 1468529165 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-07-14 22:46:05 1468529165 DEBUG: Cart 1782: Redirecting customer to Paybox (CARTE, CB).
+2016-07-14 22:46:47 1468529207 DEBUG: Call params: M=4628&R=1782%20-%20Johannes%20Brevis&T=637056696&A=09411A&B=0&C=Visa&D=1811&E=00000&G=D&H=8EBF5892C6DE3BF74A0224734419BF47888D7A40&I=USA&J=&N=&P=CARTE&Q=22%3A46%3A07&S=633067715&W=14072016&Y=USA&K=wa1XiYUJkRIlKsUGTDCR%2Bn9B8mjusXAcOtG3s%2BNl1dhHHq5JUhnYjcnlIJgzCBvU52RDLTiPHA2dQcmSGC3vFDEUie1ruMPGoFeHTAC%2Fm5eUsqVPzxXag%2FL3fEnM0O%2BNPgixCkJBJw13EJNI8Ftx1DskGp7%2FPPXQp7Av%2FoOuP7U%3D
+2016-07-14 22:46:47 1468529207 DEBUG: Cart 1782: Standard IPN
+2016-07-14 22:46:47 1468529207 DEBUG: Cart 1782: Validating order (PS1.5+)
+2016-07-14 22:46:48 1468529208 DEBUG: Cart 1782: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-07-14 22:46:49 1468529209 DEBUG: Cart 1782: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-07-14 22:46:50 1468529207 DEBUG: Cart 1782: Order 276 / Le paiement a été autorisé et capturé par Paybox.
+2016-07-14 22:46:50 1468529210 DEBUG: Cart 1782: Customer is back from Paybox payment page. Payment success.

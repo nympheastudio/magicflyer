@@ -1,0 +1,1 @@
+Activate review incentive per email automation. It'll be asked to the customer to rate its purchase.

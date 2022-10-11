@@ -1,0 +1,16 @@
+2017-10-13 08:19:44 1507875583 DEBUG: URL to check 2
+2017-10-13 08:19:44 1507875583 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-13 08:19:44 1507875583 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-10-13 08:19:44 1507875583 DEBUG: Cart 18598: Redirecting customer to Paybox (CARTE, CB).
+2017-10-13 08:23:22 1507875802 DEBUG: Call params: M=10642&R=18598%20-%20jocelyne%20hervo&T=755620297&A=824185&B=0&C=MasterCard&D=1904&E=00000&F=Y&G=O&I=FRA&J=81&N=513162&O=Y&P=3DSECURE&Q=08%3A19%3A47&S=742153504&W=13102017&Y=FRA&K=uEO6q%2FrV7m7%2B91CZn14LyoWTNLnJ9OO8gUTfFi9Ip%2BgpVdEn340CwpDzdtP%2BpgDIyITtKZtKTDjg5yn%2Bkt0QWr9nbn7JXcpMCjK9QY%2BaNOPRj94HEOCZ1VsusfZLGJHkHC45f1t%2BlE1TvJf37PrSfRvqp3EqTnOuLS4RL3BWfGc%3D
+2017-10-13 08:23:22 1507875802 DEBUG: Cart 18598: Standard IPN
+2017-10-13 08:23:22 1507875802 DEBUG: Cart 18598: Validating order
+2017-10-13 08:23:23 1507875803 DEBUG: Cart 18598: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-10-13 08:23:25 1507875802 DEBUG: Cart 18598: Order 1736 / Le paiement a été autorisé et capturé par Paybox.
+2017-10-13 08:23:25 1507875805 DEBUG: Call params: M=10642&R=18598%20-%20jocelyne%20hervo&T=755620297&A=824185&B=0&C=MasterCard&D=1904&E=00000&F=Y&G=O&I=FRA&J=81&N=513162&O=Y&P=3DSECURE&Q=08%3A19%3A47&S=742153504&W=13102017&Y=FRA&K=uEO6q%2FrV7m7%2B91CZn14LyoWTNLnJ9OO8gUTfFi9Ip%2BgpVdEn340CwpDzdtP%2BpgDIyITtKZtKTDjg5yn%2Bkt0QWr9nbn7JXcpMCjK9QY%2BaNOPRj94HEOCZ1VsusfZLGJHkHC45f1t%2BlE1TvJf37PrSfRvqp3EqTnOuLS4RL3BWfGc%3D
+2017-10-13 08:23:25 1507875805 DEBUG: Cart 18598: (IPN) Cart already being validated as order.
+2017-10-13 08:23:25 1507875805 DEBUG: Cart 18598: Customer is back from Paybox payment page. Payment success.
+2017-10-13 22:47:14 1507927633 DEBUG: URL to check 2
+2017-10-13 22:47:14 1507927633 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-10-13 22:47:14 1507927633 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-10-13 22:47:14 1507927633 DEBUG: Cart 18736: Redirecting customer to Paybox (CARTE, CB).

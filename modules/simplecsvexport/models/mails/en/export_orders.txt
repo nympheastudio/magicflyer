@@ -1,0 +1,8 @@
+Message from {shop_name}
+
+CSV export of orders from  {dateFrom} To {dateTo}
+Exported on {time}
+Filename: {filename}
+
+{shop_name}
+{shop_url}

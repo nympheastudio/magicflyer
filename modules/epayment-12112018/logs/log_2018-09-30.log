@@ -1,0 +1,20 @@
+2018-09-30 20:45:53 1538333153 DEBUG: URL to check 2
+2018-09-30 20:45:53 1538333153 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-30 20:45:53 1538333153 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-30 20:45:53 1538333153 DEBUG: Cart 28332: Redirecting customer to Paybox (CARTE, CB).
+2018-09-30 20:47:28 1538333248 DEBUG: Call params: M=3716&R=28332%20-%20sandrine%20Duparc&T=53612346&A=331412&B=0&C=MasterCard&D=1912&E=00000&F=Y&G=O&I=FRA&J=16&N=513771&O=Y&P=3DSECURE&Q=20%3A45%3A47&S=930460282&W=30092018&Y=FRA&K=Lh7%2FXoD%2FAlct8BO8lLdVa5m68%2FonRTT0kmVIsDxxSPnrlNBAaufcjfiM3JK4RpLnZocCMi4i3tTg6ByAzSR4hbH6zMJvYClZl8YTiZY2YfLF0LOLflJPvRK7GW%2FWhgdHiQs6aCPSGFJkmN27Dy41%2FYn535XdPrFcSlbn%2BmXAwOs%3D
+2018-09-30 20:47:28 1538333248 DEBUG: Cart 28332: Standard IPN
+2018-09-30 20:47:28 1538333248 DEBUG: Cart 28332: Validating order
+2018-09-30 20:47:29 1538333249 DEBUG: Cart 28332: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-09-30 20:47:29 1538333248 DEBUG: Cart 28332: Order 3332 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-30 20:47:30 1538333250 DEBUG: Cart 28332: Customer is back from Paybox payment page. Payment success.
+2018-09-30 22:57:21 1538341040 DEBUG: URL to check 2
+2018-09-30 22:57:21 1538341040 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-09-30 22:57:21 1538341040 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-09-30 22:57:21 1538341040 DEBUG: Cart 28371: Redirecting customer to Paybox (CARTE, CB).
+2018-09-30 22:59:19 1538341159 DEBUG: Call params: M=2832&R=28371%20-%20Anne%20Perrien&T=53648558&A=543324&B=0&C=Visa&D=2109&E=00000&F=Y&G=O&I=FRA&J=15&N=497040&O=Y&P=3DSECURE&Q=22%3A57%3A13&S=930492553&W=30092018&Y=FRA&K=LFWm6ItXi16hTz7Ed6dMhU6RjYDF8E82qXh1C2igtBf%2FV6%2B%2F6%2FYKTln7QPcSo99JUBbF0z1e877IsZQNOS6F1wqbV04UEJJrie%2BsPLntx3WKvNQSVGkx4oaOB%2F22mc4yQfVAJK%2Fx5grF7UsVWO2uRLy%2BNq8pA%2BSxV6eDKiWIydM%3D
+2018-09-30 22:59:19 1538341159 DEBUG: Cart 28371: Standard IPN
+2018-09-30 22:59:19 1538341159 DEBUG: Cart 28371: Validating order
+2018-09-30 22:59:19 1538341159 DEBUG: Cart 28371: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-09-30 22:59:19 1538341159 DEBUG: Cart 28371: Order 3333 / Le paiement a été autorisé et capturé par Paybox.
+2018-09-30 22:59:20 1538341160 DEBUG: Cart 28371: Customer is back from Paybox payment page. Payment success.

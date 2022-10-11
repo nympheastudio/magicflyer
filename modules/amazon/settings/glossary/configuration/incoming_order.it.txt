@@ -1,0 +1,6 @@
+A destra, il corriere associato quando l'ordine viene importato, perfetto per mostrare il nome corretto sul tuo foglio ordine o sulla fattura
+A sinistra:
+Seleziona dal tuo store il corriere da utilizzare per l'ordine quando aggiorni lo status, inviando il numero per tracciare il pacco.
+Per ragioni di incompatibilità, i moduli dei corrieri non vengono mostrati.
+
+<img src="views/img/tips/en/incoming_carriers.jpg" />

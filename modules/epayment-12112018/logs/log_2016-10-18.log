@@ -1,0 +1,19 @@
+2016-10-18 10:26:42 1476779202 DEBUG: URL to check 2
+2016-10-18 10:26:42 1476779202 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-18 10:26:42 1476779202 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-10-18 10:26:42 1476779202 DEBUG: Cart 4008: Redirecting customer to Paybox (CARTE, CB).
+2016-10-18 10:27:52 1476779272 DEBUG: Call params: M=8285&R=4008%20-%20Marine%20PREVOT&T=660563657&A=556693&B=0&C=MasterCard&D=1712&E=00000&F=Y&G=O&I=FRA&J=65&N=513162&O=Y&P=3DSECURE&Q=10%3A26%3A43&S=660226224&W=18102016&Y=FRA&K=1LmoGLTcQPbIeR6sgWj8xcKxvZdObzBDvNhWdHi4Mdenbx5L5qZHxjaF4WFTMCtVMQdTkUBOGQhsjwGtCp90GAeHVrsPB026iEohB1vnJcOUcgFsa11KDe5eKV5H3cdAo87yRSZSpto%2FSRoqHnb5EL4jkVBQmdbZao2BRNnXvRM%3D
+2016-10-18 10:27:52 1476779272 DEBUG: Cart 4008: Standard IPN
+2016-10-18 10:27:52 1476779272 DEBUG: Cart 4008: Validating order
+2016-10-18 10:27:52 1476779272 DEBUG: Cart 4008: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-18 10:27:53 1476779273 DEBUG: Cart 4008: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-10-18 10:27:54 1476779272 DEBUG: Cart 4008: Order 437 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-18 10:27:55 1476779275 DEBUG: Cart 4008: Customer is back from Paybox payment page. Payment success.
+2016-10-18 14:52:43 1476795163 DEBUG: URL to check 2
+2016-10-18 14:52:43 1476795163 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-18 14:52:43 1476795163 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-18 14:52:43 1476795163 DEBUG: Cart 4015: Redirecting customer to Paybox (CARTE, CB).
+2016-10-18 15:01:18 1476795678 DEBUG: URL to check 2
+2016-10-18 15:01:18 1476795678 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-18 15:01:18 1476795678 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-10-18 15:01:18 1476795678 DEBUG: Cart 4009: Redirecting customer to Paybox (CARTE, CB).

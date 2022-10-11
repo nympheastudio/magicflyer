@@ -1,0 +1,19 @@
+2015-10-28 09:52:04 1446022324 DEBUG: URL to check 2
+2015-10-28 09:52:04 1446022324 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-28 09:52:05 1446022324 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-10-28 09:52:05 1446022324 DEBUG: Cart 237: Redirecting customer to Paybox (CARTE, CB).
+2015-10-28 09:52:21 1446022341 DEBUG: Cart 237: Payment was canceled by user on Paybox payment page.
+2015-10-28 14:29:23 1446038962 DEBUG: URL to check 2
+2015-10-28 14:29:23 1446038962 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-28 14:29:23 1446038962 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-10-28 14:29:23 1446038962 DEBUG: Cart 240: Redirecting customer to Paybox (CARTE, CB).
+2015-10-28 14:31:01 1446039061 DEBUG: Call params: M=27152&R=240%20-%20SUELEN%20ALBAN&T=285668295&A=852260&B=0&C=Visa&D=1804&E=00000&G=D&H=653399613E21B854E86153665710CBC802CF126A&I=ITA&J=&N=&P=CARTE&Q=14%3A29%3A26&S=291012226&W=28102015&Y=ITA&K=S%2FY%2Fjj3%2B4bo3z8mGNut0h0%2BRBSDBH0hnp0MAaxYDnQr4B7kljeyA8PtWzheeVDBcl7bylMlEgEXAEGns8l%2BzwY0KbgC4jP082lAQV1Z7Thx6SI4sGp%2B5qf1%2BTykpH79l9%2FWcKDlCRkBRb8y1QNdvJFOWpVs%2FLeooVNxsBK0Vkio%3D
+2015-10-28 14:31:01 1446039061 DEBUG: Cart 240: Standard IPN
+2015-10-28 14:31:01 1446039061 DEBUG: Cart 240: Validating order (PS1.5+)
+2015-10-28 14:31:02 1446039062 DEBUG: Cart 240: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-10-28 14:31:03 1446039063 DEBUG: Cart 240: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-10-28 14:31:05 1446039065 DEBUG: Cart 240: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-10-28 14:31:06 1446039066 DEBUG: Cart 240: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2015-10-28 14:31:07 1446039067 DEBUG: Cart 240: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2015-10-28 14:31:09 1446039061 DEBUG: Cart 240: Order 59 / Le paiement a été autorisé et capturé par Paybox.
+2015-10-28 14:31:09 1446039069 DEBUG: Cart 240: Customer is back from Paybox payment page. Payment success.

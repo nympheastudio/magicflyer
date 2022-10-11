@@ -1,0 +1,11 @@
+2016-05-26 21:02:53 1464289373 DEBUG: URL to check 2
+2016-05-26 21:02:53 1464289373 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-05-26 21:02:53 1464289373 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-05-26 21:02:53 1464289373 DEBUG: Cart 1082: Redirecting customer to Paybox (CARTE, CB).
+2016-05-26 21:03:43 1464289423 DEBUG: Call params: M=4500&R=1082%20-%20STEPHANIE%20DEGARDIN&T=630484092&A=904839&B=0&C=Visa&D=1712&E=00000&G=D&H=E8106554B0D835436F22A0F9A6B9F1F98B15C0C5&I=FRA&J=&N=&P=CARTE&Q=21%3A02%3A54&S=626413575&W=26052016&Y=FRA&K=iswD7LcpC2cgnXwsa5vIzdb68opc9H4cpDFgClRWkFpEggWd4YU4nhR9WeWjLEgn3ul9yYSrEZKDkCxlrBYzg74OPfHxx9uvfvQcbX%2Fuke7TiEbgw0bVHop6%2BYCl2RuzFC%2BiKtOyVK4wAjcsv8i%2Bphe0Szn07d6CwiNUi7hXUHg%3D
+2016-05-26 21:03:43 1464289423 DEBUG: Cart 1082: Standard IPN
+2016-05-26 21:03:43 1464289423 DEBUG: Cart 1082: Validating order (PS1.5+)
+2016-05-26 21:03:43 1464289423 DEBUG: Cart 1082: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-05-26 21:03:44 1464289424 DEBUG: Cart 1082: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-05-26 21:03:45 1464289423 DEBUG: Cart 1082: Order 205 / Le paiement a été autorisé et capturé par Paybox.
+2016-05-26 21:03:46 1464289426 DEBUG: Cart 1082: Customer is back from Paybox payment page. Payment success.

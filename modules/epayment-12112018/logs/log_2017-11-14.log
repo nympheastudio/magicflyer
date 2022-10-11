@@ -1,0 +1,18 @@
+2017-11-14 22:24:09 1510694649 DEBUG: URL to check 2
+2017-11-14 22:24:09 1510694649 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-11-14 22:24:09 1510694649 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-11-14 22:24:09 1510694649 DEBUG: Cart 19592: Redirecting customer to Paybox (CARTE, CB).
+2017-11-14 22:55:15 1510696514 DEBUG: URL to check 2
+2017-11-14 22:55:15 1510696514 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-11-14 22:55:16 1510696514 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-11-14 22:55:16 1510696514 DEBUG: Cart 19593: Redirecting customer to Paybox (CARTE, CB).
+2017-11-14 22:56:24 1510696584 DEBUG: Call params: M=8464&R=19593%20-%20Melodie%20%20Ramocinski&T=765813713&A=622543&B=0&C=MasterCard&D=2009&E=00000&F=Y&G=O&I=FRA&J=56&N=513771&O=Y&P=3DSECURE&Q=22%3A55%3A17&S=750148432&W=14112017&Y=FRA&K=t7wYel%2Ffv6JjQgoCRRJFCZcchSKYCJ%2BRMxD%2FEUDNml%2FPmZ8V4qrVZNvNef9j%2Fe7nuQvgru7p2DhzFsHSMcbRQFyMHUC7HSj8ZL104u%2FOvw1ssz5mZzhJ63o8J1zZRmDMcdRxGbpBFClkNUBU5HubI3JLn2g0BdewoE38Hv5Ixi8%3D
+2017-11-14 22:56:24 1510696584 DEBUG: Cart 19593: Standard IPN
+2017-11-14 22:56:24 1510696584 DEBUG: Cart 19593: Validating order
+2017-11-14 22:56:24 1510696584 DEBUG: Cart 19593: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-11-14 22:56:26 1510696586 DEBUG: Cart 19593: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-11-14 22:56:27 1510696587 DEBUG: Cart 19593: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2017-11-14 22:56:28 1510696588 DEBUG: Cart 19593: Customer is back from Paybox payment page. Payment success.
+2017-11-14 22:56:28 1510696584 DEBUG: Cart 19593: Order 1776 / Le paiement a été autorisé et capturé par Paybox.
+2017-11-14 22:56:28 1510696588 DEBUG: Call params: M=8464&R=19593%20-%20Melodie%20%20Ramocinski&T=765813713&A=622543&B=0&C=MasterCard&D=2009&E=00000&F=Y&G=O&I=FRA&J=56&N=513771&O=Y&P=3DSECURE&Q=22%3A55%3A17&S=750148432&W=14112017&Y=FRA&K=t7wYel%2Ffv6JjQgoCRRJFCZcchSKYCJ%2BRMxD%2FEUDNml%2FPmZ8V4qrVZNvNef9j%2Fe7nuQvgru7p2DhzFsHSMcbRQFyMHUC7HSj8ZL104u%2FOvw1ssz5mZzhJ63o8J1zZRmDMcdRxGbpBFClkNUBU5HubI3JLn2g0BdewoE38Hv5Ixi8%3D
+2017-11-14 22:56:28 1510696588 DEBUG: Cart 19593: (IPN) Cart already being validated as order.

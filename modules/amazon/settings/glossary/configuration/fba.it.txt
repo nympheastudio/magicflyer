@@ -1,0 +1,4 @@
+Applicare un prezzo specifico ai prodotti FBA
+formula da applicare sul totale dei prezzi dei prodotti esportati (moltiplicazione, divisione, addizione, sottrazione, percentuali...)
+Utilizzare il simbolo @ come prezzo di riferimento (ad esempio: @ + 10 % significa che si deve aggiungere 10 %% al prezzo iniziale)
+Se non specificato, verrà utilizzata la configurazione globale

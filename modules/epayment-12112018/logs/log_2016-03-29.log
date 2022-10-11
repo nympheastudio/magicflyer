@@ -1,0 +1,20 @@
+2016-03-29 10:17:15 1459239434 DEBUG: URL to check 2
+2016-03-29 10:17:15 1459239434 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-29 10:17:15 1459239434 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-29 10:17:15 1459239434 DEBUG: Cart 661: Redirecting customer to Paybox (CARTE, CB).
+2016-03-29 10:17:39 1459239459 DEBUG: Call params: M=1700&R=661%20-%20Celine%20BILLOT&T=619732987&A=324422&B=0&C=Visa&D=1711&E=00000&G=D&H=3A94A4190B8DADD37F260AA9851585D141706D49&I=FRA&J=&N=&P=CARTE&Q=10%3A17%3A16&S=616596469&W=29032016&Y=FRA&K=IaUJwHncwkLzRiTgChd0EgpEcsLag9XF%2BCylHUs8DuaKIE1Jkj4D2flFwrhwwakyU%2FG8Qu71lmQ88NURovDlV2SUpllEffu7HCoywThuCZa%2FqnoJA2%2FTThptKR87kCSsiTK1NRzw8SS8JhHREya9%2FmvXdxfyyMNRnJfHYnVfuR8%3D
+2016-03-29 10:17:39 1459239459 DEBUG: Cart 661: Standard IPN
+2016-03-29 10:17:39 1459239459 DEBUG: Cart 661: Validating order (PS1.5+)
+2016-03-29 10:17:39 1459239459 DEBUG: Cart 661: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-29 10:17:40 1459239459 DEBUG: Cart 661: Order 142 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-29 10:17:40 1459239460 DEBUG: Cart 661: Customer is back from Paybox payment page. Payment success.
+2016-03-29 21:31:08 1459279868 DEBUG: URL to check 2
+2016-03-29 21:31:08 1459279868 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-03-29 21:31:08 1459279868 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-03-29 21:31:08 1459279868 DEBUG: Cart 666: Redirecting customer to Paybox (CARTE, CB).
+2016-03-29 21:31:46 1459279906 DEBUG: Call params: M=2297&R=666%20-%20Carine%20JAHIER&T=620010360&A=720406&B=0&C=Visa&D=1706&E=00000&G=D&H=4F68C19DAF068A722F5FB362BAD9C0AD8A7AC5DE&I=FRA&J=&N=&P=CARTE&Q=21%3A31%3A10&S=616812386&W=29032016&Y=FRA&K=Jg8U9QtoG9kCTSy2EEM464i3uAR5EQv2cf5pnZlM9l%2FVHunqyajyGnUKS0%2B3quDOEbz%2BPSjwWLJsjouP%2BVzNHauhT1SqWzpFz8K5QYzIJp2UjLag4MmD3V4NR2LmfEM0Mf0JmWxdfuiEyUT2p7z2ldtOW195hDVxTLqc%2F4KobeQ%3D
+2016-03-29 21:31:46 1459279906 DEBUG: Cart 666: Standard IPN
+2016-03-29 21:31:46 1459279906 DEBUG: Cart 666: Validating order (PS1.5+)
+2016-03-29 21:31:47 1459279907 DEBUG: Cart 666: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-03-29 21:31:48 1459279906 DEBUG: Cart 666: Order 143 / Le paiement a été autorisé et capturé par Paybox.
+2016-03-29 21:31:49 1459279909 DEBUG: Cart 666: Customer is back from Paybox payment page. Payment success.

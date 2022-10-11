@@ -1,0 +1,1 @@
+El mapeo libre le permite hacer corresponder el valor que tiene en Prestashop con un valor de su elección en Amazon.

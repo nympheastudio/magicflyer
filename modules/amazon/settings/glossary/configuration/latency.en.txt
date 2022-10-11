@@ -1,0 +1,2 @@
+Latency delay in days before this product will be shipped (ie: preparation time, your own delay before shipment).
+It will be the default delay and could be override by another delay on the product sheet.

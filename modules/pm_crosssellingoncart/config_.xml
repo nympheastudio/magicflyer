@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pm_crosssellingoncart</name>
+	<displayName><![CDATA[Cross Selling On Cart]]></displayName>
+	<version><![CDATA[2.4.0]]></version>
+	<description><![CDATA[Display a selection of products on the cart summary]]></description>
+	<author><![CDATA[Presta-Module]]></author>
+	<tab><![CDATA[merchandizing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

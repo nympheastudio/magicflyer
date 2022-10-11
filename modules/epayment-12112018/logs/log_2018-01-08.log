@@ -1,0 +1,20 @@
+2018-01-08 10:37:54 1515404273 DEBUG: URL to check 2
+2018-01-08 10:37:54 1515404273 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-01-08 10:37:55 1515404273 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-01-08 10:37:55 1515404273 DEBUG: Cart 20244: Redirecting customer to Paybox (CARTE, CB).
+2018-01-08 10:39:21 1515404361 DEBUG: Call params: M=9092&R=20244%20-%20Justine%20PRIMET&T=779947659&A=608458&B=0&C=MasterCard&D=1912&E=00000&F=Y&G=O&I=FRA&J=70&N=513130&O=Y&P=3DSECURE&Q=10%3A37%3A56&S=762877046&W=08012018&Y=FRA&K=KDfmcA3R%2BnfWx9Pq79KAd6UqTNKia2gJzDWALRNzgE40q%2FOA%2Fp7FkSXk7%2FuG2nEFRPDfUsSzqCNjm9bN08esswe38n4s27XZJhKKTTOmZSAtTqU6VusReT%2BDPvkrjA5YMVzMs7dd3eNr4gmPyy3%2FKjoJmBaxz3ltSJ4iYo4fW4A%3D
+2018-01-08 10:39:21 1515404361 DEBUG: Cart 20244: Standard IPN
+2018-01-08 10:39:21 1515404361 DEBUG: Cart 20244: Validating order
+2018-01-08 10:39:21 1515404361 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-01-08 10:39:22 1515404362 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2018-01-08 10:39:24 1515404364 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2018-01-08 10:39:25 1515404365 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2018-01-08 10:39:27 1515404367 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 4).
+2018-01-08 10:39:28 1515404368 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 5).
+2018-01-08 10:39:29 1515404369 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 6).
+2018-01-08 10:39:31 1515404371 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 7).
+2018-01-08 10:39:32 1515404372 DEBUG: Cart 20244: Customer is back from Paybox payment page. Waiting order validation (loop 8).
+2018-01-08 10:39:33 1515404361 DEBUG: Cart 20244: Order 1849 / Le paiement a été autorisé et capturé par Paybox.
+2018-01-08 10:39:33 1515404373 DEBUG: Cart 20244: Customer is back from Paybox payment page. Payment success.
+2018-01-08 10:39:34 1515404374 DEBUG: Call params: M=9092&R=20244%20-%20Justine%20PRIMET&T=779947659&A=608458&B=0&C=MasterCard&D=1912&E=00000&F=Y&G=O&I=FRA&J=70&N=513130&O=Y&P=3DSECURE&Q=10%3A37%3A56&S=762877046&W=08012018&Y=FRA&K=KDfmcA3R%2BnfWx9Pq79KAd6UqTNKia2gJzDWALRNzgE40q%2FOA%2Fp7FkSXk7%2FuG2nEFRPDfUsSzqCNjm9bN08esswe38n4s27XZJhKKTTOmZSAtTqU6VusReT%2BDPvkrjA5YMVzMs7dd3eNr4gmPyy3%2FKjoJmBaxz3ltSJ4iYo4fW4A%3D
+2018-01-08 10:39:34 1515404374 DEBUG: Cart 20244: (IPN) Cart already being validated as order.

@@ -1,0 +1,16 @@
+2018-10-03 21:18:57 1538594337 DEBUG: URL to check 2
+2018-10-03 21:18:57 1538594337 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-03 21:18:58 1538594337 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-10-03 21:18:58 1538594337 DEBUG: Cart 28436: Redirecting customer to Paybox (CARTE, CB).
+2018-10-03 21:21:17 1538594477 DEBUG: Call params: M=14055&R=28436%20-%20Amandine%20Carriere&T=54657315&A=131614&B=0&C=MasterCard&D=2005&E=00000&F=Y&G=O&I=FRA&J=46&N=513771&O=Y&P=3DSECURE&Q=21%3A18%3A52&S=931374993&W=03102018&Y=FRA&K=07sXs%2Fwq%2BBDSPiRimuwdMdvkeeE7J4Z6xOEbAkyyeMgJDEP%2BlW9MYp0OsSrp6nhtBD%2FRnIGYnT0ls0Izo02SEMwis08VuBi0PuE8cLyX0ur7Fprn%2FeNBoY95is%2BOsd2iRRy4CCKwi1qC%2ForuOqF%2FCmfOMXhw%2B8%2FJnBlbomD2oDQ%3D
+2018-10-03 21:21:17 1538594477 DEBUG: Cart 28436: Standard IPN
+2018-10-03 21:21:17 1538594477 DEBUG: Cart 28436: Validating order
+2018-10-03 21:21:17 1538594477 DEBUG: Cart 28436: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-10-03 21:21:18 1538594477 DEBUG: Cart 28436: Order 3338 / Le paiement a été autorisé et capturé par Paybox.
+2018-10-03 21:21:19 1538594479 DEBUG: Cart 28436: Customer is back from Paybox payment page. Payment success.
+2018-10-03 22:49:05 1538599745 DEBUG: URL to check 2
+2018-10-03 22:49:05 1538599745 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-10-03 22:49:05 1538599745 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-10-03 22:49:05 1538599745 DEBUG: Cart 28441: Redirecting customer to Paybox (CARTE, CB).
+2018-10-03 22:50:14 1538599814 DEBUG: Call params: M=3408&R=28441%20-%20Lioneo%20GRANIER&T=54686123&B=0&C=CB&D=2101&E=00040&F=N&G=N&I=FRA&J=21&N=497414&O=Y&P=CARTE&Q=22%3A48%3A58&S=931397925&W=03102018&K=s24s66i1BstGFh6o1EitCUSPTmWKpXcDUz3glPy0FeY4TCDCohWGmIF3peumnXSO%2ByWxJ11wc0bBjwq2SmU67x6Da0p1igu%2BMnkFDvbeWPGPqyCLNAzCjvPe0zV1xJs3FcQIxLsC6bl6%2FxUyiMJ%2B6XuTHX4I8Ozotbcqbk82tHo%3D
+2018-10-03 22:50:14 1538599814 DEBUG: Cart 28441: (IPN) Payment was refused by Paybox (40).

@@ -1,0 +1,2 @@
+Verwenden Sie individuelle oder globale Methode (Standard ist global).
+Das individuelle Konto erstellt ein Konto pro Kunde

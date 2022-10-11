@@ -1,0 +1,42 @@
+/**
+ * @author    Jamoliddin Nasriddinov <jamolsoft@gmail.com>
+ * @copyright (c) 2018, Jamoliddin Nasriddinov
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html  GNU General Public License, version 2
+ */
+
+.radio_button {
+    float: left !important;
+    margin: 0 25px 15px 0 !important;
+}
+
+textarea {
+    min-height: 180px;
+    resize: vertical !important;
+}
+
+.help-block {
+    clear: both !important;
+}
+
+.bootstrap select[multiple] {
+    width: auto !important;
+    height: auto !important;
+    min-width: 300px;
+    min-height: 120px;
+}
+
+.bootstrap .fixed-width-xl {
+    width: 250px !important;
+}
+
+.number_field {
+    max-width: 267px;
+}
+
+.elegantal_hidden {
+    display: none;
+}
+
+#module_form .input-group.fixed-width-lg {
+    width: auto !important;
+}

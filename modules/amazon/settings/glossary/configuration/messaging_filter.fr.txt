@@ -1,0 +1,10 @@
+Vous devrez créer des filtre afin que Google applique automatiquement le label approprié ;
+
+Par exemple, pour tous les messages venant de Amazon.fr, vous appliquerez le label Amazon-Fr comme montré sur l'image si dessous ;
+
+ <img src="views/img/tips/fr/filter.jpg" />
+
+Notez la présence de l'astérisque (*@amazon.fr)
+
+Vous répeterez l'opération pour toutes les marketplaces (.co.uk, .de, etc.)
+

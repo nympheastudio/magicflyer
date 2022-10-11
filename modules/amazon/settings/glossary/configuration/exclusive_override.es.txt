@@ -1,0 +1,2 @@
+Permite configurar sobreescritura de envío por producto
+Esta opción agregará una sección de “Sobreescritura de envío” en cada pestaña de Marketplace

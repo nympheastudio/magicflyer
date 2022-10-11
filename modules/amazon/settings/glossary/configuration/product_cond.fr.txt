@@ -1,0 +1,7 @@
+Etats côté Amazon / Etats côté Prestashop, veuillez faire correspondre les paramètres souhaités
+
+Exemple de mapping des conditions/états : 
+
+<img src="views/img/tips/fr/condition.jpg" />
+
+Note: La valeur ne peut être mappée qu'une seule fois.

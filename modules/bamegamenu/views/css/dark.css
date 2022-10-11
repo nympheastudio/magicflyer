@@ -1,0 +1,61 @@
+
+#mega_menu_plus ul,#mega_menu_plus div.sub,.language_rtl#mega_menu_plus ul li div.sub .submenu-container{
+	background-color:#333;
+}
+#mega_menu_plus ul li a span, .cols .content_submenu .titlesub, #mega_menu_plus ul li p, ul.treelinks li ul li a:after{
+	color:#fff;
+}
+body .language_ltr#mega_menu_plus li.submenu >a>span:after{
+	color:#fff !important;
+}
+.mg-menu > li.submenu:hover a:before{
+	border-color: transparent transparent #333 transparent;
+}
+#mega_menu_plus>ul{
+	height: 50px;
+	padding-top: 5px;
+	border-bottom:0px;
+}
+#mega_menu_plus ul.mg-menu > li {
+	height:100%;
+}
+#mega_menu_plus ul.mg-menu > li >a{
+}
+.mg-menu > li.submenu:hover a:before{
+	bottom: 0px;
+}
+#mega_menu_plus ul li div.sub{
+	border-top: 3px solid #333;
+}
+#mega_menu_plus ul.mg-menu > li >a{
+	line-height: 53px;
+	margin-top: -5px;
+}
+.mg-menu > li > a:hover span, #mega_menu_plus ul li a:hover span, #mega_menu_plus li.submenu >a:hover>span:after, ul.treelinks li ul li:hover >a:after{
+	color:#6f6f6f !important;
+}
+ul.menuproduct>li{
+	border:2px solid #333;
+}
+@media only screen and (max-width : 768px){
+	body #mega_menu_plus .mobi a{
+		color: #fff !important;
+		background-color: #333;
+	}
+	#mega_menu_plus li.submenu >.submore:after, .cols .content_submenu .titlesub:after{
+		color:#fff !important;
+	}
+	
+	.language_ltr ul.treelinks li ul li .submore:after{
+		color:#fff;
+		
+	}
+	#mega_menu_plus>ul{
+		height:auto;
+	}
+	.language_rtl ul.treelinks li ul li .submore:after{
+		float:left;
+		color:#fff;
+		
+	}
+}

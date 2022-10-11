@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>lgfreeshippingzones</name>
+	<displayName><![CDATA[Free Shipping / Delivery by Zone, Carrier, Price and Weight]]></displayName>
+	<version><![CDATA[1.2.5]]></version>
+	<description><![CDATA[Set free shipping for different zones, carriers, price and weight interval.]]></description>
+	<author><![CDATA[Línea Gráfica]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

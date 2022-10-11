@@ -1,0 +1,1 @@
+Exclude products where price is greater than this value.

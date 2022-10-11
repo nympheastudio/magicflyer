@@ -1,0 +1,29 @@
+2022-09-16 00:34:03 1663281243 DEBUG: URL to check 2
+2022-09-16 00:34:03 1663281243 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-09-16 00:34:03 1663281243 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-09-16 00:34:03 1663281243 DEBUG: Cart 66777: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-09-16 00:34:08 1663281248 DEBUG: Cart 66777: Payment was canceled by user on Verifone e-commerce payment page.
+2022-09-16 00:45:58 1663281958 DEBUG: URL to check 2
+2022-09-16 00:45:58 1663281958 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-09-16 00:45:59 1663281958 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-09-16 00:45:59 1663281958 DEBUG: Cart 66777: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-09-16 00:47:04 1663282024 DEBUG: Call params: M=8522&R=66777%20-%20Christiane%20Thu-Thon&T=1079153643&A=510130&B=0&C=Visa&D=2409&E=00000&F=Y&G=O&I=FRA&J=39&N=497043&O=Y&P=CARTE&Q=00%3A47%3A05&S=933625104&W=16092022&Y=FRA&Z=0-0&K=cQlDw50BR3qyDWGlf5hNFY2kUutTKVnDwrEDjAByRnjQIH9r4%2BWZox6Q89uwvQsWXBLZfmWkdYYchotuELs9U8j1wr4MFTcKucvBfoqBjaV5fvmoQ81z7k8SzeTE80uwhnrK2%2BTMZLbRe6qRL7zWusgpD4rbw%2B42Z0hSyveUVR4%3D
+2022-09-16 00:47:04 1663282024 DEBUG: Cart 66777: Standard IPN
+2022-09-16 00:47:04 1663282024 DEBUG: Cart 66777: Validating order
+2022-09-16 00:47:05 1663282025 DEBUG: Cart 66777: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-09-16 00:47:06 1663282026 DEBUG: Cart 66777: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-09-16 00:47:07 1663282027 DEBUG: Cart 66777: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-09-16 00:47:08 1663282028 DEBUG: Cart 66777: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-09-16 00:47:10 1663282030 DEBUG: Cart 66777: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-09-16 00:47:10 1663282024 DEBUG: Cart 66777: Order 6089 validated, creating details
+2022-09-16 00:47:10 1663282024 DEBUG: Cart 66777: Order 6089 / Le paiement a été autorisé et capturé par Paybox.
+2022-09-16 00:47:11 1663282031 DEBUG: Cart 66777: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-09-16 19:21:06 1663348866 DEBUG: URL to check 2
+2022-09-16 19:21:07 1663348866 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-09-16 19:21:07 1663348866 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-09-16 19:21:07 1663348866 DEBUG: Cart 66782: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-09-16 19:21:52 1663348912 DEBUG: Call params: M=4378&R=66782%20-%20Emilie%20Langlet&T=1624424712&A=642051&B=0&C=CB&D=2306&E=00000&F=Y&G=O&I=FRA&J=13&N=513272&O=Y&P=CARTE&Q=19%3A21%3A52&S=41035326&W=16092022&Y=FRA&Z=0-0&K=0IMb2pqHHYxwLUnxPVweuitiLG4jUxfjC3qwI9tGfPrnJAZDByTcdYRfDouiiIXN4wiUqm8IGthY2kZrCiomQ0e5V76k%2Bv4cm46RpjPXc2oq8dDJeCsO6kX6PB%2BIJcTOR8Ep0QQNvmhqTgssvXLHJAiUccFwtV2xN%2FxRixhTsdg%3D
+2022-09-16 19:21:52 1663348912 DEBUG: Cart 66782: Standard IPN
+2022-09-16 19:21:52 1663348912 DEBUG: Cart 66782: Validating order
+2022-09-16 19:21:57 1663348912 DEBUG: Cart 66782: Order 6090 validated, creating details
+2022-09-16 19:21:58 1663348912 DEBUG: Cart 66782: Order 6090 / Le paiement a été autorisé et capturé par Paybox.

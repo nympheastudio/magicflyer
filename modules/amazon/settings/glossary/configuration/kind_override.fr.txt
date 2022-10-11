@@ -1,0 +1,2 @@
+Additif si vous souhaitez ajouter à vos règles de frais de port déjà configurées sur Amazon. Additif ajoutera des frais de port aux frais de port existants.
+Exclusif pour remplacer les frais de port que vous avez déjà configuré sur Amazon. Exclusif remplacera les frais de port déjà définis.

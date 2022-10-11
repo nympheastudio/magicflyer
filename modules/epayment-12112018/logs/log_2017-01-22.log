@@ -1,0 +1,38 @@
+2017-01-22 15:58:13 1485097093 DEBUG: URL to check 2
+2017-01-22 15:58:13 1485097093 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-22 15:58:13 1485097093 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-22 15:58:13 1485097093 DEBUG: Cart 7387: Redirecting customer to Paybox (CARTE, CB).
+2017-01-22 15:59:24 1485097164 DEBUG: Call params: M=2445&R=7387%20-%20Charlotte%20%20Quintard&T=682916500&A=644526&B=0&C=Visa&D=1801&E=00000&F=Y&G=O&I=FRA&J=97&N=497040&O=Y&P=3DSECURE&Q=15%3A58%3A14&S=680711122&W=22012017&Y=FRA&K=CEOQZJTWRpJmzmVEdM5Aqz992YMFUKiJU%2FJWxE%2FF79KyiY9VRf1YnnqpF0D1EfpMWVBasXMVdJz2dmGdFJAmDeTzuIm2X%2B%2BO5p9y4dDtSHtzRUP0kC3GUBmk%2BApzpxrwwXJhY%2Fjfmut%2Bb34%2FsELJrfENj7cPdH4TDGjMddd5HYY%3D
+2017-01-22 15:59:24 1485097164 DEBUG: Cart 7387: Standard IPN
+2017-01-22 15:59:24 1485097164 DEBUG: Cart 7387: Validating order
+2017-01-22 15:59:24 1485097164 DEBUG: Cart 7387: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-01-22 15:59:25 1485097165 DEBUG: Cart 7387: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-01-22 15:59:26 1485097164 DEBUG: Cart 7387: Order 592 / Le paiement a été autorisé et capturé par Paybox.
+2017-01-22 15:59:27 1485097167 DEBUG: Cart 7387: Customer is back from Paybox payment page. Payment success.
+2017-01-22 19:00:05 1485108005 DEBUG: URL to check 2
+2017-01-22 19:00:05 1485108005 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-22 19:00:06 1485108005 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-22 19:00:06 1485108005 DEBUG: Cart 7376: Redirecting customer to Paybox (CARTE, CB).
+2017-01-22 19:00:08 1485108007 DEBUG: URL to check 2
+2017-01-22 19:00:08 1485108007 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-22 19:00:08 1485108007 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-22 19:00:08 1485108007 DEBUG: Cart 7376: Redirecting customer to Paybox (CARTE, CB).
+2017-01-22 19:22:25 1485109345 DEBUG: Cart 7376: Customer is back from Paybox payment page. Payment refused by Paybox (30).
+2017-01-22 19:23:05 1485109385 DEBUG: URL to check 2
+2017-01-22 19:23:05 1485109385 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-22 19:23:05 1485109385 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-22 19:23:05 1485109385 DEBUG: Cart 7376: Redirecting customer to Paybox (CARTE, CB).
+2017-01-22 19:26:43 1485109603 DEBUG: URL to check 2
+2017-01-22 19:26:43 1485109603 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-22 19:26:43 1485109603 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-22 19:26:43 1485109603 DEBUG: Cart 7376: Redirecting customer to Paybox (CARTE, CB).
+2017-01-22 19:29:34 1485109774 DEBUG: Call params: M=2250&R=7376%20-%20Marie%20catherine%20Vinciguerra&T=682962493&A=568181&B=0&C=Visa&D=1709&E=00000&F=Y&G=O&I=FRA&J=88&N=497301&O=Y&P=3DSECURE&Q=19%3A26%3A43&S=680753408&W=22012017&Y=FRA&K=LqhNmOGMvee1Alah9mg8havbG%2B9Ie9%2FQTWLcuav8k5WXuNC%2BuQCMKp7ABV6mJq7MlQHITXR6Sqw%2Bjjk%2Fo0dzJgzpmFrUYve5gLoymGVKcAGfMUcj7nEvcG9A1u%2F1D4p9O%2BJ%2Bh%2FekvAnRCQXPB5PBEXgOAyRMynGme8a014Ss%2BV4%3D
+2017-01-22 19:29:34 1485109774 DEBUG: Cart 7376: Standard IPN
+2017-01-22 19:29:34 1485109774 DEBUG: Cart 7376: Validating order
+2017-01-22 19:29:35 1485109775 DEBUG: Cart 7376: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-01-22 19:29:35 1485109774 DEBUG: Cart 7376: Order 593 / Le paiement a été autorisé et capturé par Paybox.
+2017-01-22 19:29:36 1485109776 DEBUG: Cart 7376: Customer is back from Paybox payment page. Payment success.
+2017-01-22 22:29:20 1485120559 DEBUG: URL to check 2
+2017-01-22 22:29:20 1485120559 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-01-22 22:29:20 1485120559 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-01-22 22:29:20 1485120559 DEBUG: Cart 7411: Redirecting customer to Paybox (CARTE, CB).

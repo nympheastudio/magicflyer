@@ -1,0 +1,1 @@
+Supprime les produits sur Amazon quand ils ne sont plus disponibles ou en rupture de stock

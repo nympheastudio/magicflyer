@@ -1,0 +1,24 @@
+Bonne journée,
+Nous vous remercions de votre demande. Nous vous contacterons dès que possible.
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Language
+{lang_name}
+
+domaine
+
+valeur
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 
+
+
+
+
+

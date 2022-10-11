@@ -1,0 +1,3 @@
+Le spese di cancellazione permettono di stabilire eccezioni per i costi di spedizione per un dato SKU.
+
+Questa caratteristica è spesso usata per oggetti pesanti, fuori misura o di misure non standard, come kayak o paraurti.

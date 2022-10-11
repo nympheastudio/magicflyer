@@ -1,0 +1,4 @@
+Browse Node außer Kraft setzen:
+
+Dieser Wert wird  für Ihr Produkt die Browse Node ID, die Sie in der Profilkonfiguration konfiguriert haben, ersetzen.
+Sie können zudem einen globalen Browse Node für Ihr Profil haben und pro Produkterwartungen erstellen.

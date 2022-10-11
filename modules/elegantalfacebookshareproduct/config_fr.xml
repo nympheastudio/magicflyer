@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>elegantalfacebookshareproduct</name>
+	<displayName><![CDATA[Share us on Facebook and get a bonus gift]]></displayName>
+	<version><![CDATA[1.3.3]]></version>
+	<description><![CDATA[Add share button or popup on checkout page to encourage customers to share your shop on their Facebook and get a bonus gift in return.]]></description>
+	<author><![CDATA[ELEGANTAL]]></author>
+	<tab><![CDATA[social_networks]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr de vouloir désintaller?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

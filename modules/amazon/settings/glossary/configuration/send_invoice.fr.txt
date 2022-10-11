@@ -1,0 +1,1 @@
+Activer l'envoi automatique de la facture par email. Le module enverra la facture par email attachée en pièce jointe (PDF).

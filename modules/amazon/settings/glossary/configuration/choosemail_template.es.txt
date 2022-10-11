@@ -1,0 +1,2 @@
+Plantilla del formulario de correo electrónico que se utilizará para solicitar la valoración del vendedor a los clientes.
+Puede editar o añadir estos ficheros en el directorio modules/amazon/mail.

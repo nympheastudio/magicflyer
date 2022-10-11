@@ -1,0 +1,2 @@
+Seleccione el transportista de su tienda, que será mostrado en los pedidos Amazon
+Seleccione el transportista que será utilizado para notificar a Amazon

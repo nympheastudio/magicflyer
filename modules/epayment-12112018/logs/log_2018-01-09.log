@@ -1,0 +1,13 @@
+2018-01-09 12:47:29 1515498448 DEBUG: URL to check 2
+2018-01-09 12:47:29 1515498448 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-01-09 12:47:29 1515498448 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-01-09 12:47:29 1515498448 DEBUG: Cart 20270: Redirecting customer to Paybox (CARTE, CB).
+2018-01-09 12:48:37 1515498517 DEBUG: Call params: M=2442&R=20270%20-%20fabrice%20NEVES&T=780321394&A=914324&B=0&C=Visa&D=1904&E=00000&F=Y&G=O&I=FRA&J=98&N=497943&O=Y&P=3DSECURE&Q=12%3A47%3A30&S=763153832&W=09012018&Y=FRA&K=u54n98AYX0OStcQe7lJ%2BuaM1flilRQVovUlPkmHUbA3Zps0Rgd0fXucgIMC7PyRs6lXW%2FQUjiIfaxmSzoWXBxnX5e8d76BRbujax3ZQkJhHnFSugeZRSDLkufoDuczyt%2FfSIbSplRLvulSJMmMpr7KJeHU9aJvN7KDMvl69C%2F7U%3D
+2018-01-09 12:48:37 1515498517 DEBUG: Cart 20270: Standard IPN
+2018-01-09 12:48:37 1515498517 DEBUG: Cart 20270: Validating order
+2018-01-09 12:48:37 1515498517 DEBUG: Cart 20270: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2018-01-09 12:48:38 1515498518 DEBUG: Cart 20270: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2018-01-09 12:48:39 1515498517 DEBUG: Cart 20270: Order 1850 / Le paiement a été autorisé et capturé par Paybox.
+2018-01-09 12:48:39 1515498519 DEBUG: Call params: M=2442&R=20270%20-%20fabrice%20NEVES&T=780321394&A=914324&B=0&C=Visa&D=1904&E=00000&F=Y&G=O&I=FRA&J=98&N=497943&O=Y&P=3DSECURE&Q=12%3A47%3A30&S=763153832&W=09012018&Y=FRA&K=u54n98AYX0OStcQe7lJ%2BuaM1flilRQVovUlPkmHUbA3Zps0Rgd0fXucgIMC7PyRs6lXW%2FQUjiIfaxmSzoWXBxnX5e8d76BRbujax3ZQkJhHnFSugeZRSDLkufoDuczyt%2FfSIbSplRLvulSJMmMpr7KJeHU9aJvN7KDMvl69C%2F7U%3D
+2018-01-09 12:48:39 1515498519 DEBUG: Cart 20270: (IPN) Cart already being validated as order.
+2018-01-09 12:48:39 1515498519 DEBUG: Cart 20270: Customer is back from Paybox payment page. Payment success.

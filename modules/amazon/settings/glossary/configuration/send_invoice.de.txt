@@ -1,0 +1,1 @@
+Aktivieren Sie die automatische Zusendung der Rechnung per E-Mail. Das Modul sendet die Rechnung als Email-Anhang (PDF).

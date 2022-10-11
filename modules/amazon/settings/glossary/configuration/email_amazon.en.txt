@@ -1,0 +1,5 @@
+In Seller Central, you will redirect the "Customer Service Email" to your Gmail mailbox ;
+
+<img src="views/img/tips/en/email_amazon.jpg" />
+
+Note: don't use the "notification" menu, it won't work. Only the configuration, as shown on the picture above works !

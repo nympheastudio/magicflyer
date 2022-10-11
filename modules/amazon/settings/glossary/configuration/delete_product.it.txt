@@ -1,0 +1,1 @@
+Eliminare i prodotti da Amazon quando non sono più disponibili o sono terminate le scorte.

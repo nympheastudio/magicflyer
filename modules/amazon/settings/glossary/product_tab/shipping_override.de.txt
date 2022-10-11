@@ -1,0 +1,3 @@
+Der Stornoversand ermöglicht Ihnen Ausnahmen in den Versandkosten für gegebene SKUs zu etablieren.
+
+Diese Eigenschaft wird manchmal für schwere, übergroße Artikel oder mit abnormaler Größe, wie ein Kanu oder ein Stoßstange, benutzt.

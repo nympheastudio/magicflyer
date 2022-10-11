@@ -1,0 +1,8 @@
+Aktiviert Amazon Europe Support
+
+Um danach jede Platform frei zu schalten, müssen Sie die entsprechende Sprache auf Prestashop aktivieren.
+
+Es ist notwendig die entsprechende Sprache zu aktivieren, weil Texte, Beschreibungen und Produktnamen in der Sprache des Landes versendet werden müssen.
+
+Weitere Informationen zu diesem Thema in der Online-Dokumentation:
+http://documentation.common-services.com/amazonv4/zusaetzliche-sprachen-%E2%80%8B%E2%80%8B-zusaetzliche-europaeische-plattformen-frankreich-deutschland-vereinigtes-koenigreich-spanien-italien/?lang=de

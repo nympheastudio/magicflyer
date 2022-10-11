@@ -1,0 +1,2 @@
+2016-09-20 15:55:55 1474379755 DEBUG: Checking Paybox update to version 3.0.0
+2016-09-20 15:55:55 1474379755 DEBUG:  Paybox version check answer: {"version":"3.0.0","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.0.zip","message":"Mise \u00e0 jour MAJEURE: suppression des v\u00e9rifications ip superflues pour l'IPN, diverses corrections de bugs mineurs."}

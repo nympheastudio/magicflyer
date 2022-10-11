@@ -1,0 +1,1 @@
+Display language tab even they are inactive. Used if you do not want to active languages but use them for Amazon.

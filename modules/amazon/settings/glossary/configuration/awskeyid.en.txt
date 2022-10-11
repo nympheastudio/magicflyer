@@ -1,0 +1,3 @@
+AWS Key Id - AWS access key number
+
+<img src="views/img/tips/en/awskeyid.jpg" />

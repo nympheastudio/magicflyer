@@ -1,0 +1,13 @@
+2022-03-21 17:27:35 1647880055 DEBUG: URL to check 2
+2022-03-21 17:27:35 1647880055 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-03-21 17:27:35 1647880055 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-03-21 17:27:35 1647880055 DEBUG: Cart 59564: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-03-21 17:30:38 1647880238 DEBUG: Call params: M=9326&R=59564%20-%20Giudice%20Josephine&T=1049165062&A=455186&B=0&C=Visa&D=2611&E=00000&F=Y&G=O&I=BEL&J=31&N=487104&O=Y&P=CARTE&Q=17%3A30%3A37&S=903740342&W=21032022&Y=BEL&Z=0-0&K=2HHZjYkNjKx8K41HY89QcpJnvwseg6nQGd3f6f37h2n7HdSSxGVJdHAdgXtB2uQrTEvVgN0d%2Ff1kG%2B0TM2g6pmYf%2BxRSOvtsaHnxTfOrqh%2BaXK4hx%2FhDplal6yHwWIpTIClY7L%2FIHwp5u3KNLJD%2BzutYcXuVxY%2Bzq402A2L48dE%3D
+2022-03-21 17:30:38 1647880238 DEBUG: Cart 59564: Standard IPN
+2022-03-21 17:30:38 1647880238 DEBUG: Cart 59564: Validating order
+2022-03-21 17:30:39 1647880239 DEBUG: Cart 59564: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-03-21 17:30:40 1647880240 DEBUG: Cart 59564: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-03-21 17:30:41 1647880241 DEBUG: Cart 59564: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-03-21 17:30:42 1647880238 DEBUG: Cart 59564: Order 5743 validated, creating details
+2022-03-21 17:30:42 1647880238 DEBUG: Cart 59564: Order 5743 / Le paiement a été autorisé et capturé par Paybox.
+2022-03-21 17:30:43 1647880243 DEBUG: Cart 59564: Customer is back from Verifone e-commerce payment page. Payment success.

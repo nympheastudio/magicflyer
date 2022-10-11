@@ -1,0 +1,26 @@
+2016-08-12 02:17:01 1470961021 DEBUG: URL to check 2
+2016-08-12 02:17:01 1470961021 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-12 02:17:02 1470961021 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-12 02:17:02 1470961021 DEBUG: Cart 2321: Redirecting customer to Paybox (CARTE, CB).
+2016-08-12 10:32:54 1470990774 DEBUG: URL to check 2
+2016-08-12 10:32:54 1470990774 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-12 10:32:55 1470990774 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-12 10:32:55 1470990774 DEBUG: Cart 2278: Redirecting customer to Paybox (CARTE, CB).
+2016-08-12 10:34:41 1470990881 DEBUG: Call params: M=2264&R=2278%20-%20Adeline%20CANQUELAIN&T=640495247&A=690368&B=0&C=Visa&D=1805&E=00000&F=%20&G=N&H=6E7FE9C7AE093F04C9F0F1E10FE4EA91E10135DB&I=FRA&J=&N=&P=3DSECURE&Q=10%3A32%3A56&S=636580796&W=12082016&Y=FRA&K=zyQmxUT01LA7683ZjSWnBUXJwFW6hXubW007JXeaSs8nLZ10PZTefxcd%2FqIEflV1pFwYBab%2B%2FKybOu9O8dewezT1xLCEF1LsrU8iwxpP8QpmJdAamFNHiLFQIlehAQd%2Fdo25G9IEvUf1Mw2713IioOV4wdhE5tKgHrAv%2BNaNYIE%3D
+2016-08-12 10:34:41 1470990881 DEBUG: Cart 2278: Standard IPN
+2016-08-12 10:34:41 1470990881 DEBUG: Cart 2278: Validating order (PS1.5+)
+2016-08-12 10:34:41 1470990881 DEBUG: Cart 2278: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-12 10:34:42 1470990882 DEBUG: Cart 2278: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-12 10:34:43 1470990881 DEBUG: Cart 2278: Order 317 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-12 10:34:44 1470990884 DEBUG: Cart 2278: Customer is back from Paybox payment page. Payment success.
+2016-08-12 19:14:24 1471022064 DEBUG: URL to check 2
+2016-08-12 19:14:24 1471022064 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-12 19:14:25 1471022064 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-08-12 19:14:25 1471022064 DEBUG: Cart 2337: Redirecting customer to Paybox (CARTE, CB).
+2016-08-12 19:14:59 1471022099 DEBUG: Call params: M=14210&R=2337%20-%20Tayfun%20%20Onay&T=640555721&A=659886&B=0&C=MasterCard&D=1808&E=00000&F=%20&G=N&H=F67440C759A0687DDB83FB606AF6F3A3BB3857E2&I=DEU&J=&N=&O=U&P=3DSECURE&Q=19%3A14%3A25&S=636640470&W=12082016&Y=DEU&K=NaWCZqczILwyai56AsDoH9oeenIbDZ9RGFWDWQIJwuZjAlUwHoBysQt3uQYGm4LbnDtZTNhOh0PL4jksa%2FV5jsvP%2FpMgnIGOkFODe7ADOrd%2B6F3cMJMbxhSuhk%2FFg0OEUPOg9BwBI3mbzffZ%2B3bLisiN73QhdXYbuTkzY5DEsAE%3D
+2016-08-12 19:14:59 1471022099 DEBUG: Cart 2337: Standard IPN
+2016-08-12 19:14:59 1471022099 DEBUG: Cart 2337: Validating order (PS1.5+)
+2016-08-12 19:14:59 1471022099 DEBUG: Cart 2337: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-12 19:15:00 1471022100 DEBUG: Cart 2337: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-12 19:15:01 1471022099 DEBUG: Cart 2337: Order 318 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-12 19:15:02 1471022102 DEBUG: Cart 2337: Customer is back from Paybox payment page. Payment success.

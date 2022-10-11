@@ -1,0 +1,17 @@
+Guten Tag,
+Vielen Dank für Ihre Anfrage. Wir werden Sie schnellstmöglich kontaktieren.
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Language
+{lang_name}
+
+Feld
+Wert
+{form_data} 
+
+{shop_name} powered by PrestaShop

@@ -1,0 +1,25 @@
+2017-07-12 06:52:32 1499835152 DEBUG: URL to check 2
+2017-07-12 06:52:32 1499835152 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-12 06:52:32 1499835152 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-12 06:52:32 1499835152 DEBUG: Cart 15068: Redirecting customer to Paybox (CARTE, CB).
+2017-07-12 15:44:58 1499867098 DEBUG: URL to check 2
+2017-07-12 15:44:58 1499867098 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-12 15:44:58 1499867098 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-12 15:44:58 1499867098 DEBUG: Cart 15078: Redirecting customer to Paybox (CARTE, CB).
+2017-07-12 15:47:05 1499867225 DEBUG: Call params: M=7300&R=15078%20-%20Patricia%20Jakubiak&T=730859565&A=353111&B=0&C=MasterCard&D=1810&E=00000&F=Y&G=O&I=FRA&J=90&N=513283&O=Y&P=3DSECURE&Q=15%3A45%3A00&S=720769332&W=12072017&Y=FRA&K=nnsf0u6m7V%2FjtTivj2j9fENp2%2F%2BuQDIUgT8xOS0oOt3MfJlA6VlTw42WgWtK9x5rAbiMcczGxkJiFKVMIG4RndJ0YnRhXiMbXVx2Is3t0Y89gwfmK7yro4JYuHkf0UpoGh%2B1wZOrIqbxfWEAG69pLaNnx1FZmxex35zOsp7AztQ%3D
+2017-07-12 15:47:05 1499867225 DEBUG: Cart 15078: Standard IPN
+2017-07-12 15:47:05 1499867225 DEBUG: Cart 15078: Validating order
+2017-07-12 15:47:05 1499867225 DEBUG: Cart 15078: Order 1407 / Le paiement a été autorisé et capturé par Paybox.
+2017-07-12 15:47:05 1499867225 DEBUG: Cart 15078: Customer is back from Paybox payment page. Payment success.
+2017-07-12 22:36:26 1499891786 DEBUG: URL to check 2
+2017-07-12 22:36:26 1499891786 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-12 22:36:26 1499891786 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-12 22:36:26 1499891786 DEBUG: Cart 15090: Redirecting customer to Paybox (CARTE, CB).
+2017-07-12 22:39:34 1499891974 DEBUG: Call params: M=5272&R=15090%20-%20Anais%20LEVESQUE&T=730958279&A=667233&B=0&C=MasterCard&D=1710&E=00000&F=Y&G=O&I=FRA&J=29&N=513029&O=Y&P=3DSECURE&Q=22%3A36%3A32&S=720868548&W=12072017&Y=FRA&K=ulePSNnbs%2FB%2FijV%2ByJMhu7EUek4p5%2BSjeA%2FPtijUbIE5bzkfRgHC%2BHfaRJRUGnEDM0IQfSda4dgYroZr6Ou4JKDRnD9ZJusyqrpiEs0q3BotjBfGp28MGHq42Mq%2FjbmFR53%2Fxck%2FhQUkuKY%2FOe5vVbafWeQzifU8wYuML6M6jss%3D
+2017-07-12 22:39:34 1499891974 DEBUG: Cart 15090: Standard IPN
+2017-07-12 22:39:34 1499891974 DEBUG: Cart 15090: Validating order
+2017-07-12 22:39:35 1499891975 DEBUG: Cart 15090: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-07-12 22:39:36 1499891974 DEBUG: Cart 15090: Order 1408 / Le paiement a été autorisé et capturé par Paybox.
+2017-07-12 22:39:37 1499891977 DEBUG: Cart 15090: Customer is back from Paybox payment page. Payment success.
+2017-07-12 22:39:54 1499891994 DEBUG: Call params: M=5272&R=15090%20-%20Anais%20LEVESQUE&T=730958279&A=667233&B=0&C=MasterCard&D=1710&E=00000&F=Y&G=O&I=FRA&J=29&N=513029&O=Y&P=3DSECURE&Q=22%3A36%3A32&S=720868548&W=12072017&Y=FRA&K=ulePSNnbs%2FB%2FijV%2ByJMhu7EUek4p5%2BSjeA%2FPtijUbIE5bzkfRgHC%2BHfaRJRUGnEDM0IQfSda4dgYroZr6Ou4JKDRnD9ZJusyqrpiEs0q3BotjBfGp28MGHq42Mq%2FjbmFR53%2Fxck%2FhQUkuKY%2FOe5vVbafWeQzifU8wYuML6M6jss%3D
+2017-07-12 22:39:54 1499891994 DEBUG: Cart 15090: (IPN) Cart already being validated as order.

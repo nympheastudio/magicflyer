@@ -1,0 +1,1 @@
+Activar el envío automático de la factura por e-mail. El módulo enviará la factura  a los clientes por e-mail adjuntada en fichero adjunto (PDF).

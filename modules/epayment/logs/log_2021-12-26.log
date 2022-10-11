@@ -1,0 +1,16 @@
+2021-12-26 17:01:38 1640534498 DEBUG: URL to check 2
+2021-12-26 17:01:38 1640534498 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-12-26 17:01:38 1640534498 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-12-26 17:01:38 1640534498 DEBUG: Cart 57272: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-12-26 17:03:07 1640534587 DEBUG: Call params: M=4289&R=57272%20-%20Marion%20FERRE&T=1038480468&B=0&C=CB&D=2309&E=00040&F=N&G=N&I=FRA&J=62&N=513283&O=Y&P=3DSECURE&Q=17%3A03%3A06&S=292853065&W=26122021&Y=FRA&Z=0-0&K=aTLX1NanFuYAu0rHCuCpfQnoYTC%2Fy2lCwvgL3GCfytYfjxXAGpESWwHI4vybCkGmJgyiyurdjZRTC%2FH3A6Iu7c%2FhLd4wXKUaGKnpl1DgiGnNZfYMypuw4NpHZfHSmZyPaJcEAmvqIJG6er6Dc9oyOlNd%2FH9YADfzcGxXvZlv7uY%3D
+2021-12-26 17:03:07 1640534587 DEBUG: Cart 57272: (IPN) Payment was refused by Verifone e-commerce (40).
+2021-12-26 17:04:15 1640534655 DEBUG: Call params: M=4289&R=57272%20-%20Marion%20FERRE&T=1038480468&A=414944&B=0&C=CB&D=2309&E=00000&F=Y&G=O&I=FRA&J=62&N=513283&O=Y&P=3DSECURE&Q=17%3A04%3A13&S=292853201&W=26122021&Y=FRA&Z=0-0&K=fhqtZsRS3geGTeDqkE8YxXCL9n%2FT3Pot1d3CXvlN1K7dvtXgFMEJpM9uC8MAVpAhpacBo8xEx3NVjbtm2Lfoubrk08%2BUY0PL8AsbqYfuDpUlZUCLmN5z5fZ6COBdQrOJJY3FhqWuAxxBWsxNz5Yf5gDI3%2FviDhXCdw3VwbItDWk%3D
+2021-12-26 17:04:15 1640534655 DEBUG: Cart 57272: Standard IPN
+2021-12-26 17:04:15 1640534655 DEBUG: Cart 57272: Validating order
+2021-12-26 17:04:15 1640534655 DEBUG: Cart 57272: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2021-12-26 17:04:17 1640534657 DEBUG: Cart 57272: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2021-12-26 17:04:18 1640534658 DEBUG: Cart 57272: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2021-12-26 17:04:19 1640534659 DEBUG: Cart 57272: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2021-12-26 17:04:19 1640534655 DEBUG: Cart 57272: Order 5636 validated, creating details
+2021-12-26 17:04:19 1640534655 DEBUG: Cart 57272: Order 5636 / Le paiement a été autorisé et capturé par Paybox.
+2021-12-26 17:04:21 1640534661 DEBUG: Cart 57272: Customer is back from Verifone e-commerce payment page. Payment success.

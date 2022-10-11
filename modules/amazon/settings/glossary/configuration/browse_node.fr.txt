@@ -1,0 +1,7 @@
+Catégorisation sur Amazon.
+
+Vous pouvez utiliser le classifieur pour obtenir les browse node IDs:
+https://sellercentral.amazon.fr/listing/classify
+Cette option est requise pour le Canada, l'Europe et le Japon.
+
+Indiquez jusqu'à deux numéro d'arborescence, utilisez la virgule pour séparer

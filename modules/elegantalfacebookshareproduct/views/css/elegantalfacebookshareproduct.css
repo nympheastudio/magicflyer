@@ -1,0 +1,135 @@
+/**
+ * @author    Jamoliddin Nasriddinov <jamolsoft@gmail.com>
+ * @copyright (c) 2018, Jamoliddin Nasriddinov
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html  GNU General Public License, version 2
+ */
+
+body {
+    position: relative;
+}
+
+/* elegantal-popup */
+#elegantal_share_popup.elegantal-popup, #elegantal_select_gift_popup.elegantal-popup {
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 99999;
+}
+#elegantal_share_popup.elegantal-popup .elegantal-popup-inner, #elegantal_select_gift_popup.elegantal-popup .elegantal-popup-inner {
+    max-width: 700px;
+    width: 90%;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 2px 6px black;
+    border-radius: 3px;
+    background: #fff;
+}
+#elegantal_share_popup.elegantal-popup .elegantal-popup-close-x, #elegantal_select_gift_popup.elegantal-popup .elegantal-popup-close-x {
+    width: 30px;
+    height: 30px;
+    padding-top: 4px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    transition: ease 0.25s all;
+    -webkit-transform: translate(50%, -50%);
+    transform: translate(50%, -50%);
+    border-radius: 1000px;
+    background: rgba(0, 0, 0, 0.8);
+    font-family: Arial, Sans-Serif;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100%;
+    color: #fff;
+}/*
+#elegantal_share_popup.elegantal-popup .elegantal-popup-close-x:hover, #elegantal_select_gift_popup.elegantal-popup .elegantal-popup-close-x:hover {
+    -webkit-transform: translate(50%, -50%) rotate(180deg);
+    transform: translate(50%, -50%) rotate(180deg);
+    background: black;
+    text-decoration: none;
+}
+ END elegantal-popup */
+
+.elegantal-fb-header {
+    margin: -42px -40px 5px -40px;
+    padding: 40px 40px 40px 80px;
+    color: #fff;
+    font-size: 19px;
+    line-height: 40px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    background: url('../img/fb-white.png') 15px center no-repeat #3b5b9c;
+    background-size: 50px;
+}
+
+@media (max-width: 992px) {
+    .elegantal-fb-header {
+        font-size: 15px;
+        line-height: 1;
+    }
+}
+
+.elegantal-popup-inner {
+    padding-bottom: 10px;
+}
+
+.elegantal-popup-inner .elegantal-share-btn {
+    border-radius: 0;
+    border-width: 2px;
+    border-color: #59595b;
+    color: #59595b;
+    text-transform: uppercase;
+}
+
+@media (max-width: 992px) {
+    .elegantal-popup-inner .elegantal-share-btn {
+        padding: 6px 12px !important;
+        font-size: 14px !important;
+        max-width: 100%;
+        white-space: normal
+    }
+    
+    #elegantal_share_popup.elegantal-popup .elegantal-popup-inner, 
+    #elegantal_select_gift_popup.elegantal-popup .elegantal-popup-inner {padding-bottom: 10px}
+
+}
+
+#elegantal_select_gift_popup table {
+    width: 100%;
+}
+
+#elegantal_select_gift_popup table tr {
+    border-bottom: 1px solid #eee;
+}
+
+#elegantal_select_gift_popup table tr:hover {
+    background: #ededed;
+    cursor: pointer;
+}
+
+#elegantal_select_gift_popup table tr td {
+    vertical-align: middle;
+    padding-top: 12px;
+}
+
+#elegantal_select_gift_popup table img {
+    height: 30px;
+    margin-right: 5px;
+}
+
+#elegantal_select_gift_popup .elegantal_select_gift_header {
+    text-align:center; 
+    text-transform: uppercase;
+    color: #111;
+    font-size: 22px;
+    line-height: 1.2;
+}

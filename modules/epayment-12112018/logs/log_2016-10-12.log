@@ -1,0 +1,20 @@
+2016-10-12 09:24:36 1476257076 DEBUG: URL to check 2
+2016-10-12 09:24:36 1476257076 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-12 09:24:36 1476257076 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-12 09:24:36 1476257076 DEBUG: Cart 3891: Redirecting customer to Paybox (CARTE, CB).
+2016-10-12 09:26:09 1476257169 DEBUG: Call params: M=2297&R=3891%20-%20florence%20martinet&T=659226437&A=129929&B=0&C=MasterCard&D=1909&E=00000&F=Y&G=O&I=FRA&J=61&N=513162&O=Y&P=3DSECURE&Q=09%3A24%3A37&S=659023234&W=12102016&Y=FRA&K=EScznxl4dNAREGVEMSihPI%2B3vcyH%2F6l84eywSPCSoPCut8zvUPedntfZRDUDKqxh02Vj4wRkIvDOQmQGKC8QU7QaOpecb6DLNabfSttblBffY%2BaYhUnVWYRzjgtIQ6c2m07ypg%2F1icWUFNmmSZRYtOABMKDstKu4jmY8pfCiBDc%3D
+2016-10-12 09:26:09 1476257169 DEBUG: Cart 3891: Standard IPN
+2016-10-12 09:26:09 1476257169 DEBUG: Cart 3891: Validating order
+2016-10-12 09:26:09 1476257169 DEBUG: Cart 3891: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-12 09:26:10 1476257169 DEBUG: Cart 3891: Order 432 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-12 09:26:11 1476257171 DEBUG: Cart 3891: Customer is back from Paybox payment page. Payment success.
+2016-10-12 10:18:21 1476260300 DEBUG: URL to check 2
+2016-10-12 10:18:21 1476260300 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-12 10:18:21 1476260300 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-12 10:18:21 1476260300 DEBUG: Cart 3894: Redirecting customer to Paybox (CARTE, CB).
+2016-10-12 10:20:24 1476260424 DEBUG: Call params: M=2297&R=3894%20-%20Danielle%20PETITGIRARD&T=659243809&A=336932&B=0&C=Visa&D=1904&E=00000&F=Y&G=O&I=FRA&J=34&N=497291&O=Y&P=3DSECURE&Q=10%3A18%3A21&S=659039472&W=12102016&Y=FRA&K=WnI0CKecgN0%2BJyom9AJ9H%2FbQAHJu2aXYY5tmsQh4l%2FjTRI8CZzpoEfSedyg3ute9cJKGQtNdFwKWSCNF0Fx9IHcdvCldBoxRQZGafo2xjwd%2BQ5vENz9pO5WkxPBdxqDabYdozGGQ4va9o6iuxRUlw6eEJ23%2FZhsNOwUi3%2BUs35I%3D
+2016-10-12 10:20:24 1476260424 DEBUG: Cart 3894: Standard IPN
+2016-10-12 10:20:24 1476260424 DEBUG: Cart 3894: Validating order
+2016-10-12 10:20:25 1476260425 DEBUG: Cart 3894: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-12 10:20:25 1476260424 DEBUG: Cart 3894: Order 433 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-12 10:20:26 1476260426 DEBUG: Cart 3894: Customer is back from Paybox payment page. Payment success.

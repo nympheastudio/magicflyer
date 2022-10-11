@@ -1,0 +1,1 @@
+Abilitare la codifica sicura per i titoli/nomi e le descrizioni degli articoli per evitare problemi di codifica dei caratteri e per eliminare falsi risultati e caratteri con errori di codifica.

@@ -1,0 +1,1 @@
+Aktivieren Sie die sichere Kodierung für die Produktbenennungen und -beschreibungen, um Probleme der Zeichenkodierung zu vermeiden und um Rauschen und falsch kodierte Zeichen zu beseitigen.

@@ -1,0 +1,9 @@
+You will have to create a filter to apply automatically the suitable label:
+
+For instance, all messages coming from Amazon.co.uk, apply the label Amazon-Uk as shown on the picture below ;
+
+ <img src="views/img/tips/en/filter.jpg" />
+
+Please note the presence of the asterisk (*@amazon.co.uk)
+
+You will repeat the operation for each marketplace (.fr, .de, etc.)

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>sendcloud</name>
+	<displayName><![CDATA[SendCloud | La solution d&rsquo;exp&eacute;dition n&deg;1 pour votre boutique en ligne]]></displayName>
+	<version><![CDATA[1.1.3]]></version>
+	<description><![CDATA[SendCloud booste vos exp&eacute;ditions en optimisant vos processus d&#039;envoi de colis. Pour encore plus de simplicit&eacute; !]]></description>
+	<author><![CDATA[SendCloud Global B.V.]]></author><author_uri><![CDATA[https://sendcloud.eu]]></author_uri>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<confirmUninstall><![CDATA[Après désinstallation vous ne pourrez plus consulter vos commandes dans l'interface SendCloud. Êtes-vous sûr de vouloir désinstaller ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

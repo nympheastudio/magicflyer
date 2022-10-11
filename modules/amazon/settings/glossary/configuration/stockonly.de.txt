@@ -1,0 +1,1 @@
+Synchronisieren Sie nur den Bestand, nicht den Preis.

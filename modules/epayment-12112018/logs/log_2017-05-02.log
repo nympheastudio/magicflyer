@@ -1,0 +1,14 @@
+2017-05-02 16:00:47 1493733647 DEBUG: URL to check 2
+2017-05-02 16:00:47 1493733647 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-05-02 16:00:47 1493733647 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-05-02 16:00:47 1493733647 DEBUG: Cart 12359: Redirecting customer to Paybox (CARTE, CB).
+2017-05-02 16:01:09 1493733669 DEBUG: Call params: M=33900&R=12359%20-%20Chris%20Bugenhagen&T=710367258&B=0&C=CB&D=2012&E=00004&I=DEU&J=75&N=547629&P=3DSECURE&Q=16%3A00%3A48&S=703712895&W=02052017&K=0dgvqI7hCMYOSaU2htPCoz7To1GcfaUnAyJD8sC84diXPz4ufWWbbwxaA7r334df7Ko%2BbMa2xnHYOaMzUDVyt97lz0eKwIaNRpqh7Z1UD6YYg%2FywBvBCjlAU4HXCaDcsDpo0niGPQWueraKwPcBeIRptZXBiJ%2FgLstinc0FsoFg%3D
+2017-05-02 16:01:09 1493733669 DEBUG: Cart 12359: (IPN) Payment was refused by Paybox (4).
+2017-05-02 16:01:29 1493733689 DEBUG: Call params: M=33900&R=12359%20-%20Chris%20Bugenhagen&T=710367258&B=0&C=CB&D=2012&E=00004&I=DEU&J=75&N=547629&P=3DSECURE&Q=16%3A00%3A48&S=703713016&W=02052017&K=Al1nDwggjcPID0gkcAE258jQUcMiNPSMVTjGYOXFIXixZ6cvJ59JnZ02uMVuBVIh6KNQQ%2Bpr5bichesuWTbcUUgZ7IbQycazB4hqxsVCPvU8sjPcuXrd%2BOPvhSruNnM9o9z5%2Fh0nNkdMxKuUeraxngkTo93tA%2FGHoq%2BwhPsEIqo%3D
+2017-05-02 16:01:29 1493733689 DEBUG: Cart 12359: (IPN) Payment was refused by Paybox (4).
+2017-05-02 16:01:34 1493733694 DEBUG: Cart 12359: Payment was canceled by user on Paybox payment page.
+2017-05-02 23:25:23 1493760323 DEBUG: URL to check 2
+2017-05-02 23:25:23 1493760323 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-05-02 23:25:23 1493760323 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-05-02 23:25:23 1493760323 DEBUG: Cart 12373: Redirecting customer to Paybox (CARTE, CB).
+2017-05-02 23:26:23 1493760383 DEBUG: Cart 12373: Payment was canceled by user on Paybox payment page.

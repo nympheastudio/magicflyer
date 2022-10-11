@@ -1,0 +1,5 @@
+Se hai configurato il modello di spedizione nel Venditore Centrale puoi utilizzarli nel modulo;
+
+Puoi applicare un modello, sia a un profilo, sia a un prodotto o a una combinazione dell'estensione del foglio prodotto
+
+Se non specificato da nessuna parte, quindi verranno utilizzate le tue impostazioni di spedizione di default configurate nel Venditore Centrale.

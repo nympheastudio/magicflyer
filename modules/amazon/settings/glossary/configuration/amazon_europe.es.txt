@@ -1,0 +1,8 @@
+Activa la ayuda Amazon Europe
+
+Luego, para habilitar cada plataforma, tendrás que activar el correspondiente idioma Prestashop.
+
+Es necesario habilitar los idiomas porque los textos, descripciones y nombres de productos deben ser enviados en el idioma del país.
+
+Puede obtener más información en la documentación online:
+http://documentation.common-services.com/amazonv4/languajes-adicionales-%E2%80%8B%E2%80%8B-plataformas-europeas-adicionales-francia-alemania-reino-unido-espana-italia/?lang=es

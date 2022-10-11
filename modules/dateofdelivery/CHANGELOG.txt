@@ -1,0 +1,7 @@
+2014-04-22 18:12:41 +0200	// dateofdelivery: Clearer wording.
+2014-04-17 11:40:59 +0200	//version compliancy
+2014-04-10 09:58:01 +0200	[-] BO : Bug #PSCSX-1726, Implements action on status click
+2014-04-09 18:04:49 +0200	[-] Fix #PSCSX-1715, Delivery date didn't show up (sometimes)
+2014-03-25 11:44:59 +0100	//fixed bug #PSCFV-11871
+2014-03-24 18:26:10 +0100	/ MO dateofdelivery : ps_versions_compliancy added
+2014-03-21 10:53:58 +0100	Initial commit

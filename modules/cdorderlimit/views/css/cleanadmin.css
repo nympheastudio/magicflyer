@@ -1,0 +1,3 @@
+#module_form select, #module_form div.chosen-container{ width: 100% !important; }
+#content table.table{ display:none }
+#content .clean-module table{ display:table }

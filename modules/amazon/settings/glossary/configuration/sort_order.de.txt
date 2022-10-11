@@ -1,0 +1,17 @@
+Wie Sie wissen, speichert Amazon während dem Kundenregistrierungsprozess den gesamten Namen, ohne den Vor-und Nachnamen zu differenzieren, wie im folgenden Screenshot:
+
+<img src = "../modules/amazon/views/img/tips/en/amazon-registration.png" />
+
+Sie wissen auch, dass PrestaShop zwei Felder für Vor- und Nachnamen hat und dass beide Felder Pflicht sind. Wenn eines davon nicht ausgefüllt wurde, ist der Import von Bestellungen nicht möglich.
+
+Somit ist es nicht möglich den Vor- und Nachnamen mit Hilfe eines Algorythmus, der auf den von Amazon gelieferten Informationen basiert, wieder herzustellen. Insbesondere da die Art, wie die Felder ausgefüllt werden, vom Land, wie es in diesem Land benutzt wird und der generellen Disziplin abängig ist.
+
+Zum Beispiel bei einer amerikanischen Eingabe ist es sehr einfach den Vor- und Nachnamen wieder herzustellen, da Menschen diszipliniert sind und die Regeln, die Ihnen beigbracht werden, beachten. Sie geben demnach Ihre Namen, mit dem Vornamen zuerst, ein, wie John F. Kennedy.
+
+Dies ist nicht immer möglich bei anderen Ländern. Sie werden unvermeidlich umgekehrte Vor- und Nachnamen Felder haben.
+
+Wir sind an folgende Antwort gewöhnt: Tauschen Sie die Felder um, ... und nein! Wenn Sie einen repräsentativen Teil Ihrer Bestellung betrachten, werden Sie feststellen, dass die Anzahl an Namen in der richtigen Reihenfolge beweiskräftig ist.
+
+Dennoch, wenn es bei Ihnen nicht der Fall sein sollte, können Sie hier für das Zielland Vor- und Nachnamen tauschen!
+
+Diese Parameter werden beim Import der Bestellungen beachtet.

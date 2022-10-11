@@ -1,0 +1,5 @@
+Wenn Sie die Versandvorlage in "Seller Central" konfiguriert haben, können Sie diese im Modul nutzen;
+
+Sie können eine Vorlage, entweder für ein Profil, ein Produkt oder eine Kombination in der Produktblatterweiterung anwenden
+
+Wenn nicht spezifiziert, werden Ihre Standard Versandeinstellungen, die Sie in "Seller Central" angegeben haben, genutzt

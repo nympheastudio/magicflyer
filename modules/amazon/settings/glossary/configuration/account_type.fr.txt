@@ -1,0 +1,2 @@
+Utiliser un compte individuel ou global (par défaut)
+Le compte individuel créé un compte par client

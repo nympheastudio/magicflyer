@@ -1,0 +1,30 @@
+2022-08-27 12:51:25 1661597485 DEBUG: URL to check 2
+2022-08-27 12:51:25 1661597485 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-08-27 12:51:25 1661597485 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-08-27 12:51:25 1661597485 DEBUG: Cart 66033: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-08-27 12:52:04 1661597524 DEBUG: Call params: M=4926&R=66033%20-%20Corentin%20martinez&T=1621390353&B=0&C=CB&D=2410&E=00105&F=A&G=N&I=FRA&J=--&N=497783&O=Y&P=CARTE&Q=12%3A52%3A05&S=37603298&W=27082022&Y=FRA&Z=0-0&K=GVUNTCAVuUqlSYTbFH7c2Lj7pwQvWQeJS7vM29xkEGu%2BvINMSmNeBZ1r6d8W9OMXVGFS8UTvOUKBFCd9d9xoVNcJ2xxZ9Idh3RBvXQiP05uIxLYSH1rmhJHT6eHxoJKRKhsfxQk8t1a1pgIPSaLh82JYwLN8SSJiqKOKOm%2FXn0U%3D
+2022-08-27 12:52:04 1661597524 DEBUG: Cart 66033: (IPN) Payment was refused by Verifone e-commerce (105).
+2022-08-27 12:52:51 1661597571 DEBUG: Call params: M=4926&R=66033%20-%20Corentin%20martinez&T=1621390353&A=861136&B=0&C=CB&D=2410&E=00000&F=Y&G=O&I=FRA&J=80&N=497783&O=Y&P=CARTE&Q=12%3A52%3A51&S=37603342&W=27082022&Y=FRA&Z=0-0&K=DhHXXlcSymOY0QFlFoHGhhkLf4tFiV4XmWV41kepT1wdOHVchDNPN%2FcgYNIUTqNPEgHSbuwBeELNpVOmAVsaNnQ7TzqVkjw0WTVgPL7DufguRNx5bMBxXTYFxefYozHb9Q3ERpUKsbN48HRrrlXrivYeMQxLiHL7HHQq0asEK1s%3D
+2022-08-27 12:52:51 1661597571 DEBUG: Cart 66033: Standard IPN
+2022-08-27 12:52:51 1661597571 DEBUG: Cart 66033: Validating order
+2022-08-27 12:52:51 1661597571 DEBUG: Cart 66033: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-08-27 12:52:53 1661597573 DEBUG: Cart 66033: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-08-27 12:52:54 1661597574 DEBUG: Cart 66033: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-08-27 12:52:56 1661597576 DEBUG: Cart 66033: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-08-27 12:52:57 1661597577 DEBUG: Cart 66033: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-08-27 12:52:57 1661597571 DEBUG: Cart 66033: Order 6059 validated, creating details
+2022-08-27 12:52:57 1661597571 DEBUG: Cart 66033: Order 6059 / Le paiement a été autorisé et capturé par Paybox.
+2022-08-27 12:52:58 1661597578 DEBUG: Cart 66033: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-08-27 19:47:46 1661622466 DEBUG: URL to check 2
+2022-08-27 19:47:46 1661622466 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-08-27 19:47:46 1661622466 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-08-27 19:47:46 1661622466 DEBUG: Cart 66056: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-08-27 19:48:57 1661622537 DEBUG: Call params: M=16670&R=66056%20-%20Amandine%20Constant&T=1075610807&A=654598&B=0&C=CB&D=2309&E=00000&F=Y&G=O&I=FRA&J=32&N=513162&O=Y&P=CARTE&Q=19%3A48%3A58&S=930096074&W=27082022&Y=FRA&Z=0-0&K=oslA5QyxP%2BDXnzXM2BwdGj5EANVd22Zttut%2FH2DCXJSKPEMlG3BL2PHRKXCkyFvSC7R8kznkivpu5V6zG7DIYDCiaKl4JTsVtl%2BLE%2BJV4%2FO9Bpz57bm27NPwH4QPTsIHkdbWN%2BNWRdRyGgLtS%2Fzv25QNlmGnVsl26wx6iRmh2pI%3D
+2022-08-27 19:48:57 1661622537 DEBUG: Cart 66056: Standard IPN
+2022-08-27 19:48:57 1661622537 DEBUG: Cart 66056: Validating order
+2022-08-27 19:48:58 1661622538 DEBUG: Cart 66056: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-08-27 19:49:01 1661622541 DEBUG: Cart 66056: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-08-27 19:49:03 1661622543 DEBUG: Cart 66056: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-08-27 19:49:03 1661622537 DEBUG: Cart 66056: Order 6060 validated, creating details
+2022-08-27 19:49:03 1661622537 DEBUG: Cart 66056: Order 6060 / Le paiement a été autorisé et capturé par Paybox.
+2022-08-27 19:49:04 1661622544 DEBUG: Cart 66056: Customer is back from Verifone e-commerce payment page. Payment success.

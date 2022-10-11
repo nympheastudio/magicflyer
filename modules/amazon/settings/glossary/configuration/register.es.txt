@@ -1,0 +1,7 @@
+Inicie sesión en Central de Vendedor
+
+Luego vaya aqui:
+https://sellercentral.amazon.es/gp/mws/registration/register.html
+
+<img src="views/img/tips/en/register1.jpg" />
+

@@ -1,0 +1,12 @@
+2015-10-30 13:51:02 1446209461 DEBUG: URL to check 2
+2015-10-30 13:51:02 1446209461 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-10-30 13:51:02 1446209461 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-10-30 13:51:02 1446209461 DEBUG: Cart 243: Redirecting customer to Paybox (CARTE, CB).
+2015-10-30 13:53:10 1446209590 DEBUG: Call params: M=6300&R=243%20-%20Barbara%20Jardon&T=285891217&A=049990&B=0&C=Visa&D=1912&E=00000&G=D&H=B6DCDAC66096212352CCB19C831D2D790B9F5902&I=BEL&J=&N=&P=CARTE&Q=13%3A51%3A02&S=291237166&W=30102015&Y=BEL&K=fPhOj1lK6HjqXm5SIPP6vYEeBqpbP9INz3G4SppqOZIMGGgERXccM39rtrFw1bbio3TlB4C9mGUv4wDZbz1H2RhTVDcRHGbyb5PI5FSClF%2F4rzcl6VTRVGRVT9flKD%2F2u0fLrOF8ZX7mx0kwQrhWJCyozLctT41WPhFjnHzpvJM%3D
+2015-10-30 13:53:11 1446209590 DEBUG: Cart 243: Standard IPN
+2015-10-30 13:53:11 1446209590 DEBUG: Cart 243: Validating order (PS1.5+)
+2015-10-30 13:53:11 1446209591 DEBUG: Cart 243: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-10-30 13:53:12 1446209592 DEBUG: Cart 243: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-10-30 13:53:13 1446209593 DEBUG: Cart 243: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-10-30 13:53:14 1446209590 DEBUG: Cart 243: Order 61 / Le paiement a été autorisé et capturé par Paybox.
+2015-10-30 13:53:15 1446209595 DEBUG: Cart 243: Customer is back from Paybox payment page. Payment success.

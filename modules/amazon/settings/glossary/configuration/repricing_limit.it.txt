@@ -1,0 +1,1 @@
+Indica in basso quale prezzo non verrà più ridotto dal prezzo base indicato sopra 

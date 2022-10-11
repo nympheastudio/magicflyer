@@ -1,0 +1,12 @@
+2016-04-07 11:44:17 1460022257 DEBUG: URL to check 2
+2016-04-07 11:44:17 1460022257 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-04-07 11:44:17 1460022257 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-04-07 11:44:17 1460022257 DEBUG: Cart 721: Redirecting customer to Paybox (CARTE, CB).
+2016-04-07 11:44:57 1460022297 DEBUG: Call params: M=8288&R=721%20-%20arnaud%20LEBAT&T=622923941&A=116226&B=0&C=Visa&D=1806&E=00000&G=D&H=CFBD378ACE5B9B4AF8834039CC4B6211738B97AF&I=FRA&J=&N=&P=CARTE&Q=11%3A44%3A19&S=619180594&W=07042016&Y=FRA&K=x3k72Qil9BhRLSQtK2WcdmLBJ70TxKMzHX4RHMg1yZF%2Bl1ObVDmHWZdYjjmjgZ5jVeWW0Sjd%2Fwk6vEIrWd%2Bd4X1zQrxstKaIIZrDcLj8q2oJmDgsVM1hcaiwVbApw%2FOZ7Mx7wbVwv88%2F2XVWO8izUeBEcEA%2FAE%2BhCXylmgACFEU%3D
+2016-04-07 11:44:57 1460022297 DEBUG: Cart 721: Standard IPN
+2016-04-07 11:44:57 1460022297 DEBUG: Cart 721: Validating order (PS1.5+)
+2016-04-07 11:44:58 1460022298 DEBUG: Cart 721: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-04-07 11:44:59 1460022299 DEBUG: Cart 721: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-04-07 11:45:01 1460022301 DEBUG: Cart 721: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-04-07 11:45:02 1460022297 DEBUG: Cart 721: Order 151 / Le paiement a été autorisé et capturé par Paybox.
+2016-04-07 11:45:02 1460022302 DEBUG: Cart 721: Customer is back from Paybox payment page. Payment success.

@@ -1,0 +1,19 @@
+2018-08-28 11:24:32 1535448272 DEBUG: URL to check 2
+2018-08-28 11:24:32 1535448272 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-28 11:24:33 1535448272 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2018-08-28 11:24:33 1535448272 DEBUG: Cart 27338: Redirecting customer to Paybox (CARTE, CB).
+2018-08-28 11:29:43 1535448583 DEBUG: Call params: M=14931&R=27338%20-%20Isabelle%20ANDRIES-LAUDAT&T=42162940&B=0&C=CB&D=1903&E=00040&F=N&G=N&I=FRA&J=69&N=456100&O=Y&P=3DSECURE&Q=11%3A24%3A30&S=921405992&W=28082018&K=Yzix1wSzNP0jnP765bEUXxCb12cWEsZpA7a%2By0YIySUhG5LFSNxGgNHaG%2Bj%2FCcVsVy4rK0id5wEQZL9fOHbRqZdWzEhkbuEL3wev4MYPP1d9qmuCWcLHJ0J6KchA1OxOPUw5WFECg0KdBtBwuuFXoPDhlxu%2BGiVRKzwWeUHtoog%3D
+2018-08-28 11:29:43 1535448583 DEBUG: Cart 27338: (IPN) Payment was refused by Paybox (40).
+2018-08-28 12:08:19 1535450899 DEBUG: URL to check 2
+2018-08-28 12:08:19 1535450899 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-28 12:08:19 1535450899 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-08-28 12:08:19 1535450899 DEBUG: Cart 27348: Redirecting customer to Paybox (CARTE, CB).
+2018-08-28 22:22:32 1535487752 DEBUG: URL to check 2
+2018-08-28 22:22:32 1535487752 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2018-08-28 22:22:33 1535487752 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2018-08-28 22:22:33 1535487752 DEBUG: Cart 27311: Redirecting customer to Paybox (CARTE, CB).
+2018-08-28 22:24:30 1535487870 DEBUG: Call params: M=14027&R=27311%20-%20Catherine%20Catherine%20DE%20CASTRO&T=42434247&A=206884&B=0&C=Visa&D=1810&E=00000&F=Y&G=O&I=FRA&J=50&N=497401&O=Y&P=CARTE&Q=22%3A22%3A25&S=921611583&W=28082018&Y=FRA&K=wO21qqRwcs5NaxsraRRw7qCOk8LTULUZ%2F%2Futw5g8L3Ec0AsHsAYKq9KvZ5YZVPFQ6u0xWSgz%2Fq0A5BMgIIVxyzP2g38GJZDDRAT2BGMyp%2BBjiE%2Fxkk96MjY8RmZhz0Rq9TIjDJgAd7oakWuWgq%2FHqkJxOKSgIV6kV3B55sXGaK4%3D
+2018-08-28 22:24:30 1535487870 DEBUG: Cart 27311: Standard IPN
+2018-08-28 22:24:30 1535487870 DEBUG: Cart 27311: Validating order
+2018-08-28 22:24:31 1535487870 DEBUG: Cart 27311: Order 3244 / Le paiement a été autorisé et capturé par Paybox.
+2018-08-28 22:24:31 1535487871 DEBUG: Cart 27311: Customer is back from Paybox payment page. Payment success.

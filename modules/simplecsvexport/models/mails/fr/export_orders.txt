@@ -1,0 +1,8 @@
+Message de {shop_name}
+
+Export CSV des commandes de {dateFrom} à {dateTo}
+Exporté le {time}
+Fichier : {filename}
+
+{shop_name}
+{shop_url}

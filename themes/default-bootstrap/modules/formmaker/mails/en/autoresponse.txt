@@ -1,0 +1,17 @@
+Hi!
+Thank you for submitting the form, we will contact you as soon as possible.
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Language
+{lang_name}
+
+Form Field
+Value
+{form_data} 
+
+{shop_name} powered by PrestaShop

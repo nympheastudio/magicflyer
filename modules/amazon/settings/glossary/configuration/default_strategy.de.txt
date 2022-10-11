@@ -1,0 +1,2 @@
+Standardstrategie, um den gesamten Katalog anzuwenden.
+Selbst wenn keine Strategie im Profil angewählt wurde, wird diese Startegie angewandt.

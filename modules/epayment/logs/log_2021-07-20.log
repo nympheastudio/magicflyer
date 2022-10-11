@@ -1,0 +1,33 @@
+2021-07-20 16:06:31 1626789991 DEBUG: URL to check 2
+2021-07-20 16:06:31 1626789991 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-07-20 16:06:31 1626789991 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-07-20 16:06:31 1626789991 DEBUG: Cart 54352: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-07-20 16:07:15 1626790035 DEBUG: URL to check 2
+2021-07-20 16:07:15 1626790035 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-07-20 16:07:15 1626790035 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-07-20 16:07:15 1626790035 DEBUG: Cart 54352: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-07-20 16:07:18 1626790037 DEBUG: URL to check 2
+2021-07-20 16:07:18 1626790037 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-07-20 16:07:18 1626790037 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-07-20 16:07:18 1626790037 DEBUG: Cart 54352: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-07-20 16:10:16 1626790216 DEBUG: URL to check 2
+2021-07-20 16:10:16 1626790216 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-07-20 16:10:16 1626790216 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-07-20 16:10:16 1626790216 DEBUG: Cart 54351: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-07-20 19:10:17 1626801017 DEBUG: URL to check 2
+2021-07-20 19:10:17 1626801017 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-07-20 19:10:17 1626801017 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-07-20 19:10:17 1626801017 DEBUG: Cart 54360: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-07-20 19:10:33 1626801033 DEBUG: Cart 54360: Payment was canceled by user on Verifone e-commerce payment page.
+2021-07-20 19:10:52 1626801052 DEBUG: URL to check 2
+2021-07-20 19:10:52 1626801052 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-07-20 19:10:52 1626801052 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2021-07-20 19:10:52 1626801052 DEBUG: Cart 54360: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-07-20 19:12:27 1626801147 DEBUG: Call params: M=29288&R=54360%20-%20David%20Roberto&T=1008365513&A=151183&B=0&C=CB&D=2209&E=00000&F=Y&G=O&I=FRA&J=22&N=456140&O=Y&P=CARTE&Q=19%3A12%3A25&S=262766186&W=20072021&Y=FRA&Z=0-0&K=l%2FzM282T3%2FPrai5BzKKjjt%2FyjjmjgE%2Fn5rmf9g%2FuxkPNI%2BSHTUC8NivzYJYdsATDLHbmnp3iWNeMIJhSVO1qim2HfAhlHAGSeD5clLRJJmazrafLVYf%2FKysaWnqHFimQjaheJkIAmgx2mLWGlhVgrqkHO3x1TKwIAxWw05lBU8M%3D
+2021-07-20 19:12:27 1626801147 DEBUG: Cart 54360: Standard IPN
+2021-07-20 19:12:27 1626801147 DEBUG: Cart 54360: Validating order
+2021-07-20 19:12:27 1626801147 DEBUG: Cart 54360: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2021-07-20 19:12:28 1626801148 DEBUG: Cart 54360: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2021-07-20 19:12:29 1626801147 DEBUG: Cart 54360: Order 5485 validated, creating details
+2021-07-20 19:12:29 1626801147 DEBUG: Cart 54360: Order 5485 / Le paiement a été autorisé et capturé par Paybox.
+2021-07-20 19:12:29 1626801149 DEBUG: Cart 54360: Customer is back from Verifone e-commerce payment page. Payment success.

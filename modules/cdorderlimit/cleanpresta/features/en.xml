@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cleanpresta>
+	<module>
+		<name>Caractéristiques multiples avec des images associées</name>
+		<reference>CDM0007</reference>
+		<description>Creez autant de valeurs de caractéristiques que vous voulez et associez à chacune une image au choix</description>
+		<addon>http://addons.prestashop.com/fr/fonctionnalites-front-office-modules-prestashop/17201-caracteristiques-multiples-avec-des-images-associees.html</addon>
+		<link></link>
+	</module>
+	<module>
+		<name>Commissions et réductions sur les paiements</name>
+		<reference>CDM0007</reference>
+		<description>Vous avez besoin d'ajouter des frais/commissions ou alors des réductions/promotions aux commandes selon la méthode de paiement choisie?</description>
+		<addon>http://addons.prestashop.com/fr/modules-paiement-prestashop/19380-commissions-et-reductions-sur-les-paiements.html</addon>
+		<link></link>
+	</module>
+	<module>
+		<name>Module Limiter ou autoriser des commandes sous conditions</name>
+		<reference>CDM0007</reference>
+		<description>Vous avez des produits à vendre selon une certaine quantité, vous souhaitez vendre uniquement sous au-moins un montant de panier. Ce module vous permet de définir des règles selon lesquelles, une commande est autorisée sur votre boutique.</description>
+		<addon>http://addons.prestashop.com/fr/modules-comparateurs-de-prix/19443-limiter-ou-autoriser-des-commandes-sous-conditions.html</addon>
+		<link></link>
+	</module>
+	<module>
+		<name>Format de références commandes à votre gré</name>
+		<reference>CDM0007</reference>
+		<description>Vous souhaitez prendre des décisions ou avoir des informations plus complètes à partir de la référence de votre commande. Ce module vous donne un lexique varié pour personnaliser les références de votre commande à votre gré. </description>
+		<addon>http://addons.prestashop.com/fr/outils-administration-modules-prestashop/19444-format-de-references-commandes-a-votre-gre.html</addon>
+		<link></link>
+	</module>
+	<module>
+		<name>Renseignements, questions, devis sur un produit</name>
+		<reference>CDM0007</reference>
+		<description>Il est toujours mieux pour n'importe qui de se renseigner avant d'acheter un produit, qui de surcroit est virtuel. Ce renseignement peut concerner une fonctionnalité, le prix, et peut même être une demande de devis.</description>
+		<addon>http://addons.prestashop.com/fr/fonctionnalites-front-office-modules-prestashop/17268-renseignements-questions-devis-sur-un-produit.html</addon>
+		<link></link>
+	</module>
+</cleanpresta>

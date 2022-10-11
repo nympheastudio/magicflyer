@@ -1,0 +1,2 @@
+Si prega di selezionare qui il template per l'email per Clienti> Scheda Servizio Clienti.
+Solitamente, il template è "reply_msg", ma se non si è sicuri, si prega di non modificare questo valore.

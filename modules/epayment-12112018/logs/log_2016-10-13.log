@@ -1,0 +1,25 @@
+2016-10-13 16:01:23 1476367283 DEBUG: URL to check 2
+2016-10-13 16:01:23 1476367283 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-13 16:01:24 1476367283 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-13 16:01:24 1476367283 DEBUG: Cart 3912: Redirecting customer to Paybox (CARTE, CB).
+2016-10-13 16:03:04 1476367384 DEBUG: Call params: M=8285&R=3912%20-%20Yves-Marie%20Le%20Douarin&T=659596976&A=411084&B=0&C=Visa&D=1806&E=00000&F=Y&G=O&I=FRA&J=12&N=497203&O=Y&P=3DSECURE&Q=16%3A01%3A24&S=659350477&W=13102016&Y=FRA&K=d8nIUM1ghJt%2BZcAxPr6AKti4fDuJkfQv1629wD1WLulGhEWPRnnsftFoGpB46F8ig5ngS%2B%2BUpjj65jQSUPxtByH%2B6BEeEWjDzTCEyiUtsiHh46E%2B7U9a9VHX%2FLc3bNoFkqFGNvmLVv3Sx5FerD4tm3WeDl%2BroQQrTovW7lG1ywU%3D
+2016-10-13 16:03:04 1476367384 DEBUG: Cart 3912: Standard IPN
+2016-10-13 16:03:04 1476367384 DEBUG: Cart 3912: Validating order
+2016-10-13 16:03:04 1476367384 DEBUG: Cart 3912: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-13 16:03:05 1476367384 DEBUG: Cart 3912: Order 434 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-13 16:03:06 1476367386 DEBUG: Cart 3912: Customer is back from Paybox payment page. Payment success.
+2016-10-13 16:04:04 1476367444 DEBUG: Cart 3912: Customer is back from Paybox payment page. Payment success.
+2016-10-13 16:04:43 1476367483 DEBUG: Cart 3912: Customer is back from Paybox payment page. Payment success.
+2016-10-13 21:06:32 1476385592 DEBUG: URL to check 2
+2016-10-13 21:06:32 1476385592 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-10-13 21:06:32 1476385592 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-10-13 21:06:32 1476385592 DEBUG: Cart 3919: Redirecting customer to Paybox (CARTE, CB).
+2016-10-13 21:10:07 1476385807 DEBUG: Call params: M=9762&R=3919%20-%20J%20Elizabeth%20Jarris&T=659668383&A=00203C&B=0&C=Visa&D=1810&E=00000&F=A&G=O&I=USA&J=73&N=438857&O=Y&P=3DSECURE&Q=21%3A06%3A36&S=659411221&W=13102016&Y=USA&K=y%2FXHodqeDOwdpmLSxBvsMQ%2FLCU140t8EydDcY26gHgcieKm9m5XwK7CUF6vSRS8c6f4lqOFp0ymCjm%2Fe9LyDOuxPjfjXNpsTy%2FDEPuSvEURFdxujtsFCSlG70QXFtpQUmaFblZlLfkdg7ANXeE%2Bslp2kZU%2BCpofyj2QsljMHOow%3D
+2016-10-13 21:10:07 1476385807 DEBUG: Cart 3919: Standard IPN
+2016-10-13 21:10:07 1476385807 DEBUG: Cart 3919: Validating order
+2016-10-13 21:10:07 1476385807 DEBUG: Cart 3919: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-10-13 21:10:09 1476385809 DEBUG: Cart 3919: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-10-13 21:10:09 1476385807 DEBUG: Cart 3919: Order 435 / Le paiement a été autorisé et capturé par Paybox.
+2016-10-13 21:10:10 1476385810 DEBUG: Call params: M=9762&R=3919%20-%20J%20Elizabeth%20Jarris&T=659668383&A=00203C&B=0&C=Visa&D=1810&E=00000&F=A&G=O&I=USA&J=73&N=438857&O=Y&P=3DSECURE&Q=21%3A06%3A36&S=659411221&W=13102016&Y=USA&K=y%2FXHodqeDOwdpmLSxBvsMQ%2FLCU140t8EydDcY26gHgcieKm9m5XwK7CUF6vSRS8c6f4lqOFp0ymCjm%2Fe9LyDOuxPjfjXNpsTy%2FDEPuSvEURFdxujtsFCSlG70QXFtpQUmaFblZlLfkdg7ANXeE%2Bslp2kZU%2BCpofyj2QsljMHOow%3D
+2016-10-13 21:10:10 1476385810 DEBUG: Cart 3919: (IPN) Cart already being validated as order.
+2016-10-13 21:10:10 1476385810 DEBUG: Cart 3919: Customer is back from Paybox payment page. Payment success.

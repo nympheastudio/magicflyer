@@ -1,0 +1,3 @@
+Den Status derjenigen Bestellung auswählen, für die der Vorgang durchgeführt wird.
+Nur verfügbare Bestellstatus werden angezeigt (E-Mail nicht, Rechnung ja ).
+                         

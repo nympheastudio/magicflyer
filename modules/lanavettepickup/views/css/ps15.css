@@ -1,0 +1,76 @@
+/* for PrestaShop 1.5 compatibility */
+
+.panel {
+    position: relative;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: solid 1px #e6e6e6;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 0, #fff 0 0 0 3px inset;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 0, #fff 0 0 0 3px inset;
+}
+
+.panel-heading {
+    font-family: "Ubuntu Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #555;
+    height: 32px;
+    border: 1px solid transparent;
+    line-height: 2.2em;
+    text-transform: uppercase;
+    border-bottom: solid 1px #eee;
+    padding: 0 0 0 5px;
+    margin: -20px -16px 15px -16px;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    /*	font: 400 12px/1.42857 "Open Sans",Helvetica,Arial,sans-serif;*/
+    background-color: #fff;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    box-sizing: border-box;
+    text-align: left;
+
+}
+
+.pickup_map_search_icon.change {
+    height: 32px;
+    line-height: 32px;
+}
+
+legend {
+    border: 1px solid #CCCED7;
+    padding: .2em .5em;
+}
+
+.panel .category-filter {
+    background-color: transparent !important;
+}
+
+.btn.btn-default {
+    box-shadow: #e6e6e6 0 -2px 0 inset;
+    color: #555;
+    background-color: #fff;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid #ccc;
+    white-space: nowrap;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    border-radius: 3px;
+    -webkit-user-select: none;
+    box-sizing: border-box;
+}
+
+#categories-treeview .folder {
+    border: 1px solid transparent;
+    padding-top: 6px;
+}

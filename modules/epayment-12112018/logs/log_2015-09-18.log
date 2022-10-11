@@ -1,0 +1,17 @@
+2015-09-18 10:26:51 1442564811 DEBUG: URL to check 2
+2015-09-18 10:26:51 1442564811 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-18 10:26:52 1442564811 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-18 10:26:52 1442564811 DEBUG: Cart 98: Redirecting customer to Paybox (CARTE, CB).
+2015-09-18 10:27:01 1442564821 DEBUG: URL to check 2
+2015-09-18 10:27:01 1442564821 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2015-09-18 10:27:01 1442564821 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2015-09-18 10:27:01 1442564821 DEBUG: Cart 98: Redirecting customer to Paybox (CARTE, CB).
+2015-09-18 10:27:36 1442564856 DEBUG: Call params: M=5060&R=98%20-%20bernard%20faucon&T=280831740&A=181453&B=0&C=Visa&D=1509&E=00000&G=D&H=52FCB403BCAC3FDA6ABDF4E90EECBFC4AE81EDED&I=FRA&J=&N=&P=CARTE&Q=10%3A27%3A02&S=286219322&W=18092015&Y=FRA&K=WLGjhMucNofvVIL%2FMrhsfrWGs6c6D3%2FuZZYN3%2BM3Uis4Xc0qUNEEod0RK3sQRUREsTOPRNhbqNrXM2uihfkqSq6aHdVNBiMaoE69PpecPv4Hjx75TtKusar5BnVKanKDdFInSO9vKYh5%2F0%2FxjWO8jRHf%2FtHa72acBLgKQUjfuZ4%3D
+2015-09-18 10:27:36 1442564856 DEBUG: Cart 98: Standard IPN
+2015-09-18 10:27:36 1442564856 DEBUG: Cart 98: Validating order (PS1.5+)
+2015-09-18 10:27:36 1442564856 DEBUG: Cart 98: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2015-09-18 10:27:38 1442564858 DEBUG: Cart 98: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2015-09-18 10:27:39 1442564859 DEBUG: Cart 98: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2015-09-18 10:27:40 1442564860 DEBUG: Cart 98: Customer is back from Paybox payment page. Waiting order validation (loop 3).
+2015-09-18 10:27:41 1442564856 DEBUG: Cart 98: Order 26 / Le paiement a été autorisé et capturé par Paybox.
+2015-09-18 10:27:42 1442564862 DEBUG: Cart 98: Customer is back from Paybox payment page. Payment success.

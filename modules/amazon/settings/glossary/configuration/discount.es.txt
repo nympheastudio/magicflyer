@@ -1,0 +1,3 @@
+Exportar los precios promocionales o los descuentos si están seleccionados. Si no, los precios serán exportados a la tarifa normal
+
+Documentación: http://documentation.common-services.com/amazonv4/gestion-des-promotions-et-soldes/?lang=es

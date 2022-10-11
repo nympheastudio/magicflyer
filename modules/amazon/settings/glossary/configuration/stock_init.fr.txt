@@ -1,0 +1,11 @@
+Vous avez sélectionné le comportement "écrasement des stock Prestashop". 
+
+La première fois, vous devez mettre à jour tout votre stock d'un coup depuis Amazon.
+
+Pour ce faire, cliquez sur le bouton ci-dessous.
+
+Ensuite, vous installerez le script fbastocksynch que vous trouverez dans l'onglet tâches planifiées.
+
+Cette tâche planifiée mettra à jour vos stocks par différentiel ; seuls les mouvements de stocks seront traités.
+
+Notez que cette tâche planifiée n'apparaîtra qu'après enregistrement de la configuration.

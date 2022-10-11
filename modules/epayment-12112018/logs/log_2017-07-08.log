@@ -1,0 +1,36 @@
+2017-07-08 00:14:37 1499465677 DEBUG: URL to check 2
+2017-07-08 00:14:37 1499465677 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-08 00:14:37 1499465677 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-07-08 00:14:37 1499465677 DEBUG: Cart 14888: Redirecting customer to Paybox (CARTE, CB).
+2017-07-08 00:15:19 1499465719 DEBUG: Cart 14888: Payment was canceled by user on Paybox payment page.
+2017-07-08 00:16:00 1499465760 DEBUG: Call params: M=2550&R=14888%20-%20Kevin%20Gomis&T=729847851&A=311315&B=0&C=Visa&D=1806&E=00000&F=Y&G=O&I=FRA&J=49&N=456138&O=Y&P=3DSECURE&Q=00%3A14%3A37&S=719716099&W=08072017&Y=FRA&K=eWO6fCF2staxwm1l4ne5XyWnlf272VHIOoZ6HxKvH6vlXbM%2B9qQLEzO0TmtDuwB%2BCYUgMLSq18CTwSJ3ZHkiKPZb38zuyB%2B8lYMefLar22CTCJ9ApT%2BCq%2F7BH3FdWq8mfIP8O4xGME0AiRhCVu4bHXARIUM7VAe2hTzt3B6E2Ec%3D
+2017-07-08 00:16:00 1499465760 DEBUG: Cart 14888: Standard IPN
+2017-07-08 00:16:00 1499465760 DEBUG: Cart 14888: Validating order
+2017-07-08 00:16:01 1499465761 DEBUG: Cart 14888: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-07-08 00:16:01 1499465760 DEBUG: Cart 14888: Order 1378 / Le paiement a été autorisé et capturé par Paybox.
+2017-07-08 00:16:02 1499465762 DEBUG: Cart 14888: Customer is back from Paybox payment page. Payment success.
+2017-07-08 09:29:10 1499498950 DEBUG: URL to check 2
+2017-07-08 09:29:10 1499498950 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-08 09:29:10 1499498950 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-08 09:29:10 1499498950 DEBUG: Cart 14897: Redirecting customer to Paybox (CARTE, CB).
+2017-07-08 15:06:21 1499519181 DEBUG: URL to check 2
+2017-07-08 15:06:21 1499519181 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-08 15:06:21 1499519181 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-08 15:06:21 1499519181 DEBUG: Cart 14867: Redirecting customer to Paybox (CARTE, CB).
+2017-07-08 15:06:32 1499519192 DEBUG: Cart 14867: Payment was canceled by user on Paybox payment page.
+2017-07-08 17:43:29 1499528609 DEBUG: URL to check 2
+2017-07-08 17:43:29 1499528609 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-08 17:43:29 1499528609 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-08 17:43:29 1499528609 DEBUG: Cart 14897: Redirecting customer to Paybox (CARTE, CB).
+2017-07-08 23:32:50 1499549570 DEBUG: URL to check 2
+2017-07-08 23:32:50 1499549570 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-07-08 23:32:50 1499549570 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-07-08 23:32:50 1499549570 DEBUG: Cart 14915: Redirecting customer to Paybox (CARTE, CB).
+2017-07-08 23:34:38 1499549678 DEBUG: Call params: M=12400&R=14915%20-%20remy%20alison&T=730015869&A=843288&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=03&N=497886&O=Y&P=3DSECURE&Q=23%3A32%3A51&S=719884465&W=08072017&Y=FRA&K=dvkZok7XoRoqFFhbv0Ov8%2BCG%2BI5UJaM7EjA4f106p3bVI86pEEfUEluPeGJXysL%2Blp944LXK8ny0h57goPweW%2Bgkyg4SSRMlptJJfAPvyk66sYrs0ejlWwPFaOCIv2LyDamdvnqiLsRgr9WdOSobMbOiGYl3gmlWphbZQvBSguc%3D
+2017-07-08 23:34:39 1499549678 DEBUG: Cart 14915: Standard IPN
+2017-07-08 23:34:39 1499549678 DEBUG: Cart 14915: Validating order
+2017-07-08 23:34:39 1499549679 DEBUG: Cart 14915: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-07-08 23:34:40 1499549678 DEBUG: Cart 14915: Order 1380 / Le paiement a été autorisé et capturé par Paybox.
+2017-07-08 23:34:40 1499549680 DEBUG: Cart 14915: Customer is back from Paybox payment page. Payment success.
+2017-07-08 23:34:58 1499549698 DEBUG: Call params: M=12400&R=14915%20-%20remy%20alison&T=730015869&A=843288&B=0&C=Visa&D=1809&E=00000&F=Y&G=O&I=FRA&J=03&N=497886&O=Y&P=3DSECURE&Q=23%3A32%3A51&S=719884465&W=08072017&Y=FRA&K=dvkZok7XoRoqFFhbv0Ov8%2BCG%2BI5UJaM7EjA4f106p3bVI86pEEfUEluPeGJXysL%2Blp944LXK8ny0h57goPweW%2Bgkyg4SSRMlptJJfAPvyk66sYrs0ejlWwPFaOCIv2LyDamdvnqiLsRgr9WdOSobMbOiGYl3gmlWphbZQvBSguc%3D
+2017-07-08 23:34:59 1499549698 DEBUG: Cart 14915: (IPN) Cart already being validated as order.

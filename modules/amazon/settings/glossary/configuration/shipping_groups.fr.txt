@@ -1,0 +1,7 @@
+Il s'agit du nom des groupes que vous avez configurés sur Amazon Seller Central pour vos Modèles d'Expédition
+
+Chaque nom de groupe est un Modèle d'Expédition
+
+Vous pourrez utiliser ces Modèles d'Expédition dans les profils et sur l'extension fiche produit
+
+Ici, il n'y a rien d'autre à faire que de télécharger la liste.

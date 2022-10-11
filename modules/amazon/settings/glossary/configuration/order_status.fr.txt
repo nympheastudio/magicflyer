@@ -1,0 +1,2 @@
+Choisir un statut de commande qui déclenche l'envoi de la facture par email.
+Seuls les statuts de commandes éligibles sont affichés (email a non, facture a oui).

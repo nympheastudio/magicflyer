@@ -1,0 +1,24 @@
+/* Rating block */
+#addons-rating-container {
+	background-image: url(../img/star.png), url(../img/star.png);
+	background-position: 1% center, 99% center;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+#addons-rating-container p.dismiss {
+	font-size:10px;
+}
+/* Footer block */
+#pm_panel_cs_modules_bottom { height: 240px !important;  padding: 0 18px !important; }
+#pm_panel_cs_modules_bottom div#cs-product-container { padding: 0 18px; }
+#pm_panel_cs_modules_bottom iframe { overflow: hidden; height: 178px; width: 100%; border: 0; padding: 0; margin: 0; }
+#pm_support_informations h2, #pm_panel_cs_modules_bottom h2 { padding: 0 !important; }
+#pm_support_informations { height: 90px !important; padding: 0 18px !important; }
+#pm_support_informations ul.pm_links_block { list-style: none; margin: 0; padding: 0; }
+#pm_support_informations ul.pm_links_block li { margin: 0px 30px; padding: 0; display: inline-block; }
+#pm_support_informations .pm_copy_block { position: absolute; right: 10px; top: 12px; }
+#pm_support_informations .pm_copy_block img { max-width:150px; }
+
+#csoc_advanced_styles_fieldset {
+	border:1px solid lightgray;
+}

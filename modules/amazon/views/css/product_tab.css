@@ -1,0 +1,495 @@
+.qtip {
+    min-width: 50px !important;
+    font-size: 1.1em !important;
+    line-height: 1.3em !important;
+}
+
+#amazon-product-tab h3 img {
+    margin: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+#amazon-title {
+    margin-left: 40px !important;
+    margin-top: 0px !important;
+}
+
+#amazon-table-combinations {
+
+}
+
+#amazon-product-tab .amz-probe-asin span {
+    float: left;
+}
+
+#amazon-product-tab .amz-probe-asin img {
+    float: left;
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+    padding: 3px;
+}
+
+#amazon-product-tab .amz-probe-asin img:hover {
+    border: 1px solid navy;
+    cursor: pointer;
+}
+
+#amazon-product-tab .asin-probed {
+    background: rgba(131, 187, 82, 0.10);
+}
+
+#amazon-product-tab table.amazon-item {
+    table-layout: fixed;
+}
+
+#amazon-product-tab table.amazon-item tr td.action, #amazon-product-tab table.amazon-item tr th.action {
+    width: 40px;
+}
+
+#amazon-product-tab table.amazon-item tr td.reference, #amazon-product-tab table.amazon-item tr th.reference {
+    width: 130px;
+}
+
+#amazon-product-tab table.amazon-item tr td:first-child, #amazon-product-tab table.amazon-item tr th:first-child {
+    width: 30px;
+}
+
+#amazon-product-tab table.amazon-item tr td.action, #amazon-product-tab table.amazon-item tr th.action {
+    width: 30px;
+}
+
+#amazon-product-tab table.amazon-item tr.highlighted:hover td.action img, #amazon-product-tab table.amazon-item tr:hover th.action img {
+    visibility: visible;
+}
+
+#amazon-product-tab table.amazon-item tr td.action img, #amazon-product-tab table.amazon-item tr th.action img {
+    visibility: hidden;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+#amazon-product-tab table.amazon-item tr td.action img:hover, #amazon-product-tab table.amazon-item tr th.action img:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+#amazon-product-tab .amazon-editable input {
+    /*max-width: 90px;*/
+    margin: 0;
+    height: 18px;
+    padding: 2px;
+}
+
+#amazon-product-tab .amazon-editable {
+}
+
+#amazon-product-tab .amazon-editable:hover {
+    background: transparent url(../img/bullet_edit.png) no-repeat;
+    background-position: 90% center;
+}
+
+#amazon-product-tab .col-left.tip span {
+    border-bottom: 1px dashed rgba(241, 208, 49, 0.90);
+    padding-bottom: 2px;
+    cursor: pointer;
+}
+
+#amazon-product-tab .amazon-item tr td {
+    padding: 5px;
+    cursor: pointer;
+}
+
+#amazon-product-tab .amazon-item tr {
+    height: 30px;
+}
+
+#amazon-product-tab .amazon-item tr td:first-child, #amazon-product-tab .amazon-item thead th:first-child {
+    background-color: transparent !important;
+    border: none;
+}
+
+#amazon-product-tab .amazon-item tr td:first-child > input {
+    position: relative;
+    left: 5px;
+    top: 2px;
+}
+
+#amazon-product-tab .country-selector {
+    margin-left: 50px;
+    position: relative;
+    top: -10px;
+}
+
+#amazon-product-tab .country-selector img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+#amazon-product-tab .country-selector tr td {
+    padding-right: 5px;
+    vertical-align: middle;
+}
+
+#amazon-product-tab .country-selector tr td span.amazon-tab-selector {
+    display: inline-block;
+    padding: 10px;
+    padding-right: 20px;
+    background-color: transparent;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+}
+
+#amazon-product-tab .country-selector tr td span.amazon-tab-selector:hover {
+    background-color: #dcdcdc;
+}
+
+#amazon-product-tab .country-selector tr td span.amazon-tab-selector.active {
+    border-bottom: 3px solid #6495ED;
+}
+
+#amazon-product-tab .amazon-tab-bar {
+    border-bottom: 3px solid #dcdcdc;
+    margin-left: 40px;
+}
+
+#amazon-product-tab .amazon-tab {
+    margin-left: 40px;
+
+}
+
+#amazon-product-tab .amazon-tab h4.marketplace-heading {
+    float: right;
+    margin-right: 5px;
+}
+
+#amazon-product-tab .amazon-tab h4.marketplace-heading img {
+    position: relative;
+    top: -1px;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+#amazon-product-tab .amazon-tab .section h4 {
+    border-bottom: solid 1px #a0d0eb;
+    display: inline-block;
+    margin-left: 15px;
+    letter-spacing: 3px;
+}
+
+#amazon-product-tab .amazon-actions, #amazon-product-tab .amazon-datas, #amazon-product-tab .amazon-options {
+    margin-left: 5%;
+}
+
+#amazon-product-tab td.col-left {
+    display: inline-block;
+    min-width: 140px;
+    text-align: right;
+    padding-right: 10px;
+    /*
+    white-space: nowrap;*/
+}
+
+#amazon-product-tab .amazon-item-title td.col-left {
+    margin: 5px;
+    color: navy;
+}
+
+#amazon-product-tab tr.amazon-details > td {
+    border-bottom: 10px solid transparent;
+}
+
+#amazon-product-tab .amazon-details td > input {
+    margin-bottom: 5px;
+}
+
+#amazon-product-tab .amazon-details input[type=checkbox] {
+    width: 20px;
+    height: 20px;
+}
+
+#amazon-product-tab .amazon-details input[type=radio] + span.amz-action-label {
+    position: relative;
+    top: -1px;
+    margin-left: 2px;
+}
+
+#amazon-product-tab .amazon-details .amz-action-container {
+    cursor: pointer;
+    border: 1px solid transparent;
+}
+
+#amazon-product-tab .amazon-details .amz-action-container:hover {
+    border: 1px solid grey;
+}
+
+#amazon-product-tab .amazon-details .amz-action-container input[type=radio] {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: -3px;
+    left: -3px;
+}
+
+#amazon-product-tab .amazon-details input[type=checkbox] + span, #amazon-product-tab .amazon-details input[type=radio] {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+}
+
+#amazon-product-tab .amazon-details input[type=checkbox] + span {
+    position: relative;
+    top: -5px;
+    font-size: 1.2em;
+}
+
+#amazon-product-tab .amazon-details input[type=radio] + span {
+    position: relative;
+    margin-left: 10px;
+    margin-right: 15px;
+    font-size: 1.2em;
+}
+
+#amazon-action-loader {
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.bootstrap #amazon-product-tab .amazon-details input /* PS 1.6 */
+{
+    display: inline-block;
+}
+
+.bootstrap #amazon-product-tab .amazon-bullet-point /* PS 1.6 */
+{
+    max-width: 80%;
+}
+
+span.amz-action * {
+    vertical-align: middle;
+}
+
+.amz-action {
+    display: inline-block;
+    min-width: 140px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.amz-action input {
+    position: relative;
+    top: -2px;
+}
+
+.amz-action-label {
+    display: inline-block;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.amz-action-container {
+    margin: 5px;
+    padding: 5px;
+    background-color: #EEECEC;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+}
+
+.amz-action-img {
+    position: relative;
+    top: -10px;
+}
+
+.bootstrap .amz-action-img {
+    position: relative;
+    top: -1px;
+}
+
+.amazon-bullet-point {
+    width: 500px;
+    padding: 2px;
+    margin-bottom: 2px;
+}
+
+.bootstrap .bulletpoint-action img {
+    height: 20px;
+}
+
+#main .bulletpoint-action img {
+    position: relative;
+    top: -3px;
+    left: -1px;
+    border: 1px solid gainsboro;
+    padding: 1px 0 1px 0;
+    cursor: pointer;
+    background-color: lavender;
+    border-radius: 2px;
+    -webkit-opacity: 0.7;
+    -moz-opacity: 0.7;
+    opacity: 0.7;
+}
+
+#main .bulletpoint-action img:hover {
+    border: 1px solid lavender;
+    background-color: lightgray;
+}
+
+.bootstrap .bulletpoint-action {
+    padding: 5px;
+}
+
+#amazon-product-tab.ps15 .amazon-tab .section h4 {
+    font-size: 1.2em;
+}
+
+#main .amazon-tab-product-title {
+    float: right;
+    font-style: italic;
+}
+
+#amazon-product-tab .repricing img {
+    margin-right: 15px;
+    position: relative;
+    top: -2px;
+    left: -2px;
+}
+
+/* Patches PS 1.5 */
+#amazon-product-tab.ps15 #amazon-table-combinations tr:hover, #amazon-product-tab.ps15 #amazon-table-product tr:hover {
+    background-color: #fff1b5;
+}
+
+#amazon-product-tab.ps15 #amazon-table-combinations tr.highlighted, #amazon-product-tab.ps15 #amazon-table-product tr.highlighted {
+    background-color: rgb(196, 234, 196);
+}
+
+#amazon-product-tab.ps15 #amazon-table-combinations, #amazon-product-tab.ps15 #amazon-table-product {
+    width: 100%;
+}
+
+#amazon-product-tab.ps15 #amazon-title {
+    margin-top: 15px !important;
+}
+
+#amazon-product-tab.ps15 .marketplace-heading {
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+
+#amazon-product-tab.ps15 .amazon-details input[type=checkbox] + span {
+    top: 1px;
+}
+
+#amazon-product-tab.ps15 .amazon-details input[type=radio] + span {
+    top: 5px;
+}
+
+#amazon-product-tab.ps15 .amazon-details input[type=radio] + span.amz-action-label {
+    position: relative;
+    top: 0;
+}
+
+#amazon-product-tab.ps15 .amz-action-img {
+    top: -2px;
+}
+
+#amazon-product-tab.ps15 .amz-action-container {
+    background-color: #e3e4f3;
+}
+
+#amazon-product-tab.ps15 .amazon-details .amz-action-container input[type=radio] {
+    position: relative;
+    top: 0;
+    left: -4px;
+}
+
+#amazon-product-tab.ps15 .amz-link {
+    color: navy;
+}
+
+#amazon-product-tab.ps15 .amz-link:hover {
+    text-decoration: underline;
+}
+
+#amazon-product-tab.ps15 .clearfix {
+    display: none;
+}
+
+/* PS 1.7 Fixes */
+#amazon-product-tab.ps17 .amz-action-img {
+    position:relative;
+	top:-2px;
+}
+#growls .growl {
+	width:500px;
+}
+
+#amazon-product-tab.ps17 .amazon-details input + span.amz-action-label {
+	position:relative;
+	top:-3px;
+}
+#amazon-product-tab.ps17 table thead, #amazon-product-tab.ps17 table tbody, #amazon-product-tab.ps17 table {
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-bottom:none;
+}
+#amazon-product-tab.ps17 table tbody tr:first-child  td{
+	padding-top:10px;
+}
+#amazon-product-tab.ps17 .table tbody>tr:nth-child(odd)>td {
+	background-color: #FCFDFE;
+}
+#amazon-product-tab.ps17 .table tbody>tr:nth-child(even)>td {
+	background-color: unset;
+}
+#amazon-product-tab.ps17 .table tbody>tr:hover>td {
+	background-color: #f4f8fb;
+}
+#amazon-product-tab.ps17 .table tbody input[type=radio] {
+	width:20px;
+	height:20px;
+}
+#amazon-product-tab.ps17 .amazon-details .amz-action-container input[type=radio] {
+	position:relative;
+	top:-2px;
+}
+
+#amazon-product-tab.ps17 table.amazon-item tr td.reference, #amazon-product-tab table.amazon-item tr th.reference {
+    width: 200px;
+}
+#amazon-product-tab.ps17 .amazon-tab-product-title {
+	text-align:right;
+	padding-right:20px;
+}
+
+
+.bootstrap .bulletpoint-action img {
+    height: 20px;
+}
+
+#amazon-product-tab.ps17 .bulletpoint-action img {
+    position: relative;
+    top: -3px;
+    left: -1px;
+    border: 1px solid gainsboro;
+    padding: 1px 0 1px 0;
+    cursor: pointer;
+    background-color: lavender;
+    border-radius: 2px;
+    -webkit-opacity: 0.7;
+    -moz-opacity: 0.7;
+    opacity: 0.7;
+}
+
+#amazon-product-tab.ps17 .bulletpoint-action img:hover {
+    border: 1px solid lavender;
+    background-color: lightgray;
+}
+

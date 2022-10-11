@@ -1,0 +1,42 @@
+.process-icon-upload {
+    margin: auto;
+    height: 32px;
+    width: 32px;
+    display: table;
+    background-image: url("../img/1.5/process-upload.png");
+}
+
+.process-icon-preview {
+    margin: auto;
+    height: 32px;
+    width: 32px;
+    display: table;
+}
+
+.process-icon-cogs {
+    margin: auto;
+    height: 32px;
+    width: 32px;
+    display: table;
+    background-image: url("../img/1.5/process-configuration.png");
+}
+
+.process-icon-cogs-medium:before {
+    font-family: FontAwesome;
+    color: #BFBFBF;
+    content: "\f085";
+    font-size: 28px;
+}
+
+.page-bar.toolbarBox{
+    min-height: 68px;
+}
+.process-icon-upload+span {
+    display: table;
+}
+.toolbarBox .toolbar_btn span{
+    display: table;
+}
+.toolbar_btn.dropdown-toolbar.navbar-toggle{
+    display: none;
+}

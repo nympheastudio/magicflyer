@@ -1,0 +1,57 @@
+Commande n°;Order State;Mode de paiement;Total payé;Total payé réel;Total transport;Facture n°;Date de facture;Validité;Prénom;Nom;Email;Pays de livraison;Nom de la compagnie de facturation;Code pays de livraison
+261;Expédié;PayPal;29.930000;29.930000;6.000000;302;2016-07-06 10:32:01;1;danielle;RAY;ray.danielle@wanadoo.fr;8;;FR
+261;Expédié;PayPal;29.930000;29.930000;6.000000;302;2016-07-06 10:32:01;1;danielle;RAY;ray.danielle@wanadoo.fr;8;;FR
+262;Expédié;Paybox - Epayment;53.920000;53.920000;3.000000;303;2016-07-06 12:09:00;1;geraldine;guenault;gege.pearls@hotmail.fr;8;;FR
+263;Expédié;PayPal;105.850000;105.850000;6.000000;304;2016-07-07 15:25:48;1;sophie;pallo;sophie.pallo@sfr.fr;8;;FR
+263;Expédié;PayPal;105.850000;105.850000;6.000000;304;2016-07-07 15:25:48;1;sophie;pallo;sophie.pallo@sfr.fr;8;;FR
+263;Expédié;PayPal;105.850000;105.850000;6.000000;304;2016-07-07 15:25:48;1;sophie;pallo;sophie.pallo@sfr.fr;8;;FR
+263;Expédié;PayPal;105.850000;105.850000;6.000000;304;2016-07-07 15:25:48;1;sophie;pallo;sophie.pallo@sfr.fr;8;;FR
+263;Expédié;PayPal;105.850000;105.850000;6.000000;304;2016-07-07 15:25:48;1;sophie;pallo;sophie.pallo@sfr.fr;8;;FR
+264;Expédié;Paybox - Epayment;63.410000;63.410000;3.500000;305;2016-07-08 18:32:33;1;Kathrin;Mayer;kathrinmayer@outlook.de;1;;DE
+265;Expédié;PayPal;86.360000;86.360000;7.000000;306;2016-07-08 22:15:31;1;jacqueline;Sanders;sanders8331@hotmail.com;21;;US
+266;Expédié;Paybox - Epayment;101.000000;101.000000;6.000000;307;2016-07-09 11:34:24;1;Émilie;Blanc-larivain;Milette30@hotmail.fr;8;;FR
+267;Expédié;Paybox - Epayment;107.850000;107.850000;6.000000;308;2016-07-09 15:29:01;1;Armelle;KLEIN;armelle.klein@me.com;8;;FR
+267;Expédié;Paybox - Epayment;107.850000;107.850000;6.000000;308;2016-07-09 15:29:01;1;Armelle;KLEIN;armelle.klein@me.com;8;;FR
+268;Expédié;Paybox - Epayment;306.000000;306.000000;0.000000;309;2016-07-09 23:34:41;1;Ludovic ;Lachaise;ludolachaise@gmail.com;8;;FR
+269;Expédié;Paybox - Epayment;36.780000;36.780000;3.500000;310;2016-07-10 12:05:06;1;Jameie;Minchin;jameie.minchin@ultraice.eu;17;;GB
+269;Expédié;Paybox - Epayment;36.780000;36.780000;3.500000;310;2016-07-10 12:05:06;1;Jameie;Minchin;jameie.minchin@ultraice.eu;17;;GB
+270;Expédié;Paybox - Epayment;17.000000;17.000000;3.000000;311;2016-07-10 17:12:22;1;graziella;tedesco;lunaquemeno@hotmail.fr;8;;FR
+271;Expédié;Paybox - Epayment;31.000000;31.000000;3.000000;312;2016-07-11 13:51:43;1;audrey;garcia;lga.garcia@yahoo.fr;8;;FR
+271;Expédié;Paybox - Epayment;31.000000;31.000000;3.000000;312;2016-07-11 13:51:43;1;audrey;garcia;lga.garcia@yahoo.fr;8;;FR
+272;Expédié;Paybox - Epayment;25.970000;25.970000;6.000000;313;2016-07-11 16:16:37;1;EMILIE;RICHARD;emilie.stoclet@neuf.fr;8;;FR
+273;Expédié;Paybox - Epayment;22.860000;22.860000;3.000000;314;2016-07-12 10:25:22;1;mylene;gurhem;bouloupe.02@hotmail.fr;8;;FR
+274;Expédié;PayPal;135.380000;135.380000;6.000000;315;2016-07-12 16:59:44;1;Pauline;FORNARA;pauline-fornara@hotmail.fr;8;;FR
+275;Expédié;PayPal;23.000000;23.000000;3.000000;316;2016-07-14 07:27:07;1;françoise;lanfranchi;ofran64@gmail.com;8;Hotel des Etrangers;FR
+276;Expédié;Paybox - Epayment;46.280000;46.280000;4.000000;317;2016-07-14 22:46:49;1;Johannes;Brevis;amalgamatedassociationofmorons@yahoo.com;21;;US
+276;Expédié;Paybox - Epayment;46.280000;46.280000;4.000000;317;2016-07-14 22:46:49;1;Johannes;Brevis;amalgamatedassociationofmorons@yahoo.com;21;;US
+277;Expédié;Paybox - Epayment;62.910000;62.910000;3.000000;318;2016-07-15 12:07:29;1;aurelie;rollon-buomberger;rollon.cyril@orange.fr;8;;FR
+278;Expédié;Paybox - Epayment;23.470000;23.470000;3.500000;319;2016-07-15 21:28:15;1;Belmiro;Silva da Cunha;belmiro.dacunha@me.com;15;;PT
+279;Expédié;Paybox - Epayment;122.820000;122.820000;3.000000;320;2016-07-17 20:54:32;1;Nicolas;ESTEOULE;esteoule.nicolas@gmail.com;8;;FR
+279;Expédié;Paybox - Epayment;122.820000;122.820000;3.000000;320;2016-07-17 20:54:32;1;Nicolas;ESTEOULE;esteoule.nicolas@gmail.com;8;;FR
+279;Expédié;Paybox - Epayment;122.820000;122.820000;3.000000;320;2016-07-17 20:54:32;1;Nicolas;ESTEOULE;esteoule.nicolas@gmail.com;8;;FR
+279;Expédié;Paybox - Epayment;122.820000;122.820000;3.000000;320;2016-07-17 20:54:32;1;Nicolas;ESTEOULE;esteoule.nicolas@gmail.com;8;;FR
+279;Expédié;Paybox - Epayment;122.820000;122.820000;3.000000;320;2016-07-17 20:54:32;1;Nicolas;ESTEOULE;esteoule.nicolas@gmail.com;8;;FR
+279;Expédié;Paybox - Epayment;122.820000;122.820000;3.000000;320;2016-07-17 20:54:32;1;Nicolas;ESTEOULE;esteoule.nicolas@gmail.com;8;;FR
+280;Expédié;PayPal;151.100000;151.100000;18.000000;321;2016-07-18 09:30:16;1;Regula;Fritz;fritz@grafikbar.ch;19;Grafikbar GmbH ;CH
+280;Expédié;PayPal;151.100000;151.100000;18.000000;321;2016-07-18 09:30:16;1;Regula;Fritz;fritz@grafikbar.ch;19;Grafikbar GmbH ;CH
+281;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;322;2016-07-18 10:02:40;1;Beatriz; Santos;b.s.palet@me.com;8;;FR
+281;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;322;2016-07-18 10:02:40;1;Beatriz; Santos;b.s.palet@me.com;8;;FR
+281;Expédié;Paybox - Epayment;48.000000;48.000000;6.000000;322;2016-07-18 10:02:40;1;Beatriz; Santos;b.s.palet@me.com;8;;FR
+282;Expédié;Paybox - Epayment;178.000000;178.000000;7.000000;323;2016-07-18 11:34:18;1;Sylvie;PECH GARCIA;sylvie.pech@neuf.fr;8;;FR
+283;Expédié;PayPal;15.930000;15.930000;6.000000;324;2016-07-18 14:52:39;1;Jean-Claude;TISSOT;tissotjean-claude@orange.fr;8;;FR
+284;Expédié;PayPal;85.880000;85.880000;6.000000;325;2016-07-18 20:26:11;1;FRANCOISE;LEBON;francoiselebon@hotmail.fr;8;1968;FR
+284;Expédié;PayPal;85.880000;85.880000;6.000000;325;2016-07-18 20:26:11;1;FRANCOISE;LEBON;francoiselebon@hotmail.fr;8;1968;FR
+284;Expédié;PayPal;85.880000;85.880000;6.000000;325;2016-07-18 20:26:11;1;FRANCOISE;LEBON;francoiselebon@hotmail.fr;8;1968;FR
+285;Expédié;Paybox - Epayment;306.000000;306.000000;0.000000;326;2016-07-19 15:09:08;1;Katy;Teixeira;t.katy89@hotmail.fr;12;;LU
+286;Expédié;Paybox - Epayment;146.760000;146.760000;3.000000;327;2016-07-20 09:35:28;1;Emilie;Beau;emiliebeau@gmail.com;8;;FR
+287;Expédié;Paybox - Epayment;37.470000;37.470000;3.500000;328;2016-07-21 11:49:54;1;Ana;Botelho;anamanta2@gmail.com;15;;PT
+287;Expédié;Paybox - Epayment;37.470000;37.470000;3.500000;328;2016-07-21 11:49:54;1;Ana;Botelho;anamanta2@gmail.com;15;;PT
+288;Expédié;PayPal;20.640000;20.640000;4.000000;329;2016-07-21 18:55:55;1;liliane;vulbeau;lilou-style@hotmail.fr;98;;GP
+290;Expédié;Paybox - Epayment;23.470000;23.470000;3.500000;330;2016-07-22 09:36:49;1;Stefan;müller;stefan.mueller@v-hoch3.de;1;v-hoch3;DE
+291;Expédié;PayPal;11.000000;11.000000;3.000000;331;2016-07-25 17:08:56;1;Thierry;GORSE;thierry_44_fr@yahoo.fr;8;;FR
+291;Expédié;PayPal;11.000000;11.000000;3.000000;331;2016-07-25 17:08:56;1;Thierry;GORSE;thierry_44_fr@yahoo.fr;8;;FR
+292;Expédié;Paybox - Epayment;156.200000;156.200000;9.000000;332;2016-07-25 21:55:44;1;Jessica;PILON;jessica.pilon1@gmail.com;8;;FR
+293;Expédié;PayPal;42.940000;42.940000;3.000000;333;2016-07-27 09:40:17;1;Jenny;Ieni;bibi.jen@hotmail.fr;8;;FR
+293;Expédié;PayPal;42.940000;42.940000;3.000000;333;2016-07-27 09:40:17;1;Jenny;Ieni;bibi.jen@hotmail.fr;8;;FR
+295;Expédié;Paybox - Epayment;102.820000;102.820000;3.000000;334;2016-07-27 20:49:11;1;gael;dal-pra;dpagael@gmail.com;8;;FR
+295;Expédié;Paybox - Epayment;102.820000;102.820000;3.000000;334;2016-07-27 20:49:11;1;gael;dal-pra;dpagael@gmail.com;8;;FR

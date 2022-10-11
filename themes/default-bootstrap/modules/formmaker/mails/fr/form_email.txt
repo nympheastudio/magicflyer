@@ -1,0 +1,27 @@
+﻿Bonjour,
+Une page "{form_name}" vient d'être envoyée. 
+
+Form Origin
+{origin}
+
+Page parameters
+{page_param}
+
+Report number
+{id_report}
+
+Language
+{lang_name}
+
+Titres
+
+valeur
+
+{form_data} 
+
+{shop_name} powered by PrestaShop™ 
+
+
+
+
+

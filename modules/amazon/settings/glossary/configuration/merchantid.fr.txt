@@ -1,0 +1,3 @@
+Seller ID (Merchant ID) / Numéro du Vendeur
+
+<img src="views/img/tips/fr/merchantid.jpg" />

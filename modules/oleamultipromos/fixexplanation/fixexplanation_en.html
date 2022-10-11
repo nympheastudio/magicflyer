@@ -1,0 +1,24 @@
+<p>The module database are not up to date, probably due to an issue in the prestashop core for prestashop version upto 1.5.3 included<p>
+<p>First, refresh this page to confirm the problem.</p>
+<p>If this message is still present, to fix this issue :<br />
+<ul>
+<li>- Open the file /classes/module/Module.php</li>
+<li>- Search for the method 'needUpgrade()'.</li>
+<li>- Replace this method with the following code.</li>
+<li>- Reload the back-office module page : you should see a message in top of this page indicating the load of upgrade files.</li> 
+</ul>
+<p>-----------</p>
+<p>	public static function needUpgrade($module)<br />
+{<br />
+&nbsp;&nbsp;&nbsp;&nbsp;self::$modules_cache[$module->name]['upgrade']['upgraded_from'] = $module->database_version;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;// Check the version of the module with the registered one and look if any upgrade file exist<br />
+&nbsp;&nbsp;&nbsp;&nbsp;if (Tools::version_compare($module->version, $module->database_version, '>'))<br />
+&nbsp;&nbsp;&nbsp;&nbsp;{<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$old_version = $module->database_version;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$module = Module::getInstanceByName($module->name);<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if ($module instanceof Module)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return $module->loadUpgradeVersionList($module->name, $module->version, $old_version);<br />
+&nbsp;&nbsp;&nbsp;&nbsp;}<br />
+&nbsp;&nbsp;&nbsp;&nbsp;return null;<br />
+}<br />
+</p>

@@ -1,0 +1,18 @@
+2022-04-02 17:49:02 1648914541 DEBUG: URL to check 2
+2022-04-02 17:49:02 1648914541 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-02 17:49:02 1648914541 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-04-02 17:49:02 1648914541 DEBUG: Cart 59026: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-02 17:49:35 1648914575 DEBUG: URL to check 2
+2022-04-02 17:49:35 1648914575 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-02 17:49:35 1648914575 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-04-02 17:49:35 1648914575 DEBUG: Cart 59026: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-02 17:50:52 1648914652 DEBUG: Call params: M=14174&R=59026%20-%20Elodie%20Champe&T=1051266970&A=245911&B=0&C=CB&D=2410&E=00000&F=Y&G=O&I=FRA&J=98&N=513770&O=Y&P=CARTE&Q=17%3A50%3A51&S=905914493&W=02042022&Y=FRA&Z=0-0&K=hT6HEm7JlJ2Jj%2Bvr3DsWPe%2BMkgQt4sJZ9qsXIub9CkBksacCERnJTz0skvAyx28I47T5llfsRK3u2EhCaWAvqJ%2BTAzyZxgvnoFHbpzEE%2FjdtdgtrUpscRlbS6Cgg0WCOdyO6%2FyJEyyt3N6rmed5A6%2BPfEGeSbWVkxFt4edAQapA%3D
+2022-04-02 17:50:52 1648914652 DEBUG: Cart 59026: Standard IPN
+2022-04-02 17:50:52 1648914652 DEBUG: Cart 59026: Validating order
+2022-04-02 17:50:53 1648914653 DEBUG: Cart 59026: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-04-02 17:50:54 1648914654 DEBUG: Cart 59026: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-04-02 17:50:55 1648914655 DEBUG: Cart 59026: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-04-02 17:50:56 1648914656 DEBUG: Cart 59026: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-04-02 17:50:56 1648914652 DEBUG: Cart 59026: Order 5757 validated, creating details
+2022-04-02 17:50:56 1648914652 DEBUG: Cart 59026: Order 5757 / Le paiement a été autorisé et capturé par Paybox.
+2022-04-02 17:50:57 1648914657 DEBUG: Cart 59026: Customer is back from Verifone e-commerce payment page. Payment success.

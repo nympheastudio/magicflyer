@@ -1,0 +1,2 @@
+Default strategy to apply to the whole catalog.
+Whether no strategy is selected on the profile, this strategy will be applied.

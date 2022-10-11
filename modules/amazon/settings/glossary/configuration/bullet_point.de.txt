@@ -1,0 +1,7 @@
+Die Haupteigenschaften sind voreingestellt, w enn diese nicht im Amazon-Reiter auf dem Produktdatenblatt angegeben sind.
+
+Sollte Ihre Kurzbeschreibung kürzer als 2000 Zeichen sein, können Sie diese als erste Zeile benutzen. Sie können Ihre Prestashop Eigenschaften in anderen Zeilen hinzufügen. Wir empfehlen die "Kurzbeschreibung, Eigenschaften"-Option und "Mit Labels" zu überprüfen. Diese Option fügt den Namen der Eigenschaft vor dem Wert ein. Zum Beispiel: Material: Jeans.
+
+Hier sehen Sie, wie diese auf Amazon sichtbar sein werden:
+
+<img src = "../modules/amazon/views/img/tips/en/bullet_point_example.jpg" />

@@ -1,0 +1,17 @@
+2022-04-19 12:51:52 1650365512 DEBUG: Cart 60441: Payment was canceled by user on Verifone e-commerce payment page.
+2022-04-19 13:07:42 1650366462 DEBUG: URL to check 2
+2022-04-19 13:07:42 1650366462 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-04-19 13:07:42 1650366462 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-04-19 13:07:42 1650366462 DEBUG: Cart 60441: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-04-19 13:09:10 1650366550 DEBUG: Call params: M=24163&R=60441%20-%20Diane%20Ferrandon&T=1602075370&A=665643&B=0&C=CB&D=2306&E=00000&F=Y&G=O&I=FRA&J=22&N=497653&O=Y&P=CARTE&Q=13%3A09%3A08&S=16727333&W=19042022&Y=FRA&Z=0-0&K=NmReaX%2BnbyQZ0uUQchnX%2BNQJxdyWvEx5iipSkydmeL6PGCMNEpqFzlFCqqS78OSh%2BnjOS%2FABQXdrvHYJJ0%2B7FcMB%2F7ss1OgfuDgk0TXc4TdgIvlQpbsDna2WWTQy4U2aT62lL2OvhjbR3QRU7iyoP7WprPaMVSzkkqA6coFoW7k%3D
+2022-04-19 13:09:10 1650366550 DEBUG: Cart 60441: Standard IPN
+2022-04-19 13:09:10 1650366550 DEBUG: Cart 60441: Validating order
+2022-04-19 13:09:10 1650366550 DEBUG: Cart 60441: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-04-19 13:09:11 1650366551 DEBUG: Cart 60441: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-04-19 13:09:13 1650366553 DEBUG: Cart 60441: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2022-04-19 13:09:14 1650366554 DEBUG: Cart 60441: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2022-04-19 13:09:15 1650366555 DEBUG: Cart 60441: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2022-04-19 13:09:16 1650366556 DEBUG: Cart 60441: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 5).
+2022-04-19 13:09:16 1650366550 DEBUG: Cart 60441: Order 5792 validated, creating details
+2022-04-19 13:09:16 1650366550 DEBUG: Cart 60441: Order 5792 / Le paiement a été autorisé et capturé par Paybox.
+2022-04-19 13:09:18 1650366558 DEBUG: Cart 60441: Customer is back from Verifone e-commerce payment page. Payment success.

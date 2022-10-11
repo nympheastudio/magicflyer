@@ -1,0 +1,11 @@
+2017-08-20 08:14:23 1503209663 DEBUG: URL to check 2
+2017-08-20 08:14:23 1503209663 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-20 08:14:23 1503209663 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-08-20 08:14:23 1503209663 DEBUG: Cart 16802: Redirecting customer to Paybox (CARTE, CB).
+2017-08-20 08:15:44 1503209744 DEBUG: Call params: M=15666&R=16802%20-%20Marie%20Christine%20LEGROS&T=739954485&B=0&C=MasterCard&D=1812&E=00105&F=Y&G=O&I=REU&J=--&N=513625&O=Y&P=3DSECURE&Q=08%3A14%3A25&S=728913290&W=20082017&Y=FRA&K=E9DDlLcMzoyzT4IvOtGCYZeStTmR41vZPZxPXV6DqMSSoZpzOZfHEKmLsoMNcwmq6jlxYUcy%2FDAGrAVm50%2FeZXRaFWi%2BXTOvvgBwcVQj1nm%2FzQflZErCDkixO0d0n2diUbZjSBAxYctH4DhmyffGv%2B2uA7Azkpi%2BVhk5BFUa24c%3D
+2017-08-20 08:15:44 1503209744 DEBUG: Cart 16802: (IPN) Payment was refused by Paybox (105).
+2017-08-20 08:16:01 1503209761 DEBUG: Cart 16802: Payment was canceled by user on Paybox payment page.
+2017-08-20 19:29:15 1503250155 DEBUG: URL to check 2
+2017-08-20 19:29:15 1503250155 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-20 19:29:15 1503250155 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-08-20 19:29:15 1503250155 DEBUG: Cart 16828: Redirecting customer to Paybox (CARTE, CB).

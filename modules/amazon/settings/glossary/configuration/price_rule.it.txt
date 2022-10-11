@@ -1,0 +1,3 @@
+Dovrai configurare una regola prezzo in valore o in percentuale per una o più gamme di prezzo.
+
+Documentazione: http://documentation.common-services.com/amazonv4/regole-per-stabilire-i-prezzi-di-vendita/?lang=it

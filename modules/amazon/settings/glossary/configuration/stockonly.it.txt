@@ -1,0 +1,1 @@
+Sincronizzare soltanto le scorte, non i prezzi.

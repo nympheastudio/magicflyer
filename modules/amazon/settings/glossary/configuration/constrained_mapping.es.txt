@@ -1,0 +1,8 @@
+Algunas veces Amazon te restringe a una lista de valores válidos.
+
+El mapeo con restricción te da la confianza de hacer corresponder el valor en Prestashop con el posible valor en Amazon.
+
+Sin embargo, como el nombre sugiere, te restringe a una lista de valores proporcionados.
+
+A continuación se presenta un ejemplo bien llenado de mapeo con restrinccion:
+<img src="views/img/tips/fr/constrained_mapping.jpg" />

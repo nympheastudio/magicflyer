@@ -1,0 +1,2 @@
+Elija el estado de pedido que activará envío de la factura por e-mail
+Solo se muestran los estados de los pedidos disponibles (e-mail a no, factura a sí)

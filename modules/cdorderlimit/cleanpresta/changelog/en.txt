@@ -1,0 +1,9 @@
+1.2.0 - 14/06/2016
+	Addition of the restriction of the customers groups
+
+1.1.0
+	Centralization of the system of documentation
+	Installation of the basic modules
+	
+1.0.0
+	first version

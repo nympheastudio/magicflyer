@@ -1,0 +1,23 @@
+2017-05-03 06:09:39 1493784579 DEBUG: URL to check 2
+2017-05-03 06:09:39 1493784579 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-05-03 06:09:39 1493784579 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-05-03 06:09:39 1493784579 DEBUG: Cart 12375: Redirecting customer to Paybox (CARTE, CB).
+2017-05-03 19:13:57 1493831636 DEBUG: URL to check 2
+2017-05-03 19:13:57 1493831636 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-05-03 19:13:57 1493831636 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-05-03 19:13:57 1493831636 DEBUG: Cart 12393: Redirecting customer to Paybox (CARTE, CB).
+2017-05-03 19:20:34 1493832034 DEBUG: URL to check 2
+2017-05-03 19:20:34 1493832034 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-05-03 19:20:34 1493832034 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-05-03 19:20:34 1493832034 DEBUG: Cart 12393: Redirecting customer to Paybox (CARTE, CB).
+2017-05-03 22:56:16 1493844976 DEBUG: URL to check 2
+2017-05-03 22:56:16 1493844976 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-05-03 22:56:16 1493844976 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-05-03 22:56:16 1493844976 DEBUG: Cart 12403: Redirecting customer to Paybox (CARTE, CB).
+2017-05-03 22:58:08 1493845088 DEBUG: Call params: M=12200&R=12403%20-%20Eric%20LIGNEEL&T=710739557&A=415655&B=0&C=E_CARD&D=1708&E=00000&F=Y&G=O&I=FRA&J=18&N=420116&O=Y&P=3DSECURE&Q=22%3A56%3A17&S=704065303&W=03052017&Y=FRA&K=OsIJkCfMhAYnVh%2FbFcASbpsEcueNuT0h%2B1qC6x5QtBAdGooCrZZr3I8A%2BxOjachjRX4IEy2vLb8A810luOmljghBtYarpI4Ru8yQNe1vul8iIH%2Bcnup9WkbisE%2By30gDen4Vr87GyYFvw2tZO1XRee6hpdqJVRvLpzY8u%2FmFM80%3D
+2017-05-03 22:58:08 1493845088 DEBUG: Cart 12403: Standard IPN
+2017-05-03 22:58:08 1493845088 DEBUG: Cart 12403: Validating order
+2017-05-03 22:58:08 1493845088 DEBUG: Cart 12403: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-05-03 22:58:09 1493845089 DEBUG: Cart 12403: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-05-03 22:58:09 1493845088 DEBUG: Cart 12403: Order 1001 / Le paiement a été autorisé et capturé par Paybox.
+2017-05-03 22:58:10 1493845090 DEBUG: Cart 12403: Customer is back from Paybox payment page. Payment success.

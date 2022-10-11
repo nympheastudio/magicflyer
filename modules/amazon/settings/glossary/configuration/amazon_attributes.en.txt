@@ -1,0 +1,10 @@
+
+Mappings and Attributes
+
+You will match in this section your Prestashop values with the attributes on Amazon.
+
+The more fields you will fill, the better your product will be highlighted, and more sales you will make because some of these fields will be used for layered navigation on Amazon, so customers have more chances to find your products.
+
+These fields will also serve to inform the technical description of the product sheet:
+
+<img src = "../modules/amazon/views/img/tips/fr/attributes.jpg" />

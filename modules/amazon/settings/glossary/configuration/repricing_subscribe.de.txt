@@ -1,0 +1,6 @@
+Überprüfen/Abonnieren des Services für Preisgestaltung:
+Klicken Sie auf diesen Knopf, wenn Sie die Preisgestaltung für diese Plattform aktivieren möchten.
+Sie können ebenfalls auf diesen Knopf klicken, wenn Sie überprüfen möchten, ob der Service funktioniert und aktiviert ist.
+
+Das Abonnement kündigen:
+Klicken Sie auf diesen Knopf, um den Service zu beenden.

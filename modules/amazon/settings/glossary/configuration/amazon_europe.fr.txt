@@ -1,0 +1,8 @@
+Active la prise en charge Amazon Europe
+
+Ensuite, pour activer chaque plate-forme, vous devrez activer la langue Prestashop correspondante.
+
+Il est nécessaire d'activer les langues, car les textes, descriptions, noms des produits doivent être envoyés dans la langue du pays.
+
+Plus d'informations sur la documentation en ligne :
+http://documentation.common-services.com/amazonv4/langues-additionnelles-plateformes-europeennes-additionnelles-france-allemagne-royaumes-unis-espagne-italie/

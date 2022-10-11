@@ -1,0 +1,17 @@
+2021-11-17 15:52:08 1637160727 DEBUG: URL to check 2
+2021-11-17 15:52:08 1637160727 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-11-17 15:52:08 1637160727 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-11-17 15:52:08 1637160727 DEBUG: Cart 56729: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-11-17 22:38:25 1637185105 DEBUG: URL to check 2
+2021-11-17 22:38:25 1637185105 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2021-11-17 22:38:25 1637185105 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2021-11-17 22:38:25 1637185105 DEBUG: Cart 56738: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2021-11-17 22:39:16 1637185156 DEBUG: Call params: M=20290&R=56738%20-%20julien%20portillo&T=1576149246&A=N8FFV8&B=0&C=Mastercard&D=2607&E=00000&F=Y&G=O&I=FRA&J=57&N=535586&O=Y&P=3DSECURE&Q=22%3A39%3A13&S=427586541&W=17112021&Y=DEU&Z=0-0&K=JehoYlLDuUM5SGYb%2BcMvMl48qnZJ2N6A5Nntu8Pj9zo3HYyPeEcBvyMcfQFZXm2wyplyc10YBTSmtDzq%2Bzrp2gi0asuz1EBX2KenmdqJuEZGksxZYdDfYzMfzy5WPXF3ejtqEyH5AzMJJAQgEiBj5Z2qHojzZ3vhV0VpOLpHrEE%3D
+2021-11-17 22:39:16 1637185156 DEBUG: Cart 56738: Standard IPN
+2021-11-17 22:39:16 1637185156 DEBUG: Cart 56738: Validating order
+2021-11-17 22:39:16 1637185156 DEBUG: Cart 56738: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2021-11-17 22:39:17 1637185157 DEBUG: Cart 56738: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2021-11-17 22:39:18 1637185158 DEBUG: Cart 56738: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2021-11-17 22:39:19 1637185156 DEBUG: Cart 56738: Order 5605 validated, creating details
+2021-11-17 22:39:19 1637185156 DEBUG: Cart 56738: Order 5605 / Le paiement a été autorisé et capturé par Paybox.
+2021-11-17 22:39:19 1637185159 DEBUG: Cart 56738: Customer is back from Verifone e-commerce payment page. Payment success.

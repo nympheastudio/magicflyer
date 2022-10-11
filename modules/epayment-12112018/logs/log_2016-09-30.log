@@ -1,0 +1,30 @@
+2016-09-30 12:37:00 1475231820 DEBUG: URL to check 2
+2016-09-30 12:37:00 1475231820 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-30 12:37:00 1475231820 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-30 12:37:00 1475231820 DEBUG: Cart 3641: Redirecting customer to Paybox (CARTE, CB).
+2016-09-30 12:38:28 1475231908 DEBUG: Call params: M=2297&R=3641%20-%20Solene%20Chardonnet&T=656087222&A=752513&B=0&C=Visa&D=1712&E=00000&F=Y&G=O&I=FRA&J=76&N=497958&O=Y&P=3DSECURE&Q=12%3A37%3A01&S=656225633&W=30092016&Y=FRA&K=JQZIcGHApXT%2FzCLM6CbVsyGZNfGKOmCxaIeQEiW%2FHZ7W4NZN79IqyhGb7d9VLKnKFHdfcoYZxHauNwFm4jYj6g6RciZb1pBfVzY%2FSInJZyKS9HqVRCiOPTD5k3Yl66st59b7Ly7ZMRl%2FwaaxK9MSyjjZPIa8l66qy4M%2BgSfBuXA%3D
+2016-09-30 12:38:28 1475231908 DEBUG: Cart 3641: Standard IPN
+2016-09-30 12:38:28 1475231908 DEBUG: Cart 3641: Validating order
+2016-09-30 12:38:30 1475231908 DEBUG: Cart 3641: Order 404 / Le paiement a été autorisé et capturé par Paybox.
+n (loop 0).
+2016-09-30 12:38:30 1475231910 DEBUG: Cart 3641: Customer is back from Paybox payment page. Payment success.
+2016-09-30 15:14:11 1475241250 DEBUG: URL to check 2
+2016-09-30 15:14:11 1475241250 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-30 15:14:13 1475241250 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2016-09-30 15:14:13 1475241250 DEBUG: Cart 3620: Redirecting customer to Paybox (CARTE, CB).
+2016-09-30 15:17:02 1475241422 DEBUG: Call params: M=6291&R=3620%20-%20Samantha%20%20Crouzet&T=656138071&A=565899&B=0&C=MasterCard&D=1702&E=00000&F=%20&G=N&I=FRA&J=19&N=513646&P=3DSECURE&Q=15%3A14%3A13&S=656268494&W=30092016&Y=FRA&K=CsJYxLN7nYRfD1ehxrsYc3LcrQm7j49MAg5byLZ%2FRi43CXNSlEprbP23DOsN294DSY1UVxFBu%2F%2F%2F2bd%2FdMV7Z1oqipcO8OexIV9qBI2nJ7mHJZGSC8mQBokbIVI0vPyE1gheRTD5KqRuQd63AaKyhxbv1gnXDZ3FU6tL4zDK0Fc%3D
+2016-09-30 15:17:02 1475241422 DEBUG: Cart 3620: Standard IPN
+2016-09-30 15:17:02 1475241422 DEBUG: Cart 3620: Validating order
+2016-09-30 15:17:03 1475241422 DEBUG: Cart 3620: Order 405 / Le paiement a été autorisé et capturé par Paybox.
+n (loop 0).
+2016-09-30 15:17:03 1475241423 DEBUG: Cart 3620: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-09-30 15:17:05 1475241425 DEBUG: Cart 3620: Customer is back from Paybox payment page. Payment success.
+2016-09-30 16:04:10 1475244250 DEBUG: URL to check 2
+2016-09-30 16:04:10 1475244250 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-09-30 16:04:10 1475244250 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-09-30 16:04:10 1475244250 DEBUG: Cart 3649: Redirecting customer to Paybox (CARTE, CB).
+2016-09-30 16:06:14 1475244374 DEBUG: Call params: M=9642&R=3649%20-%20Emanuele%20Feliziano&T=656156736&B=0&C=CB&D=1806&E=00004&I=ITA&J=96&N=534223&P=3DSECURE&Q=16%3A04%3A16&S=656283131&W=30092016&K=S21VqN8IVmBtkz64YoBIFrlHbvQPtl%2FxGDa%2BBdlGddD5qhhxx9Ihfj9XqwAIVodIy3NR0Ueh2evGLs7o9BAXMww5aqO8MQ3fka9p5mGrX6xN2YZHxw2xU6tI39KHfYW93qDxyxeLo7ZHzrQb2f45fNRvBnEPfOddYZomxrKakAw%3D
+2016-09-30 16:06:14 1475244374 DEBUG: Cart 3649: (IPN) Payment was refused by Paybox (4).
+2016-09-30 16:06:38 1475244398 DEBUG: Cart 3649: Payment was canceled by user on Paybox payment page.
+2016-09-30 16:40:16 1475246416 DEBUG: Checking Paybox update to version 3.0.0
+2016-09-30 16:40:16 1475246416 DEBUG:  Paybox version check answer: {"version":"3.0.0","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=epayment-3.0.0.zip","message":"Mise \u00e0 jour MAJEURE: suppression des v\u00e9rifications ip superflues pour l'IPN, diverses corrections de bugs mineurs."}

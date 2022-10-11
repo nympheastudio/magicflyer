@@ -1,0 +1,19 @@
+2020-10-21 08:33:01 1603261981 DEBUG: URL to check 2
+2020-10-21 08:33:01 1603261981 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-10-21 08:33:01 1603261981 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2020-10-21 08:33:01 1603261981 DEBUG: Cart 48522: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-10-21 10:09:09 1603267748 DEBUG: URL to check 2
+2020-10-21 10:09:09 1603267748 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2020-10-21 10:09:09 1603267748 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2020-10-21 10:09:09 1603267748 DEBUG: Cart 48524: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2020-10-21 10:10:22 1603267822 DEBUG: Call params: M=21804&R=48524%20-%20Alena%20Dostalik%20Kneblova&T=1508979607&A=131759&B=0&C=Visa&D=2201&E=00000&F=Y&G=O&I=CZE&J=57&N=457049&O=Y&P=3DSECURE&Q=10%3A09%3A10&S=358135925&W=21102020&Y=CZE&Z=0-0&K=HpIDCtD15HfqtUi68bj0tsKxERXLAgbbjMIa%2FnPXJpcPu20HqFx4uBQBXiDWhC0D%2FW39nnmpm%2FrUbxmsMAHBzcjv4OwWcgWIGwXphyz2mjgJjXQ6GLbLDBeMqWcEAP%2Btn%2BQn6OSwFNH0Qy2rug34FcNgcaFYgDLlhDAcSRL99bQ%3D
+2020-10-21 10:10:22 1603267822 DEBUG: Cart 48524: Standard IPN
+2020-10-21 10:10:22 1603267822 DEBUG: Cart 48524: Validating order
+2020-10-21 10:10:23 1603267823 DEBUG: Cart 48524: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2020-10-21 10:10:24 1603267824 DEBUG: Cart 48524: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2020-10-21 10:10:26 1603267826 DEBUG: Cart 48524: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 2).
+2020-10-21 10:10:27 1603267827 DEBUG: Cart 48524: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 3).
+2020-10-21 10:10:29 1603267829 DEBUG: Cart 48524: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 4).
+2020-10-21 10:10:29 1603267822 DEBUG: Cart 48524: Order 5102 validated, creating details
+2020-10-21 10:10:29 1603267822 DEBUG: Cart 48524: Order 5102 / Le paiement a été autorisé et capturé par Paybox.
+2020-10-21 10:10:30 1603267830 DEBUG: Cart 48524: Customer is back from Verifone e-commerce payment page. Payment success.

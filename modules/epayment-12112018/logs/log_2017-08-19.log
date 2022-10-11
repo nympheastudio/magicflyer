@@ -1,0 +1,19 @@
+2017-08-19 15:23:49 1503149029 DEBUG: URL to check 2
+2017-08-19 15:23:49 1503149029 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-19 15:23:49 1503149029 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-08-19 15:23:49 1503149029 DEBUG: Cart 16766: Redirecting customer to Paybox (CARTE, CB).
+2017-08-19 15:24:39 1503149079 DEBUG: URL to check 2
+2017-08-19 15:24:39 1503149079 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-19 15:24:39 1503149079 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2017-08-19 15:24:39 1503149079 DEBUG: Cart 16766: Redirecting customer to Paybox (CARTE, CB).
+2017-08-19 15:27:11 1503149231 DEBUG: Call params: M=4200&R=16766%20-%20Nadine%20BARON&T=739812579&A=616510&B=0&C=Visa&D=1910&E=00000&F=Y&G=O&I=FRA&J=29&N=497527&O=Y&P=3DSECURE&Q=15%3A23%3A50&S=728823125&W=19082017&Y=FRA&K=qmXTlJb7mJWMx6V92dIBBnkgqAh8uuecgVPWoB%2BsRzOWgCTSfWTACLdg9Rbg526ycEDGLtgxlwBZLrRqopMxuZfZu3XWhdoZy7SeUMtMGXsUX0MI9aTEAdV3Br8hV4jbYI0P5pn0PtIjOcC4i22sSEraErAqV0yg3ee3TCZy7vM%3D
+2017-08-19 15:27:11 1503149231 DEBUG: Cart 16766: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2017-08-19 15:27:11 1503149231 DEBUG: Cart 16766: Standard IPN
+2017-08-19 15:27:11 1503149231 DEBUG: Cart 16766: Validating order
+2017-08-19 15:27:12 1503149232 DEBUG: Cart 16766: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2017-08-19 15:27:13 1503149231 DEBUG: Cart 16766: Order 1562 / Le paiement a été autorisé et capturé par Paybox.
+2017-08-19 15:27:13 1503149233 DEBUG: Cart 16766: Customer is back from Paybox payment page. Payment success.
+2017-08-19 18:27:50 1503160070 DEBUG: URL to check 2
+2017-08-19 18:27:50 1503160070 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2017-08-19 18:27:50 1503160070 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2017-08-19 18:27:50 1503160070 DEBUG: Cart 16781: Redirecting customer to Paybox (CARTE, CB).

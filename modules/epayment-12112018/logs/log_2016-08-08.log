@@ -1,0 +1,12 @@
+2016-08-08 13:15:19 1470654919 DEBUG: URL to check 2
+2016-08-08 13:15:19 1470654919 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-08-08 13:15:19 1470654919 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-08-08 13:15:19 1470654919 DEBUG: Cart 2221: Redirecting customer to Paybox (CARTE, CB).
+2016-08-08 13:16:54 1470655014 DEBUG: Call params: M=12280&R=2221%20-%20Nadege%20Guehenneux&T=640037923&A=335534&B=0&C=Visa&D=1712&E=00000&F=Y&G=O&H=434E1CCB631B577DBBAE9A19E6196D4BF3D868BD&I=FRA&J=&N=&O=Y&P=3DSECURE&Q=13%3A15%3A21&S=636119036&W=08082016&Y=FRA&K=pOaBTkTuplShfRxOFstc2CVD8uN%2Fismu%2FLbvhvQCp7C7M1uBXbQ9H6nrj1rP8uhviLRymADgrYDoeFZDY9QRokHAT9F%2B7GzqoLNRbgyp7ZhNT%2Bt2rwScuAb8JRb%2BHzHMxq%2F2uQ1G5RJx%2FbLK9FgsxHXy%2BKy8hKzqACvvOUSmJ%2F0%3D
+2016-08-08 13:16:54 1470655014 DEBUG: Cart 2221: Standard IPN
+2016-08-08 13:16:54 1470655014 DEBUG: Cart 2221: Validating order (PS1.5+)
+2016-08-08 13:16:55 1470655015 DEBUG: Cart 2221: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-08-08 13:16:56 1470655016 DEBUG: Cart 2221: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-08-08 13:16:58 1470655018 DEBUG: Cart 2221: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-08-08 13:16:58 1470655014 DEBUG: Cart 2221: Order 311 / Le paiement a été autorisé et capturé par Paybox.
+2016-08-08 13:16:59 1470655019 DEBUG: Cart 2221: Customer is back from Paybox payment page. Payment success.

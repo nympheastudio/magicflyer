@@ -1,0 +1,2 @@
+Utilizar un cálculo individual o global (por defecto)
+El cálculo individual crea un cálculo por cliente

@@ -1,0 +1,2 @@
+Choisissez ici le modèle de message utilisé dans l'onglet Clients > SAV
+Il s'agit généralement du modèle "reply_msg", ne changez pas cette valeur si vous n'êtes pas certain.

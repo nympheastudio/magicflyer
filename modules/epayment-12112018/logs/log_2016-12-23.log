@@ -1,0 +1,22 @@
+2016-12-23 10:50:28 1482486628 DEBUG: URL to check 2
+2016-12-23 10:50:28 1482486628 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-12-23 10:50:28 1482486628 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-12-23 10:50:28 1482486628 DEBUG: Cart 5859: Redirecting customer to Paybox (CARTE, CB).
+2016-12-23 10:55:30 1482486930 DEBUG: Call params: M=6200&R=5859%20-%20marc%20bazenet&T=675956857&A=434048&B=0&C=Visa&D=1805&E=00000&F=Y&G=O&I=FRA&J=89&N=456140&O=Y&P=3DSECURE&Q=10%3A50%3A29&S=674550950&W=23122016&Y=FRA&K=ZTOndmnbDU1bPsWrnwI2Wj%2BtRRP%2BluvEzwH7FaiBR%2FzTXgM2gXux0R29JzhmeooAIiVhOiqfKP01wkXPbSbc8ZBuDn34nHzR0eBiT7SPuqHtdNTuABEFCIpvNCXF190VMKh%2Fc07bsX1%2BnpNOYLdsyABgFHPpCk5%2FbiYmLscIMOQ%3D
+2016-12-23 10:55:30 1482486930 DEBUG: Cart 5859: Standard IPN
+2016-12-23 10:55:30 1482486930 DEBUG: Cart 5859: Validating order
+2016-12-23 10:55:30 1482486930 DEBUG: Cart 5859: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-12-23 10:55:31 1482486930 DEBUG: Cart 5859: Order 526 / Le paiement a été autorisé et capturé par Paybox.
+2016-12-23 10:55:32 1482486932 DEBUG: Cart 5859: Customer is back from Paybox payment page. Payment success.
+2016-12-23 21:49:51 1482526191 DEBUG: URL to check 2
+2016-12-23 21:49:51 1482526191 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-12-23 21:49:51 1482526191 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-12-23 21:49:51 1482526191 DEBUG: Cart 5883: Redirecting customer to Paybox (CARTE, CB).
+2016-12-23 21:51:43 1482526303 DEBUG: Call params: M=5328&R=5883%20-%20Pierre%20Gilles%20Gauvin&T=676101568&A=037102&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=CAN&J=15&N=454034&O=Y&P=3DSECURE&Q=21%3A49%3A52&S=674674481&W=23122016&Y=CAN&K=H5nNLWTPSQqJR0nB%2Bzl4XRW4TvaJcOM1IFd%2FA6RJx%2FJdgeztrpRdObstVMEMqFdBeKEM7ccXvqCVWlARe2usG8b%2BEsulbTjypm1bgpIAg8X7XbpjMn37DrzYgzx0BFbbIi2omY8j1VPDKsUpvtbGhFhx%2BcQBKfViUQTWy1gsw8g%3D
+2016-12-23 21:51:43 1482526303 DEBUG: Cart 5883: Standard IPN
+2016-12-23 21:51:43 1482526303 DEBUG: Cart 5883: Validating order
+2016-12-23 21:51:43 1482526303 DEBUG: Cart 5883: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-12-23 21:51:44 1482526303 DEBUG: Cart 5883: Order 527 / Le paiement a été autorisé et capturé par Paybox.
+2016-12-23 21:51:44 1482526304 DEBUG: Cart 5883: Customer is back from Paybox payment page. Payment success.
+2016-12-23 21:52:03 1482526323 DEBUG: Call params: M=5328&R=5883%20-%20Pierre%20Gilles%20Gauvin&T=676101568&A=037102&B=0&C=Visa&D=1911&E=00000&F=Y&G=O&I=CAN&J=15&N=454034&O=Y&P=3DSECURE&Q=21%3A49%3A52&S=674674481&W=23122016&Y=CAN&K=H5nNLWTPSQqJR0nB%2Bzl4XRW4TvaJcOM1IFd%2FA6RJx%2FJdgeztrpRdObstVMEMqFdBeKEM7ccXvqCVWlARe2usG8b%2BEsulbTjypm1bgpIAg8X7XbpjMn37DrzYgzx0BFbbIi2omY8j1VPDKsUpvtbGhFhx%2BcQBKfViUQTWy1gsw8g%3D
+2016-12-23 21:52:03 1482526323 DEBUG: Cart 5883: (IPN) Cart already being validated as order.

@@ -1,0 +1,12 @@
+2016-07-17 20:53:12 1468781592 DEBUG: URL to check 2
+2016-07-17 20:53:12 1468781592 DEBUG: Checking Paybox URL https://tpeweb.paybox.com/load.html
+2016-07-17 20:53:12 1468781592 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2016-07-17 20:53:12 1468781592 DEBUG: Cart 1864: Redirecting customer to Paybox (CARTE, CB).
+2016-07-17 20:54:30 1468781670 DEBUG: Call params: M=12282&R=1864%20-%20Nicolas%20ESTEOULE&T=637362255&A=151505&B=0&C=Visa&D=1703&E=00000&G=D&H=0ECEA0953F0FDC1DB9B5B5BF2B3B1F8E038F7049&I=FRA&J=&N=&P=CARTE&Q=20%3A53%3A13&S=633379446&W=17072016&Y=FRA&K=xgo9ubLSf4S0UZ32Y1lGdLAYHL%2FHJ16A9JFYB5xUJEEx%2F38n3GD71neDL%2BUDc%2BXEZx%2BdCeIDtecvvLI0S2%2FGLGSOSf63py%2B%2B6B6zoN1nrrYMZLSaKPg05Pdv6S3%2BQh7JCIpenCZ%2F4IFwdvCkW5eaBhsLJTahRE9U3alL7TazSjI%3D
+2016-07-17 20:54:30 1468781670 DEBUG: Cart 1864: Standard IPN
+2016-07-17 20:54:30 1468781670 DEBUG: Cart 1864: Validating order (PS1.5+)
+2016-07-17 20:54:30 1468781670 DEBUG: Cart 1864: Customer is back from Paybox payment page. Waiting order validation (loop 0).
+2016-07-17 20:54:31 1468781671 DEBUG: Cart 1864: Customer is back from Paybox payment page. Waiting order validation (loop 1).
+2016-07-17 20:54:32 1468781672 DEBUG: Cart 1864: Customer is back from Paybox payment page. Waiting order validation (loop 2).
+2016-07-17 20:54:33 1468781670 DEBUG: Cart 1864: Order 279 / Le paiement a été autorisé et capturé par Paybox.
+2016-07-17 20:54:34 1468781674 DEBUG: Cart 1864: Customer is back from Paybox payment page. Payment success.

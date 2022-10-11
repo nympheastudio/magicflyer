@@ -1,0 +1,3 @@
+Indiquez le login du compte mail, exemple ;
+
+<img src="views/img/tips/fr/email_login.jpg" />

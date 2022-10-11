@@ -1,0 +1,17 @@
+2022-09-19 00:56:08 1663541768 DEBUG: URL to check 2
+2022-09-19 00:56:08 1663541768 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-09-19 00:56:08 1663541768 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYframepagepaiement_ip.cgi
+2022-09-19 00:56:08 1663541768 DEBUG: Cart 66818: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-09-19 00:57:13 1663541833 DEBUG: Call params: M=9127&R=66818%20-%20Cecile%20BOUCHET&T=1624608526&A=524760&B=0&C=CB&D=2309&E=00000&F=Y&G=O&I=FRA&J=20&N=453307&O=Y&P=CARTE&Q=00%3A57%3A13&S=41222961&W=19092022&Y=FRA&Z=0-0&K=E%2BnX8VxN4ZEpHB4HNqkNVCzV%2FHRCmdV%2B%2BTL2B0I9%2B2p0zolWNkvZLjVhvy1R%2FSNqKDfHenTBPC7t%2B2IKfO%2BzoQCovbShpbJ1xVlNEbPCIdLjPPVuJFmpXCIFPI4fJ%2B4Bdu0DsmfxfPoHF1Wqmwtj0Fl05yrZFfri5umPrI4UQhI%3D
+2022-09-19 00:57:13 1663541833 DEBUG: Cart 66818: Standard IPN
+2022-09-19 00:57:13 1663541833 DEBUG: Cart 66818: Validating order
+2022-09-19 00:57:13 1663541833 DEBUG: Cart 66818: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 0).
+2022-09-19 00:57:15 1663541835 DEBUG: Cart 66818: Customer is back from Verifone e-commerce payment page. Waiting order validation (loop 1).
+2022-09-19 00:57:16 1663541833 DEBUG: Cart 66818: Order 6092 validated, creating details
+2022-09-19 00:57:16 1663541833 DEBUG: Cart 66818: Order 6092 / Le paiement a été autorisé et capturé par Paybox.
+2022-09-19 00:57:16 1663541836 DEBUG: Cart 66818: Customer is back from Verifone e-commerce payment page. Payment success.
+2022-09-19 15:04:38 1663592678 DEBUG: URL to check 2
+2022-09-19 15:04:38 1663592678 DEBUG: Checking Verifone e-commerce URL https://tpeweb.paybox.com/load.html
+2022-09-19 15:04:38 1663592678 DEBUG:   Valid url found: https://tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+2022-09-19 15:04:38 1663592678 DEBUG: Cart 66518: Redirecting customer to Verifone e-commerce (CARTE, CB).
+2022-09-19 15:04:44 1663592683 DEBUG: Cart 66518: Payment was canceled by user on Verifone e-commerce payment page.
