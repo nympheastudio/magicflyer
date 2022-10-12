@@ -56,8 +56,11 @@
 			<div class="form-group checkbox">
 				<div class="checker" id="uniform-pas_perso">
 					<span><input type="checkbox" name="avec_personnalisation" id="avec_personnalisation"></span>
+					
 				</div>
-				<label id="avec_personnalisation_label">{l s='je veux personnaliser ma carte et mon enveloppe pour 17 € de plus soit 47 € / 10 cartes + 10 papillons'}</label>
+				<label id="avec_personnalisation_label" style="font-size:10px">
+					{l s='je veux personnaliser ma carte et mon enveloppe pour 17 € de plus soit 47 € / 10 cartes + 10 papillons'}
+				</label>
 			
 			<div id="bloc_personnalisation">
 				<textarea
@@ -139,26 +142,39 @@
 	</div>
 </div>
 <script type="text/javascript">
-
+let lang_iso = '{$lang_iso}';
 	var ids_pap;
 	var datas;
 	var dynamic_limit = 10;
 
 	$(document).ready(function () {
 
-
+		$("#bloc_personnalisation").hide();
 		//init_recherche();
-
+		//if avec_personnalisation is checked toggle show "bloc_personnalisation"
+		$("#avec_personnalisation").change(function () {
+			if ($(this).is(":checked")) {
+				$("#bloc_personnalisation").show();
+				//$("#uniform-pas_perso").hide();
+			} else {
+				$("#bloc_personnalisation").hide();
+				//$("#uniform-pas_perso").show();
+			}
+		});
 		//init_configurateur();
 		delete_papillon();
 		add_papillon();
 		$('#envoyer_form').hide();
 		afficher_cacher_btn_achat();
-		$("textarea").css('height', '13px');
-	/*	$("textarea").focus(function(){
-			$(this).animate({ height: "200px" }, 200);
+		$("textarea").css('height', '40px');
+		$("textarea").focus(function(){
+			$(this).animate({ height: "80px" }, 200);
 });
-*/
+//focus out
+$("textarea").focusout(function(){
+	$(this).animate({ height: "40px" }, 200);
+});
+
 
 		$('#envoyer_form').click(function (e) {
 
@@ -201,6 +217,8 @@
 			qty_env = qty_livret;
 		}
 
+		
+
 		if (color === '') {
 			if(lang_iso==='fr'){			
 			swal("Veuillez choisir la couleur de vos cartes");
@@ -217,8 +235,8 @@
 			return;
 		}
 
-		//$('#center_column').hide();
-		//$('#center_column').after('<div class="perso_loader"><center><img src="{$base_dir}themes/default-bootstrap/img/preloading.svg"><p>{l s="Loading..." }</p></center></div>');
+		$('#center_column').hide();
+		$('#center_column').after('<div class="perso_loader"><center><img src="{$base_dir}themes/default-bootstrap/img/preloading.svg"><p>{l s="Loading..." }</p></center></div>');
 
 		$('#liste_pap li').each(function (i) {
 			if (typeof ids_pap != 'undefined') {
@@ -296,7 +314,7 @@
 			let nb_papillon_selectionne = $('.item_perso_papillon').size() + 1;
 			let id_pap = $(this).attr('data-id-product');
 			let nom_pap = $(this).attr('title');
-			let lang_iso = '{$lang_iso}';
+			
 			let ajout_possible = 1;
 
 			$(".item_perso_papillon").each(function(){
