@@ -144,14 +144,14 @@
 			</div>
 			<p  class="col-xs-12">2/ {l s='Votre personnalisation'}</p>
 			<div class="form-group checkbox">
-				<input type="checkbox" name="pas_perso" id="pas_perso" />
+				<input type="checkbox" name="pas_perso" id="pas_perso"  />
 				<label for="pas_perso" class="small_text">{l s='Je ne veux pas personnaliser mes coeurs magiques.'}</label>
 			</div>
-			<div class="form-group">
+			<div class="form-group persobloc">
 				<input placeholder="{l s='prenoms'}" name="prenoms" id="prenom_pap" type="text" />
 				<label id="prenoms">{l s='Prénoms'}</label>
 			</div>
-			<div class="form-group">
+			<div class="form-group persobloc">
 				<input value="{l s='date'}" name="date" id="date_pap" type="date" />
 				<label id="date">{l s='Date'}</label>
 			</div>
@@ -250,7 +250,21 @@
 		delete_papillon();
 		add_papillon();
 		$('#envoyer_form').hide();
-		afficher_cacher_btn_achat()
+		afficher_cacher_btn_achat();
+
+
+		//onload uncheck #pas_perso
+		$('#pas_perso').prop('checked', false);
+		//if checkbox #pas_perso is checked hide #persobloc else toggle
+		$('#pas_perso').change(function () {
+			if ($(this).is(':checked')) {
+				$('.persobloc').hide();
+			} else {
+				$('.persobloc').toggle();
+			}
+		});
+
+		
 
 
 		$('#envoyer_form').click(function (e) {

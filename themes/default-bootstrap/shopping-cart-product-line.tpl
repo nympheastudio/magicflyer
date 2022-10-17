@@ -22,6 +22,15 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 *}
+{if $product.id_coeur != 0}
+<tr id="product_{$product.id_product}_{$product.id_product_attribute}_{if $quantityDisplayed > 0}nocustom{else}0{/if}_{$product.id_address_delivery|intval}{if !empty($product.gift)}_gift{/if}" class="cart_item{if isset($productLast) && $productLast && (!isset($ignoreProductLast) || !$ignoreProductLast)} last_item{/if}{if isset($productFirst) && $productFirst} first_item{/if}{if isset($customizedDatas.$productId.$productAttributeId) AND $quantityDisplayed == 0} alternate_item{/if} address_{$product.id_address_delivery|intval} {if $odd}odd{else}even{/if}">
+	<td class="cart_product" colspan="5">
+		<img src="{$link->getImageLink($product.link_rewrite, $product.id_image, 'small_default')|escape:'html':'UTF-8'}" alt="{$product.name|escape:'html':'UTF-8'}" {if isset($smallSize)}width="{$smallSize.width}" height="{$smallSize.height}" {/if} />
+		<br>
+{$product.name|escape:'html':'UTF-8'} x {$product.cart_quantity} ( {displayPrice price=$product.total_wt})
+</td>
+</tr>
+{else}
 <tr id="product_{$product.id_product}_{$product.id_product_attribute}_{if $quantityDisplayed > 0}nocustom{else}0{/if}_{$product.id_address_delivery|intval}{if !empty($product.gift)}_gift{/if}" class="cart_item{if isset($productLast) && $productLast && (!isset($ignoreProductLast) || !$ignoreProductLast)} last_item{/if}{if isset($productFirst) && $productFirst} first_item{/if}{if isset($customizedDatas.$productId.$productAttributeId) AND $quantityDisplayed == 0} alternate_item{/if} address_{$product.id_address_delivery|intval} {if $odd}odd{else}even{/if}">
 	<td class="cart_product">
 		<a href="{$link->getProductLink($product.id_product, $product.link_rewrite, $product.category, null, null, $product.id_shop, $product.id_product_attribute, false, false, true)|escape:'html':'UTF-8'}"><img src="{$link->getImageLink($product.link_rewrite, $product.id_image, 'small_default')|escape:'html':'UTF-8'}" alt="{$product.name|escape:'html':'UTF-8'}" {if isset($smallSize)}width="{$smallSize.width}" height="{$smallSize.height}" {/if} /></a>
@@ -48,9 +57,22 @@
 				<li class="gift-icon">{l s='Gift!'}</li>
 			{else}
             	{if !$priceDisplay}
-					<li class="price{if isset($product.is_discounted) && $product.is_discounted && isset($product.reduction_applies) && $product.reduction_applies} special-price{/if}">{*convertPrice price=$product.price_wt*}{convertPrice price=$product.price_without_specific_price}</li>
+					<li class="price{if isset($product.is_discounted) && $product.is_discounted && isset($product.reduction_applies) && $product.reduction_applies} special-price{/if}">{*convertPrice price=$product.price_wt*}
+						{if ($product.id_product == 117)}
+
+						
+						{convertPrice price=$product.price_without_specific_price}
+						<!--{assign var='pricee' value=(80 * (int)$product.cart_quantity)}
+						{$pricee}-->
+						{else}
+						{convertPrice price=$product.price_without_specific_price}
+						{/if}
+					</li>
 				{else}
-               	 	<li class="price{if isset($product.is_discounted) && $product.is_discounted && isset($product.reduction_applies) && $product.reduction_applies} special-price{/if}">{convertPrice price=$product.price}</li>
+				<li class="price{if isset($product.is_discounted) && $product.is_discounted && isset($product.reduction_applies) && $product.reduction_applies} special-price{/if}">
+				
+               	 	{convertPrice price=$product.price}
+				</li>
 				{/if}
 				{if isset($product.is_discounted) && $product.is_discounted && isset($product.reduction_applies) && $product.reduction_applies}
                 	<li class="price-percent-reduction small">
@@ -86,9 +108,9 @@
 		{*/if*}
 	</td>
 
-	<td class="cart_quantity text-center" data-title="{l s='Quantity'}">
-		{if (isset($cannotModify) && $cannotModify == 1)}
-			<span>
+	<td class="cart_quantity text-center" data-title="{l s='Quantity:'}">
+		{if (isset($cannotModify) && $cannotModify == 1) }
+			<span>{l s='Quantité :'} 
 				{if $quantityDisplayed == 0 AND isset($customizedDatas.$productId.$productAttributeId)}
 					{$product.customizationQuantityTotal}
 				{else}
@@ -113,7 +135,7 @@
 				><span><i class="icon-plus"></i></span>
 				</a>
 				
-				<a class="cart_quantity_down btn btn-default button-minus disabled" 
+				<a class="cart_quantity_down btn btn-default button-minus" 
 				
 				href="#" id="cart_quantity_down_{$product.id_product}_{$product.id_product_attribute}_{$product.id_customization}_{$product.id_address_delivery|intval}" title="{l s='You must purchase a minimum of %d of this product.' sprintf=$product.minimal_quantity}">
 					<span><i class="icon-minus"></i></span></a>
@@ -176,3 +198,4 @@
 	</td>
 
 </tr>
+{/if}

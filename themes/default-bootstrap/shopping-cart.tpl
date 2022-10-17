@@ -336,62 +336,94 @@
 					
 					
 					
-					{if $product.id_product == 336}	
+					{if $product.id_product == 336 || $product.id_product == 337 || $product.id_product == 338 }
 					<!--var_dump($textField)-->
 				</ul>
 				
-				{if $textField.id_customization_field==1194}
+				{if $textField.id_customization_field==1194 || $textField.id_customization_field==1198  || $textField.id_customization_field==1202 }
 				<div id="papillons_{$textField.id_customization}"></div>
 				<script>
-					papillons = '{$textField.value}';
 					
-					
-					papillons_array = papillons.split(';');
-					
-					
-					papillons_html = '';
-					
-					for (let i = 0; i < papillons_array.length; i++) {
-						let d = papillons_array[i].split(':');
-						let id = d[0];
-						let qty = d[1];
+					$(document).ready(function () {
+						papillons = '{$textField.value}';
+						let id_produit_courant = {$product.id_product};
 						
-						console.log(id);
 						
-						if(id&&qty){
-							getImageById(id, qty);
-							//papillons_html += id+'x'+qty+'<br>';
+						
+						
+						
+						papillons_array = JSON.parse(papillons) ;
+						
+						
+						papillons_html = '';
+						let nb_custom_qty = Number($('#cart_quantity_custom_{$product.id_product }_{$product.id_product_attribute}_0').text());//'{$customization.quantity}';
+						let nb_papillon_max =  10 ;
+						//if coeur
+						if(id_produit_courant == 337){
+							nb_papillon_max =  30 ;
 						}
-					}
-					
-					//document.getElementById('papillons').innerHTML = papillons_html;
-					
-					//get product image by id product in prestashop
-					async function getImageById(idd, qty){
-						
-						let url = 'https://www.magicflyer.com/index.php?controller=cartePapillon&action=';
+
+						console.log('nb_custom_qty ' + nb_custom_qty);
+						console.log('nb_papillon ' + papillons_array.length);
 						
 						
-						if( idd && qty ) {
+						for (let i = 0; i < papillons_array.length; i++) {
+							let d = papillons_array[i];
+							let id = d[0];
 							
-							let data = 'getImgId&id='+idd;
-							let response = await fetch(url+data);
-							let responseText = await response.text();
 							
-							let dataName = 'getProductName&id='+idd;
-							let responseName = await fetch(url+dataName);
-							let responseTextName = await responseName.text();
+							if(id){
+								let qty = d[1] ;
+								
+								if (nb_custom_qty === 1 && papillons_array.length >= 2) {
+									qty= nb_papillon_max  / papillons_array.length;	
+								}
+								if (nb_custom_qty >= 2 && papillons_array.length >= 2) {
+									qty= nb_papillon_max * nb_custom_qty / papillons_array.length;	
+								}
+								if (nb_custom_qty >= 2 && papillons_array.length === 1) {
+
+									console.log('in)');
+									qty = nb_papillon_max * nb_custom_qty;	
+								}
 							
-							document.getElementById('papillons_{$textField.id_customization}').innerHTML += '<img src="' + responseText + '" width="100" height="100" /><br>'+ responseTextName +' x'+qty+'<br>';
+								
+								
+								if(id&&qty){
+									getImageById(id, Math.round(qty));
+									//papillons_html += id+'x'+qty+'<br>';
+								}
+							}
 						}
-					}
-					
-					
-					/*
-					(async() => {
-						await getImageById();
-					})();*/
-					
+						
+						//document.getElementById('papillons').innerHTML = papillons_html;
+						
+						//get product image by id product in prestashop
+						async function getImageById(idd, qty){
+							
+							let url = 'https://www.magicflyer.com/index.php?controller=cartePapillon&action=';
+							
+							
+							if( idd && qty ) {
+								
+								let data = 'getImgId&id='+idd;
+								let response = await fetch(url+data);
+								let responseText = await response.text();
+								
+								let dataName = 'getProductName&id='+idd;
+								let responseName = await fetch(url+dataName);
+								let responseTextName = await responseName.text();
+								
+								document.getElementById('papillons_{$textField.id_customization}').innerHTML += '<img src="' + responseText + '" width="100" height="100" /><br>'+ responseTextName +' x'+qty+'<br>';
+							}
+						}
+						
+						
+						/*
+						(async() => {
+							await getImageById();
+						})();*/
+					});				
 				</script>
 				
 				{else}
@@ -663,65 +695,26 @@
 {/if}
 <script>
 	$(document).ready(function () {
-		//call function
-		
-		/*
-		$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#000', "<input type='color' value='#000' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#FFF', "<input type='color' value='white' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#808080', "<input type='color' value='#808080' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#C0C0C0', "<input type='color' value='#C0C0C0' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#FF0000', "<input type='color' value='#FF0000' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#800000', "<input type='color' value='#800000' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#FFFF00', "<input type='color' value='#FFFF00' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#808000', "<input type='color' value='#808000' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#00FF00', "<input type='color' value='#00FF00' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#008000', "<input type='color' value='#008000' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#00FFFF', "<input type='color' value='#00FFFF' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#0000FF', "<input type='color' value='#0000FF' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#000080', "<input type='color' value='#000080' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#FF00FF', "<input type='color' value='#FF00FF' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#800080', "<input type='color' value='#800080' disabled>");
-		});$('.champs_perso').html(function (index, text) {
-			this.innerHTML = text.replace('#808000', "<input type='color' value='#808000' disabled>");
-			
-			
-			
-			
+
+
+		//force refresh on qty click
+		$('.cart_quantity_up').click(function () {
+			$(this).closest('form').submit();
 		});
-		
-		*/
+		$('.cart_quantity_down').click(function () {
+			$(this).closest('form').submit();
+		});
+
+		$('#total_price_cart').one('DOMSubtreeModified', function(){
+			console.log('changed');
+			$('#center_column').hide();
+		$('#center_column').after('<div class="perso_loader"><center><img src="{$base_dir}themes/default-bootstrap/img/preloading.svg"><p>{l s="Loading..." }</p></center></div>');
+
+
+			location.reload();
+		});
 		
 	});
 	
-	//champs_perso
-	/*<!-- <option value="#000">{l s='Noir'}</option>
-		<option value="#FFF">{l s='Blanc'}</option>
-		<option value="#808080">{l s='Gris'}</option>	
-		<option value="#C0C0C0">{l s='Argenté'}</option>
-		<option value="#FF0000">{l s='Rouge'}</option>	
-		<option value="#800000">{l s='Marron'}</option>	
-		<option value="#FFFF00">{l s='Jaune'}</option>	
-		<option value="#808000">{l s='Olive'}</option>	
-		<option value="#00FF00">{l s='Vert citron'}</option>	
-		<option value="#008000">{l s='Vert'}</option>	
-		<option value="#00FFFF">{l s='Turquoise'}</option>	
-		<option value="#0000FF">{l s='Bleu'}</option>	
-		<option value="#000080">{l s='Bleu marine'}</option>	
-		<option value="#FF00FF">{l s='Fuchsia'}</option>	
-		<option value="#800080">{l s='Violet'}</option> -->*/
+	
 	</script>
