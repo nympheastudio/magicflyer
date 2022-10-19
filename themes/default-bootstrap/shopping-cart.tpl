@@ -345,14 +345,17 @@
 				<script>
 					
 					$(document).ready(function () {
-						papillons = '{$textField.value}';
+						papillons_{$textField.id_customization} = '{$textField.value}';
 						let id_produit_courant = {$product.id_product};
+
+						let nb_papillons_lies = 0;
+						nb_papillons_lies = $('.product_customization_for_{$product.id_product }_{$product.id_product_attribute}_0').length;
 						
 						
 						
 						
 						
-						papillons_array = JSON.parse(papillons) ;
+						papillons_array = JSON.parse(papillons_{$textField.id_customization}) ;
 						
 						
 						papillons_html = '';
@@ -383,8 +386,8 @@
 								}
 								if (nb_custom_qty >= 2 && papillons_array.length === 1) {
 
-									console.log('in)');
-									qty = nb_papillon_max * nb_custom_qty;	
+									console.log('in)'+nb_papillons_lies );
+									qty = (nb_papillon_max * nb_custom_qty) / nb_papillons_lies ;	
 								}
 							
 								

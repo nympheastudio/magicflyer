@@ -164,10 +164,10 @@ html #category.category-59 .cat_desc, html #category.category-59 .cat_desc a {co
 #blockphotodesktop {position: absolute; top: 0; width: 1600px}
 #slider {position: relative;overflow: hidden;margin: 0px auto 0 auto;border-radius: 4px;}
 #thumbs_list  #slider ul#thumbs_list_frame {    position: relative;    margin: 0;    padding: 0;    height: 600px;    list-style: none; }
-#slider ul li {    position: relative;    display: block;    float: left;    margin: 0;    padding: 0;    width: 1600px;    height: 600px;  }
+#slider ul li {    position: relative;    display: block;    float: left;    margin: 0;    padding: 0;    width: 85vw;    height: 600px;  }
 #slider a.control_prev,#slider  a.control_next {
   position: absolute;
-  top: 80%;
+  top: 10%;
   z-index: 999;
   display: block;
   width: 60px;
@@ -234,7 +234,7 @@ select {appearance: none; -moz-appearance:none; -webkit-appearance: none}
 .form-group.select label:after,#perso_coeur #bloc_recap .item_perso_papillon .delete_papillon, #perso_coeur .mobile:after, 
 #perso_livret #bloc_recap .item_perso_papillon .delete_papillon, #perso_livret .mobile:after,  #perso_mignognette .mobile:after, 
 #perso_carte #bloc_recap .item_perso_papillon .delete_papillon, #perso_carte .mobile:after, 
-#perso_papillon .mobile:after, #layered_form ul:after, #attributes .selectdiv label:after{
+#cartepapillon .mobile:after, #layered_form ul:after, #attributes .selectdiv label:after{
   background:  url(../../img/icons_mobile.svg) no-repeat center;
   width: 50px; height: 40px;  float: right;background-size:16px;
   content: " "; z-index: 0 !important;position: relative;background-position: center -55px;}
@@ -262,7 +262,7 @@ select {appearance: none; -moz-appearance:none; -webkit-appearance: none}
 |||||||||||||||||| */
 
 #perso_coeur h1, #perso_livret h1, , #perso_mignognette h1 {padding-left: 0}
-#perso_coeur .back_button span, #perso_livret .back_button span, #cms .back_button span, #personnalisation .back_button span, #perso_papillon .back_button span, #perso_mignognette .back_button span    {padding-right: 10px}
+#perso_coeur .back_button span, #perso_livret .back_button span, #cms .back_button span, #personnalisation .back_button span, #cartepapillon .back_button span, #perso_mignognette .back_button span    {padding-right: 10px}
 .pagecent .row,#perso_coeur .header_perso,#perso_carte .header_perso,#perso_mignognette .header_perso,
 #pagenotfound .pagenotfound,#cms .pagenotfound, #personnalisation .header_perso {position: relative; overflow: hidden}
 
@@ -271,21 +271,21 @@ select {appearance: none; -moz-appearance:none; -webkit-appearance: none}
    bottom:0px;text-align: left; margin: 50px;  position: absolute; right: 0; padding: 50px;}
 .pagecent .row .titre_page.text-right {text-align: right}
    #perso_coeur .header_perso .titre_page,#perso_carte .header_perso .titre_page,
-   #perso_livret .header_perso .titre_page,#cartePapillon .header_perso .titre_page, #cartePapillon .header_perso .titre_page,#perso_papillon .header_perso .titre_page, #personnalisation .header_perso .titre_page, #perso_mignognette .header_perso .titre_page  { right: auto;left: 0; }
+   #perso_livret .header_perso .titre_page,#cartePapillon .header_perso .titre_page, #cartePapillon .header_perso .titre_page,#cartepapillon .header_perso .titre_page, #personnalisation .header_perso .titre_page, #perso_mignognette .header_perso .titre_page  { right: auto;left: 0; }
    
    .pagecent .row .titre_page h1, .pagecent .row .content_page h1,
 #perso_coeur .header_perso .titre_page h1,#perso_carte .header_perso .titre_page h1,
    #perso_livret .header_perso .titre_page h1,
-#perso_papillon .header_perso .titre_page h1, #perso_mignognette .header_perso .titre_page h1 , 
+#cartepapillon .header_perso .titre_page h1, #perso_mignognette .header_perso .titre_page h1 , 
 #pagenotfound .titre_page h1,#personnalisation .header_perso .titre_page h1,#page .content_scene_cat h2.titre span {
      padding-left: 0 ;font: 300 28px/1em "Roboto Slab",sans-serif;
 margin-bottom: 12px;  }
 
 #perso_coeur .header_perso .titre_page,#perso_carte .header_perso .titre_page,#perso_livret .header_perso .titre_page, #perso_mignognette .header_perso .titre_page,
   #personnalisation .header_perso .titre_page { left: 0; right: auto}
-#perso_livret .header_perso,#perso_coeur .header_perso, #perso_papillon .header_perso {overflow: hidden;position: relative;/* max-height: 50vh; */}
-#perso_livret .header_perso #slider, #perso_coeur .header_perso #slider, #perso_papillon .header_perso #slider {position: absolute;max-width: 100%;max-height: 65vh;overflow: hidden;}
-#perso_livret .header_perso #slider img, #perso_coeur .header_perso #slider img, #perso_papillon .header_perso #slider img {width: 100%; height: auto}
+#perso_livret .header_perso,#perso_coeur .header_perso, #cartepapillon .header_perso {overflow: hidden;position: relative;/* max-height: 50vh; */}
+#perso_livret .header_perso #slider, #perso_coeur .header_perso #slider, #cartepapillon .header_perso #slider, #cms.cms-65 #slider, #category #slider {position: absolute;max-width: 100%;max-height: 65vh;overflow: hidden;}
+#perso_livret .header_perso #slider img, #perso_coeur .header_perso #slider img, #cartepapillon .header_perso #slider img, #cms.cms-65 #slider img, #category #slider img {width: 100%; height: auto}
 .pagecent .row .titre_page li {display: inline}
 .pagecent .row .titre_page li:last-child:after {display: none}
 .pagecent .row .content_page {bottom: auto; top: 0vh; max-width: 30%;margin-top: 50vh;transform: translateY(-50%);}
@@ -413,71 +413,71 @@ html #subcategories ul {margin: 0}
 /* PERSO COEUR
 ||||||||||||||||||| */
 
-#perso_coeur .header_perso,#perso_carte .header_perso,#perso_livret .header_perso, #perso_papillon .header_perso, #personnalisation .header_perso, #perso_mignognette .header_perso ,  {height: 297px; overflow: hidden;/*! max-height: 20vh; */}
-#perso_coeur .header_perso img,#perso_carte .header_perso img,#perso_livret .header_perso img, #perso_papillon .header_perso img, #personnalisation .header_perso  img, #perso_mignognette .header_perso img  {
+#perso_coeur .header_perso,#perso_carte .header_perso,#perso_livret .header_perso, #cartepapillon .header_perso, #personnalisation .header_perso, #perso_mignognette .header_perso ,  {height: 297px; overflow: hidden;/*! max-height: 20vh; */}
+#perso_coeur .header_perso img,#perso_carte .header_perso img,#perso_livret .header_perso img, #cartepapillon .header_perso img, #personnalisation .header_perso  img, #perso_mignognette .header_perso img  {
   height: 100%;position: relative;width: auto;min-width: 100%;}
 
 #perso_carte .header_perso .titre_page, #perso_mignognette .header_perso .titre_page,
 #personnalisation .header_perso .titre_page {z-index: 9;position: absolute;margin: 0;top: 0;}
-#perso_coeur .button_input a,#perso_carte .button_input a,#perso_livret .button_input a, #perso_papillon .button_input a, #perso_mignognette .button_input a  {display: block; color: #fff}
-#perso_coeur #bloc_recap,#perso_carte #bloc_recap,#perso_livret #bloc_recap,#perso_papillon #bloc_recap, #perso_mignognette #bloc_recap   {padding: 20px;text-align: center;/* margin-top: 20px; */ position:fixed}
-#perso_livret #bloc_recap, #perso_coeur #bloc_recap, #perso_papillon #bloc_recap {top: auto; bottom: 30px; z-index:2}
-#perso_coeur #bloc_recap h2,#perso_carte #bloc_recap h2,#perso_livret #bloc_recap h2,#perso_papillon #bloc_recap h2, #perso_mignognette #bloc_recap h2  {margin-top: 0}
-#perso_coeur  h2 span,#perso_carte  h2 span, #perso_livret  h2 span,#perso_papillon  h2 span, #perso_mignognette h2 span {font-size: 13px; margin-left: 5px}
-#perso_coeur #bloc_recap  label,#perso_carte #bloc_recap  label,#perso_papillon #bloc_recap  label, #perso_mignognette #bloc_recap label  {display: none}
-#perso_coeur #bloc_recap .form-group input,#perso_carte #bloc_recap .form-group input,#perso_livret #bloc_recap .form-group input,#perso_papillon #bloc_recap .form-group input, #perso_mignognette #bloc_recap .form-group input {margin: 0px 0;}
+#perso_coeur .button_input a,#perso_carte .button_input a,#perso_livret .button_input a, #cartepapillon .button_input a, #perso_mignognette .button_input a  {display: block; color: #fff}
+#perso_coeur #bloc_recap,#perso_carte #bloc_recap,#perso_livret #bloc_recap,#cartepapillon #bloc_recap, #perso_mignognette #bloc_recap   {padding: 20px;text-align: center;/* margin-top: 20px; */ position:fixed}
+#perso_livret #bloc_recap, #perso_coeur #bloc_recap, #cartepapillon #bloc_recap {top: auto; bottom: 30px; z-index:2}
+#perso_coeur #bloc_recap h2,#perso_carte #bloc_recap h2,#perso_livret #bloc_recap h2,#cartepapillon #bloc_recap h2, #perso_mignognette #bloc_recap h2  {margin-top: 0}
+#perso_coeur  h2 span,#perso_carte  h2 span, #perso_livret  h2 span,#cartepapillon  h2 span, #perso_mignognette h2 span {font-size: 13px; margin-left: 5px}
+#perso_coeur #bloc_recap  label,#perso_carte #bloc_recap  label,#cartepapillon #bloc_recap  label, #perso_mignognette #bloc_recap label  {display: none}
+#perso_coeur #bloc_recap .form-group input,#perso_carte #bloc_recap .form-group input,#perso_livret #bloc_recap .form-group input,#cartepapillon #bloc_recap .form-group input, #perso_mignognette #bloc_recap .form-group input {margin: 0px 0;}
 #perso_coeur #bloc_recap .form-group input[type="checkbox"],#perso_carte #bloc_recap .form-group input[type="checkbox"],#perso_livret #bloc_recap .form-group input[type="checkbox"] {margin: 0px !important}
-#perso_coeur #bloc_recap .quantity_perso,#perso_carte #bloc_recap .quantity_perso,#perso_livret #bloc_recap .quantity_perso,#perso_papillon #bloc_recap .quantity_perso, #perso_mignognette #bloc_recap .quantity_perso  {display: block; width: 100%; float: left; }
-#perso_coeur #bloc_recap .quantity_perso select,#perso_carte #bloc_recap .quantity_perso select,#perso_livret #bloc_recap .quantity_perso select,#perso_papillon #bloc_recap .quantity_perso select, #perso_mignognette #bloc_recap .quantity_perso select {width: 50%; background: transparent;}
-#perso_coeur #bloc_recap .quantity_perso label,#perso_carte #bloc_recap .quantity_perso label,#perso_livret #bloc_recap .quantity_perso label,#perso_papillon #bloc_recap .quantity_perso label, #perso_mignognette #bloc_recap .quantity_perso label  {display: inline-block;color: #59595b !important;margin: 0;width: 50%;float: left; right: auto; position: relative;text-align: center }
+#perso_coeur #bloc_recap .quantity_perso,#perso_carte #bloc_recap .quantity_perso,#perso_livret #bloc_recap .quantity_perso,#cartepapillon #bloc_recap .quantity_perso, #perso_mignognette #bloc_recap .quantity_perso  {display: block; width: 100%; float: left; }
+#perso_coeur #bloc_recap .quantity_perso select,#perso_carte #bloc_recap .quantity_perso select,#perso_livret #bloc_recap .quantity_perso select,#cartepapillon #bloc_recap .quantity_perso select, #perso_mignognette #bloc_recap .quantity_perso select {width: 50%; background: transparent;}
+#perso_coeur #bloc_recap .quantity_perso label,#perso_carte #bloc_recap .quantity_perso label,#perso_livret #bloc_recap .quantity_perso label,#cartepapillon #bloc_recap .quantity_perso label, #perso_mignognette #bloc_recap .quantity_perso label  {display: inline-block;color: #59595b !important;margin: 0;width: 50%;float: left; right: auto; position: relative;text-align: center }
 
-#perso_papillon #bloc_recap .quantity_perso label:after,#perso_coeur  .form-group.select label:after,#perso_livret  .form-group.select label:after, #perso_mignognette .form-group.select label:after {display: none}
+#cartepapillon #bloc_recap .quantity_perso label:after,#perso_coeur  .form-group.select label:after,#perso_livret  .form-group.select label:after, #perso_mignognette .form-group.select label:after {display: none}
 #perso_mignognette #bloc_recap .form-group.quantity_perso input {max-width: 50%;}
 
-#perso_coeur #bloc_recap select, #perso_papillon #bloc_recap select,#perso_carte #bloc_recap select, #perso_livret #bloc_recap select,#perso_papillon #bloc_recap select,#perso_coeur #bloc_recap .quantity_perso select,
-#perso_carte #bloc_recap .quantity_perso select,#perso_livret #bloc_recap .quantity_perso select,#perso_papillon #bloc_recap .quantity_perso select, #perso_mignognette #bloc_recap .quantity_perso select {
+#perso_coeur #bloc_recap select, #cartepapillon #bloc_recap select,#perso_carte #bloc_recap select, #perso_livret #bloc_recap select,#cartepapillon #bloc_recap select,#perso_coeur #bloc_recap .quantity_perso select,
+#perso_carte #bloc_recap .quantity_perso select,#perso_livret #bloc_recap .quantity_perso select,#cartepapillon #bloc_recap .quantity_perso select, #perso_mignognette #bloc_recap .quantity_perso select {
     background: url(../../img/icons_mobile.svg) no-repeat center;    background-size: 16px; background-position: 95% -55px;}
 
-#perso_coeur #bloc_recap .form-group, #perso_papillon #bloc_recap  .form-group,#perso_carte #bloc_recap  .form-group, #perso_livret #bloc_recap  .form-group,#perso_papillon #bloc_recap  .form-group, #perso_mignognette #bloc_recap .form-group 
+#perso_coeur #bloc_recap .form-group, #cartepapillon #bloc_recap  .form-group,#perso_carte #bloc_recap  .form-group, #perso_livret #bloc_recap  .form-group,#cartepapillon #bloc_recap  .form-group, #perso_mignognette #bloc_recap .form-group 
 {    position: relative;    float: left;    width: 100%;}
 
-#perso_coeur #bloc_recap .checkbox label,#perso_carte #bloc_recap .checkbox label,#perso_livret #bloc_recap .checkbox label,#perso_papillon #bloc_recap .checkbox label
+#perso_coeur #bloc_recap .checkbox label,#perso_carte #bloc_recap .checkbox label,#perso_livret #bloc_recap .checkbox label,#cartepapillon #bloc_recap .checkbox label
 {display: block;margin: 0;color: #59595b !important;font: 400 14px/1.2em Roboto Slab,arial, sans serif;text-align: left !important}
 #perso_coeur #bloc_recap .checkbox, #perso_coeur #bloc_recap .quantity_perso,#perso_carte #bloc_recap .checkbox, #perso_carte #bloc_recap .quantity_perso,
 #perso_livret #bloc_recap .checkbox, #perso_livret #bloc_recap .quantity_perso,
-#perso_papillon #bloc_recap .checkbox, #perso_papillon #bloc_recap .quantity_perso, #perso_mignognette #bloc_recap .quantity_perso {border-bottom: 1px solid #e9e9e9; padding-bottom: 15px}
-#perso_coeur #bloc_recap .item_perso_papillon,#perso_carte #bloc_recap .item_perso_papillon,#perso_livret #bloc_recap .item_perso_papillon,#perso_papillon #bloc_recap .item_perso_papillon, #perso_mignognette #bloc_recap .item_perso_papillon  {display: block}
+#cartepapillon #bloc_recap .checkbox, #cartepapillon #bloc_recap .quantity_perso, #perso_mignognette #bloc_recap .quantity_perso {border-bottom: 1px solid #e9e9e9; padding-bottom: 15px}
+#perso_coeur #bloc_recap .item_perso_papillon,#perso_carte #bloc_recap .item_perso_papillon,#perso_livret #bloc_recap .item_perso_papillon,#cartepapillon #bloc_recap .item_perso_papillon, #perso_mignognette #bloc_recap .item_perso_papillon  {display: block}
 #perso_coeur #bloc_recap .item_perso_papillon .quantity_papillon,#perso_carte #bloc_recap .item_perso_papillon .quantity_papillon,#perso_livret #bloc_recap .item_perso_papillon .quantity_papillon,
-#perso_papillon #bloc_recap .item_perso_papillon .quantity_papillon, #perso_mignognette .item_perso_papillon .quantity_papillon {/*! float: left */vertical-align: top;}
-#perso_coeur #bloc_recap .item_perso_papillon h3,#perso_carte #bloc_recap .item_perso_papillon h3,#perso_livret #bloc_recap .item_perso_papillon h3,#perso_papillon #bloc_recap .item_perso_papillon h3, #perso_mignognette #bloc_recap .item_perso_papillon h3  {
+#cartepapillon #bloc_recap .item_perso_papillon .quantity_papillon, #perso_mignognette .item_perso_papillon .quantity_papillon {/*! float: left */vertical-align: top;}
+#perso_coeur #bloc_recap .item_perso_papillon h3,#perso_carte #bloc_recap .item_perso_papillon h3,#perso_livret #bloc_recap .item_perso_papillon h3,#cartepapillon #bloc_recap .item_perso_papillon h3, #perso_mignognette #bloc_recap .item_perso_papillon h3  {
   font: 500 14px/1.2em Roboto Slab,arial, sans serif; width: 70%; text-overflow: ellipsis; overflow: hidden;white-space: nowrap; padding-left: 10px; 
   display: inline-block;  margin: 0;  height: 20px;}
 #perso_coeur #bloc_recap .item_perso_papillon .delete_papillon,#perso_carte #bloc_recap .item_perso_papillon .delete_papillon,#perso_livret #bloc_recap .item_perso_papillon .delete_papillon,
-#perso_papillon #bloc_recap .item_perso_papillon .delete_papillon, #perso_mignognette .item_perso_papillon .delete_papillon {/*! background-position: center -175px !important; background-size: 30px;*/ 
+#cartepapillon #bloc_recap .item_perso_papillon .delete_papillon, #perso_mignognette .item_perso_papillon .delete_papillon {/*! background-position: center -175px !important; background-size: 30px;*/ 
   height: 20px; width: 20px;display: inline-block; /*! float: left; */ position: relative;text-align: right;vertical-align: top;cursor: pointer;
 background: none;
 }
 
 #perso_coeur #bloc_recap .item_perso_papillon .delete_papillon:before ,#perso_carte #bloc_recap .item_perso_papillon .delete_papillon:before ,#perso_livret #bloc_recap .item_perso_papillon .delete_papillon:before ,
-#perso_papillon #bloc_recap .item_perso_papillon .delete_papillon:before, #perso_mignognette .item_perso_papillon .delete_papillon:before  { width: 20px;display: inline-block;height: 20px;content: " ";
+#cartepapillon #bloc_recap .item_perso_papillon .delete_papillon:before, #perso_mignognette .item_perso_papillon .delete_papillon:before  { width: 20px;display: inline-block;height: 20px;content: " ";
 content: "\f057";font-family: "FontAwesome";  width: 20px; color: #59595b;vertical-align: top;}
 
 #perso_coeur #bloc_recap .item_perso_papillon .delete_papillon:hover:before ,#perso_carte #bloc_recap .item_perso_papillon .delete_papillon:hover:before ,#perso_livret #bloc_recap .item_perso_papillon .delete_papillon:hover:before ,
-#perso_papillon #bloc_recap .item_perso_papillon .delete_papillon:hover:before, #perso_mignognette .item_perso_papillon .delete_papillon:hover:before {opacity: 0.3;}
+#cartepapillon #bloc_recap .item_perso_papillon .delete_papillon:hover:before, #perso_mignognette .item_perso_papillon .delete_papillon:hover:before {opacity: 0.3;}
 
-#perso_coeur #product_list li,#perso_carte #product_list li,#perso_livret #product_list li,#perso_papillon #product_list li, #perso_mignognette #product_list li  {position: relative}
-#perso_coeur #product_list a.product_img_link,#perso_carte #product_list a.product_img_link,#perso_livret #product_list a.product_img_link,#perso_papillon #product_list a.product_img_link, #perso_mignognette #product_list a.product_img_link  {position: relative;height: 100%; float:left}
-#perso_coeur #product_list .infos-hover,#perso_carte #product_list .infos-hover,#perso_livret #product_list .infos-hover,#perso_papillon #product_list .infos-hover, #perso_mignognette #product_list .infos-hover {
+#perso_coeur #product_list li,#perso_carte #product_list li,#perso_livret #product_list li,#cartepapillon #product_list li, #perso_mignognette #product_list li  {position: relative}
+#perso_coeur #product_list a.product_img_link,#perso_carte #product_list a.product_img_link,#perso_livret #product_list a.product_img_link,#cartepapillon #product_list a.product_img_link, #perso_mignognette #product_list a.product_img_link  {position: relative;height: 100%; float:left}
+#perso_coeur #product_list .infos-hover,#perso_carte #product_list .infos-hover,#perso_livret #product_list .infos-hover,#cartepapillon #product_list .infos-hover, #perso_mignognette #product_list .infos-hover {
   position: absolute;text-align: center;width: 100%;height: 100%;display: block;line-height: 1em;opacity: 0;margin-left: -15px;
 transition: ease-in-out all 0.5s;-webkit-transition: ease-in-out all 0.5s;-moz-transition: ease-in-out all 0.5s;background: rgba(255,255,255,0.9);}
-#perso_coeur #product_list .infos-hover:hover,#perso_carte #product_list .infos-hover:hover,#perso_livret #product_list .infos-hover:hover,#perso_papillon #product_list .infos-hover:hover, #perso_mignognette #product_list .infos-hover:hover { opacity: 1}
-#perso_coeur #product_list img,#perso_carte #product_list img,#perso_livret #product_list img,#perso_papillon #product_list img,#cartepapillon #product_list img, #perso_mignognette #product_list img {
+#perso_coeur #product_list .infos-hover:hover,#perso_carte #product_list .infos-hover:hover,#perso_livret #product_list .infos-hover:hover,#cartepapillon #product_list .infos-hover:hover, #perso_mignognette #product_list .infos-hover:hover { opacity: 1}
+#perso_coeur #product_list img,#perso_carte #product_list img,#perso_livret #product_list img,#cartepapillon #product_list img,#cartepapillon #product_list img, #perso_mignognette #product_list img {
   max-width: 100%; height: auto; }
 #perso_coeur #product_list .infos-hover h4,#perso_carte #product_list .infos-hover h4,#perso_livret #product_list .infos-hover h4,#perso_coeur #product_list .infos-hover h4,
-#perso_papillon #product_list .infos-hover h4, #perso_mignognette #product_list .infos-hover h4  {margin: 0;padding: 0 20px;margin-top: 43%;  transform: translateY(-50%);}
-#perso_coeur .mobile,#perso_carte .mobile, #perso_livret .mobile,#perso_papillon .mobile , #cartepapillon .mobile{display: none}
+#cartepapillon #product_list .infos-hover h4, #perso_mignognette #product_list .infos-hover h4  {margin: 0;padding: 0 20px;margin-top: 43%;  transform: translateY(-50%);}
+#perso_coeur .mobile,#perso_carte .mobile, #perso_livret .mobile,#cartepapillon .mobile , #cartepapillon .mobile{display: none}
  #perso_livret #bloc_ss_bouton, #perso_coeur #bloc_ss_bouton, #perso_mignognette #bloc_ss_bouton,
-#perso_papillon #bloc_ss_bouton {margin-top: 15px !important;border-bottom: 1px solid #e9e9e9}
+#cartepapillon #bloc_ss_bouton {margin-top: 15px !important;border-bottom: 1px solid #e9e9e9}
   
 
 .envolee_papillon .image_envolee {background: url(../../../../img/cms/2018/Le-Papillon-Magique-vole.jpg) no-repeat; /*! width: 505px; */ height: 100%; content: " ";max-width: 50%;}
@@ -506,7 +506,7 @@ position: absolute;margin-left: -20px}
   position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: #fff; z-index: 999999; padding-top: 45vh
 }
 
-#perso_livret .header_perso img, #perso_mignognette .header_perso img,#perso_coeur .header_perso img,#perso_papillon .header_perso img {height: 100%;width: auto;min-width: auto;}
+#perso_livret .header_perso img, #perso_mignognette .header_perso img,#perso_coeur .header_perso img,#cartepapillon .header_perso img {height: 100%;width: auto;min-width: auto;}
 
 /* PERSO FAIRE PARTS
 ||||||||||||||||||| */
@@ -650,7 +650,7 @@ right: 20px;padding-bottom: 20px;}
 .header_perso .titre_page h2#price {font-size: 14px}
 
 #perso_coeur .header_perso .titre_page details summary,#perso_carte .header_perso .titre_page  details summary,#perso_livret .header_perso .titre_page  details summary,
-#perso_papillon .header_perso .titre_page  details summary, #perso_mignognette .header_perso .titre_page  details summary,
+#cartepapillon .header_perso .titre_page  details summary, #perso_mignognette .header_perso .titre_page  details summary,
 #personnalisation .header_perso .titre_page   details summary,#cms   details summary, .content_scene_cat a.lnk_more {
 padding: 12px 30px;
 background: #59595b;
@@ -665,7 +665,7 @@ box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 #perso_coeur .header_perso .titre_page details summary:hover,#perso_carte .header_perso .titre_page  details summary:hover,#perso_livret .header_perso .titre_page  details summary:hover,
-#perso_papillon .header_perso .titre_page  details summary:hover, #perso_mignognette .header_perso .titre_page  details summary:hover,
+#cartepapillon .header_perso .titre_page  details summary:hover, #perso_mignognette .header_perso .titre_page  details summary:hover,
 #personnalisation .header_perso .titre_page   details summary:hover,#cms   details summary:hover, .content_scene_cat a.lnk_more:hover
 {box-shadow: 0 2px 5px rgba(0,0,0,0.4); background: #90aeba}
 
@@ -786,10 +786,10 @@ html #order .delivery_option > div > table.resume td, #order-opc .delivery_optio
 
 .pagecent .row.full_size_img  .titre_page,#perso_carte .header_perso .full_size_img  .titre_page,
 #perso_coeur .header_perso .full_size_img  .titre_page,#perso_livret .header_perso .full_size_img  .titre_page,
-#perso_papillon .header_perso .full_size_img  .titre_page, #pagenotfound .full_size_img  .titre_page, #perso_mignognette .header_perso .full_size_img .titre_page { 
+#cartepapillon .header_perso .full_size_img  .titre_page, #pagenotfound .full_size_img  .titre_page, #perso_mignognette .header_perso .full_size_img .titre_page { 
   bottom:0px;text-align: right; padding: 20px 50px 40px;  position: absolute; right: 0; background: rgba(255,255,255,0.8); width: 100%; margin: 0}
 #perso_coeur .header_perso .full_size_img .titre_page,#perso_livret .header_perso .full_size_img .titre_page,
-#perso_papillon .header_perso .full_size_img  .titre_page, #perso_carte .header_perso .full_size_img .titre_page,
+#cartepapillon .header_perso .full_size_img  .titre_page, #perso_carte .header_perso .full_size_img .titre_page,
 .pagecent .full_size_img  .titre_page, #perso_mignognette .header_perso .full_size_img .titre_page {max-width: 60%}
 
 #order-detail-content #cart_summary ul li { font-size: 14px;}
@@ -817,6 +817,9 @@ display: block}
 #cart_summary .cart_quantity, #cart_summary_bis .cart_quantity {right: 0;position: absolute;left: auto; text-align: right; width: auto; margin-top: 36px;}
 
 #order-opc #slider_row {display: none}
+
+#order-opc #cart_summary tbody td center span {opacity: 0.3}
+
 
 #index #homepage-slider li img {display: none !important}
 #index .video_hp, #index #slider_row, #index .global-content {}
@@ -888,6 +891,8 @@ gris clair : #c1c1c1 - 193,193,193
 */
 
 .boutiqueAC {padding: 60px 15px; background: rgba(89,89,91,0.05); text-align: center;/*! min-height: 100vh; */}
+.block_boutiqueAC {transition: ease-in-out all 0.3s;-webkit-transition: ease-in-out all 0.3s;z-index: 9;transform-origin: center;}
+.block_boutiqueAC:hover {transform: scale(1.03)}
 .block_boutiqueAC h3,.block_boutiqueAC h2 { text-align: center}
 .block_boutiqueAC > div {background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.2); overflow: hidden;
  border-radius: 8px; margin: 10px auto}
@@ -895,6 +900,7 @@ gris clair : #c1c1c1 - 193,193,193
 #index .block_boutiqueAC > div p,#cms .block_boutiqueAC > div p,.block_boutiqueAC > div h3 { text-align: center}
 #cms #center_column .block_boutiqueAC > div h3, #index .block_boutiqueAC > div h3 {white-space: nowrap;width: 100%;overflow: hidden;text-overflow: ellipsis; font-size:18px;font-weight: 500;}
 #index .block_boutiqueAC > div p {min-height: 100px}
+
 .block_boutiqueAC .content_boutiqueAC {padding: 10px;}
 .block_boutiqueAC .img_boutiqueAC {max-height: 400px;overflow: hidden}
 html {max-width: 100vw;overflow-x: hidden;}
@@ -903,15 +909,15 @@ html {max-width: 100vw;overflow-x: hidden;}
 .smalltext {font-size: 75%; display: block; width: 100%}
 #perso_livret .header_perso .scroll_btn.mobile_only:after {content: "";mask: url(../../img/icons_mobile.svg) no-repeat center;-webkit-mask: url(../../img/icons_mobile.svg) no-repeat center;width: 20px;height: 20px;
 position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
-  #perso_livret #price, #perso_coeur #price, #perso_papillon #price {font-size: 200%;float: left;margin-right: 20px;border-right: 2px solid #59595b;padding-right: 10px;line-height: 40px !important;min-height: 40px}
-  #perso_livret .header_perso h1,#perso_coeur .header_perso h1,#perso_papillon .header_perso h1 {text-align: left;}
+  #perso_livret #price, #perso_coeur #price, #cartepapillon #price {font-size: 200%;float: left;margin-right: 20px;border-right: 2px solid #59595b;padding-right: 10px;line-height: 40px !important;min-height: 40px}
+  #perso_livret .header_perso h1,#perso_coeur .header_perso h1,#cartepapillon .header_perso h1 {text-align: left;}
 #perso_livret #bloc_recap h3,#perso_livret .header_perso .titre_page h1,
 #perso_coeur #bloc_recap h3,#perso_coeur .header_perso .titre_page h1,
-#perso_papillon #bloc_recap h3,#perso_papillon .header_perso .titre_page h1 {margin-top: 0;font-weight: 500;text-align: left;}
+#cartepapillon #bloc_recap h3,#cartepapillon .header_perso .titre_page h1 {margin-top: 0;font-weight: 500;text-align: left;}
 .Contenthead_perso {min-height: 50px;}
 #perso_livret #bloc_recap .quantity_perso label, #perso_livret #bloc_recap .col-xs-12,
 #perso_coeur #bloc_recap .quantity_perso label, #perso_coeur #bloc_recap .col-xs-12,
-#perso_papillon #bloc_recap .quantity_perso label, #perso_papillon #bloc_recap .col-xs-12
+#cartepapillon #bloc_recap .quantity_perso label, #cartepapillon #bloc_recap .col-xs-12
 {text-align: left;display: block;margin: 0;font-size: 110%;line-height: 3em !important;}
 
 #index .content_ac img {width: 100%}
@@ -930,13 +936,13 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
   .header-left {min-width: 16.66667%;}
   header .row #header_logo {margin: 25px 19%;width: 60%;padding-top: 0;}
   .footer-container { padding: 0 70px 50px;}
-  #perso_coeur .header_perso img, #perso_carte .header_perso img, #perso_livret .header_perso img, #perso_papillon .header_perso img, 
+  #perso_coeur .header_perso img, #perso_carte .header_perso img, #perso_livret .header_perso img, #cartepapillon .header_perso img, 
   #personnalisation .header_perso img, #perso_mignognette .header_perso img {height: auto }
-  #perso_livret .header_perso, #perso_coeur .header_perso, #perso_papillon .header_perso {min-height: 50vh}
+  #perso_livret .header_perso, #perso_coeur .header_perso, #cartepapillon .header_perso {min-height: 50vh}
 }
 
 @media (min-height: 720px) {
-  #perso_livret .header_perso #slider,#perso_coeur .header_perso #slider,#perso_papillon .header_perso #slider   {max-height: 50vh;}
+  #perso_livret .header_perso #slider,#perso_coeur .header_perso #slider,#cartepapillon .header_perso #slider, #cms.cms-65 #slider   {max-height: 50vh;}
 }
 
 
@@ -947,13 +953,13 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
 
   .pagecent .row.full_size_img .titre_page, .pagecent .row.full_size_img .content_page,#perso_carte .header_perso .full_size_img .titre_page,
   #perso_livret .header_perso .full_size_img .titre_page,
-  #perso_papillon .header_perso .full_size_img .titre_page, #pagenotfound .full_size_img .titre_page,
+  #cartepapillon .header_perso .full_size_img .titre_page, #pagenotfound .full_size_img .titre_page,
   #perso_carte .header_perso .titre_page,  #personnalisation .header_perso .titre_page,
   #perso_mignognette .header_perso .titre_page {width: 60%;max-width: 60%; padding-top: 0}
 
   .pagecent .row.full_size_img .titre_page {width: 100%;max-width: 100%;}
   #perso_coeur .header_perso .titre_page details,#perso_carte .header_perso .titre_page details, 
-  #perso_mignognette .header_perso .titre_page details,#perso_livret .header_perso .titre_page details, #perso_papillon .header_perso .titre_page details, 
+  #perso_mignognette .header_perso .titre_page details,#perso_livret .header_perso .titre_page details, #cartepapillon .header_perso .titre_page details, 
   #personnalisation .header_perso .titre_page details, #cms details {
    display: inline-block;}
 }
@@ -976,7 +982,7 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
   #pagenotfound .pagenotfound .form-control {    max-width: 80%;    display: inline-block;    margin-right: 5px;}
   
   html #subcategories ul li .subcategory-name {font-size: 16px;}
-  #perso_carte .header_perso .titre_page h1, #perso_livret .header_perso .titre_page h1, #perso_papillon .header_perso .titre_page h1, #pagenotfound .titre_page h1, #personnalisation .header_perso .titre_page h1, #perso_mignognette .header_perso .titre_page h1 {
+  #perso_carte .header_perso .titre_page h1, #perso_livret .header_perso .titre_page h1, #cartepapillon .header_perso .titre_page h1, #pagenotfound .titre_page h1, #personnalisation .header_perso .titre_page h1, #perso_mignognette .header_perso .titre_page h1 {
     font-size: 24px}
 
     #category .bg_video {display: none;}
@@ -995,10 +1001,9 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
 
 @media (max-width: 1024px){
   #perso_coeur #bloc_recap .quantity_perso label, #perso_carte #bloc_recap .quantity_perso label,
-  #perso_papillon #bloc_recap .quantity_perso label, #perso_mignognette #bloc_recap .quantity_perso label,#perso_coeur #bloc_recap .quantity_perso select, 
-  #perso_carte #bloc_recap .quantity_perso select,
-  #perso_papillon #bloc_recap .quantity_perso select, #perso_mignognette #bloc_recap .quantity_perso select {    width: 100%;}
-  
+ #perso_mignognette #bloc_recap .quantity_perso label,#perso_coeur #bloc_recap .quantity_perso select, 
+  #perso_carte #bloc_recap .quantity_perso select, #perso_mignognette #bloc_recap .quantity_perso select {    width: 100%;}
+  #cartepapillon .quantity_perso .col-xs-6 {text-align: left;}
   #cms #center_column #univers a {display: block !important}
   #cms #center_column #univers ul {padding-left: 0}
   #cms #center_column #univers h3{    text-align: center;    padding: 50px 20px 10px;  }
@@ -1059,10 +1064,10 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
   #cms #center_column .pagecent .row .image_small,#index #center_column .pagecent .row .image_small {margin-left: -15% !important;}
   
   
-  #perso_coeur #product_list .infos-hover,#perso_carte #product_list .infos-hover,#perso_livret #product_list .infos-hover,  #perso_papillon #product_list .infos-hover, #perso_mignognette #product_list .infos-hover {
+  #perso_coeur #product_list .infos-hover,#perso_carte #product_list .infos-hover,#perso_livret #product_list .infos-hover,  #cartepapillon #product_list .infos-hover, #perso_mignognette #product_list .infos-hover {
     padding: 0 15px; margin-left: -15px
 }
-  #perso_coeur #product_list .infos-hover  h4,#perso_carte #product_list .infos-hover  h4, #perso_livret #product_list .infos-hover  h4,#perso_papillon #product_list .infos-hover h4, #perso_mignognette #product_list .infos-hover h4 { font-size: 10px;line-height: 1em}
+  #perso_coeur #product_list .infos-hover  h4,#perso_carte #product_list .infos-hover  h4, #perso_livret #product_list .infos-hover  h4,#cartepapillon #product_list .infos-hover h4, #perso_mignognette #product_list .infos-hover h4 { font-size: 10px;line-height: 1em}
   
 }
 
@@ -1072,13 +1077,13 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
   video {width: 300vw;margin-left: -100vw;/*! position: relative; */}
   #perso_livret .header_perso #slider .control_next, #perso_livret .header_perso #slider .control_prev,
   #perso_coeur .header_perso #slider .control_next, #perso_coeur .header_perso #slider .control_prev,
-  #perso_papillon .header_perso #slider .control_next, #perso_papillon .header_perso #slider .control_prev {display: none}
+  #cartepapillon .header_perso #slider .control_next, #cartepapillon .header_perso #slider .control_prev, #cms.cms-65 #slider .control_next, #cms.cms-65 #slider .control_prev {display: none}
 }
 
 @media (max-height: 770px) {
 
   #perso_coeur .header_perso .titre_page, #perso_carte .header_perso .titre_page, #perso_livret .header_perso .titre_page, 
-  #perso_papillon .header_perso .titre_page, #personnalisation .header_perso .titre_page, #perso_mignognette .header_perso .titre_page {margin: 0px;    top: 0;}
+  #cartepapillon .header_perso .titre_page, #personnalisation .header_perso .titre_page, #perso_mignognette .header_perso .titre_page {margin: 0px;    top: 0;}
 }
 
 @media (max-width: 768px) { 
@@ -1188,36 +1193,36 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
 #cart_summary_bis tfoot .total_price_container.text-right span {line-height: 30px}
 
   /* PERSO COEUR */
-  #perso_coeur .header_perso,#perso_carte .header_perso,#perso_livret .header_perso,#perso_papillon .header_perso, 
+  #perso_coeur .header_perso,#perso_carte .header_perso,#perso_livret .header_perso,#cartepapillon .header_perso, 
 	#perso_mignognette .header_perso  {height: auto; }
-#perso_coeur #bloc_recap h2,	 #perso_carte #bloc_recap h2, #perso_livret #bloc_recap h2, #perso_papillon #bloc_recap h2,  	#perso_mignognette #bloc_recap h2 {display: none;}
- #perso_livret .header_perso img,#perso_papillon .header_perso img,#perso_mignognette .header_perso img,   #perso_coeur .header_perso img,#personnalisation .header_perso img {float:right; margin-bottom: 30px}
+#perso_coeur #bloc_recap h2,	 #perso_carte #bloc_recap h2, #perso_livret #bloc_recap h2, #cartepapillon #bloc_recap h2,  	#perso_mignognette #bloc_recap h2 {display: none;}
+ #perso_livret .header_perso img,#cartepapillon .header_perso img,#perso_mignognette .header_perso img,   #perso_coeur .header_perso img,#personnalisation .header_perso img {float:right; margin-bottom: 30px}
 	
   .pagecent .row .titre_page, .pagecent .row .content_page,#perso_coeur .header_perso .titre_page,#perso_carte .header_perso .titre_page,#perso_livret .header_perso .titre_page,
-  #perso_papillon .header_perso .titre_page, #perso_mignognette .header_perso .titre_page,#personnalisation .header_perso .titre_page 
+  #cartepapillon .header_perso .titre_page, #perso_mignognette .header_perso .titre_page,#personnalisation .header_perso .titre_page 
 	{ text-align: center; margin: 0px;  position: relative;margin-bottom: 20px; max-width: 100%; transform: translateY(0);padding: 0;}
   #perso_mignognette .header_perso img {width: 100%;}
 
 
   #perso_coeur .header_perso .titre_page .back_button:nth-child(1),#perso_carte .header_perso .titre_page   .back_button:nth-child(1),#perso_livret .header_perso .titre_page   .back_button:nth-child(1),
-  #perso_papillon .header_perso .titre_page   .back_button:nth-child(1), #perso_mignognette .header_perso .titre_page   .back_button:nth-child(1),#personnalisation .header_perso .titre_page  .back_button:nth-child(1)
+  #cartepapillon .header_perso .titre_page   .back_button:nth-child(1), #perso_mignognette .header_perso .titre_page   .back_button:nth-child(1),#personnalisation .header_perso .titre_page  .back_button:nth-child(1)
 	{display: none;  }
 
   .pagecent .row .titre_page h1, .pagecent .row .content_page h1,#perso_coeur .header_perso .titre_page h1, #perso_carte .header_perso .titre_page h1,#perso_livret .header_perso .titre_page h1,
-  #perso_papillon .header_perso .titre_page h1 , #perso_mignognette .header_perso  .titre_page h1 {font-size: 19px;}
+  #cartepapillon .header_perso .titre_page h1 , #perso_mignognette .header_perso  .titre_page h1 {font-size: 19px;}
 
 /*
   #perso_coeur .header_perso .titre_page span,#perso_carte .header_perso .titre_page span,
-	#perso_livret .header_perso .titre_page span,#perso_papillon .header_perso .titre_page span, 
+	#perso_livret .header_perso .titre_page span,#cartepapillon .header_perso .titre_page span, 
 	#perso_mignognette .header_perso  .titre_page span {display: block}
 */
 
 	  #perso_coeur .header_perso .titre_page a span,#perso_carte .header_perso .titre_page a span,
-	#perso_livret .header_perso .titre_page a span,#perso_papillon .header_perso .titre_page a span, 
+	#perso_livret .header_perso .titre_page a span,#cartepapillon .header_perso .titre_page a span, 
 	#perso_mignognette .header_perso  .titre_page a span {display: inline-block}
 	
-  #perso_coeur  h2,#perso_carte  h2,#perso_livret  h2,#perso_papillon  h2, #perso_mignognette h2 {text-align: center}
-  #perso_coeur #bloc_recap,#perso_livret #bloc_recap,#perso_papillon #bloc_recap, #perso_mignognette #bloc_recap {
+  #perso_coeur  h2,#perso_carte  h2,#perso_livret  h2,#cartepapillon  h2, #perso_mignognette h2 {text-align: center}
+  #perso_coeur #bloc_recap,#perso_livret #bloc_recap,#cartepapillon #bloc_recap, #perso_mignognette #bloc_recap {
 	  float: left;
 	  position: relative;
 	  right: auto;
@@ -1229,20 +1234,20 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
 	  z-index: 9;
 	  bottom: 0;
 	  }
-  #perso_coeur .mobile,#perso_carte .mobile,#perso_livret .mobile,#perso_papillon .mobile, #perso_mignognette .mobile {display: block;border: none; width: 100%; color: #59595b; background: none; font-size: 17px; font-weight: 300}
-  #perso_coeur .mobile:after,#perso_carte .mobile:after,#perso_livret .mobile:after,#perso_papillon .mobile:after, #perso_mignognette  .mobile:after {margin-top: -10px; position: absolute}
+  #perso_coeur .mobile,#perso_carte .mobile,#perso_livret .mobile,#cartepapillon .mobile, #perso_mignognette .mobile {display: block;border: none; width: 100%; color: #59595b; background: none; font-size: 17px; font-weight: 300}
+  #perso_coeur .mobile:after,#perso_carte .mobile:after,#perso_livret .mobile:after,#cartepapillon .mobile:after, #perso_mignognette  .mobile:after {margin-top: -10px; position: absolute}
   #perso_carte #contenu_bloc, #perso_mignognette #contenu_bloc {float: left; border-top: 1px solid #e9e9e9}
-  #perso_coeur .button_input,#perso_carte .button_input,#perso_livret .button_input,#perso_papillon .button_input, #perso_mignognette .button_input {z-index: 999;position: fixed; bottom: 0;  width: 100%; /*! padding: 20px; */ left: 0; background: #fff; 
+  #perso_coeur .button_input,#perso_carte .button_input,#perso_livret .button_input,#cartepapillon .button_input, #perso_mignognette .button_input {z-index: 999;position: fixed; bottom: 0;  width: 100%; /*! padding: 20px; */ left: 0; background: #fff; 
     border-top: 1px solid #e9e9e9;box-shadow: 0 0 5px rgba(0,0,0,0.1);display: block !important;}
-  #perso_coeur  .button_input a,#perso_carte  .button_input a,#perso_livret  .button_input a, #perso_papillon .button_input a, #perso_mignognette .button_input a {font-size: 19px;margin: 20px;width: auto;}
+  #perso_coeur  .button_input a,#perso_carte  .button_input a,#perso_livret  .button_input a, #cartepapillon .button_input a, #perso_mignognette .button_input a {font-size: 19px;margin: 20px;width: auto;}
    /* FAQ */
   .cms-44 .pagecent img,#order-opc #csoc-container  {display: none}
   .filtre_listing select  {width: 100%}
   .filtre_listing label:after {right: 0; margin-top: -40px}
   #perso_coeur .filtre_listing label:after,#perso_carte .filtre_listing label:after,#perso_livret .filtre_listing label:after {margin-top: 0px}
-  #perso_coeur #product_list .infos-hover,#perso_carte #product_list .infos-hover, #perso_livret #product_list .infos-hover, #perso_papillon #product_list .infos-hover, #perso_mignognette #product_list .infos-hover  {margin-left: -15px}
+  #perso_coeur #product_list .infos-hover,#perso_carte #product_list .infos-hover, #perso_livret #product_list .infos-hover, #cartepapillon #product_list .infos-hover, #perso_mignognette #product_list .infos-hover  {margin-left: -15px}
   #order-opc #cart_summary tfoot td.reassurance_cart {display: none !important;}
-  #perso_coeur  h2 span,#perso_carte  h2 span,#perso_livret  h2 span,#perso_papillon  h2 span, #perso_mignognette h2 span {display: block}
+  #perso_coeur  h2 span,#perso_carte  h2 span,#perso_livret  h2 span,#cartepapillon  h2 span, #perso_mignognette h2 span {display: block}
   #perso_coeur .filtre_listing label,#perso_carte .filtre_listing label,#perso_livret .filtre_listing label { display: inline-block;float: right;}
   #perso_coeur .filtre_listing label::after,#perso_carte .filtre_listing label::after,#perso_livret .filtre_listing label::after {    right: auto; margin-top: 3px}   
   
@@ -1266,11 +1271,11 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
   #cms.cms-2 .pagecent .full_size_img {    display: block  }
   html #category #slider_row, html #category #center_column {/* margin-top: 130px; */}
   #perso_coeur .center_column, #perso_carte .center_column, #personnalisation .center_column, #perso_livret .center_column,
-	#perso_mignognette .center_column,#perso_papillon .center_column {
+	#perso_mignognette .center_column,#cartepapillon .center_column {
     /* margin-top: 50px; */
     background: none;
     }
-    html #perso_papillon .header_perso .titre_page,html #personnalisation .header_perso .titre_page  {padding: 0}
+    html #cartepapillon .header_perso .titre_page,html #personnalisation .header_perso .titre_page  {padding: 0}
     #index .video_hp {left: 0;margin-top:  92px;    /*! height: 75vh; */max-width: 100vw;overflow: hidden;}
     #product #blockphotomobile {display: block}
     #product #blockphotodesktop {display: none}
@@ -1299,17 +1304,18 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
   #perso_livret .header_perso h1, #perso_coeur .header_perso h1 {text-align: left;}
   .Contenthead_perso h3 {line-height: 2em}
   #cms #center_column .image_gauche {display: block;margin-bottom: 25px}
+  #cartepapillon #contenu_bloc {margin-bottom: 100px; float: left}
 }
 
 @media (max-width: 480px){
    #perso_coeur .header_perso .titre_page details summary,#perso_carte .header_perso .titre_page  details summary,#perso_livret .header_perso .titre_page  details summary,
-  #perso_papillon .header_perso .titre_page  details summary, #perso_mignognette .header_perso .titre_page  details summary,
+  #cartepapillon .header_perso .titre_page  details summary, #perso_mignognette .header_perso .titre_page  details summary,
   #personnalisation .header_perso .titre_page   details summary,#cms  details summary
 	{  display: block;  margin: 5px;text-align: center;  }
   #order-opc #cart_summary .customization .typedText{/*! margin-top: 100px */}
 .pagecent .row .titre_page h1, .pagecent .row .content_page h1, 
 #perso_coeur .header_perso .titre_page h1, #perso_carte .header_perso .titre_page h1,#perso_livret .header_perso .titre_page h1, 
-#perso_papillon .header_perso .titre_page h1, #perso_mignognette .header_perso  .titre_page h1 {font-size: 18px;font-weight: 600}
+#cartepapillon .header_perso .titre_page h1, #perso_mignognette .header_perso  .titre_page h1 {font-size: 18px;font-weight: 600}
   #order-detail-content #cart_summary td.cart_product, #order-detail-content #cart_summary_bis tbody td.cart_description,
   #order-detail-content #cart_summary td.cart_product, #order-detail-content #cart_summary_bis tbody td.cart_description {width: 30%; padding: 0 }
 #order-detail-content #cart_summary td.cart_quantity,#order-detail-content #cart_summary_bis td.cart_quantity {
@@ -1326,7 +1332,7 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
   #order-detail-content #cart_summary .cart_discount td:first-child {width: 70%;vertical-align: top;}
   #order-detail-content #cart_summary .cart_discount td:last-child  {width: 25%;line-height: 2em}
   .pagecent .row .titre_page, .pagecent .row .content_page, #perso_coeur .header_perso .titre_page, #perso_carte .header_perso .titre_page,#perso_livret .header_perso .titre_page, 
-  #perso_papillon .header_perso .titre_page, #pagenotfound .titre_page, #personnalisation .header_perso .titre_page, #perso_mignognette .header_perso  .titre_page {
+  #cartepapillon .header_perso .titre_page, #pagenotfound .titre_page, #personnalisation .header_perso .titre_page, #perso_mignognette .header_perso  .titre_page {
     max-width: 90%;    transform: translateY(0);    margin-left: 5%;margin-right: 5%;}  
   #order-detail-content #cart_summary td:before, #order-detail-content #cart_summary_bis td:before {display: none}
     #order-detail-content #cart_summary tr.customization td.cart_delete,
@@ -1370,7 +1376,7 @@ position: absolute;right: 10px;-webkit-mask-position-y: -290px;}
   #pagenotfound .titre_page {bottom: auto; top: 20vh}
   .cms-prestige .bloc-prestige .button.ajax_add_to_cart_button {position: absolute; bottom: auto; top: 0px; right: 0px; overflow: hidden; display: block; width: 40px; height: 40px;padding: 0;margin: 0 !important;}
 .cms-prestige .bloc-prestige .button.ajax_add_to_cart_button:before {content: "+"; padding: 0 10px; font: 300 30px/1.3em Roboto Slab,arial, sans serif;text-align: center;width: 40px;display: block;height: 40px;}
-label #perso_coeur #product_list .infos-hover h4, #perso_carte #product_list .infos-hover h4, #perso_livret #product_list .infos-hover h4, #perso_papillon #product_list .infos-hover h4, #perso_mignognette #product_list .infos-hover h4 {font-size: 12px}
+label #perso_coeur #product_list .infos-hover h4, #perso_carte #product_list .infos-hover h4, #perso_livret #product_list .infos-hover h4, #cartepapillon #product_list .infos-hover h4, #perso_mignognette #product_list .infos-hover h4 {font-size: 12px}
 
   .cms-Foire-aux-questions .pagecent {margin-left: -15px; margin-right: -15px}
   .maps_contact iframe, .form_contact iframe { height: 60vh;}
