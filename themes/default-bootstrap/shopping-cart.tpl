@@ -414,7 +414,7 @@
 								let responseName = await fetch(url+dataName);
 								let responseTextName = await responseName.text();
 								
-								document.getElementById('papillons_{$textField.id_customization}').innerHTML += '<img src="' + responseText + '" width="100" height="100" /><br>'+ responseTextName +' x'+qty+'<br>';
+								document.getElementById('papillons_{$textField.id_customization}').innerHTML += '<div class="col-sm-6 col-xs-6"><center><img src="' + responseText + '" width="100" height="100" /><br>'+ responseTextName +'<br><span> x '+qty+'</span></center></div>';
 							}
 						}
 						
@@ -428,7 +428,7 @@
 				
 				{else}
 				{if $textField.value != ''}
-				<p class="champs_perso_carte_papillon"></p>{$textField.name} : {$textField.value}<br></p>
+				<p class="champs_perso_carte_papillon"></p><strong>{$textField.name}</strong> {$textField.value}<br></p>
 				{/if}
 				
 				{/if}	
